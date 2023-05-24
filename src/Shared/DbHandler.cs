@@ -62,14 +62,18 @@ public class DbHandler : IAsyncDisposable
 
         _logger.LogInformation("Saving changes to disk");
 
+        var options = new JsonSerializerOptions {
+            WriteIndented = true,
+        };
+
         await using var mealsStream = File.Create(Path.Combine(_basePath, "meals.json"));
-        await JsonSerializer.SerializeAsync(mealsStream, _meals);
+        await JsonSerializer.SerializeAsync(mealsStream, _meals, options);
 
         await using var imagesStream = File.Create(Path.Combine(_basePath, "images.json"));
-        await JsonSerializer.SerializeAsync(imagesStream, _images);
+        await JsonSerializer.SerializeAsync(imagesStream, _images, options);
 
         await using var daysStream = File.Create(Path.Combine(_basePath, "days.json"));
-        await JsonSerializer.SerializeAsync(daysStream, _days);
+        await JsonSerializer.SerializeAsync(daysStream, _days, options);
 
         _hasChanges = false;
         PrintStats();
