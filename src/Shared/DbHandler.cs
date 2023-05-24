@@ -117,7 +117,7 @@ public class DbHandler : IAsyncDisposable
         return true;
     }
 
-    public async Task<Day> GetOrCreateDayRecord(DayOfWeak day, DateOnly date, string source, CancellationToken cancellationToken)
+    public async Task<Day> GetOrCreateDayRecord(DayOfWeak day, DateOnly date, string side, string source, CancellationToken cancellationToken)
     {
         await LoadIfNotLoaded();
 
@@ -126,7 +126,8 @@ public class DbHandler : IAsyncDisposable
         dayRecord = new Day {
             Date = date,
             DayOfWeak = day,
-            Source = source,
+            Source = side,
+            SourceName = source,
             Meals = new List<Guid>()
         };
         _days.Add(dayRecord);
@@ -180,7 +181,7 @@ public class DbHandler : IAsyncDisposable
             Name = name,
             Price = price,
         }));
-        
+
         var meal = _meals.FirstOrDefault(m => m.Hash == hash);
         if (meal is not null) return meal;
         meal = new Meal {

@@ -67,12 +67,12 @@ public class DataProvider
             if (start == -1) break;
             end = cut.IndexOf(SectionEnd, start, StringComparison.InvariantCultureIgnoreCase);
             if (end == -1) break;
-            yield return await ProcessSection(cut.Substring(start, end - start + SectionEnd.Length), source, cancellationToken);
+            yield return await ProcessSection(cut.Substring(start, end - start + SectionEnd.Length), side, source, cancellationToken);
             if (count++ > 10) throw new Exception("Too many sections");
         }
     }
 
-    private async Task<Day> ProcessSection(string section, string source, CancellationToken cancellationToken)
+    private async Task<Day> ProcessSection(string section, string side, string source, CancellationToken cancellationToken)
     {
         var doc = new HtmlDocument();
         doc.LoadHtml(section);
@@ -85,7 +85,8 @@ public class DataProvider
         var daySplit = date.Split('\t', StringSplitOptions.RemoveEmptyEntries);
         if (daySplit.Length < 2) throw new ArgumentException("Has No day", nameof(section));
         var record = await _dbHandler.GetOrCreateDayRecord(Enum.Parse<DayOfWeak>(daySplit[0].Trim()),
-            DateOnly.ParseExact(daySplit[1].Trim(), /*13.03.2023*/"dd.MM.yyyy", CultureInfo.InvariantCulture), source, cancellationToken);
+            DateOnly.ParseExact(daySplit[1].Trim(), /*13.03.2023*/"dd.MM.yyyy", CultureInfo.InvariantCulture),
+            side, source, cancellationToken);
         foreach (var node in nodes.Where(x => x.Name == "li"))
         {
             var result = await ProcessNode(node, cancellationToken);

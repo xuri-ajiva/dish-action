@@ -4074,8 +4074,8 @@
   {
     "Date": "2023-05-22",
     "DayOfWeak": 1,
-    "Source": "Lichtwiese",
-    "SourceName": null,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
     "Meals": [
       "af4abec8-b3c5-c5af-4a90-f7f6902508d8",
       "9e9b3e28-4ee3-0c70-d094-020a805e8b67",
@@ -4101,8 +4101,8 @@
   {
     "Date": "2023-05-23",
     "DayOfWeak": 2,
-    "Source": "Lichtwiese",
-    "SourceName": null,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
     "Meals": [
       "8918e0a7-f1cb-2bb4-9011-bd3efab0525b",
       "9e9b3e28-4ee3-0c70-d094-020a805e8b67",
@@ -4129,8 +4129,8 @@
   {
     "Date": "2023-05-25",
     "DayOfWeak": 4,
-    "Source": "Lichtwiese",
-    "SourceName": null,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
     "Meals": [
       "5eeb3cce-07e1-d095-ccd4-98cbac45ed43",
       "9e9b3e28-4ee3-0c70-d094-020a805e8b67",
@@ -4155,8 +4155,8 @@
   {
     "Date": "2023-05-26",
     "DayOfWeak": 5,
-    "Source": "Lichtwiese",
-    "SourceName": null,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
     "Meals": [
       "0287663f-56b5-b6a0-95dc-82f46821458c",
       "102822ab-4587-481f-4787-c71d3d65ce35",
@@ -4172,8 +4172,8 @@
   {
     "Date": "2023-05-22",
     "DayOfWeak": 1,
-    "Source": "Stadtmitte",
-    "SourceName": null,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
     "Meals": [
       "a0a9005f-ea8e-675f-23a8-520f73c6ddc1",
       "d19bfaff-49fc-2549-6a3f-e5b54cc1a8c4",
@@ -4202,8 +4202,8 @@
   {
     "Date": "2023-05-23",
     "DayOfWeak": 2,
-    "Source": "Stadtmitte",
-    "SourceName": null,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
     "Meals": [
       "bae8ca82-5d42-30b4-87f1-d94e792480ef",
       "8b02365a-3132-41dd-0ee3-90ff27c44d22",
@@ -4232,8 +4232,8 @@
   {
     "Date": "2023-05-25",
     "DayOfWeak": 4,
-    "Source": "Stadtmitte",
-    "SourceName": null,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
     "Meals": [
       "485ccd7a-bb69-06fb-a5c0-6e9eceae79e3",
       "8b02365a-3132-41dd-0ee3-90ff27c44d22",
@@ -4257,8 +4257,8 @@
   {
     "Date": "2023-05-26",
     "DayOfWeak": 5,
-    "Source": "Stadtmitte",
-    "SourceName": null,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
     "Meals": [
       "be14feb9-3d1e-2976-6d6b-1fdeee165a00",
       "8b02365a-3132-41dd-0ee3-90ff27c44d22",
@@ -4282,8 +4282,8 @@
   {
     "Date": "2023-05-22",
     "DayOfWeak": 1,
-    "Source": "Sch\u00F6ffers",
-    "SourceName": null,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
     "Meals": [
       "e0ce4d48-c21b-036d-173e-aca3e4fc26e4",
       "66d2e45f-773c-5bb5-e735-828b74e3e442",
@@ -4298,8 +4298,8 @@
   {
     "Date": "2023-05-23",
     "DayOfWeak": 2,
-    "Source": "Sch\u00F6ffers",
-    "SourceName": null,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
     "Meals": [
       "e0ce4d48-c21b-036d-173e-aca3e4fc26e4",
       "66d2e45f-773c-5bb5-e735-828b74e3e442",
@@ -4319,8 +4319,8 @@
   {
     "Date": "2023-05-25",
     "DayOfWeak": 4,
-    "Source": "Sch\u00F6ffers",
-    "SourceName": null,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
     "Meals": [
       "e0ce4d48-c21b-036d-173e-aca3e4fc26e4",
       "66d2e45f-773c-5bb5-e735-828b74e3e442",
@@ -4340,8 +4340,8 @@
   {
     "Date": "2023-05-26",
     "DayOfWeak": 5,
-    "Source": "Sch\u00F6ffers",
-    "SourceName": null,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
     "Meals": [
       "e0ce4d48-c21b-036d-173e-aca3e4fc26e4",
       "66d2e45f-773c-5bb5-e735-828b74e3e442",
@@ -4360,8 +4360,8 @@
   {
     "Date": "2023-05-22",
     "DayOfWeak": 1,
-    "Source": "Dieburg",
-    "SourceName": null,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
     "Meals": [
       "af4abec8-b3c5-c5af-4a90-f7f6902508d8",
       "b2aa3e64-defa-0682-4144-884d704dfc86",
@@ -4376,8 +4376,8 @@
   {
     "Date": "2023-05-23",
     "DayOfWeak": 2,
-    "Source": "Dieburg",
-    "SourceName": null,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
     "Meals": [
       "8918e0a7-f1cb-2bb4-9011-bd3efab0525b",
       "65409363-346b-248d-5956-4a56544038ec",
@@ -4395,8 +4395,8 @@
   {
     "Date": "2023-05-25",
     "DayOfWeak": 4,
-    "Source": "Dieburg",
-    "SourceName": null,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
     "Meals": [
       "5eeb3cce-07e1-d095-ccd4-98cbac45ed43",
       "0c22af29-3b76-601e-1b26-202b229e678b",
@@ -4412,8 +4412,8 @@
   {
     "Date": "2023-05-26",
     "DayOfWeak": 5,
-    "Source": "Dieburg",
-    "SourceName": null,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
     "Meals": [
       "0287663f-56b5-b6a0-95dc-82f46821458c",
       "0f532afc-e139-0cf8-91fe-cd0756f1dad5",
@@ -4424,8 +4424,8 @@
   {
     "Date": "2023-05-22",
     "DayOfWeak": 1,
-    "Source": "Sch\u00F6fferstra\u00DFe",
-    "SourceName": null,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
     "Meals": [
       "af4abec8-b3c5-c5af-4a90-f7f6902508d8",
       "102822ab-4587-481f-4787-c71d3d65ce35",
@@ -4443,8 +4443,8 @@
   {
     "Date": "2023-05-23",
     "DayOfWeak": 2,
-    "Source": "Sch\u00F6fferstra\u00DFe",
-    "SourceName": null,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
     "Meals": [
       "8918e0a7-f1cb-2bb4-9011-bd3efab0525b",
       "102822ab-4587-481f-4787-c71d3d65ce35",
@@ -4463,8 +4463,8 @@
   {
     "Date": "2023-05-25",
     "DayOfWeak": 4,
-    "Source": "Sch\u00F6fferstra\u00DFe",
-    "SourceName": null,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
     "Meals": [
       "5eeb3cce-07e1-d095-ccd4-98cbac45ed43",
       "102822ab-4587-481f-4787-c71d3d65ce35",
@@ -4482,8 +4482,8 @@
   {
     "Date": "2023-05-26",
     "DayOfWeak": 5,
-    "Source": "Sch\u00F6fferstra\u00DFe",
-    "SourceName": null,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
     "Meals": [
       "0287663f-56b5-b6a0-95dc-82f46821458c",
       "102822ab-4587-481f-4787-c71d3d65ce35",
