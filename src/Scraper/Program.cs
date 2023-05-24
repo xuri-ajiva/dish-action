@@ -1,12 +1,6 @@
-﻿using System;
-using System.Configuration;
-using System.Net.Http;
-using System.Text.Json;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.Configuration;
 using Scraper.Services;
 using Shared;
 
@@ -17,7 +11,7 @@ DbHandler.Options dbOptions;
 if (args.Length > 0)
     if (Path.Exists(args[0]))
         dbOptions = new DbHandler.Options { BasePath = args[0] };
-    else throw new Exception("Path does not exist");
+    else throw new Exception($"Path {Path.GetFullPath(args[0])} does not exist");
 else dbOptions = config.GetSection("DbHandler").Get<DbHandler.Options>()
                  ?? throw new Exception("No DbHandler options found");
 

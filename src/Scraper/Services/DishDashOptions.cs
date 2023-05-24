@@ -2,6 +2,6 @@
 
 public class DishDashOptions
 {
-    public string BaseUrl { get; set; }
-    public string[] Sides { get; set; }
+    public string BaseUrl { get; set; } = null!;
+    public string[] Sides { get; set; } = null!;
 }

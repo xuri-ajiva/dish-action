@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Runtime.CompilerServices;
 using HtmlAgilityPack;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
@@ -12,6 +13,7 @@ public class DataProvider
     private readonly IOptions<DishDashOptions> _options;
     private readonly ILogger<DataProvider> _logger;
     private readonly DbHandler _dbHandler;
+    private NumberFormatInfo? _infCache;
 
     public DataProvider(IHttpClientFactory factory, IOptions<DishDashOptions> options, ILogger<DataProvider> logger, DbHandler dbHandler)
         => (_factory, _options, _logger, _dbHandler) = (factory, options, logger, dbHandler);
@@ -50,7 +52,7 @@ public class DataProvider
     private const string PageTitle = "page-title";
     private const string H4ZusatzstoffeH4 = "<h4>Zusatzstoffe</h4>";
 
-    private async IAsyncEnumerable<Day> ProcessResult(string result, string side, CancellationToken cancellationToken)
+    private async IAsyncEnumerable<Day> ProcessResult(string result, string side, [EnumeratorCancellation] CancellationToken cancellationToken)
     {
         var start = result.IndexOf(PageTitle, StringComparison.InvariantCultureIgnoreCase);
         var end = result.IndexOf(H4ZusatzstoffeH4, StringComparison.InvariantCultureIgnoreCase);
@@ -102,7 +104,25 @@ public class DataProvider
         var title = line.FirstOrDefaultByClass("fmc-item-title")?.InnerText;
         var price = line.FirstOrDefaultByClass("fmc-item-price")?.InnerText;
 
-        var icon = _dbHandler.GetOrCreateImage(icons, cancellationToken);
-        return await _dbHandler.GetOrCreateMeal((MealCategory)byte.Parse(cat ?? "0"), title?.Trim(), decimal.Parse(price?.Trim().Trim('€', ' ', '\t') ?? "-1"), location?.Trim(), await icon, cancellationToken);
+        decimal priceFormat;
+        try
+        {
+            priceFormat = decimal.Parse(price ?? "-1", NumberStyles.Currency, _infCache ??= new NumberFormatInfo {
+                CurrencySymbol = "\u20AC",
+                CurrencyDecimalSeparator = ","
+            });
+        }
+        catch (Exception)
+        {
+            priceFormat = decimal.Parse(price ?? "-1");
+        }
+        if (priceFormat >= 80) //bc 0.80€ is the lowest price know. 80€ is a bit high for a meal probably the format is wrong
+        {
+            _logger.LogWarning("Price {price} is too high fixing (/100)", priceFormat);
+            priceFormat /= 100;
+        }
+
+        var icon = _dbHandler.GetOrCreateImage(icons ?? "", cancellationToken);
+        return await _dbHandler.GetOrCreateMeal((MealCategory)byte.Parse(cat ?? "0"), title?.Trim() ?? "-", priceFormat, location?.Trim() ?? "-", await icon, cancellationToken);
     }
 }

@@ -54,6 +54,7 @@ public class DbHandler : IAsyncDisposable
 
     public async Task SaveIfChanged()
     {
+        await LoadIfNotLoaded();
         if (!_hasChanges)
         {
             _logger.LogInformation("No changes to save");
@@ -91,7 +92,7 @@ public class DbHandler : IAsyncDisposable
             }
             if (m.Hash != HashMeal(m))
             {
-                _logger.LogError("Meal hash integrity check failed! Hash is invalid: {Hash} -> {Should}", m.Hash, HashMeal(m));
+                _logger.LogError("Meal hash integrity check failed! Hash is invalid: {Hash} -> {Should}\n{M}", m.Hash, HashMeal(m), JsonSerializer.Serialize(m));
             }
         }
         foreach (var d in _days)
@@ -149,14 +150,21 @@ public class DbHandler : IAsyncDisposable
         return icon;
     }
 
-    public static Guid Hash(string value)
+    private static Guid Hash(string value)
     {
         return new Guid(MD5.HashData(Encoding.UTF8.GetBytes(value)));
     }
 
     private static Guid HashMeal(Meal meal)
     {
-        return Hash($"{meal.Name}{meal.Category}{meal.AllergensAndAdditives}{meal.Price}{meal.Location}{meal.Image}");
+        return Hash(JsonSerializer.Serialize(new {
+            meal.AllergensAndAdditives,
+            meal.Category,
+            meal.Image,
+            meal.Location,
+            meal.Name,
+            meal.Price,
+        }));
     }
 
     public async Task<Meal> GetOrCreateMeal(MealCategory category, string title, decimal price, string location, Image image, CancellationToken cancellationToken)
@@ -164,7 +172,15 @@ public class DbHandler : IAsyncDisposable
         await LoadIfNotLoaded();
         var (name, aaa) = ExtractAllergensAndAdditives(title);
 
-        var hash = Hash($"{name}{category}{aaa}{price}{location}{image.Hash}");
+        var hash = Hash(JsonSerializer.Serialize(new {
+            AllergensAndAdditives = aaa,
+            Category = category,
+            Image = image.Hash,
+            Location = location,
+            Name = name,
+            Price = price,
+        }));
+        
         var meal = _meals.FirstOrDefault(m => m.Hash == hash);
         if (meal is not null) return meal;
         meal = new Meal {
