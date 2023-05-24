@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper", "Scraper\Scraper.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{0C575636-DA47-4F7B-A507-CC886C77C6DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{E9D0C06D-E5EB-4C7A-812B-BE4445DEF13F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0C575636-DA47-4F7B-A507-CC886C77C6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C575636-DA47-4F7B-A507-CC886C77C6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C575636-DA47-4F7B-A507-CC886C77C6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D0C06D-E5EB-4C7A-812B-BE4445DEF13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D0C06D-E5EB-4C7A-812B-BE4445DEF13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D0C06D-E5EB-4C7A-812B-BE4445DEF13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D0C06D-E5EB-4C7A-812B-BE4445DEF13F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
