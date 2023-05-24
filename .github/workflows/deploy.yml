@@ -1,17 +1,28 @@
 name: Deploy to GitHub Pages
 
-# Run workflow on every push to the main branch
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches: [ main ]
 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy-to-github-pages:
-    # Recommended if you intend to make multiple deployments in quick succession.
-    concurrency: ci-${{ github.ref }}
+  # Build job
+  build:
     # use ubuntu-latest image to run steps on
     runs-on: ubuntu-latest
     steps:
@@ -26,9 +37,9 @@ jobs:
     - name: Publish .NET Core Project
       run: dotnet publish src/WebApp/WebApp.csproj -c Release -o release --nologo
 
-    # changes the base-tag in index.html from '/' to 'WebApp' to match GitHub Pages repository subdirectory
-    - name: Change base-tag in index.html from / to WebApp
-      run: sed -i 's/<base href="\/" \/>/<base href="\/WebApp\/" \/>/g' release/wwwroot/index.html
+    # changes the base-tag in index.html from '/' to 'dish-action' to match GitHub Pages repository subdirectory
+    - name: Change base-tag in index.html from / to dish-action
+      run: sed -i 's/<base href="\/" \/>/<base href="\/dish-action\/" \/>/g' release/wwwroot/index.html
 
     # copy index.html to 404.html to serve the same file when a file is not found
     - name: copy index.html to 404.html
@@ -38,8 +49,20 @@ jobs:
     - name: Add .nojekyll file
       run: touch release/wwwroot/.nojekyll
 
-    - name: Commit wwwroot to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4
+    - name: Publish artefacts
+      uses: actions/upload-pages-artifact@v1
       with:
-        BRANCH: gh-pages
-        FOLDER: release/wwwroot
+        name: github-pages
+        path: release/wwwroot
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
