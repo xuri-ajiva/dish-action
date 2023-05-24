@@ -1,17 +1,25 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
-
-    <main>
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+<Layout Style="height: 100%">
+    <Sider Breakpoint="@BreakpointType.Lg"
+           CollapsedWidth="64"
+           @bind-Collapsed="@collapsed">
+        <div class="logo" style="height: 32px; margin: 16px;">
+            <img src="favicon.png" alt="" width="32" height="32">
         </div>
+        <NavMenu/>
+    </Sider>
+    <Layout Style="height: 100%">
+        <NavHeader/>
+        <Content Style="padding: 24px 16px 0; height: 100%;overflow: scroll">
+            <div style="min-height: 360px;">
+                @Body
+            </div>
+        </Content>
+        <NavFooter/>
+    </Layout>
+</Layout>
 
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
-</div>
+@code{
+    bool collapsed;
+}

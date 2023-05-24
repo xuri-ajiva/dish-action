@@ -1,9 +1,30 @@
 ﻿@page "/"
-
+@using Radzen
+@using Radzen.Blazor
 <PageTitle>Index</PageTitle>
 
 <h1>Hello, world!</h1>
 
-Welcome to your new app.
+@if (!_init)
+{
+    <Alert Type="@AlertType.Info" ShowIcon="true" Message="Fetching data from API..." Closable/>
+}
+else if (DataService.HasData)
+{
+    <Alert Type="@AlertType.Success" ShowIcon="true" Message="Data fetched from API!" Closable/>
+}
+else
+{
+    <Alert Type="@AlertType.Error" ShowIcon="true" Message="Failed to fetch data from API!" Closable/>
+}
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+@code{
+
+    protected override async Task OnInitializedAsync()
+    {
+        await DataService.TryFetchDataAsync();
+        _init = true;
+    }
+
+    private bool _init;
+}

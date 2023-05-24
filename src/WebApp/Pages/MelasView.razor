@@ -1,0 +1,61 @@
+﻿@page "/meals"
+@using Humanizer
+@using Radzen
+@using Radzen.Blazor
+
+<h3>MelasView</h3>
+
+@if (_meals is null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else
+{
+    @if (_meals.GroupBy(x => x.Location).ToArray() is {} group)
+    {
+        <RadzenChart>
+            <RadzenColumnSeries Data="@group.Select(x => new {name = x.Key, value = (decimal)x.Count()}).ToList()"
+                                CategoryProperty="name" ValueProperty="value"
+                                Title="Gerichte" LineType="LineType.Solid">
+                <RadzenSeriesDataLabels Visible/>
+            </RadzenColumnSeries>
+            <RadzenColumnSeries Data="@group.Select(x => new {name = x.Key, value = x.Average(y => y.Price)}).ToList()"
+                                CategoryProperty="name" ValueProperty="value"
+                                Title="Average Preis" LineType="LineType.Solid">
+                <RadzenSeriesDataLabels Visible/>
+            </RadzenColumnSeries>
+            <RadzenColumnOptions Radius="5" Width="30"/>
+        </RadzenChart>
+    }
+    <RadzenChart>
+        <RadzenLineSeries Data="@_meals.GroupBy(x => x.Price).Select(x => new {name = x.Key, value = x.Count()}).ToList()"
+                          CategoryProperty="name" ValueProperty="value" RenderingOrder="1"
+                          Title="Gerichte">
+            <RadzenSeriesDataLabels Visible/>
+            <RadzenSeriesMedianLine Visible Stroke="var(--rz-success-dark)" LineType="LineType.Dashed"/>
+            <RadzenSeriesMeanLine Visible Stroke="var(--rz-info-dark)" LineType="LineType.Dashed"/>
+            <RadzenMarkers MarkerType="MarkerType.Square"/>
+        </RadzenLineSeries>
+        <RadzenColumnOptions Radius="5" Width="30"/>
+    </RadzenChart>
+    <Table DataSource="@_meals"
+           EnableVirtualization
+           PageSize="100">
+        <PropertyColumn Property="x => x.Name" Filterable Sortable></PropertyColumn>
+        <PropertyColumn Property="x => x.Price" Filterable Sortable></PropertyColumn>
+        <PropertyColumn Property="x => x.AllergensAndAdditives" Filterable Sortable></PropertyColumn>
+        <PropertyColumn Property="x => x.Category" Filterable Sortable></PropertyColumn>
+    </Table>
+}
+
+@code {
+
+    protected override async Task OnInitializedAsync()
+    {
+        _meals = await DataService.GetAllMeals();
+    }
+
+    private List<Meal> _meals;
+}

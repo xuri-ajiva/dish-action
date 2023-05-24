@@ -1,0 +1,127 @@
+﻿@page "/day"
+@using Radzen.Blazor
+@using Radzen
+@using WebApp.Services
+
+<h3>Day</h3>
+
+<RangePicker TValue="DateTime?[]" OnChange="OnDateChanged"
+             Picker="@DatePickerType.Date"/>
+
+@if (_sources is not null && _dayData is not null)
+{
+    <AntDesign.Collapse>
+        <RadzenChart ColorScheme="ColorScheme.Palette">
+            @foreach (var source in _sources)
+            {
+                if (_dayData.TryGetValue(source, out var s))
+                {
+                    <RadzenColumnSeries Data="@s.Select(x => new DataItem { Date = x.Date.ToString(), MealsCount = x.Meals.Count()}).ToList()"
+                                        CategoryProperty="@nameof(DataItem.Date)" ValueProperty="@nameof(DataItem.MealsCount)"
+                                        Title="@source" LineType="LineType.Solid" Hidden="s.All(x => !x.Meals.Any())">
+                        <RadzenSeriesDataLabels Visible/>
+                        <RadzenMarkers MarkerType="MarkerType.Square"/>
+                    </RadzenColumnSeries>
+                }
+            }
+
+            <RadzenCategoryAxis Padding="20"/>
+            <RadzenValueAxis>
+                <RadzenGridLines Visible="true"/>
+                <RadzenAxisTitle Text="Anzahl der Gerichte"/>
+            </RadzenValueAxis>
+            <RadzenColumnOptions Radius="5" Width="20"/>
+        </RadzenChart>
+        @foreach (var source in _sources)
+        {
+            if (_dayData.TryGetValue(source, out var s))
+            {
+                <Panel Header="@source" Active>
+                    <Collapse>
+                        <Panel Header="Mahlzeiten Pro Tag" Active>
+                            <RadzenChart>
+                                <RadzenLineSeries Smooth="false" Data="@s.Select(x => new DataItem { Date = x.Date.ToString(), MealsCount = x.Meals.Count()})"
+                                                  CategoryProperty="@nameof(DataItem.Date)" ValueProperty="@nameof(DataItem.MealsCount)"
+                                                  Title="Days" LineType="LineType.Solid">
+                                    <RadzenSeriesDataLabels Visible/>
+                                    <RadzenSeriesTrendLine Visible Stroke="var(--rz-danger-dark)" LineType="LineType.Dashed"/>
+                                    <RadzenSeriesMedianLine Visible Stroke="var(--rz-success-dark)" LineType="LineType.Dashed"/>
+                                    <RadzenSeriesMeanLine Visible Stroke="var(--rz-info-dark)" LineType="LineType.Dashed"/>
+                                    <RadzenMarkers MarkerType="MarkerType.Square"/>
+                                </RadzenLineSeries>
+                                <RadzenCategoryAxis Padding="20"/>
+                                <RadzenValueAxis>
+                                    <RadzenGridLines Visible="true"/>
+                                    <RadzenAxisTitle Text="Anzahl der Gerichte"/>
+                                </RadzenValueAxis>
+                            </RadzenChart>
+                        </Panel>
+                        <Panel Header="Konkrete Malzeiten">
+                            @foreach (var day in s)
+                            {
+                                <h4>@day.Date</h4>
+                                @foreach (var meal in day.Meals)
+                                {
+                                    <ul>@meal</ul>
+                                }
+                            }
+                        </Panel>
+                    </Collapse>
+                </Panel>
+            }
+        }
+    </AntDesign.Collapse>
+}
+else
+{
+    <p>Loading...</p>
+    <p>sources: @_sources</p>
+    <p>dayData: @_dayData</p>
+}
+
+@code {
+    DateOnly? _selected;
+    DateOnly _maxData;
+    DateOnly _minDate;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+
+        await FetchAsync();
+    }
+
+    private async Task FetchAsync()
+    {
+    /*_minDate = await db.DayRecords.MinAsync(x => x.Date);
+        _maxData = await db.DayRecords.MaxAsync(x => x.Date);*/
+        _sources =  await DataService.GetAllSources();
+
+        if (_selectedDates is null) return;
+
+        var start = DateOnly.FromDateTime(_selectedDates[0] ?? DateTime.Now.AddDays(7));
+        var end = DateOnly.FromDateTime(_selectedDates[1] ?? DateTime.Now.AddDays(-21));
+
+        _dayData = (await DataService.GetDayByRange(start, end))
+            .GroupBy(x => x.Source)
+            .ToDictionary(x => x.Key, x => x.ToList());
+    }
+
+    class DataItem
+    {
+        public int MealsCount { get; set; }
+        public string Date { get; set; }
+        public string Name { get; set; }
+    }
+
+    private Dictionary<string, List<Day>> _dayData;
+    private List<string>? _sources;
+    private DateTime?[]? _selectedDates = new DateTime?[2];
+
+    private async Task OnDateChanged(DateRangeChangedEventArgs dateTimeChangedEventArgs)
+    {
+        _selectedDates = dateTimeChangedEventArgs.Dates;
+        await FetchAsync();
+    }
+
+}

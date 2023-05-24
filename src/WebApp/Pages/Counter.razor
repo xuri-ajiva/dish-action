@@ -2,17 +2,40 @@
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Counter</h1>
+<div style="display: flex; align-items: center; justify-items: center">
+    <Card Bordered Size="small" Hoverable Title="Counter"
+          Style=" margin: auto; top: calc(20vh); border: solid 1px; border-radius: 10px">
+        <div style="width: 855px; height: 400px;">
+            <Alert Type="@AlertType.Info"
+                   Message="Asp.Net Core Blazor is a new framework for building interactive client-side web UI with .NET in C#"
+                   Description="This is a counter component. 
+Current count is incremented by clicking the button.
+The counter is implemented as a Razor component. 
+Components are flexible and lightweight. 
+You can even create your own custom components. 
+Components are used to break up the UI into reusable pieces. 
+Components can contain HTML, CSS, and C# code. 
+Components can be nested, reused, and shared between projects."
+                   ShowIcon="true"/>
+            <Divider/>
+            <br>
+            <div style="display: grid; justify-items: center">
+                <Statistic Title="Current count" Value="@currentCount"/>
+            </div>
+        </div>
+        <CardAction Style="display: grid;">
+            <Button OnClick="() => currentCount += 10">Increment by 10</Button>
+            <Button OnClick="() => ++currentCount">Increment</Button>
+            <Button OnClick="() => currentCount += 0.1m">Increment by 0.1</Button>
+            <Button OnClick="() => currentCount = 0">Reset</Button>
+            <Button OnClick="() => currentCount -= 0.1m">Decrement by 0.1</Button>
+            <Button OnClick="() => --currentCount">Decrement</Button>
+            <Button OnClick="() => currentCount -= 10">Decrement by 10</Button>
+        </CardAction>
+    </Card>
+</div>
 
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
 @code {
-    private int currentCount = 0;
-
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
+    private decimal currentCount = 0;
 }
