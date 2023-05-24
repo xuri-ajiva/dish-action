@@ -5983,5 +5983,104 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "398f719a-6633-9ce8-65be-44d153ec6a13",
+    "Name": "Soja-Gulasch mit frischen Champignons",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "d66680ec-11e4-c9b3-5306-73798aa387f9",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0be8edfe-9bc2-b315-4310-003dc37e4f98",
+    "Name": "Rindergulasch \u0027Marokkanische Art\u0027 mit Backpflaumen und Mandeln",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 33152,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "0d757af8-16dc-d774-2fcf-82ea7882583b",
+    "Name": "Soja-Gulasch mit frischen Champignons",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "fd6b3ce8-f4b9-43e5-664a-a3d6273fae83",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "3c1b92de-a495-c16a-1947-556a566f79bb",
+    "Name": "Rindergulasch \u0027Marokkanische Art\u0027 mit Backpflaumen und Mandeln",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 33152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "36aac5d9-274a-79a0-92f6-a22ffc8a9778",
+    "Name": "Kohlrabicr\u00E8me",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "ab6b182c-a1ea-bd77-b4e7-5514c8b3055b",
+    "Name": "Eiersp\u00E4tzle",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 5,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "523def65-f94f-0a60-908b-bb41909c834d",
+    "Name": "Gebratenes Wei\u00DFkraut",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "c00273f7-f3d3-f036-e17c-23b02b512137",
+    "Name": "Odenw\u00E4lder Hackbraten , dazu Franz\u00F6sischer Kartoffelsalat  und Baguette",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 99141,
+    "Location": "Bistro",
+    "Price": 4.90
+  },
+  {
+    "Hash": "c94b0889-8a23-f444-d692-dd8e762b9c97",
+    "Name": "Sp\u00E4tzle",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]

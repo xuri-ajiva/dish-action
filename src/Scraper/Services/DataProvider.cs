@@ -48,7 +48,7 @@ public class DataProvider
     }
 
     private const string SectionEnd = "</section>";
-    private const string SectionBegin = """<section class="fmc-day ">""";
+    private const string SectionBegin = """<section class="fmc-day""";
     private const string PageTitle = "page-title";
     private const string H4ZusatzstoffeH4 = "<h4>Zusatzstoffe</h4>";
 
