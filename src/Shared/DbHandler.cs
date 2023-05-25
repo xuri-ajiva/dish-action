@@ -117,17 +117,17 @@ public class DbHandler : IAsyncDisposable
         return true;
     }
 
-    public async Task<Day> GetOrCreateDayRecord(DayOfWeak day, DateOnly date, string side, string source, CancellationToken cancellationToken)
+    public async Task<Day> GetOrCreateDayRecord(DayOfWeak day, DateOnly date, string src, string srcName, CancellationToken cancellationToken)
     {
         await LoadIfNotLoaded();
 
-        var dayRecord = _days.FirstOrDefault(d => d.Date == date && d.DayOfWeak == day && d.Source == source);
+        var dayRecord = _days.FirstOrDefault(d => d.Date == date && d.DayOfWeak == day && d.Source == src && d.SourceName == srcName);
         if (dayRecord is not null) return dayRecord;
         dayRecord = new Day {
             Date = date,
             DayOfWeak = day,
-            Source = side,
-            SourceName = source,
+            Source = src,
+            SourceName = srcName,
             Meals = new List<Guid>()
         };
         _days.Add(dayRecord);

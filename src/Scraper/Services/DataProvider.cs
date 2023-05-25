@@ -57,7 +57,7 @@ public class DataProvider
         var start = result.IndexOf(PageTitle, StringComparison.InvariantCultureIgnoreCase);
         var end = result.IndexOf(H4ZusatzstoffeH4, StringComparison.InvariantCultureIgnoreCase);
         var cut = result.Substring(start, end - start);
-        var source = cut.Substring(PageTitle.Length + 2, cut.IndexOf("</", StringComparison.Ordinal) - 12);
+        var name = cut.Substring(PageTitle.Length + 2, cut.IndexOf("</", StringComparison.Ordinal) - 12);
 
         var count = 0;
         end = 0;
@@ -67,12 +67,12 @@ public class DataProvider
             if (start == -1) break;
             end = cut.IndexOf(SectionEnd, start, StringComparison.InvariantCultureIgnoreCase);
             if (end == -1) break;
-            yield return await ProcessSection(cut.Substring(start, end - start + SectionEnd.Length), side, source, cancellationToken);
+            yield return await ProcessSection(cut.Substring(start, end - start + SectionEnd.Length), side, name, cancellationToken);
             if (count++ > 10) throw new Exception("Too many sections");
         }
     }
 
-    private async Task<Day> ProcessSection(string section, string side, string source, CancellationToken cancellationToken)
+    private async Task<Day> ProcessSection(string section, string side, string name, CancellationToken cancellationToken)
     {
         var doc = new HtmlDocument();
         doc.LoadHtml(section);
@@ -86,7 +86,7 @@ public class DataProvider
         if (daySplit.Length < 2) throw new ArgumentException("Has No day", nameof(section));
         var record = await _dbHandler.GetOrCreateDayRecord(Enum.Parse<DayOfWeak>(daySplit[0].Trim()),
             DateOnly.ParseExact(daySplit[1].Trim(), /*13.03.2023*/"dd.MM.yyyy", CultureInfo.InvariantCulture),
-            side, source, cancellationToken);
+            side, name, cancellationToken);
         foreach (var node in nodes.Where(x => x.Name == "li"))
         {
             var result = await ProcessNode(node, cancellationToken);
