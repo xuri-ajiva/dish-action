@@ -90,7 +90,8 @@ public class DataProvider
         foreach (var node in nodes.Where(x => x.Name == "li"))
         {
             var result = await ProcessNode(node, cancellationToken);
-            record.Meals.Add(result.Hash);
+            if(!record.Meals.Contains(result.Hash))
+                record.Meals.Add(result.Hash);
         }
         return record;
     }
