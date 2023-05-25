@@ -39,11 +39,17 @@ else
             <RadzenMarkers MarkerType="MarkerType.Square"/>
         </RadzenLineSeries>
         <RadzenColumnOptions Radius="5" Width="30"/>
-    </RadzenChart>
+    </RadzenChart> 
+    <Divider Text="Meals"/>
     <Table DataSource="@_meals"
            EnableVirtualization
+           Responsive
+           Size="TableSize.Small"
+           Bordered
            PageSize="100">
+        <PropertyColumn Property="x => x.Hash" Filterable Sortable></PropertyColumn>
         <PropertyColumn Property="x => x.Name" Filterable Sortable></PropertyColumn>
+        <PropertyColumn Property="x => x.Location" Filterable Sortable></PropertyColumn>
         <PropertyColumn Property="x => x.Price" Filterable Sortable></PropertyColumn>
         <PropertyColumn Property="x => x.AllergensAndAdditives" Filterable Sortable></PropertyColumn>
         <PropertyColumn Property="x => x.Category" Filterable Sortable></PropertyColumn>
