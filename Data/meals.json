@@ -6082,5 +6082,59 @@
     "AllergensAndAdditives": 69,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "9f31bd62-4f4b-6797-6e11-831fc87b4db3",
+    "Name": "Spinatcreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "1dfd61fa-0b77-00a6-c828-f032c36fba86",
+    "Name": "Quark Joghurt Dessert mit Sauerkirschen",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "9a8d62c8-f3d3-0a43-eade-6de193253db4",
+    "Name": "Paprikacreme Suppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "6b753df3-6521-bb0e-68be-57560e5733ee",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4uterdip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "9def47c9-b9d1-f012-4eca-f26c25659f05",
+    "Name": "Maiskolben mit Butter",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.60
+  },
+  {
+    "Hash": "05ed288d-83bd-dd92-392a-d47faffe1897",
+    "Name": "Blattspinat a la creme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]

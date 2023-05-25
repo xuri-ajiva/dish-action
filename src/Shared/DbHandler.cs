@@ -202,7 +202,7 @@ public class DbHandler : IAsyncDisposable
     private (string name, AllergensAndAdditives aaa) ExtractAllergensAndAdditives(string title)
     {
         //format: Schnitzel paniert mit Pfefferrahmsauce (A,C,I,G,I,L,3,5)
-        var flag = AllergensAndAdditives.None;
+        var flags = AllergensAndAdditives.None;
         var startIndex = title.LastIndexOf('(') + 1;
         var endIndex = title.LastIndexOf(')');
         if (startIndex == -1 || endIndex == -1)
@@ -218,14 +218,11 @@ public class DbHandler : IAsyncDisposable
         }
         foreach (var allergenOrAdditive in extras.Split(','))
         {
-            if (byte.TryParse(allergenOrAdditive, out var val) && val is <= 10 and > 0)
-                flag |= (AllergensAndAdditives)Enum.Parse<AllergensAndAdditivesIdentifier>('_' + allergenOrAdditive);
-            else if (Enum.TryParse<AllergensAndAdditivesIdentifier>(allergenOrAdditive, out var res))
-                flag |= (AllergensAndAdditives)res;
-            else
+            if (!_allergensAndAdditivesMap.TryGetValue(allergenOrAdditive.Trim().ToUpperInvariant(), out var flag))
                 _logger.LogWarning("Unknown Allergen or Additive '{AllergenOrAdditive}' on '{Title}'", allergenOrAdditive, title);
+            else flags |= flag;
         }
-        return (title[..(startIndex - 1)].Trim(), flag);
+        return (title[..(startIndex - 1)].Trim(), flags);
     }
 
     async ValueTask IAsyncDisposable.DisposeAsync()
@@ -233,4 +230,32 @@ public class DbHandler : IAsyncDisposable
         await SaveIfChanged();
         GC.SuppressFinalize(this);
     }
+
+    private Dictionary<string, AllergensAndAdditives> _allergensAndAdditivesMap = new() {
+        //["a"] = AllergensAndAdditives.GlutenhaltigesGetreide, //bc dieburg has a typo use toLower instead
+        ["A"] = AllergensAndAdditives.GlutenhaltigesGetreide,
+        ["B"] = AllergensAndAdditives.Krebstiere_und_Krebstiererzeugnisse,
+        ["C"] = AllergensAndAdditives.Eier_und_Eierzeugnisse,
+        ["D"] = AllergensAndAdditives.Fisch_und_Fischerzeugnisse,
+        ["E"] = AllergensAndAdditives.Erdnüsse_und_Erdnusserzeugnisse,
+        ["F"] = AllergensAndAdditives.Soja_und_Sojaerzeugnisse,
+        ["G"] = AllergensAndAdditives.Milch_und_Milcherzeugnisse,
+        ["H"] = AllergensAndAdditives.Schalenfrüchte,
+        ["I"] = AllergensAndAdditives.Sellerie_und_Sellerieerzeugnisse,
+        ["J"] = AllergensAndAdditives.Senf_und_Senferzeugnisse,
+        ["K"] = AllergensAndAdditives.Sesamsamen_und_Sesamsamenerzeugnisse,
+        ["L"] = AllergensAndAdditives.Schwefeldioxid_und_Sulfite,
+        ["M"] = AllergensAndAdditives.Lupine_und_Lupinenerzeugnisse,
+        ["N"] = AllergensAndAdditives.Weichtiere_Mollusken,
+        ["1"] = AllergensAndAdditives.Lebensmittelfarbe,
+        ["2"] = AllergensAndAdditives.Konservierungsstoffe,
+        ["3"] = AllergensAndAdditives.Antioxidationsmittel,
+        ["4"] = AllergensAndAdditives.Geschmacksverstärker,
+        ["5"] = AllergensAndAdditives.Geschwefelt,
+        ["6"] = AllergensAndAdditives.Geschwärzt,
+        ["7"] = AllergensAndAdditives.Gewachst,
+        ["8"] = AllergensAndAdditives.Phosphat,
+        ["9"] = AllergensAndAdditives.Süßungsmittel,
+        ["10"] = AllergensAndAdditives.Phenylalaninquelle,
+    };
 }

@@ -29,32 +29,3 @@ public enum AllergensAndAdditives
     Süßungsmittel = 1 << 22,
     Phenylalaninquelle = 1 << 23,
 }
-[Flags]
-public enum AllergensAndAdditivesIdentifier
-{
-    A = AllergensAndAdditives.GlutenhaltigesGetreide,
-    B = AllergensAndAdditives.Krebstiere_und_Krebstiererzeugnisse,
-    C = AllergensAndAdditives.Eier_und_Eierzeugnisse,
-    D = AllergensAndAdditives.Fisch_und_Fischerzeugnisse,
-    E = AllergensAndAdditives.Erdnüsse_und_Erdnusserzeugnisse,
-    F = AllergensAndAdditives.Soja_und_Sojaerzeugnisse,
-    G = AllergensAndAdditives.Milch_und_Milcherzeugnisse,
-    H = AllergensAndAdditives.Schalenfrüchte,
-    I = AllergensAndAdditives.Sellerie_und_Sellerieerzeugnisse,
-    J = AllergensAndAdditives.Senf_und_Senferzeugnisse,
-    K = AllergensAndAdditives.Sesamsamen_und_Sesamsamenerzeugnisse,
-    L = AllergensAndAdditives.Schwefeldioxid_und_Sulfite,
-    M = AllergensAndAdditives.Lupine_und_Lupinenerzeugnisse,
-    N = AllergensAndAdditives.Weichtiere_Mollusken,
-
-    _1 = AllergensAndAdditives.Lebensmittelfarbe,
-    _2 = AllergensAndAdditives.Konservierungsstoffe,
-    _3 = AllergensAndAdditives.Antioxidationsmittel,
-    _4 = AllergensAndAdditives.Geschmacksverstärker,
-    _5 = AllergensAndAdditives.Geschwefelt,
-    _6 = AllergensAndAdditives.Geschwärzt,
-    _7 = AllergensAndAdditives.Gewachst,
-    _8 = AllergensAndAdditives.Phosphat,
-    _9 = AllergensAndAdditives.Süßungsmittel,
-    _10 = AllergensAndAdditives.Phenylalaninquelle,
-}
