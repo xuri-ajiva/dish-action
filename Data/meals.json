@@ -6136,5 +6136,68 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "43fbd361-4fe2-686c-ae14-fdf645b475a9",
+    "Name": "Hausgemachte Pasta mit einem Petersilien-Basilikum-Pesto",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 17,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "3dd45748-91da-46ee-a699-17b476dced6c",
+    "Name": "Brokkoli-Blumenkohlgem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "97218dbd-6fd9-cabb-5eed-590c037d40d8",
+    "Name": "Bratkartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "74136211-d397-e2f6-d2b0-3e01c29d9d5c",
+    "Name": "Djuvecreis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "e9ee990a-f7d0-77f9-d5ea-23d43c3f3ffe",
+    "Name": "Mischgem\u00FCse Natur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "e07b69b6-ae5e-b27a-af09-3f25d149f574",
+    "Name": "Zucchinirahm",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "a82bd450-2cf0-1310-50ab-55986a722969",
+    "Name": "Odenw\u00E4lder Hackbraten , dazu Franz\u00F6sischer Kartoffelsalat",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 99141,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
   }
 ]
