@@ -4,13 +4,11 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: [ main ]
+    paths:
+      - 'src/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Fetch Data"]
-    types:
-      - completed
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -49,9 +47,10 @@ jobs:
     - name: copy index.html to 404.html
       run: cp release/wwwroot/index.html release/wwwroot/404.html
 
-    # copy data from Data into wwwroot/data
-    - name: copy data from Data into wwwroot/data
-      run: cp -r Data release/wwwroot/data
+# Not needed bc we load directly from github
+#    # copy data from Data into wwwroot/data
+#    - name: copy data from Data into wwwroot/data
+#      run: cp -r Data release/wwwroot/data
 
     # (Allow files and folders starting with an underscore)
     - name: Add .nojekyll file
