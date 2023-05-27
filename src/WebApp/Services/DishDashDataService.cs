@@ -24,9 +24,9 @@ public class DishDashDataService
     [MemberNotNull(nameof(_days), nameof(_images), nameof(_meals))]
     private async Task FetchInternal()
     {
-        _days = await _client.GetFromJsonAsync<List<Day>>("data/days.json") ?? new List<Day>();
-        _images = await _client.GetFromJsonAsync<List<Image>>("data/images.json") ?? new List<Image>();
-        _meals = await _client.GetFromJsonAsync<List<Meal>>("data/meals.json") ?? new List<Meal>();
+        _days = await _client.GetFromJsonAsync<List<Day>>("days.json") ?? new List<Day>();
+        _images = await _client.GetFromJsonAsync<List<Image>>("images.json") ?? new List<Image>();
+        _meals = await _client.GetFromJsonAsync<List<Meal>>("meals.json") ?? new List<Meal>();
         HasData = true;
     }
 
