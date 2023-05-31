@@ -6514,5 +6514,77 @@
     "AllergensAndAdditives": 1,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "0639f623-f2d0-cc45-b777-b61e113a45bf",
+    "Name": "Linsen-Kokoscremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "d06ad5b2-4912-c6f2-fb07-806ab58279f6",
+    "Name": "Leipziger Allerlei",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "636940ab-dad7-291e-a4a4-84b0daf40444",
+    "Name": "Mais-Erbsen Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "11b800fc-db4b-f9f5-c788-3e5e81217f06",
+    "Name": "Djuvec-Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "4733e04c-e65c-9afd-eda5-97007ffe6f20",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Einlage",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "9d560fe4-0981-b758-89c0-53759f714646",
+    "Name": "Leipziger Allerlei",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "d73dccba-374a-8c47-4eda-b5b35705a2d2",
+    "Name": "S\u00FC\u00DFkartoffelsuppe mit Erdnuss",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65808,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "3f10d0bb-3850-d97e-8cb6-33bf106595db",
+    "Name": "Zucchinigem\u00FCse",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
