@@ -6586,5 +6586,86 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "be50bc28-2a05-faea-8be3-2cb2c6f1645f",
+    "Name": "Karotten-Ingwersuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "c9b6dc49-9f72-5f8a-a8cc-5f7c0b9d16ee",
+    "Name": "Schoko-Quark-Creme mit Sauerkirschen im Glas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "47b34845-29b5-af4a-f74c-441ef5e8e499",
+    "Name": "Orientalische Gem\u00FCsesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "ac324604-c631-4054-6a4a-7463d3b8758c",
+    "Name": "Mais-Erbsen Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "f20e38bd-c5ed-8f5d-0c2d-3262773d7225",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Haferflocken",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 257,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "92b0274f-2ea5-33b7-04d9-3abf7c227f53",
+    "Name": "Schoko-Quark-Creme mit Sauerkirschen im Glas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "e4df9e94-7b80-1fb3-4ebf-97bbe3b870df",
+    "Name": "Pasta mit Tempeh-Bolognese Pilze | Grana Padano",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 297061,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "24f9dd61-1971-a924-0450-95cec5eea9d3",
+    "Name": "M\u00F6hren-Kokossuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "51cdcef8-afd4-50ba-fb4f-42d21a42e8cf",
+    "Name": "Mischgem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
