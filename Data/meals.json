@@ -6667,5 +6667,284 @@
     "AllergensAndAdditives": 33,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "2211bb82-9a9d-2679-0f36-f6680d2e9c05",
+    "Name": "mensaVital Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "cc884ffb-3fc7-a1a7-2d66-31d39214a0dd",
+    "Name": "Hausgemachte Pasta Basilikum-Minz-Orangen-Pesto",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 129,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "4aee4356-2608-4836-177b-adb9725e05e9",
+    "Name": "Sauerkischquark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "8ba80387-4908-4974-98fc-cce8d8e3e3bb",
+    "Name": "Asia Kokos Pfanne mit Gem\u00FCse und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "df4dcae6-29b2-3dd2-f0cd-49f464175d19",
+    "Name": "Gem\u00FCse-Kartoffel-Pfanne mit B\u00E4rlauch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "3100b1ae-3d28-fcec-0bbc-9fbab996f407",
+    "Name": "Frischk\u00E4sek\u00F6fte auf Spinatreis dazu ein scharfer Tomatendip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1217,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "913c4003-1400-ffda-6106-1411beeb28b9",
+    "Name": "Cordon bleu vom Schwein mit Jus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 378945,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "001f8960-0a1b-2825-07bb-b35ae781d8c5",
+    "Name": "Paprika gef\u00FCllt mit Couscous und Tomatensauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 67841,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "858da407-e8f4-48a3-7060-fbda62cae434",
+    "Name": "Kokos-Mandel Pudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 224,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "193fac50-1fdf-b43c-5308-92bdca533fdd",
+    "Name": "Gr\u00FCnkohl-Hanf-Burger mit rote Beete Chutney",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 363553,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "8168dea6-1976-2502-5cc4-8742d10b1b24",
+    "Name": "Gro\u00DFmutters Apfelreis aus dem Ofen mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "041e89a8-d2ff-9c2e-f6b5-d987a404c9e7",
+    "Name": "mensaVital Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "e7e512c5-b17a-9c6c-2059-4e79b2b8d22c",
+    "Name": "Hausgemachte Pasta Basilikum-Minz-Orangen-Pesto",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 129,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "bbd5027f-1198-d9e6-a677-be259fb78509",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Kr\u00E4utersauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "d8532817-7c16-25fd-54cc-46c1ae6456ee",
+    "Name": "Sauerkischquark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ce1f2ef0-14fe-6936-5497-5facd1842e2d",
+    "Name": "Asia Kokos Pfanne mit Gem\u00FCse und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "e5ea5523-8937-8baf-b9ca-0112b438f523",
+    "Name": "Gebackener Hirtenk\u00E4se mit Kr\u00E4uterdip  dazu Farmersalat  und Baguette",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65605,
+    "Location": "Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "dfeede38-6901-d0fc-47c9-c40be142dae2",
+    "Name": "Gem\u00FCse-Kartoffel-Pfanne mit B\u00E4rlauch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "6946a5b1-ca9e-bbbf-d503-aec438c32a91",
+    "Name": "Frischk\u00E4sek\u00F6fte auf Spinatreis dazu ein scharfer Tomatendip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "cc93a8ca-7477-ef6e-909b-2721dda78637",
+    "Name": "Cordon bleu vom Schwein mit Jus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 378945,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "fefdb7de-69d4-5564-5ba9-8c4e37ac2a31",
+    "Name": "Paprika gef\u00FCllt mit Couscous und Tomatensauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 67841,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "84dd79bf-03ca-34b9-7f2d-779af5560ce2",
+    "Name": "Kokos-Mandel Pudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "d30adb64-032c-c600-aa9e-b0326cb3de87",
+    "Name": "Gr\u00FCnkohl-Hanf-Burger mit rote Beete Chutney",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 363553,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "5ddad492-fbd1-1386-7118-28330b623acf",
+    "Name": "Gro\u00DFmutters Apfelreis aus dem Ofen mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "45634e42-4bd5-5f9c-5ea2-54d58e757066",
+    "Name": "Pasta al Rag\u00F9 borlotti Bohnen | Tomaten | Cashewsan",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 346241,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "7da85a20-f0ff-515b-b665-2a01c13c0db1",
+    "Name": "Pizza Calzone Soja | Zwiebeln | Tomaten",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65697,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "bcb4ea2f-5f9c-7a2d-c3ae-f485e535ce35",
+    "Name": "Milchreis Sojadrink | Vanille | Zimt | Kardamom | Himbeeren",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "002694c1-6432-be30-b2cb-99cdc15d1c2a",
+    "Name": "Gef\u00FCllte Aubergine Tomaten | Zucchini | Joghurt | Minze",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "2e8e6292-37d7-8738-f2d1-6d01663dbee6",
+    "Name": "Pizza mit Pilzen Champignons | Mozzarella",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "fb60a82f-3c0f-1750-12ea-c23c9eb6b4df",
+    "Name": "Mais Erbsen Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4a99dcdc-6780-09ba-91ad-695c5e687b77",
+    "Name": "Apfelstrudel mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 3.40
   }
 ]
