@@ -6946,5 +6946,50 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "979a6c20-7bd5-e949-7f18-7c49fdecbf8e",
+    "Name": "Pudding Haselnuss",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "3d0ca1dc-0031-e70a-b38e-bb7296369519",
+    "Name": "Reis Natur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "4b2243e6-d583-0356-686e-a64028ce265b",
+    "Name": "Mais-Erbsen Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b39c1942-7f2e-60f2-39b2-ddd6aac95418",
+    "Name": "Vichy Karotten",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "1621196a-419c-56e1-bd57-d331ef7da0f8",
+    "Name": "Pudding Haselnuss",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
   }
 ]
