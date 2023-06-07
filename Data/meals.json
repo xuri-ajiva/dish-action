@@ -6991,5 +6991,86 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.90
+  },
+  {
+    "Hash": "790ba2bf-35f5-232c-94c8-6cace6db4c32",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "02a0749a-2d40-cc5d-3424-ed4633be8ef4",
+    "Name": "Schoko-Quark-Creme mit Sauerkirschen im Glas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "55ca13d7-5dc5-f47c-c832-b40d874d8d3f",
+    "Name": "Spinatcremet",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "dfb13782-acdb-ee97-6a17-a2c6f948e593",
+    "Name": "Kohlrabi Gem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "a05a7a82-3f3f-8b0f-9b41-ab1ceddc2e30",
+    "Name": "Hausgemachte Pasta Basilikum-Minz-Orangen-Pesto",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 129,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "e7e285fd-cc9c-d420-fa44-38eb06908874",
+    "Name": "Orientalische Gem\u00FCsepfanne mit Zartweizen und Sesam",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1057,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "39a880cc-48e8-6fac-5045-05b6fc7ed6a2",
+    "Name": "Mais-Erbsen Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "1501f9da-3b1a-f453-9b33-3d69583c7293",
+    "Name": "Karottencremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "c6b63a63-0ad5-00db-27b1-77e2491e143e",
+    "Name": "Ratatouille Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
