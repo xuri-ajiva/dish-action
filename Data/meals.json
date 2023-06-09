@@ -7072,5 +7072,77 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "328cb05f-f571-dc70-fbc0-1c497b5debe7",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Tomatensauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "df54a593-eb13-22ee-ca9f-69fc9e403676",
+    "Name": "Sauerkischquark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2651ec99-cf70-279c-5b51-41229fd5f10d",
+    "Name": "Spinat - Gem\u00FCse - Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "4b1ebd0f-c7f1-68aa-34bf-35337643b86d",
+    "Name": "Hausgemachter Kartoffelsalat",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 66048,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "d386f1df-23c9-b284-e1d8-f8087f16e0ea",
+    "Name": "Ratatouille Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "027a7f4b-29a2-7d7b-fb62-c88921d562ee",
+    "Name": "Rahmspinat",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "4695384d-626a-19f7-1aa3-62500b648ce2",
+    "Name": "Kohlrabi",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "6bb26fe8-0cea-0bfc-f2f2-0d1b41494f1a",
+    "Name": "Hausgemachte Frikadelle mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 581,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
