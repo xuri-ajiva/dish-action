@@ -8089,5 +8089,32 @@
     "AllergensAndAdditives": 2212416,
     "Location": "Mensa",
     "Price": 1.80
+  },
+  {
+    "Hash": "a6158db7-0319-288e-8585-637b43ae9ca2",
+    "Name": "Kohlrabi-Erbsen-Gem\u00FCse",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "8ac6a0a2-2855-b12a-c5cd-f15c32e28bbe",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "a99127af-0c11-306a-8644-2da8c7ad802f",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
   }
 ]
