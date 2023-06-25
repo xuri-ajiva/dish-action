@@ -8233,5 +8233,176 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "544d4151-8e46-f582-db4d-eec069f68ea6",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "5910fcf8-cdfa-a949-9ba4-53247f0d0588",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 98353,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "0ee08baf-b0b6-c3d5-94e6-2cc1c3bf0299",
+    "Name": "Tomatenrisotto mit Thymian und K\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 98372,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "2cfb258c-be46-1669-1dd5-200d348ac04b",
+    "Name": "Schnitzel paniert mit Estragonsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "b58b3117-cd5e-23f5-70dd-eccb215da2e7",
+    "Name": "Sojagyros mit Tsatsiki",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "d427ef09-a9fa-6f5d-4017-e299d51387f2",
+    "Name": "Hausgemachte Frikadelle mit Pfefferrahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 330309,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "c818f252-d2ac-6d89-14a7-87dbb4591d57",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "aff2d10a-c384-efd1-b238-2d8a9dc1aa53",
+    "Name": "Apfeltiramisu",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65605,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "686d45b4-d5a4-423f-12c3-292342a76b0a",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 98353,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "9c932b2e-c615-75c5-4784-5358b99ec416",
+    "Name": "Tomatenrisotto mit Thymian und K\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 98372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "6c78bb8b-f1b3-169d-d6ea-3216e6c4c806",
+    "Name": "Schnitzel paniert mit Estragonsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "6387c7d4-3953-dfc8-9b6c-927481efd48e",
+    "Name": "Sojagyros mit Tsatsiki",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "78c999aa-003c-4828-ba86-80e01d8684a6",
+    "Name": "Hausgemachte Frikadelle mit Pfefferrahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 330309,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "275874dc-1ac0-9d2e-19ba-5335870eb210",
+    "Name": "Zwei Hirtenk\u00E4setaler gebacken mit Tsatsiki und Kidneybohnen-Mais Salat dazu Baguette",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65605,
+    "Location": "Bistro",
+    "Price": 3.80
+  },
+  {
+    "Hash": "f87109e4-651f-8f2c-3cca-4028bf9a44b3",
+    "Name": "Wassermelonen Salat Champignons | K\u00FCrbiskrokant | Sesam",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1057,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "3f1b80b3-ff21-da9d-0eb7-648677f08558",
+    "Name": "Pasta mit Mus von ger\u00F6stetem Paprika roter Paprika | Tomate | Knoblauch | Basilikum",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 18433,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "61bf80ca-9374-1c54-b7ce-90427b6402d1",
+    "Name": "R\u00F6sti",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "56ad1e7d-136b-474e-ad24-fad2c435c340",
+    "Name": "Butterreis",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "4325f587-ff14-e0ac-ad60-c24de5aa2a33",
+    "Name": "Butterersben",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
