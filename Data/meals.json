@@ -8404,5 +8404,59 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "c6bd986b-66ba-2428-339c-cf05e736aca9",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "0d663778-872f-1144-b593-aca891d50d78",
+    "Name": "Grie\u00DF Pudding mit Rosinen und Sauerkirschsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "c602ca82-6289-8088-4a5d-c1d42083288c",
+    "Name": "Kartoffel-Spinat-Auflauf mit Tomatensauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "bb0582c6-06ad-0605-eadd-0418f1806b8d",
+    "Name": "Leipziger Allerlei",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "dccafa12-c437-4c61-87d8-701a56c08c59",
+    "Name": "Kartoffelsalat",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 512,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "af613f72-99fc-45d9-f96f-f05237be69b9",
+    "Name": "Mischgem\u00FCse mit Butter",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
