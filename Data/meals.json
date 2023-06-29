@@ -8458,5 +8458,113 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "56669602-1012-b267-e2c6-20872b31ff25",
+    "Name": "Sojagyros mit Tsatsiki",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65632,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "d5167f11-2092-78f7-a020-7c218cb6ceff",
+    "Name": "Pizzafleischk\u00E4se mit Tomatensauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2212416,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "437d963d-f157-f5ef-6112-ec882770db39",
+    "Name": "Nougatcreme mit Schokostreuseln im Glas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "89c902ee-60f1-1bcb-9521-8aa6fae88f6a",
+    "Name": "Fingerm\u00F6hren Natur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "ab1657cb-c212-22d6-9ab5-46f7fd8cf178",
+    "Name": "Quarkspeise mit Ananas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "82bdefdc-6900-6edd-839d-54a31458263c",
+    "Name": "Fleischk\u00E4se  mit Hausgemachtem Kartoffelsalat und Baguette",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98817,
+    "Location": "Bistro",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c884922b-4acd-f18e-79e6-e3ad041b4ffb",
+    "Name": "Vegetarische Maultaschen mit Gem\u00FCsef\u00FCllung  und Kartoffelsalat",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 66309,
+    "Location": "Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "fabafda2-e335-b224-1ae4-9bc2a5b8b959",
+    "Name": "Buttersp\u00E4tzle",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "590eea09-a2ff-17d5-a832-2554f9db166f",
+    "Name": "Maiskolben Vegan",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "86d94512-1cb9-3cf7-483f-64ee8fbca940",
+    "Name": "Germkn\u00F6del mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "f58c2930-0d69-77c0-06e1-ddc326aefdc9",
+    "Name": "Kartoffelsuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "74f57feb-76ee-62e4-fbb9-f589cc346338",
+    "Name": "Speckbohnen",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98368,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
