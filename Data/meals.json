@@ -8782,5 +8782,32 @@
     "AllergensAndAdditives": 181281,
     "Location": "Mensa",
     "Price": 4.70
+  },
+  {
+    "Hash": "cfb97909-36d6-0bcd-5f13-d575d3640d13",
+    "Name": "Pizzafleischk\u00E4se mit Tomaten - Oreganosauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2212416,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "887d54a5-3260-f440-fc49-6aa333fea055",
+    "Name": "Gem\u00FCsecremesuppe (",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "899f150a-2394-9bef-668a-16d701615292",
+    "Name": "Frische Wassermelone",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
