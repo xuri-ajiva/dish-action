@@ -8809,5 +8809,113 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "ffa4e5f5-4206-bf5a-8fe9-3a634d3fa8db",
+    "Name": "Hausgemachte Pasta mit Hackfleisch-Lauch-Sauce",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 16961,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "14543bbb-50c7-63c5-312d-9c4ed0208ddb",
+    "Name": "Butterm\u00F6hren",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "aae9be0e-22b0-a2cd-d73f-e4579cfc0651",
+    "Name": "Hausgemachte Pasta mit Hackfleisch-Lauch-Sauce",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 16961,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8662c970-b087-a0d1-065c-bba4e2dcc274",
+    "Name": "Ger\u00F6stete Grie\u00DFsuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "211c19a0-8429-c71d-52f6-6972f7498654",
+    "Name": "Butterm\u00F6hren",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "8f10f6a0-8866-7997-9c9d-2f57acd5a3a0",
+    "Name": "Erbsen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "a8ebdb06-45c6-54af-45d2-f8a1ca59721f",
+    "Name": "Buttersp\u00E4tzle",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "3ad65d8e-e6fc-63c1-59e0-41de96321733",
+    "Name": "Blumenkohl mit Semmelbutter",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "8bbc05bf-173a-a40f-05ee-8b6e55122fd3",
+    "Name": "Schnitzel paniert mit Paprikarahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "8317d7b3-07c6-d5c6-b46c-d5431aed0d44",
+    "Name": "Ratatouille",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "74242e78-60cf-41f7-679d-76f80418ce37",
+    "Name": "Buttergem\u00FCse",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "bde7cdc6-21a5-4044-7e20-ecd99754646e",
+    "Name": "Mediterrane Gem\u00FCsesuppesuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
