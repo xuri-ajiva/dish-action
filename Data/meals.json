@@ -8917,5 +8917,50 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "3c2ba830-077b-17ed-cc9a-b00e2f1d943b",
+    "Name": "Gem\u00FCsecurrysuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 180769,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "87060b6e-56fb-d821-0ae0-63e95b7c8847",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Sauce tartare",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 82253,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "9cc48eb0-8d0d-123e-76e9-8691d7b8e90d",
+    "Name": "Buntes Paprikagem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "92c298cb-c19f-f451-229a-b39707540377",
+    "Name": "Brokkoli mit Semmelbutter",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "45464f0c-e6dd-9e5b-89f5-b14971b73174",
+    "Name": "Erbsen M\u00F6hren Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
