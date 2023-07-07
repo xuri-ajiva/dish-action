@@ -2,6 +2,8 @@
 @using Humanizer
 @using Radzen
 @using Radzen.Blazor
+@using TextStyle = AntDesign.Charts.TextStyle
+@using Title = AntDesign.Charts.Title
 
 <h3>MelasView</h3>
 
@@ -13,8 +15,108 @@
 }
 else
 {
+    <Collapse>
+        @RenderColumChart(() => _meals.OrderBy(x => x.Price).GroupBy(x => x.Price).SelectMany(x => x.Select(m => new {
+            key = m.Location,
+            price = x.Key.ToString("C"),
+            count = x.Count(y => y.Location == m.Location)
+        })).Concat(_meals.OrderBy(x => x.Price).GroupBy(x => x.Category).SelectMany(x => x.Select(m => new {
+            key = x.Key.ToString(),
+            price = m.Price.ToString("C"),
+            count = x.Count(y => y.Price == m.Price)
+        }))).Concat(_meals.GroupBy(x => x.Price).Select(x => new {
+            key = "Total",
+            price = x.Key.ToString("C"),
+            count = x.Count()
+        })), new ColumnConfig {
+            AutoFit = true,
+            SeriesField = "key",
+            XField = "price",
+            YField = "count",
+            IsGroup = true,
+        }, "Gerichte / Preis / Location and Category")
+        
+        @RenderColumChart(() => _meals.OrderBy(x => x.Price).GroupBy(x => x.Price).SelectMany(x => x.Select(m => new {
+            key = m.Location,
+            price = x.Key.ToString("C"),
+            count = x.Count(y => y.Location == m.Location)
+        })), new ColumnConfig {
+            AutoFit = true,
+            SeriesField = "key",
+            XField = "price",
+            YField = "count",
+            IsGroup = true,
+        }, "Gerichte / Preis / Location")
+
+        @RenderColumChart(() => _meals.OrderBy(x => x.Price).GroupBy(x => x.Category).SelectMany(x => x.Select(m => new {
+            price = m.Price.ToString("C"),
+            category = x.Key.ToString(),
+            count = x.Count(y => y.Price == m.Price)
+        })), new ColumnConfig {
+                AutoFit = true,
+                SeriesField = "category",
+                XField = "price",
+                YField = "count",
+                IsGroup = true,
+            }, "Gerichte / Preis / Category")
+        
+        @RenderColumChart(() => _meals.Select(c => new {
+            Flags = GetFlags(c.AllergensAndAdditives),
+            Item = c
+        }).SelectMany(c => c.Flags.Select(x => new {
+            Flag = x,
+            Item = c.Item
+        })).GroupBy(c => c.Flag, i => i.Item).SelectMany(x => x.Select(m => new {
+            aaa = x.Key.ToString(),
+            count = x.Count()
+        })), new ColumnConfig {
+            AutoFit = true,
+            XField = "aaa",
+            YField = "count",
+        }, "Allergens and Additives Frequency")
+        
+        <Panel Header="PriceRange / Category" Active>
+            @{
+                var config2 = new BarConfig {
+                    XField = "values",
+                    YField = "type",
+                    Color = new[] {
+                        "l(0) 0:#3e5bdb 1:#dd3121"
+                    },
+                    BarStyle = new GraphicStyle {
+                        FillOpacity = 0.8m
+                    },
+                    Label = new BarViewConfigLabel {
+                        Visible = true,
+                    }
+                };
+            }
+            <AntDesign.Charts.Bar Data="_meals.OrderBy(x => x.Category).GroupBy(x => x.Category).Select(x => new {type = x.Key.ToString(),values = new[] {x.MinBy(x => x.Price).Price, x.MaxBy(x => x.Price).Price} })" Config="config2"/>
+        </Panel>
+        <Panel Header="Heatmap Category / Location / Gerichte Count" Active>
+            @{
+                var config = new HeatmapConfig {
+                    XField = "category",
+                    YField = "location",
+                    ColorField = "count",
+                    ShapeType = "rect",
+                    Meta = new {
+                        category = new {
+                            Type = "cat"
+                        },
+                        location = new {
+                            Type = "cat"
+                        }
+                    }
+                };
+            }
+
+            <AntDesign.Charts.Heatmap Data="@_heatmapData" Config="config"/>
+        </Panel>
+    </Collapse>
     @if (_meals.GroupBy(x => x.Location).ToArray() is {} group)
     {
+        <h1> Test</h1>
         <RadzenChart>
             <RadzenColumnSeries Data="@group.Select(x => new {name = x.Key, value = (decimal)x.Count()}).ToList()"
                                 CategoryProperty="name" ValueProperty="value"
@@ -39,7 +141,7 @@ else
             <RadzenMarkers MarkerType="MarkerType.Square"/>
         </RadzenLineSeries>
         <RadzenColumnOptions Radius="5" Width="30"/>
-    </RadzenChart> 
+    </RadzenChart>
     <Divider Text="Meals"/>
     <Table DataSource="@_meals"
            EnableVirtualization
@@ -58,10 +160,64 @@ else
 
 @code {
 
+    static IEnumerable<AllergensAndAdditives> GetFlags(AllergensAndAdditives input)
+    {
+        return Enum.GetValues(typeof(AllergensAndAdditives)).Cast<AllergensAndAdditives>()
+            .Where(f => input.HasFlag(f));
+    }
+
     protected override async Task OnInitializedAsync()
     {
         _meals = await DataService.GetAllMeals();
+        _heatmapData = new List<object>();
+        foreach (var location in _meals.DistinctBy(x => x.Location).Select(x => x.Location))
+        {
+            foreach (var category in _meals.DistinctBy(x => x.Category).Select(x => x.Category))
+            {
+                _heatmapData.Add(new {
+                    location = location,
+                    category = category.ToString(),
+                    count = _meals.Count(x => x.Location == location && x.Category == category)
+                });
+            }
+        }
     }
 
     private List<Meal> _meals;
+    private List<object>? _heatmapData;
+
+    Dictionary<string, RenderFragment> _renderFragments = new Dictionary<string, RenderFragment>();
+
+    private RenderFragment RenderColumChart(Func<object> data, ColumnConfig config, string Header)
+    {
+        if (_renderFragments.TryGetValue(Header, out var fragment))
+        {
+            return fragment;
+        }
+
+        var dataValue = Task.Run(data);
+        dataValue.ContinueWith(_ =>
+        {
+            Console.WriteLine("Data loaded");
+            foreach (var keyValuePair in _renderFragments)
+            {
+                Console.WriteLine(keyValuePair.Key);
+            }
+            InvokeAsync(StateHasChanged);
+        });
+        _renderFragments.Add(Header, @<Panel Header="@Header" Active>
+                                         @if (dataValue.IsCompletedSuccessfully)
+                                         {
+                                             <AntDesign.Charts.Column Data="@dataValue.Result" Config="config"/>
+                                         }
+                                         else
+                                         {
+                                             <Skeleton Loading Active></Skeleton>
+                                         }
+                                     </Panel>
+            );
+        return _renderFragments[Header];
+        //return await Task.Run<RenderFragment>(() => @<AntDesign.Charts.Column Data="@data()" Config="config"/>);
+    }
+
 }
