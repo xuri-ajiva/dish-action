@@ -10,7 +10,7 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services.AddScoped(sp => new HttpClient {
     //BaseAddress = new Uri(builder.HostEnvironment.BaseAddress)
-    BaseAddress = builder.Configuration["BaseUrl"] is string baseAddress ? new Uri(baseAddress) : new Uri(new Uri(builder.HostEnvironment.BaseAddress), "data/")
+    BaseAddress = builder.Configuration["BaseUrl"] is { } baseAddress ? new Uri(baseAddress) : new Uri(new Uri(builder.HostEnvironment.BaseAddress), "data/")
 });
 builder.Services.AddAntDesign();
 builder.Services.AddScoped<ContextMenuService>();
