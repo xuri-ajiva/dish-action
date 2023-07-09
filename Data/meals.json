@@ -8962,5 +8962,203 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "eef8ab7f-7a64-8039-2b6a-5b753c36487f",
+    "Name": "Brokkoligratin",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "645171d9-a13f-d21a-8729-471d98733296",
+    "Name": "Kohlroulade mit Specksauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98305,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "dbc27f74-d56f-735d-3a48-8fcd4cab34a9",
+    "Name": "mensaVital Feurige Pilzpfanne mit Paprika und Mandelstiften dazu Couscous",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 129,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "707a8d60-6d4f-ebf2-7074-dd72cbd033b8",
+    "Name": "Bohnenpfanne mit Karotten, Ingwer und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "424dbb59-b79f-78c5-2a5f-49d665237c37",
+    "Name": "mensaVital Sojagyros mit Tsatsiki dazu Couscous",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 97,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "e0d3a427-0b91-2ad3-4fce-f3cf1c472413",
+    "Name": "Vanillepudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "a0b00dd4-a9d1-bf7c-6f7d-d82f1d4979bf",
+    "Name": "Gro\u00DFmutters Apfelreis aus dem Ofen mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "2b2ab3a3-7c19-c3b7-3d5c-78fd165a527e",
+    "Name": "Fischst\u00E4bchen mit Remouladensauce",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4309069,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "4063cacb-2fa6-a2c5-6e81-70eb7b9a34e5",
+    "Name": "Brokkoligratin",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "22726ba3-e540-2373-a74d-2d47e4145ebf",
+    "Name": "Kohlroulade mit Specksauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98305,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ae1504cb-b19d-8434-bf34-69733407d480",
+    "Name": "mensaVital Feurige Pilzpfanne mit Paprika und Mandelstiften dazu Couscous",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 129,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "0a7b22ee-f236-bd1d-0114-46c82acedfac",
+    "Name": "Bohnenpfanne mit Karotten, Ingwer und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "bc85365a-200f-c4a5-3674-ac9a5cf875c4",
+    "Name": "mensaVital Sojagyros mit Tsatsiki dazu Couscous",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 97,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "644f9610-654e-c857-2c64-269cd1f9b0e0",
+    "Name": "Gro\u00DFmutters Apfelreis aus dem Ofen mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "2acf43df-ce68-9799-89b9-43fd69fac284",
+    "Name": "Fischst\u00E4bchen mit Remouladensauce",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4293197,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "245d61e8-17a6-0d3d-fa84-dd5ff4e0aa29",
+    "Name": "Chinese Crispy Noodles Chow Mein Mie-Nudeln | Pak Choi | Wei\u00DFkraut | Soja",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1073,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "b04b350e-d074-ca19-a338-b12f1bca638e",
+    "Name": "Thuka Nudelsuppe Gem\u00FCse | Chili",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 98337,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "04f62dfd-ad9a-bd87-b6ee-ba5c202f4f74",
+    "Name": "Falafel Burger Cole Slaw | Soja-Minz-Dip | ger\u00F6stete Paprika | Hummus",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 66593,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "39a49ec5-61d9-c270-d3f3-3525a623b9c2",
+    "Name": "Fleischk\u00E4se mit Spiegelei und Pommes",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2195972,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "59562f3e-7760-a2a8-e009-a1370ae4ccfd",
+    "Name": "MAiskolben mit Butter",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.60
+  },
+  {
+    "Hash": "1a0be7c2-befd-03fe-bb00-cb38d5285c67",
+    "Name": "Tortellini mit K\u00E4sef\u00FCllung in Kr\u00E4uter-Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 49221,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "f17ab425-44da-fbb0-9cac-20073c19e183",
+    "Name": "Fleischerfrikadelle mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 581,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
