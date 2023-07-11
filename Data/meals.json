@@ -9160,5 +9160,50 @@
     "AllergensAndAdditives": 581,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "1e0f1e6c-2bda-0be0-340e-7b4339958892",
+    "Name": "Pizza Mediterran",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "67b8569b-bad5-6693-db42-0ca16959370e",
+    "Name": "Vegane Mousse mit schwarzer Johannesbeere",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ada65061-28b2-0f39-006e-5b7a8d33190f",
+    "Name": "Country Kartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "bd7caa45-7017-c77f-0465-c18330e18e79",
+    "Name": "R\u00F6sti",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "c4aeafce-4815-71d2-a3e1-ed5729c9769c",
+    "Name": "Haselnusspudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
