@@ -9241,5 +9241,266 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "487f2ea2-2f6a-e6bd-fcec-89924b07ecfd",
+    "Name": "Hausgemachte Pasta mit Sojabolognese",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 289,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "997325a6-fa5f-b97c-85c8-db1c7355a2e9",
+    "Name": "Champignon-Zucchini-Ragout auf Vollkornsp\u00E4tzle",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 5,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "3f7fc7bd-4809-7763-798e-682739a0ceba",
+    "Name": "Hausgemachte Pasta mit Brokkoli-Sahne Sauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "c94f4862-6239-664a-67b5-bb7d08a7af5a",
+    "Name": "Gnocchi-Pfanne mit Mais, Zuckerschoten und Gem\u00FCse-Julienne",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "fbd15ad0-721c-4315-f9d3-0328717c2b0c",
+    "Name": "Kartoffel-Zucchiniauflauf mit einer Knoblauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "65cd1e7b-f0c9-9ff6-ea47-423c24160388",
+    "Name": "Soja-Geschnetzeltes \u0027Schweizer Art\u0027",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 4227105,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0813a785-eb75-06f0-0154-89cd44660ae3",
+    "Name": "Blumenkohl-Brokkoli-Auflauf mit Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "83321e95-eb87-726a-beae-54f02d6f562b",
+    "Name": "Grillbraten vom Schweinenacken mit Tsatsiki",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "d4b7d191-8631-dd58-2f38-1015e424b784",
+    "Name": "Rote Gr\u00FCtze mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "a102f9bc-534c-802a-8daf-133f8772bad4",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se \u00FCberbacken dazu Sour Cream",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 16481,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "9a255dd7-ed80-461b-4d92-5a21d08bc610",
+    "Name": "Paprikagulasch vom Schwein",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264193,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "5611c44f-1b68-ada5-a652-02e370d93e62",
+    "Name": "Pikante Sesamnudeln mit asiatischem Pfannengem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 17457,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "7f8c18d8-ecd4-19f4-5ad7-ec40d62ad76b",
+    "Name": "Maultaschen vegetarisch mit einem Tomaten-Zwiebel-Mus",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a5b5b203-52cf-cb40-1b45-40ff84c572f1",
+    "Name": "Schollenfilet paniert mit Sauce tartare",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66381,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "b43d9e67-aedc-e421-7636-6d2305e87f26",
+    "Name": "Champignon-Zucchini-Ragout auf Vollkornsp\u00E4tzle",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 5,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "df2ff726-1dda-eaf3-1b19-47f4b191cb77",
+    "Name": "Hausgemachte Pasta mit Sojabolognese",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 289,
+    "Location": "Bistro",
+    "Price": 2.90
+  },
+  {
+    "Hash": "ced6e900-3c4d-c1af-b32e-0d3cc2be4aaa",
+    "Name": "Gnocchi-Pfanne mit Mais, Zuckerschoten und Gem\u00FCse-Julienne",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "6cadf9e8-e0ca-e8e7-ff56-b491265f933f",
+    "Name": "Kartoffel-Zucchiniauflauf mit einer Knoblauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "10a7fc06-bbc6-9f79-864c-6c8e1dde6c35",
+    "Name": "Soja-Geschnetzeltes \u0027Schweizer Art\u0027",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 4227105,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "b9d1208e-6308-479a-592c-768f720b4cf8",
+    "Name": "Grillbraten vom Schweinenacken mit Tsatsiki",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "f2891657-a83f-62d7-f24e-de5823e5e8e5",
+    "Name": "Rote Gr\u00FCtze mit Vanillesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.40
+  },
+  {
+    "Hash": "78628c8c-3dbc-cebf-d7f1-ecacf2eecc38",
+    "Name": "Paprikagulasch vom Schwein",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264193,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "5db42011-62d2-1702-8ed4-6a9a5355b11f",
+    "Name": "Pikante Sesamnudeln mit asiatischem Pfannengem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 17457,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "118aaea9-e361-8132-b608-bac1d66bab95",
+    "Name": "Schollenfilet paniert mit Sauce tartare",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66381,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "d8191aef-a201-6b87-ea9b-567fedee8eb0",
+    "Name": "Dal Tadka Linsen | Tomaten | Koriander | Bockshornklee | Brot",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f6b2ecee-4616-320a-5280-feb641d6b1f4",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 378945,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "8802401c-a4ab-cbee-6db7-797d9a334e80",
+    "Name": "Pizza Focaccia Tomaten | Knoblauch | Cashewrella",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65697,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "27fec385-a9a3-c1d2-d6f9-e8ab1088f6b1",
+    "Name": "Apple Crumble Apfel | Haferflocken | Sultaninen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16385,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "762f64c2-9c0f-9cd2-1e24-77aa652992fa",
+    "Name": "Pasta mit Tomaten Brokkoli Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
