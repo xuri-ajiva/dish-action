@@ -9502,5 +9502,23 @@
     "AllergensAndAdditives": 1,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "60e13928-7777-408e-1020-9b891e7fb854",
+    "Name": "Erbsen Nutur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "e7d536e3-9481-569a-6d92-d7d781d7dd10",
+    "Name": "Gr\u00FCne Bohnen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
