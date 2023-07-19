@@ -9520,5 +9520,41 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "6a727beb-578d-3ac4-c904-eab913254537",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se \u00FCberbacken dazu Sour Cream",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 16737,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "8e5fc90c-25fa-4891-ba9f-4507b11551c0",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir getrocknete Tomaten | Champignons | Rucola",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 84097,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "81077df7-b4a7-f289-8c3c-f6795af8bef1",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "606769d0-6e4c-436d-c741-bf752d8a4be3",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Knoblauchdip",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 73,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
