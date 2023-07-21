@@ -9556,5 +9556,77 @@
     "AllergensAndAdditives": 73,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "a6227bd8-e8ac-92f3-86b0-126b63937554",
+    "Name": "Soja Chili mit Bohnen und Mais",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0970d23c-600e-9e47-9b54-2b9a19158733",
+    "Name": "Kartoffelklo\u00DF",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 362497,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "7ce73466-553d-faea-2180-304303f35753",
+    "Name": "Sp\u00E4tzle",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 5,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "6c9dc2e3-e2fa-3f5f-0331-13a5ddc56d58",
+    "Name": "Cappuccinopudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "75195647-4e0a-a1f5-29b7-8675214d322e",
+    "Name": "Kartoffelsalat",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 66048,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "e601de5e-4366-99d5-3cf8-96baf19649eb",
+    "Name": "Ratatouillegem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "0074e68b-6e70-64f0-71ef-fa2239f54d4b",
+    "Name": "Waldbeerquark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "7f642080-3382-1e0f-d5e2-3736c2934097",
+    "Name": "Vollkornsp\u00E4tzle",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 5,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
