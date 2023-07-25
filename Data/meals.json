@@ -9844,5 +9844,77 @@
     "AllergensAndAdditives": 2195521,
     "Location": "Mensa",
     "Price": 4.80
+  },
+  {
+    "Hash": "65510187-effd-ad92-726e-9209898a3759",
+    "Name": "Tortellini mit K\u00E4sef\u00FCllung in Kr\u00E4uter-Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "26962315-33f1-cac5-9fe7-fce17cc9f246",
+    "Name": "Maultaschen vegetarisch mit Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "5ee1d724-e0a9-78eb-1fa0-926bf2269e89",
+    "Name": "mensaVital Steckr\u00FCben-Bohnen-Paprika-Curry mit Chilikartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e6e5bf40-f9e8-1586-be62-5eed72da36ec",
+    "Name": "Cappuccinopudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "0a62749b-df2e-3def-abae-4347fdf3380b",
+    "Name": "Tortellini mit K\u00E4sef\u00FCllung in Kr\u00E4uter-Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ab6d959d-fd99-8a0f-6f1b-5528d0a12941",
+    "Name": "Ratatouillen Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "f021a9c6-8238-dd14-6745-7574fa58d6e5",
+    "Name": "mensaVital Steckr\u00FCben-Bohnen-Paprika-Curry mit Chilikartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "b37890ee-1573-96c6-5724-f46b6a009486",
+    "Name": "Gef\u00FCllte Aubergine Tomaten | Paprika | Joghurt | Minze",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 4.50
   }
 ]
