@@ -9916,5 +9916,86 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 4.50
+  },
+  {
+    "Hash": "cf31dc89-212d-ceb9-cd6e-af84b452ee9c",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Kr\u00E4uter-Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "92da50e7-1e7e-38fc-f04e-1c9762663705",
+    "Name": "Fr\u00FChlingsrolle vegetarisch mit Curry-Dip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 357,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "bed78075-e8b1-a5f4-085c-5bcfa124ab6e",
+    "Name": "Bio Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "53b59a3d-5e45-4a72-63d1-35d2f4525d79",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Kr\u00E4uter-Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "1f4f7575-d3cb-1d00-38dc-e266074fe893",
+    "Name": "Cordon bleu vom Schwein mit Jus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 115009,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "697a9952-caf4-3522-c94c-04c5e118d3b3",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "8a399ac0-c96e-fa25-b7c9-96010da489ff",
+    "Name": "Schweizer Wurstsalat mit K\u00E4se, Zwiebeln und Gurken dazu Bratkartoffeln",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 4424256,
+    "Location": "Bistro",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ccd0e80a-16b0-b8cd-e02d-42a894f50529",
+    "Name": "Bio Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "ab088efb-504c-ac1a-c473-dbaa3278f9fc",
+    "Name": "Pasta mit Mus von ger\u00F6stetem Paprika gelbe Paprika | Tomate | Knoblauch | Basilikum",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 18433,
+    "Location": "Mensa",
+    "Price": 5.10
   }
 ]
