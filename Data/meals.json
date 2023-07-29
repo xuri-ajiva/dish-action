@@ -9997,5 +9997,293 @@
     "AllergensAndAdditives": 18433,
     "Location": "Mensa",
     "Price": 5.10
+  },
+  {
+    "Hash": "e5501c8c-0008-ce25-40b8-6e9bff7d22d7",
+    "Name": "Bio Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "cebfe8bd-d70e-7d55-05ab-6f4a793eaa53",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "6ead410c-1e67-6e92-01e0-e138cd690ddf",
+    "Name": "Wei\u00DFkohl-Kichererbsen-Ragout mit Vollkornreis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "cfb23559-0c17-9cf1-4aab-64ff5e546f90",
+    "Name": "Mail\u00E4nder Risotto mit verschiedenem Gem\u00FCse und K\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 49472,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "47c5bf64-076e-4f63-d6ee-74dfafd8aca9",
+    "Name": "Cordon bleu vom Schwein mit Bratenjus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 362561,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "535217a4-19b8-4c2f-5cd6-b7d2a1af4f48",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "0d90e860-8b6c-9989-ec46-eb1e8ed6ba46",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 32837,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "df6eea6d-98a4-676d-e828-a6dee4619a93",
+    "Name": "Pfannen Gnocchi mit Rosenkohl, Spinat und Pinienkernen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "c1aa0f06-8482-6162-5429-3896f2b458d8",
+    "Name": "Schlemmerhacksteak mit Champignonrahmsauce",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 837,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "b07e88f7-b069-1aaf-b013-f99404e048d1",
+    "Name": "Vanille Pudding mit Erdbeerspiegel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "6e676fa3-4b00-8cdc-ffff-e77ba794bed0",
+    "Name": "Hausgemachte Falafel mit einer Tomatensalsa",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "a5ce9e43-bd5c-14b1-89d6-af8726eb23d7",
+    "Name": "\u00C4ppler Burger Rind - Brioche - \u00C4pfel - Preiselbeeren - K\u00E4se",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 581,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "22bfa15f-5a0c-60b8-e2d9-7563c2018379",
+    "Name": "Ratatouille \u0027provencale\u0027 dazu gebratene Polenta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16416,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "256595de-ea2e-8ea4-a9a2-137c58f6674c",
+    "Name": "Bio R\u00FChreier mit Rahmspinat",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "274b3f87-9dc8-547e-f435-acabee4acf0f",
+    "Name": "Bio Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "4c617ef2-a9e1-0d68-d519-c3c2c3a80251",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 32837,
+    "Location": "Marktrestaurant",
+    "Price": 2.70
+  },
+  {
+    "Hash": "458df40d-5e6f-710a-5bbf-518df065cf52",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "940bc631-7e8d-6390-ca59-8ed8625d85ca",
+    "Name": "Wei\u00DFkohl-Kichererbsen-Ragout mit Vollkornreis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "1bd29e1e-0a96-00c4-df8c-050192cece41",
+    "Name": "Mail\u00E4nder Risotto mit verschiedenem Gem\u00FCse und K\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 49472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c3d8a488-f39d-d25c-06d9-8f78ed3f302e",
+    "Name": "Cordon bleu vom Schwein mit Bratenjus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 378945,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "bbfb8a96-6eda-5765-55c1-4ac850d948b6",
+    "Name": "Pfannen Gnocchi mit Rosenkohl, Spinat und Pinienkernen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "fe8757e1-3b66-0418-7a36-5c4ca75404ca",
+    "Name": "Schlemmerhacksteak mit Champignonrahmsauce",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 837,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "156e07ab-8ed2-8d7e-7858-7d0df5cd2466",
+    "Name": "Vanille Pudding mit Erdbeerspiegel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "cab36ce9-e485-17d3-78d3-9ff327c5c389",
+    "Name": "Hausgemachte Falafel mit einer Tomatensalsa",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "fa6529b9-3177-117a-b209-f2ec8e75b2eb",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "e7d2c2d2-3512-3341-953e-07e2d4a80674",
+    "Name": "\u00C4ppler Burger Rind - Brioche - \u00C4pfel - Preiselbeeren - K\u00E4se",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 1637,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "5ac8d757-e57f-562e-5f07-1d6a2513870a",
+    "Name": "Ratatouille \u0027provencale\u0027 dazu gebratene Polenta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16416,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "365375d5-741f-8529-6160-49a9b84dbcd1",
+    "Name": "Bio R\u00FChreier mit Rahmspinat",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "5e90ca49-a089-c383-f5c4-f98461d6688a",
+    "Name": "Indischer Gew\u00FCrzpilaw Linsen | Blumenkohl | Mango Chutney",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "4c7b41ee-2560-20d3-b97c-2936e7d7e3c9",
+    "Name": "Panzanella Ciabatta | Cherrytomaten | Rucola",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c6010fec-338d-b25f-b7ad-9ebbce19efd4",
+    "Name": "Pasta mit Brokkoli Creme Knoblauch | Chili | ger\u00F6stete N\u00FCsse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 129,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "02dc849c-24fe-f889-11d9-f781aaf97d3f",
+    "Name": "Frikadelle Rindfleisch | Ei | Senf | Apfel | Kohlrabi | Kraut",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 66053,
+    "Location": "Mensa",
+    "Price": 5.60
   }
 ]
