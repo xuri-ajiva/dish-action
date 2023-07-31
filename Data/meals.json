@@ -10285,5 +10285,23 @@
     "AllergensAndAdditives": 66053,
     "Location": "Mensa",
     "Price": 5.60
+  },
+  {
+    "Hash": "34eb6838-bacf-f105-b3c3-fde1c72fd481",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "8d68dd5e-5d49-ac3a-09fa-9c2e2b0f004c",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
