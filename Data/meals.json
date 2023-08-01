@@ -10303,5 +10303,32 @@
     "AllergensAndAdditives": 16448,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "65bd2704-4def-fb05-eb34-24dc5f53b9c2",
+    "Name": "Gem\u00FCsebr\u00FChe mit Einlage",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "619bcdf2-4534-ebbe-5cf8-18d84de68c8e",
+    "Name": "Steckr\u00FCben-Bohnen-Paprika-Curry mit Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "0f4f0e87-ff3c-278f-7d8c-7f2d750b255d",
+    "Name": "Panzanella Baguette | Cherrytomaten | Rucola",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
