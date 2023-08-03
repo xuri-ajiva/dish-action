@@ -10330,5 +10330,68 @@
     "AllergensAndAdditives": 1,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "5b58ef66-b33a-d490-b6d3-02baa5ca61a1",
+    "Name": "Ofenkartoffel mit Kr\u00E4uterdip und Salatgarnitur",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "532cd760-dde9-6e1b-df74-861460a1ce08",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 581,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "e5d8e628-d80a-c8b8-9c7a-0bab554331e3",
+    "Name": "Mischgem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "3c723c9e-0a64-c7df-d95d-c47dc6297e8b",
+    "Name": "Brokkoli",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "9fd8b6c0-bffd-8f94-2e79-ce471569761c",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 16448,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "884b7bb5-f9cf-e06a-ff83-58e4105a0ba2",
+    "Name": "Ofenkartoffel mit Kr\u00E4uterdip und Salatgarnitur",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "47cca1df-41d7-846f-9e84-0e660e7ab7e5",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 581,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
   }
 ]
