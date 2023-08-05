@@ -10393,5 +10393,149 @@
     "AllergensAndAdditives": 581,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.90
+  },
+  {
+    "Hash": "63d43c49-a71a-cfb0-1efe-af03be226710",
+    "Name": "Aubergine-Zucchini Auflauf mit Tomaten-Basilikum Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "58a30cc3-c9f5-00a1-eda4-902a8c8732d6",
+    "Name": "Gratinierte Blumenkohlr\u00F6schen mit K\u00E4sesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b5bf1e7a-c7b0-1da7-0eaa-e31fe989d010",
+    "Name": "Gebratenes Gem\u00FCse mit Kokosmilch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "982f01ec-efd8-76f5-e636-5c6fbede0e5a",
+    "Name": "Schnitzel paniert mit Pusztasauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 4229381,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "40b27264-96e2-cb95-2023-a169ed1c1076",
+    "Name": "Ofenkartoffel Sojajoghurt-Knoblauchdip und Salatgarnitur",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "c7ac5757-dde2-0eea-ae5d-094165ef7581",
+    "Name": "Bio Nudelpfanne mit Chinagem\u00FCse, Tomaten und Erbsen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "ae0acd1d-ff71-bec4-d96b-a9173a610144",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu einer Tomaten-Basilikumsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "a59ae805-7abd-4d06-25b9-f861e5caabfc",
+    "Name": "B\u00F6lle Burger Focaccia, Rindfleisch, Tomaten, Rucola, Pesto, Sonnenblumenkerne",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 2565,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "b5cd89ef-d1d1-09be-9a33-1568249bb3a8",
+    "Name": "Aubergine-Zucchini Auflauf mit Tomaten-Basilikum Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "5a04e15b-3a2e-8a97-5795-499db21ba8c0",
+    "Name": "Gratinierte Blumenkohlr\u00F6schen mit K\u00E4sesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "95187243-6577-79d7-ada8-171445445cb9",
+    "Name": "Gebratenes Gem\u00FCse mit Kokosmilch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "8b96a859-e5d0-613c-5bde-a681deee0f23",
+    "Name": "Schnitzel paniert mit Pusztasauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 4229381,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "edafc4a5-32a6-72cf-41c3-f2a8e5205b7b",
+    "Name": "Ofenkartoffel Sojajoghurt-Knoblauchdip und Salatgarnitur",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "9725e0f4-0b82-b1cc-7a55-5a0c93541ca7",
+    "Name": "Bio Nudelpfanne mit Chinagem\u00FCse, Tomaten und Erbsen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "c21362d7-762a-cc77-ac09-2b14fb596bca",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu einer Tomaten-Basilikumsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "269e14a5-6371-21c2-dbc6-ae5e3fe8acd7",
+    "Name": "B\u00F6lle Burger Focaccia, Rindfleisch, Tomaten, Rucola, Pesto, Sonnenblumenkerne",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 2565,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
   }
 ]
