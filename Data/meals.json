@@ -10690,5 +10690,14 @@
     "AllergensAndAdditives": 98369,
     "Location": "Mensa",
     "Price": 6.60
+  },
+  {
+    "Hash": "c4b5fd55-0d3b-17d9-e114-abf80eafc48b",
+    "Name": "Blumenkohlcremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
