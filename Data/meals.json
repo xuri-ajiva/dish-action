@@ -10699,5 +10699,77 @@
     "AllergensAndAdditives": 321,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "982a74fc-7e76-c586-69b2-5f7a1682019b",
+    "Name": "Ofenkartoffel Sojajoghurt-Knoblauchdip und Salatgarnitur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "a1703ed6-c46d-a563-60de-6d9027fd9c69",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Tomaten-Basilikumsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "24ec3b7b-3a9d-0e53-cc94-fbe584f33db3",
+    "Name": "Hausgemachte Nudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "337fc5cf-6063-3cc5-9eb4-633c93e13fb0",
+    "Name": "Ofenkartoffel Sojajoghurt-Knoblauchdip und Salatgarnitur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "c96bf2c0-102c-7365-45d9-f9c6692aa16d",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Tomaten-Basilikumsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "6b33b927-8dfc-d825-3a70-eb47d76e22d5",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "18e950c8-61ed-340f-7bbb-89b25b05833d",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "8ab66486-f272-cc96-54e3-41543fefdab5",
+    "Name": "Rosenkohl mit Zwiebeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
   }
 ]
