@@ -10771,5 +10771,266 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.90
+  },
+  {
+    "Hash": "6a6b66bf-c976-3d73-a50e-afc57d63281e",
+    "Name": "Bohnenpfanne mit Karotten, Ingwer und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "042c9172-c854-3e73-cf66-29517e59df4b",
+    "Name": "Hausgemachte Pasta mit Arrabiata",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "3039a7c1-4e84-b1e2-79a2-55d3c0c3b3b7",
+    "Name": "Hausgemachte Schinkennudeln mit Ei  und Tomatensauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 49221,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "03875245-3b9d-7b35-a02d-fcdbf61f2295",
+    "Name": "Kokosmilchreis mit Ananas",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "d2ab5df8-14ff-9e6f-5f25-0ead372ccf6e",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "821a537d-4046-c45a-fdfe-b531150e1605",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uterdip",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0187d42e-d6c4-35b5-bed4-307ffb749855",
+    "Name": "Hausgemachte Kartoffelpuffer mit Apfelmus",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65541,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "eb6818bb-704e-fa01-efba-de90f19af9ea",
+    "Name": "Bio S\u00FC\u00DFkartoffel Curry mit Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "36785da2-1314-347f-6ddb-b2209fd55d38",
+    "Name": "Hausgemachte Pasta mit Rucola, Hirtenk\u00E4se und einem Petersilie-Basilikum Pesto",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 81,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "551ac445-6ced-863b-fb01-1394d0668580",
+    "Name": "Burger \u0027Feiger Lui\u0027 Focaccia, Rindfleisch, Feige, Rucola, Rotweinzwiebeln",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 3685,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f85b1f7a-3645-fcb9-f372-395912e7dc35",
+    "Name": "Schupfnudeln mit Julienne Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9be4ae41-5b5a-829c-bdc7-50b1c1af8530",
+    "Name": "Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4374604,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "fbdc55a0-383c-18e8-6703-3d1af0be6830",
+    "Name": "Bohnenpfanne mit Karotten, Ingwer und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "1e4432d5-13ad-11d6-e908-fa0dcb55fb2d",
+    "Name": "Hausgemachte Pasta mit Arrabiata",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "7ed7dd48-36c0-5905-01c8-180540daa199",
+    "Name": "Hausgemachte Schinkennudeln mit Ei  und Tomatensauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 49221,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "6af2945f-60e7-1cc3-0cdc-5dce3bec6fd4",
+    "Name": "Kokosmilchreis mit Ananas",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "c6483641-90ad-bb3b-eb39-5a47ca74d6fe",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Marktrestaurant",
+    "Price": 4.00
+  },
+  {
+    "Hash": "72483a13-84b6-6560-4b99-93820c994ccd",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uterdip",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "f6f2c9b2-ada8-349b-8cbb-2ce5704a018a",
+    "Name": "Hausgemachte Kartoffelpuffer mit Apfelmus",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "aa2692a6-bb0f-77a5-dc92-292f64176d48",
+    "Name": "Bio S\u00FC\u00DFkartoffel Curry mit Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "5273f3a6-9d60-0a25-d162-959d0ab2e81f",
+    "Name": "Hausgemachte Pasta mit Rucola, Hirtenk\u00E4se und einem Petersilie-Basilikum Pesto",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 81,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "d9d0cca1-e5c8-7395-a103-53ced3807826",
+    "Name": "Burger \u0027Feiger Lui\u0027 Focaccia, Rindfleisch, Feige, Rucola, Rotweinzwiebeln",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 3685,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "3d77c590-6ddc-c647-961a-e9c07dadc8ea",
+    "Name": "Schupfnudeln mit Julienne Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "035d7fe8-029a-1058-b9bb-4613d523adee",
+    "Name": "Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4374604,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "eabdde02-736a-1a06-9f8d-2f130702b483",
+    "Name": "Thuka Nudelsuppe Gem\u00FCse | Chili",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 98337,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a447c127-9837-4117-8668-d45fb9be123b",
+    "Name": "Creme-Karamell Espresso | Kokosmilch | Orangen | Mandel Biscotti",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16513,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a34e0044-da0f-8256-9b3b-004eb6ee6f52",
+    "Name": "Kimchi fried Rice Kelp Alge | Chili | Sesam | Ei",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 33829,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "a09f20ad-70f6-5096-1bfd-a584669a8b0e",
+    "Name": "Griechischer Bauernsalat Paprika | Oliven | Schafsk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 3137,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "ac3d7fcb-c96b-42d4-eaf5-1a486cfd0388",
+    "Name": "Pizza all\u0027 amatriciana Pancetta | Kirschtomaten | Mozzarella",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 5.30
   }
 ]
