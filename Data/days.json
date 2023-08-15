@@ -10600,7 +10600,13 @@
       "347d77b0-eb62-ecb4-9775-179d6c51ab09",
       "03875245-3b9d-7b35-a02d-fcdbf61f2295",
       "fbbf7a17-469f-93da-e50e-61771f3659e4",
-      "d2ab5df8-14ff-9e6f-5f25-0ead372ccf6e"
+      "d2ab5df8-14ff-9e6f-5f25-0ead372ccf6e",
+      "9a255dd7-ed80-461b-4d92-5a21d08bc610",
+      "12206c21-21d7-7719-9d1d-656a71be091d",
+      "f176e20a-48a2-3595-7d87-abdcddecc2b5",
+      "ad591c18-9635-6b79-19c2-84541a0bb641",
+      "ee2cffed-03ae-3e6f-60fe-b04023bbe10d",
+      "db12d977-e9e8-4237-e55c-97101f08647a"
     ]
   },
   {
@@ -10619,7 +10625,13 @@
       "347d77b0-eb62-ecb4-9775-179d6c51ab09",
       "03875245-3b9d-7b35-a02d-fcdbf61f2295",
       "fbbf7a17-469f-93da-e50e-61771f3659e4",
-      "d2ab5df8-14ff-9e6f-5f25-0ead372ccf6e"
+      "d2ab5df8-14ff-9e6f-5f25-0ead372ccf6e",
+      "001f8960-0a1b-2825-07bb-b35ae781d8c5",
+      "12206c21-21d7-7719-9d1d-656a71be091d",
+      "734d5d08-536d-a605-4f31-00c9b4331500",
+      "790ba2bf-35f5-232c-94c8-6cace6db4c32",
+      "4f835486-4b21-a8c7-35b9-7e26b9f20b59",
+      "4d82af86-f60f-3452-d826-a98bd0d3ac0d"
     ]
   },
   {
@@ -10723,7 +10735,11 @@
       "7586ffd8-10ab-274d-d241-931d4bcc3f10",
       "6af2945f-60e7-1cc3-0cdc-5dce3bec6fd4",
       "848d7b67-b753-21ae-41af-27e50593d7c9",
-      "c6483641-90ad-bb3b-eb39-5a47ca74d6fe"
+      "c6483641-90ad-bb3b-eb39-5a47ca74d6fe",
+      "ab1e189f-0a0c-3a7e-7cb0-f2691a5465bd",
+      "c602a30f-ae1d-5ba7-c632-e69a45a2af1e",
+      "7aafc785-087f-0e04-4917-7d63771039c2",
+      "89aa18da-b380-f531-bd34-ab59fd0e5d61"
     ]
   },
   {
@@ -10816,7 +10832,8 @@
       "bca50060-e830-7aeb-41f4-4b5f248f7a3e",
       "264f0297-5780-7e28-4441-d9342adc23eb",
       "6d352799-0c86-5a47-1928-f27d3169245b",
-      "ac3d7fcb-c96b-42d4-eaf5-1a486cfd0388"
+      "ac3d7fcb-c96b-42d4-eaf5-1a486cfd0388",
+      "c6010fec-338d-b25f-b7ad-9ebbce19efd4"
     ]
   },
   {
@@ -10824,28 +10841,69 @@
     "DayOfWeak": 2,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "eabdde02-736a-1a06-9f8d-2f130702b483",
+      "c6010fec-338d-b25f-b7ad-9ebbce19efd4",
+      "8802401c-a4ab-cbee-6db7-797d9a334e80",
+      "45c85bed-7916-b592-cb51-b33fbd46fff1",
+      "a447c127-9837-4117-8668-d45fb9be123b",
+      "a34e0044-da0f-8256-9b3b-004eb6ee6f52",
+      "a09f20ad-70f6-5096-1bfd-a584669a8b0e",
+      "264f0297-5780-7e28-4441-d9342adc23eb",
+      "6d352799-0c86-5a47-1928-f27d3169245b",
+      "ac3d7fcb-c96b-42d4-eaf5-1a486cfd0388"
+    ]
   },
   {
     "Date": "2023-08-16",
     "DayOfWeak": 3,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "eabdde02-736a-1a06-9f8d-2f130702b483",
+      "8802401c-a4ab-cbee-6db7-797d9a334e80",
+      "45c85bed-7916-b592-cb51-b33fbd46fff1",
+      "a447c127-9837-4117-8668-d45fb9be123b",
+      "a34e0044-da0f-8256-9b3b-004eb6ee6f52",
+      "a09f20ad-70f6-5096-1bfd-a584669a8b0e",
+      "264f0297-5780-7e28-4441-d9342adc23eb",
+      "6d352799-0c86-5a47-1928-f27d3169245b",
+      "ac3d7fcb-c96b-42d4-eaf5-1a486cfd0388"
+    ]
   },
   {
     "Date": "2023-08-17",
     "DayOfWeak": 4,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "eabdde02-736a-1a06-9f8d-2f130702b483",
+      "8802401c-a4ab-cbee-6db7-797d9a334e80",
+      "45c85bed-7916-b592-cb51-b33fbd46fff1",
+      "a447c127-9837-4117-8668-d45fb9be123b",
+      "a34e0044-da0f-8256-9b3b-004eb6ee6f52",
+      "a09f20ad-70f6-5096-1bfd-a584669a8b0e",
+      "264f0297-5780-7e28-4441-d9342adc23eb",
+      "6d352799-0c86-5a47-1928-f27d3169245b",
+      "ac3d7fcb-c96b-42d4-eaf5-1a486cfd0388"
+    ]
   },
   {
     "Date": "2023-08-18",
     "DayOfWeak": 5,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "eabdde02-736a-1a06-9f8d-2f130702b483",
+      "8802401c-a4ab-cbee-6db7-797d9a334e80",
+      "45c85bed-7916-b592-cb51-b33fbd46fff1",
+      "a447c127-9837-4117-8668-d45fb9be123b",
+      "a34e0044-da0f-8256-9b3b-004eb6ee6f52",
+      "a09f20ad-70f6-5096-1bfd-a584669a8b0e",
+      "264f0297-5780-7e28-4441-d9342adc23eb",
+      "6d352799-0c86-5a47-1928-f27d3169245b",
+      "ac3d7fcb-c96b-42d4-eaf5-1a486cfd0388"
+    ]
   },
   {
     "Date": "2023-08-14",

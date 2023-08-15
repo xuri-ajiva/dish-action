@@ -11032,5 +11032,14 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 5.30
+  },
+  {
+    "Hash": "734d5d08-536d-a605-4f31-00c9b4331500",
+    "Name": "Basmati Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
