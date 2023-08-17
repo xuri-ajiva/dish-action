@@ -11041,5 +11041,50 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "719d230b-6625-a99a-6fa7-7d8182ead1e9",
+    "Name": "Bohnenpfanne mit Karotten, Ingwer und Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "719eb480-a101-d37f-f501-dc31f0e7dd98",
+    "Name": "Gem\u00FCseschnitte dazu Tomatensauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 257,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "88098c62-18b0-6c30-0aca-d209cf88ad26",
+    "Name": "Fruchtquarkspeise Apfel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65600,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e5d8544b-6cca-c5d2-12b7-dbedfe03cfc7",
+    "Name": "Fruchtquarkspeise Apfel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65600,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b66c959b-e125-d6c9-9ea5-42c51d4285b4",
+    "Name": "Mischgem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
   }
 ]
