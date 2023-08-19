@@ -11086,5 +11086,257 @@
     "AllergensAndAdditives": 16384,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.90
+  },
+  {
+    "Hash": "9f32486d-c8ac-d0f2-cf1c-af612b3a1edf",
+    "Name": "Hausgemachte Pasta alla Carbonara mit ger\u00E4uchertem Tofu",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "a5a397ce-7db0-cec8-dcc2-4f96afab206a",
+    "Name": "Hausgemachte Pasta mit Tomatensauce \u0027Caruso\u0027 mit Champignons",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "f1297d1c-f900-925d-a90f-085dc4753d8d",
+    "Name": "Spinatkn\u00F6del mit einer Gorgonzolasauce und Waln\u00FCssen",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 197,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "39af7c3f-3995-6165-37b6-8c36d60ab513",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2427392,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "3da10d35-d31f-f383-c8b3-12f0f24722f3",
+    "Name": "Ratatouille \u0027provencale\u0027 dazu gebratene Polenta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16416,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "6e9e5fc2-98af-e414-8b8e-3ae44c0ae837",
+    "Name": "Schnitzel paniert mit Champignonsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264517,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "36486479-44ea-c807-e0dc-89a28f7df7a8",
+    "Name": "Veganes Moussaka",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 49185,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "4e20af30-6d7f-04b9-6257-51c89bafbfb3",
+    "Name": "K\u00FCrbiscurry mit Basmatireis",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1088,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "0869857e-2d02-cbc4-71c5-5f81cb523480",
+    "Name": "Grillbraten vom Schweinenacken mit Tsatsiki",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "5fc2aef3-759c-d145-30ea-0500bf80a70e",
+    "Name": "Mathildenburger Sesam Bagel, Gem\u00FCsepatty, Champignons, Sojasprossen, Joghurt",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1637,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "6db916f6-0b16-3d15-f623-92c5ed7be6d5",
+    "Name": "Forelle  \u0027M\u00FCllerin Art\u0027 mit Petersilienbutter und Kartoffeln",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 329,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "c1a60c56-2bfa-aa7e-093f-3669149f1c0c",
+    "Name": "Hausgemachte Pasta mit Tomatensauce \u0027Caruso\u0027 mit Champignons",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "0d774671-358a-1aef-e004-569d9f65108e",
+    "Name": "Hausgemachte Pasta alla Carbonara mit ger\u00E4uchertem Tofu",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "f9e5f49b-8d64-3716-c78c-4d3c94089739",
+    "Name": "Spinatkn\u00F6del mit einer Gorgonzolasauce und Waln\u00FCssen",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 197,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "369f8a23-e61e-d188-f38d-b52d89d9bf96",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2427392,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "41111bde-b86e-5cd3-ede9-9d3d05852d4f",
+    "Name": "Ratatouille \u0027provencale\u0027 dazu gebratene Polenta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16416,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "554de229-f091-60f8-f41a-0862daab140a",
+    "Name": "Schnitzel paniert mit Champignonsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264517,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "84de27fe-a9d8-5ea9-e407-e491c1b03c8d",
+    "Name": "Veganes Moussaka",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 49185,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "401f7124-f074-c103-ffef-7d95532090a2",
+    "Name": "K\u00FCrbiscurry mit Basmatireis",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1088,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "db5e9c3e-cbc7-cf6f-98a0-a8f4db3f768b",
+    "Name": "Pudding Haselnuss",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "45ba6ab3-0dba-19c3-b676-fb5e1a4eec2a",
+    "Name": "Grillbraten vom Schweinenacken mit Tsatsiki",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "70ea0834-355a-f635-af10-914bceb8c9bc",
+    "Name": "Mathildenburger Sesam Bagel, Gem\u00FCsepatty, Champignons, Sojasprossen, Joghurt",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1637,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "e694dd17-fb4c-564b-f956-0905831a51b7",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se \u00FCberbacken dazu Sour Cream",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 16481,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "bb5e9d5e-59af-ca2b-5977-2a3296645762",
+    "Name": "Forelle  \u0027M\u00FCllerin Art\u0027 mit Petersilienbutter und Kartoffeln",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 329,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "c9261b25-e776-974f-32f2-b84159dc62ee",
+    "Name": "Salat Bowl Halloumi | Rucola | Pizzabrot",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 19041,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8c209456-770b-e54c-5c04-36706d0dae55",
+    "Name": "Pizza mit Wurzelgem\u00FCse rote Beete | Schafsfk\u00E4se | S\u00FC\u00DFkartoffeln | M\u00F6hren",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "fb6ee4a1-174b-0488-dcb1-65ddd8ed7a7f",
+    "Name": "Cheesecake im Glas Himbeeren",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "0e7ce75f-4cf7-408f-3100-5fb693b57c5e",
+    "Name": "Frikadelle Rindfleisch | Ei | Senf | Apfel | Kohlrabi | Kraut",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 66053,
+    "Location": "Mensa",
+    "Price": 5.70
   }
 ]
