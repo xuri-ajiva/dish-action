@@ -11338,5 +11338,23 @@
     "AllergensAndAdditives": 66053,
     "Location": "Mensa",
     "Price": 5.70
+  },
+  {
+    "Hash": "aaa197db-04ca-367b-0683-c0c8b62e178f",
+    "Name": "Lauchcremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "136d44c0-5437-314b-4be2-c2c36c237625",
+    "Name": "Hausgemachtes Kr\u00E4uterp\u00FCree",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
   }
 ]
