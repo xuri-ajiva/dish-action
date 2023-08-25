@@ -11401,5 +11401,41 @@
     "AllergensAndAdditives": 66053,
     "Location": "Mensa",
     "Price": 5.70
+  },
+  {
+    "Hash": "e6926328-d6af-0159-bbac-0754c6e27141",
+    "Name": "Tagessuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "57b1d5e8-cc7c-fbe5-6342-6d9ae984425c",
+    "Name": "Tomaten-Gem\u00FCsesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "9473efb2-60f1-7deb-92a0-d9925d43e11c",
+    "Name": "Kohlrabicremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "231d7489-4270-792d-4bf3-7b9641e27580",
+    "Name": "Kartoffelgratin",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
   }
 ]
