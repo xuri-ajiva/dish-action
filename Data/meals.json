@@ -11437,5 +11437,77 @@
     "AllergensAndAdditives": 65,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.00
+  },
+  {
+    "Hash": "b95bd7a8-beaf-b3ad-99ac-def0f9ebad5c",
+    "Name": "Fr\u00FChlingsrolle vegetarisch mit s\u00FC\u00DF-saurem Dip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "51b7e940-7e80-61ae-362b-942510fe058d",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "14a248ef-9814-63b5-a04f-522c243b4a27",
+    "Name": "Fr\u00FChlingsrolle vegetarisch mit s\u00FC\u00DF-saurem Dip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "e32b3d2c-f491-5188-7478-f3f1f760f12b",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "cbd09e7d-4b4f-e0e1-fc20-fac131148e62",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "8e2fee53-c7b0-14a1-5544-4c7fdce74dc1",
+    "Name": "Geschmorte rote Beete Zitronen | Sojajoghurt | Kreuzk\u00FCmmel",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65569,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1a3f9dd2-d9c7-2521-707a-881823737c3c",
+    "Name": "Bibimbap Reis | Tofu | Gem\u00FCse | Ei",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 246821,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "7c394710-4d80-a779-120f-46f4651aff56",
+    "Name": "No-Bake-Cake Biskuit | Frischk\u00E4se | Schokolade | Erdbeeren",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
