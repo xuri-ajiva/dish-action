@@ -11509,5 +11509,95 @@
     "AllergensAndAdditives": 69,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "c1a991fe-cfaf-608b-0c60-80de59278bf9",
+    "Name": "Kokos-Linsensuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "fc408ba0-4922-b968-207b-e10eb7bbba5f",
+    "Name": "mensaVital Chili sin Carne mit Kr\u00E4uterreis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f0da5527-7540-870f-9b8b-e9a55b47a5aa",
+    "Name": "mit Tomaten-Olivensauce Hausgemachte Pasta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 524289,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "61668e6c-8a98-9ac8-1a1b-0bb6ee6a7117",
+    "Name": "Fr\u00FChlingsrolle vegetarisch Dip s\u00FC\u00DF-sauer N 2019 Bistro",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0ddd654e-96db-e6ce-f6f2-c052d53479bf",
+    "Name": "mit Schinken-Sahne Sauce und Erbsen Hausgemachte Pasta",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 32837,
+    "Location": "Marktrestaurant",
+    "Price": 2.70
+  },
+  {
+    "Hash": "6fc89ff2-b9b6-da41-e973-624b0cf3bdfb",
+    "Name": "Sesamreis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1024,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "9c3c980c-cb97-f7de-a0c3-55431d1866bc",
+    "Name": "Pommes Frites",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "7ed48c49-248c-d841-6e18-fe81c1baebc5",
+    "Name": "Hausgemachte Pasta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "55044fe8-7a95-6212-eaf3-4226e5706120",
+    "Name": "Solero Dessert im Glas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "05db828c-4521-8708-3a99-86ab7676a3c3",
+    "Name": "Forelle  \u0027M\u00FCllerin Art\u0027 N Salzkartoffeln Petersilienbutter N 2016",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 329,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
   }
 ]
