@@ -11599,5 +11599,50 @@
     "AllergensAndAdditives": 329,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.20
+  },
+  {
+    "Hash": "ce6fa2a7-49bb-b747-e302-959e4bce5ba3",
+    "Name": "Fr\u00FChlingsrolle vegetarisch mit s\u00FC\u00DF-saurem Dip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9012c0d7-5287-34f8-8f90-a892425d2d5d",
+    "Name": "Mischgem\u00FCse vegan",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "76b4f78f-b54e-7e6e-90eb-b9be2bcd94f3",
+    "Name": "Kartoffelcremesuppe mit Gem\u00FCseeinlage",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "16801257-3a2c-3f99-4128-fc4bb4b7ee40",
+    "Name": "Mischgem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ffc5f977-6be4-75bb-e73d-25d67272b2ce",
+    "Name": "Pflaumen Crumble Pflaumen | Haferflocken | Zimt",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16385,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
