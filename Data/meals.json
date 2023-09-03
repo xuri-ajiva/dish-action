@@ -11644,5 +11644,158 @@
     "AllergensAndAdditives": 16385,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "24d78565-6261-a82c-5464-026dcc8c008f",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Kr\u00E4utersauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "d8bf99d4-bc64-a712-96f6-e1d57df3f818",
+    "Name": "Frischk\u00E4sek\u00F6fte auf Spinatreis dazu ein scharfer Tomatendip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1217,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "6042c752-0d02-8782-5a2f-5027fcab66e9",
+    "Name": "Bio Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "a32541db-a4b4-5539-5a03-752849dc369a",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Butter geschwenktem Julienne Gem\u00FCse",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "c17c00be-415c-1cfb-05dc-66ec7e500b16",
+    "Name": "Hausgemachte Lasagne-Bolognese",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "0d7b58ba-7c3e-ee3b-5cac-36319ae87064",
+    "Name": "Gebratenes Gem\u00FCse mit Kokosmilch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "bb6bb35f-f164-bb82-ad99-9da23b23eb08",
+    "Name": "Kartoffel-Zucchinipuffer mit Kr\u00E4uterschmand",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "cec96048-f3a4-e606-9f60-37164c17bb95",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Sauce tartare",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66125,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "726ff43f-167b-eea6-2b32-9f662dda611f",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Kr\u00E4utersauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "92ccb488-f59b-d528-b675-baa393b89bdb",
+    "Name": "Frischk\u00E4sek\u00F6fte auf Spinatreis dazu ein scharfer Tomatendip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "2f74a04a-1d0b-79d3-3958-50e9461ace4a",
+    "Name": "Bio Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "4562fd7a-64dd-7426-8145-574c3b275462",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Butter geschwenktem Julienne Gem\u00FCse",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "5eed4b7a-1517-dc1e-4206-d3dbd0068b5a",
+    "Name": "Hausgemachte Lasagne-Bolognese",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "87fe28c5-536c-1f75-6ec9-37ec177702ba",
+    "Name": "Gebratenes Gem\u00FCse mit Kokosmilch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "520be7aa-5a51-03c3-e3ca-0a538537b23a",
+    "Name": "Kartoffel-Zucchinipuffer mit Kr\u00E4uterschmand",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "d5eb9622-e761-9e00-7e92-3f0f4b3dfce8",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Sauce tartare",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66125,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c7c745d3-0425-e48e-6b8e-798b8f98ea0a",
+    "Name": "Chinesische Gem\u00FCsesuppe mit Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
