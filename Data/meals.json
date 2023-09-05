@@ -11797,5 +11797,23 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "e5982c2a-7d3e-9b0e-4093-9cafc713afd5",
+    "Name": "Karotten-Ingwersuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "f86f8169-be8c-d434-71bc-514119addf8a",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
   }
 ]
