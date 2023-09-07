@@ -11815,5 +11815,32 @@
     "AllergensAndAdditives": 321,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.60
+  },
+  {
+    "Hash": "e8cbc898-1758-007a-9026-5361a94c5fba",
+    "Name": "Hausgemaxchter Kartoffelsalat",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 66048,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "47b6745b-97cb-1ab7-4ac5-9960646cc446",
+    "Name": "Mischgem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "c736f42d-8ac3-28ef-f7dc-8ace2f4c642d",
+    "Name": "Broccoli mit Semmelbr\u00F6seln",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
