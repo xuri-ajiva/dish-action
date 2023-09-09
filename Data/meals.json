@@ -11842,5 +11842,194 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "0617229d-7941-3f77-6151-6b439d6210e3",
+    "Name": "mensaVital S\u00FC\u00DFkartoffel-Kokos-Soja-Curry mit Tomatenbulgur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "eaa3b17d-b172-37c8-6f0f-24f85202d8b8",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "5bc211ba-b67f-938c-d4c6-3f5b9ef635e7",
+    "Name": "Reispfanne \u0027Griechische Art\u0027 mit Paprika, Bohnen und Schafsk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "9f45dc44-0482-e04f-b886-0b9121ba0cf9",
+    "Name": "J\u00E4gergulasch mit frischen Champignons",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "3fa6624a-a839-221b-1cf1-2262a27032eb",
+    "Name": "Vegane Cevapcici mit Ajvar",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9dcf5149-781a-f2c9-1df1-105b2f236ebb",
+    "Name": "Bio Brokkoligratin",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "ffd73984-0f5d-fe5a-13fc-a821eb90f8f3",
+    "Name": "Kammbraten \u0027Holzf\u00E4ller Art\u0027",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98304,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "5f3067b8-d793-3de2-2215-026ea44ed366",
+    "Name": "S\u00FC\u00DFkartoffel-Erdnuss Eintopf mit Linsen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65840,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9f986d2a-d08a-5787-f3d4-7c14e117dbe5",
+    "Name": "Hausgemachter Bulgur-Gem\u00FCse-Bratling dazu eine Schnittlauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "267dbb84-1877-a677-69a4-ce879328d1b0",
+    "Name": "Bio Kartoffelpfanne mit Karotten, Lauch, Erbsen und R\u00FChrei",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 260,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a4f39dd5-ca92-5a46-e950-634d730f7b04",
+    "Name": "mensaVital S\u00FC\u00DFkartoffel-Kokos-Soja-Curry mit Tomatenbulgur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "e36ac97a-40fb-a2c6-f365-73bd0121e7bc",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Marktrestaurant",
+    "Price": 2.10
+  },
+  {
+    "Hash": "609aa4f0-b563-9232-9332-8d8d30dd9309",
+    "Name": "Reispfanne \u0027Griechische Art\u0027 mit Paprika, Bohnen und Schafsk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "a0017eca-8190-a7e2-1699-5c5f35e02c59",
+    "Name": "J\u00E4gergulasch mit frischen Champignons",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "e7cc3029-ba0d-9c8a-8bc9-2ded0797d16f",
+    "Name": "Vegane Cevapcici mit Ajvar",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7e59b355-41ae-099c-6492-f32d90c9821e",
+    "Name": "Bio Brokkoligratin",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "888834f5-bec9-6be7-13a9-0e2e12829107",
+    "Name": "Kammbraten \u0027Holzf\u00E4ller Art\u0027",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98304,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "ee2d4a1f-0c74-6a37-5f5d-5e9a335fdfb8",
+    "Name": "Kokos Mandel Pudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "2bfdd1fc-5058-eefb-5f7a-4dcf9fee1d76",
+    "Name": "S\u00FC\u00DFkartoffel-Erdnuss Eintopf mit Linsen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65840,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8e4ea871-20da-e66d-b3aa-70fc2f8768de",
+    "Name": "Hausgemachter Bulgur-Gem\u00FCse-Bratling dazu eine Schnittlauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "52cec0a0-3f57-17dd-a5c3-07d5a6b24f3f",
+    "Name": "Bio Kartoffelpfanne mit Karotten, Lauch, Erbsen und R\u00FChrei",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 260,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
   }
 ]
