@@ -12031,5 +12031,41 @@
     "AllergensAndAdditives": 260,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.90
+  },
+  {
+    "Hash": "2207a65d-f5df-e913-4ea5-924af00496d9",
+    "Name": "Kartoffel-Zucchinicremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "2ae6d20e-e873-ba06-19b0-10a37bd1547f",
+    "Name": "Sp\u00E4tzle frisch",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "95528170-1fa5-f255-f19c-36210bb10fed",
+    "Name": "Forelle  \u0027M\u00FCllerin Art\u0027 mit Petersilienbutter und Salzkartoffeln",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 329,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "5994b9ac-a0a1-62f8-4a55-2a19668df9ef",
+    "Name": "Spinatcremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
   }
 ]
