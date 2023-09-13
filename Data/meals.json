@@ -12067,5 +12067,68 @@
     "AllergensAndAdditives": 69,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.60
+  },
+  {
+    "Hash": "2095241f-0491-8ab0-ff95-fff93bff30a9",
+    "Name": "Vanille Pudding mit Erdbeerspiegel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "2f2da8c2-d413-bbf4-ea76-11daedfd0435",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "1a5bef6e-41d1-b1b4-2630-e16c3ec5f206",
+    "Name": "Vanille Pudding mit Erdbeerspiegel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8d73d785-4332-c213-301f-653e94b39aa8",
+    "Name": "Kartoffelcreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "b72fce6e-cbb2-2e62-1f27-7b814e1f2c65",
+    "Name": "Blumenkohlcremesuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "6b5cff39-6aa1-29b2-d91c-edb665fcc580",
+    "Name": "Wirsinggem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "f1a4e9ff-922f-cfaa-78e3-ca3875025ae9",
+    "Name": "Hausgemachte Pasta mit Napolisauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
