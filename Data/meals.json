@@ -12175,5 +12175,266 @@
     "AllergensAndAdditives": 99140,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "2af0e26c-f467-5a7c-f1c9-be0e48e36173",
+    "Name": "Gnocchis mit buntem Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "3171d700-7a8d-315e-03b7-4e30f4f9cb28",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Meerrettich-Apfel Sauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 67909,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "ee5746e8-883e-aede-6abf-d86730432707",
+    "Name": "Hausgemachte Pasta mit Brokkoli-Sahne Sauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "94d505d5-42dc-7278-7280-1d8579f833f6",
+    "Name": "Serbisches Reisfleisch vom Rind",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f6f99f8d-5c2b-6a38-a483-91c3796831fb",
+    "Name": "Quark-Nougatcreme im Glas mit Sauerkirsch Fruchtsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a0a390c6-f661-fc9e-f4f5-2d94ac1fdee0",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a5b7e05e-e3a2-8068-49ca-16831d537f40",
+    "Name": "Geschmorte Champignons dazu ein Kr\u00E4uterdip",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "988ba429-842c-1b69-06b1-fb7b871fbe14",
+    "Name": "Sp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65541,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8509f81a-0a89-14bf-7d72-5c73ae7bbb68",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c4f71d23-fc3e-31c9-9b7a-d856f69fcba4",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "447da1ba-fe1d-aa86-b125-cd8033d9d53a",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit D\u00F6rrfleisch und ein Paar Wiener W\u00FCrstchen",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "776c9b54-51e7-0717-6e49-2542d6533d02",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit D\u00F6rrfleisch",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98560,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "462b41da-82ed-3a46-2f08-f91876dd5fd8",
+    "Name": "Gr\u00FCnkohl-Hanf-Burger mit rote Beete Chutney",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 363553,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "b9726a1b-dcd7-8611-7c8a-d0c7087475a6",
+    "Name": "Schupfnudeln mit Apfelmus , Zimt und Zucker",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65537,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "ceb560e2-334c-1f18-c4b0-a6884c6a51bf",
+    "Name": "Schollenfilet paniert mit einer Zitrone und Sauce tartare",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66381,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "f0b1513a-03f8-f131-001c-7b43186114ed",
+    "Name": "Gnocchis mit buntem Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "b95c512e-f499-76ff-6dec-ff114ea97b75",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Meerrettich-Apfel Sauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 67909,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "f720201d-9aab-33e7-461a-d769d29b4d35",
+    "Name": "Hausgemachte Pasta mit Brokkoli-Sahne Sauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "81fcc748-b45f-b9aa-6ca5-ced444c7a936",
+    "Name": "Serbisches Reisfleisch vom Rind",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "eea74a49-5e9e-40e9-8cce-6c50fc86c775",
+    "Name": "Quark-Nougatcreme im Glas mit Sauerkirsch Fruchtsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "1ea0e1b5-4d4c-1412-5ac1-6fc1bde5d9f1",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Marktrestaurant",
+    "Price": 2.90
+  },
+  {
+    "Hash": "fd4c2a33-75c6-bd29-7a4e-499e809716bb",
+    "Name": "Geschmorte Champignons dazu ein Kr\u00E4uterdip",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "e9bf3dbe-f2c3-bce0-1539-d6a1842fb3c0",
+    "Name": "Sp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "b122620d-e636-7d3d-9b79-d87ae3826007",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "deda3118-c91f-7a3a-54f9-33c9971a782e",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit D\u00F6rrfleisch und ein Paar Wiener W\u00FCrstchen",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "7b9d7f95-4ce3-f68d-f357-82fcbb47581b",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit D\u00F6rrfleisch",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98560,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "536e345d-fc0a-b5d5-364c-8c57d46ba067",
+    "Name": "Gr\u00FCnkohl-Hanf-Burger mit rote Beete Chutney",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 363553,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "47169714-638e-a255-c9e1-bfed45ceebd6",
+    "Name": "Schupfnudeln mit Apfelmus , Zimt und Zucker",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "49f36eec-2ff6-c8e7-18d0-d6a7834fdcce",
+    "Name": "Schollenfilet paniert mit einer Zitrone und Sauce tartare",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66381,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
   }
 ]
