@@ -12436,5 +12436,23 @@
     "AllergensAndAdditives": 66381,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.30
+  },
+  {
+    "Hash": "58376783-bc21-1d05-5ea6-d3498ee28c6c",
+    "Name": "Quark-Nougatcreme im Glas mit Banane",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "1d8bf5e3-f6c7-7428-63c9-083229959bca",
+    "Name": "Grie\u00DFbrei mit Sauerkirsch Fruchtsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
