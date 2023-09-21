@@ -12454,5 +12454,32 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "0266a672-e863-1aba-2015-2fcc2d5b3c29",
+    "Name": "Gem\u00FCsebr\u00FChe mit Einlage",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "3217fb0e-97fd-5be0-b590-97abed6fd8e3",
+    "Name": "Brokkoli mit Butter und Mandeln",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "05506e2f-cc39-f390-3214-d1e803768835",
+    "Name": "Gelbe Linsen-Currysuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
