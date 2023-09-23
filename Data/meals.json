@@ -12481,5 +12481,149 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "b861027c-9839-12a4-ff80-9c6078c6790f",
+    "Name": "Hausgemachte Pasta mit Tomaten-Brokkoli Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "9fcdf53c-e3ed-543a-fb7c-89d59d91c28a",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8a220ac6-d9ef-1ca6-c5a2-d25e79a7ae39",
+    "Name": "Quarkspeise mit Ananas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "950287f2-a050-e195-9a2a-cf630bf86701",
+    "Name": "Aubergine-Zucchini Auflauf mit Tomaten-Basilikum Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "f6ef7eae-5536-6153-526c-ab1b09b6b823",
+    "Name": "Bohnenpfanne mit Karotten, Ingwer und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "81502786-59c1-351f-7aee-75070e51407a",
+    "Name": "Ofenfrischer Fleischk\u00E4se mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "700bca2a-7b87-cc8a-a79a-1548f422b5ca",
+    "Name": "Cappuccinopudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "243d0bcb-c6cb-764d-3ba3-f2b949d4faa0",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "d7dfd6cf-3436-6cdc-fff8-b7675af55c45",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Remoulade",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4293197,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "5f709344-d65c-90e9-be80-63e4e353d133",
+    "Name": "Hausgemachte Pasta mit Tomaten-Brokkoli Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Marktrestaurant",
+    "Price": 2.10
+  },
+  {
+    "Hash": "aca2f8db-395a-937d-fd32-b239f3a74674",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "cbdf53cf-39e5-d878-9788-58042ccf64f9",
+    "Name": "Aubergine-Zucchini Auflauf mit Tomaten-Basilikum Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "1e0cad21-4618-9e9f-2a05-d3e24b715f22",
+    "Name": "Bohnenpfanne mit Karotten, Ingwer und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "58480a65-86ea-0faa-f828-30704e5e4ef2",
+    "Name": "Ofenfrischer Fleischk\u00E4se mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "4ccca784-15b9-33ec-3132-0587c9f0aeaf",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "52e76bcf-37d5-016c-39f5-2d1f98f73fa6",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Remoulade",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4293197,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
   }
 ]
