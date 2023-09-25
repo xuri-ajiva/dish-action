@@ -12625,5 +12625,32 @@
     "AllergensAndAdditives": 4293197,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.80
+  },
+  {
+    "Hash": "e2e64a26-fbfc-adfa-2f9e-1202ed35752c",
+    "Name": "Schnitzel mit Zwiebelsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264453,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e8cefaee-ce8d-475f-7351-4597c353db9a",
+    "Name": "Kartoffel-Zucchiniauflauf mit einer Kr\u00E4utersauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "82aec310-9258-0c49-d61d-96e71c3707d2",
+    "Name": "Schnitzel mit Zwiebelsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264453,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
   }
 ]
