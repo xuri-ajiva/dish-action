@@ -12652,5 +12652,41 @@
     "AllergensAndAdditives": 264453,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.30
+  },
+  {
+    "Hash": "69809af4-2839-ed90-78b8-1f3cd74f9837",
+    "Name": "Kartoffelcremesuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "88cfb29f-6f55-5b19-11b9-06920474776a",
+    "Name": "Gem\u00FCsebr\u00FChe mit Einlage (Reis und Gem\u00FCse)",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "e42a688a-09c1-17b7-5ccd-88f5b72f420c",
+    "Name": "Rosenkohl mit Zwiebeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "3afb89a3-331e-4253-655d-ec813f44681f",
+    "Name": "Schnitzel mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
   }
 ]
