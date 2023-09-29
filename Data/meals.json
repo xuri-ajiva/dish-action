@@ -12688,5 +12688,41 @@
     "AllergensAndAdditives": 325,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.30
+  },
+  {
+    "Hash": "f5106b83-028a-ecac-0e00-925590768279",
+    "Name": "Kartoffel-Lauch- Cremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "d09fb560-c04e-11f5-616d-766381894f4a",
+    "Name": "Quarkspeise mit Ananas",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "765e6519-fbc4-fb81-a65b-5a4d7090547a",
+    "Name": "Zucchini-Mais Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "d48e7cd9-a453-4a34-b8b8-e9e2f56eb5a3",
+    "Name": "M\u00F6hren-Pastinaken Gem\u00FCse",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
