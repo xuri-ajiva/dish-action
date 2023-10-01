@@ -12724,5 +12724,185 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "35989d8f-903d-8007-de7a-c83cf87b835a",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "d9bf7b96-8d04-35f5-60eb-8d0a51fa50cf",
+    "Name": "Bio Kokosmilchreis mit Erdbeerspiegel",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "874be5e6-3e7f-01b1-18f5-82eacd601c1b",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 98353,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "771741ea-96b7-1c70-4f73-a0b4ddee2faa",
+    "Name": "Linseneintopf",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65792,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "8165c489-6eea-63fe-6d59-8223ada6dc3d",
+    "Name": "Karotten-Kartoffel-Auflauf mit K\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "662f4fa3-f853-680c-78d3-dcec150b857a",
+    "Name": "Linseneintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "6f0f9524-deb1-a6da-7a68-c36c527067d9",
+    "Name": "Pfannen Gnocchi mit Rosenkohl, Spinat und Pinienkernen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "02c84d74-3cc8-30bb-9cc7-7b83a9fd3892",
+    "Name": "Bio Gem\u00FCsecurry mit Karotten, Blumenkohl, Brokkoli und Erbsen",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "f3433839-37fa-d9ae-a3cc-38f2c3bfdce0",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uterdip",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "c23509d2-5f2b-ae6c-e8b8-73bb2728d9d3",
+    "Name": "Soja Chili mit Bohnen und Mais",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "efc67612-ee5a-b1ab-bbcd-699b2221fd00",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Marktrestaurant",
+    "Price": 2.50
+  },
+  {
+    "Hash": "58fdff35-fdef-0020-f6ba-8b35417009a3",
+    "Name": "Bio Kokosmilchreis mit Erdbeerspiegel",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "997aa48c-6405-bb80-918f-ac5054335e9b",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 98353,
+    "Location": "Marktrestaurant",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d656ecc0-037c-636b-b622-0dcb36a0db92",
+    "Name": "Linseneintopf",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "fb1a2848-7799-879e-e28b-2939d575e201",
+    "Name": "Karotten-Kartoffel-Auflauf mit K\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "3a95d219-f8b5-ab6f-fb5b-10a867da68f4",
+    "Name": "Linseneintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "251453d0-e2a9-3c7c-ca16-215e0f98d384",
+    "Name": "Pfannen Gnocchi mit Rosenkohl, Spinat und Pinienkernen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "17ab2776-5d9c-03aa-9cc3-6d2608846ced",
+    "Name": "Bio Gem\u00FCsecurry mit Karotten, Blumenkohl, Brokkoli und Erbsen",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "b45bee9e-28cb-376b-0904-2abad05b1e41",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uterdip",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "3df56624-f43d-c762-aa5d-9eeaf3794d01",
+    "Name": "Fischst\u00E4bchen mit Remouladensauce",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4309069,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
   }
 ]
