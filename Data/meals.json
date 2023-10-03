@@ -12904,5 +12904,59 @@
     "AllergensAndAdditives": 4309069,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.80
+  },
+  {
+    "Hash": "ec19c14e-4607-7adc-77b9-872d0cd9c5d9",
+    "Name": "Bohnen-Tomatensuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "814603c8-73b8-d2bc-3047-d23f61279a7d",
+    "Name": "Butterm\u00F6hren",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "8566b3b2-9f71-5cd0-317d-3c88a6490892",
+    "Name": "mit Bolognese von roten Linsen Hausgemachte Pasta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Marktrestaurant",
+    "Price": 2.50
+  },
+  {
+    "Hash": "bc95f280-febe-93ca-3bea-ae35d4bd5dd7",
+    "Name": "Linsencreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "7daec70a-ee9d-63bf-9b13-242dedfa33f5",
+    "Name": "Kokosmilchreis BIO Erdbeerspiegel f\u00FCr Dessert N 2023",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "50c2202d-2776-5ceb-8f37-89d29ebc8e45",
+    "Name": "Gem\u00FCsecrmesuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
