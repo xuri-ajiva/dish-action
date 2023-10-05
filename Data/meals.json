@@ -12958,5 +12958,41 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "41b43634-a080-7c6c-1f67-9c2f601445cc",
+    "Name": "Tomaten-Gem\u00FCsesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "d44d53e3-b177-605d-f837-8c2a781b1aa7",
+    "Name": "Gem\u00FCsekn\u00F6del mit B\u00E4rlauch Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "00168541-1135-4874-9491-06ec104b401f",
+    "Name": "Schnitzel paniert mit Rahmsauce und einer Zitrone",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "6c06a759-bb46-1bd5-258d-0fd7afb1f7dd",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
   }
 ]
