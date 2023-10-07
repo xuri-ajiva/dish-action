@@ -12994,5 +12994,347 @@
     "AllergensAndAdditives": 65,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.80
+  },
+  {
+    "Hash": "3525e7a8-d5f3-f1d5-2f83-5c8d1017f9a4",
+    "Name": "mensaVital Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "df429294-72ba-95d2-6f11-bde229f484ad",
+    "Name": "Hausgemachte Pasta dazu eine Tomatensauce \u0027Caruso\u0027 mit Champignons",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "be1a337a-c0c8-b759-6f8a-21fc73e5ec40",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 32773,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "7bff30ae-11eb-e01b-d98c-6e883fb525bc",
+    "Name": "Rosenkohl mit Butter",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "3228cde7-0c83-778b-55de-77039f83eda2",
+    "Name": "Quark-Nougatcreme mit Bananen im Glas mit Sauerkirschspiegel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a487ba38-272e-2204-9457-bd2a4b04d0e4",
+    "Name": "WOK Bio Asia Kokos Pfanne mit Gem\u00FCse und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "5ada99fe-67c6-be1c-63ad-f1a55eaace05",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 378913,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "2490f10a-9e83-64a3-4272-d0c6e95cb564",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "96ec44cc-835d-f2c1-ed08-8549b5155ddd",
+    "Name": "Bayrischer Schweinebraten mit Biersauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "74e699be-5c71-60a5-eb5e-c7966cc767ef",
+    "Name": "Wei\u00DFkohl-Kichererbsen-Ragout mit Vollkornreis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "37bc4748-c950-2dc6-1773-727ee20c43dd",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "38acea95-a092-0b62-7df9-aed28f85e343",
+    "Name": "Bayrische Pfanne mit gezupftem Schweinebraten",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 362561,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "491f200e-d91b-8b0d-9e99-47614c633127",
+    "Name": "Kartoffel-Spinat-Auflauf mit einer leichten Knoblauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "104f6e86-4d28-79a9-b5ad-0463c433f79d",
+    "Name": "Leberkn\u00F6del mit Specksauce auf Sauerkraut",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 362757,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "621b06bb-8a70-db8d-ad52-b3b7208e2c22",
+    "Name": "mensaVital Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "d97ce0a1-5e76-42b2-d1f4-3f39a28098aa",
+    "Name": "Hausgemachte Pasta dazu eine Tomatensauce \u0027Caruso\u0027 mit Champignons",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "2b73614b-bbc3-b64c-09c9-4620e403e5d3",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 32773,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "5e31b813-76a5-ba10-a217-d86ec8f605e5",
+    "Name": "Quark-Nougatcreme mit Bananen im Glas mit Sauerkirschspiegel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "68aefa9c-7822-fea3-0764-dc7a2fa85438",
+    "Name": "WOK Bio Asia Kokos Pfanne mit Gem\u00FCse und Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Marktrestaurant",
+    "Price": 3.60
+  },
+  {
+    "Hash": "352213e5-a416-ee73-c481-23390895bce5",
+    "Name": "Germkn\u00F6del mit Vanillesauce und Mohnstreusel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "b7e2a4e1-9cc0-c0cf-a575-6044a1bc63d1",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 378913,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "24a36355-c9c1-0f6d-57c1-849997f88a4b",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "cf346ee6-5bee-68dd-7786-4df2c0c7a362",
+    "Name": "Bayrischer Schweinebraten mit Biersauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "381574b9-bdda-456d-df29-5e72ee8056c6",
+    "Name": "Wei\u00DFkohl-Kichererbsen-Ragout mit Vollkornreis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a55f6417-c88b-2336-2646-395092b839b8",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "b8d09322-8e49-9a62-9022-004787cbd921",
+    "Name": "Bayrische Pfanne mit gezupftem Schweinebraten",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 362561,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "6c7a2b5a-f4a0-304c-0c71-9535a2b58588",
+    "Name": "Kartoffel-Spinat-Auflauf mit einer leichten Knoblauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "62a23eb7-a968-762b-6ec9-130620e32936",
+    "Name": "Leberkn\u00F6del mit Specksauce auf Sauerkraut",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 362757,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "3c2d5bc4-d63f-b4bb-0a6e-b825a235be80",
+    "Name": "Maultaschen vegetarisch mit geschmelzten Zwiebeln",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 261,
+    "Location": "Bistro",
+    "Price": 3.10
+  },
+  {
+    "Hash": "dcd9cde5-a087-2371-f138-18e947c472de",
+    "Name": "Schw\u00E4bische Maultaschen mit Fleischf\u00FCllung dazu Zwiebelbutter und Kartoffelsalat",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 325,
+    "Location": "Bistro",
+    "Price": 4.70
+  },
+  {
+    "Hash": "6cc9dfe3-fdad-12f4-7d68-2d5f338474fb",
+    "Name": "Indischer Gew\u00FCrzpilaw Linsen | Blumenkohl | Mango Chutney",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "243a9f14-0e45-9997-8d4d-ab94d62181b3",
+    "Name": "Bunter Pastasalat M\u00F6hrengr\u00FCn Dressing | Rucola | Tomaten | Hartk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 117317,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "a775920b-8b8d-8e5e-ac6a-489283228b15",
+    "Name": "Chow Mein Noodles Lachs | Paprika | Erbsen | Karotten | Sesam\u00F6l",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 50217,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "01c8e000-fe65-57a6-8407-f2b3590c1dd4",
+    "Name": "Pasta Chorizo | Zwiebeln | Tomaten | Cr\u00E8me fra\u00EEche | Hartk\u00E4se",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 100421,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "da2cf18c-f94b-c445-acd5-90cd7a8dd9fe",
+    "Name": "Beilagensalat",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "9a16c712-53f0-9193-5605-3a15396d3807",
+    "Name": "Vichy Karotten",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "3f672e11-8d79-268b-44ef-9069d4bd72e2",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ba7b7ddc-5211-9672-6d9e-de1cd66e549c",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
