@@ -13336,5 +13336,32 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "b5f981fc-3ba8-22db-65da-f2995a5306cc",
+    "Name": "Germkn\u00F6del mit Vanillesauce und Mohnstreusel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "bf300cc8-02b6-24b5-b779-e5154eb5c95c",
+    "Name": "Gem\u00FCse Currycreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "a8eed48e-0bfd-e0ea-8363-7873e2c11a53",
+    "Name": "Kokosmilchreis mit Pfirsichmus",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
   }
 ]
