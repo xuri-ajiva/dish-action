@@ -13363,5 +13363,23 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.20
+  },
+  {
+    "Hash": "03d62446-6e98-8e09-c011-f77bd5867d7a",
+    "Name": "Klare Gem\u00FCsesuppe mit Einlage",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "14bce5b5-024b-52c7-c3eb-907919de8fe1",
+    "Name": "Karotten-Kokoscremesuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
