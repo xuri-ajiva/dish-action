@@ -13381,5 +13381,86 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "74dabfa6-a5d6-c349-37d1-a47d7764283e",
+    "Name": "Bohnen-Gem\u00FCse-Ragout mit Sojasprossen, Erdn\u00FCssen und Kartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "c182bca6-8788-091a-b44c-2ccf8b6a587e",
+    "Name": "Bayrische Pfanne mit gezupftem Schweinebraten",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 362561,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "5eddb26c-9de7-485d-fc32-26480d2200d0",
+    "Name": "Rosenkohl Natur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "9b04b7aa-77aa-f209-3906-94a5553d8e64",
+    "Name": "K\u00FCrbissuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "9e8bdecc-e053-2d43-0536-3067317293b7",
+    "Name": "Hausgemachtes Kartoffelp\u00FCree",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0e817d62-40c9-f483-3595-732b3fcac3f0",
+    "Name": "Salatbeilage",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "b0cdefa7-eae3-662e-8353-e6b86d46a614",
+    "Name": "Bratkartoffeln in Scheiben",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "73d94e58-05db-d7b7-16b9-5cd4f99fe3b8",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 378913,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "73d6fe33-3fac-b3d3-d6e4-e3b9e449ea82",
+    "Name": "Kartoffel-Spinat-Auflauf mit einer leichten Knoblauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
