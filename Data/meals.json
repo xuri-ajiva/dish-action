@@ -13696,5 +13696,104 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "6dd369fe-f2bf-da4e-c9da-288ac78c125a",
+    "Name": "Blumenkohl",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "a3ee3689-daa6-6600-11b9-e014b382ebc8",
+    "Name": "Quark-Nougatcreme mit Bananen im Glas mit Sauerkirschspiegel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "62c1b2f5-81ae-a98e-0cc7-7a1070cda691",
+    "Name": "Vanille Pudding mit Birne",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "7e104f3f-363d-1b1a-ddcf-727d8b8c32e0",
+    "Name": "Zwiebelsuppe N 2020",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "c87d3374-5b13-3e20-6b90-5f3f70debefb",
+    "Name": "Crispy Noodles Chow Mein Mie-Nudeln | Wei\u00DFkraut | Soja",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1073,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "50efe9ff-9df0-c964-8731-847ef33a67f5",
+    "Name": "Ger\u00E4ucherte Aubergine Schafsk\u00E4se | Rotkraut | Quark Minz Dip | Pizzabrot",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 329793,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "57d64e28-a7ff-0d87-2c41-ed5b99b28596",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 378945,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "490de25c-522e-3481-e88e-fba5db4c37d0",
+    "Name": "Schnitzel paniert mit Jus",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "dc97c7ba-a213-9f1d-a8ac-65435ede83e0",
+    "Name": "Paniertes Schnitzel mit Rahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "866a2147-183d-60fc-8591-4791d6bd31cc",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "1dd01ae6-1aae-c158-9796-e360e95e0b1f",
+    "Name": "Mischgem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
