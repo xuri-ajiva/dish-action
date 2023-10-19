@@ -13795,5 +13795,32 @@
     "AllergensAndAdditives": 16384,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "05b7e222-79c5-f8dc-b97b-26a62aa524a2",
+    "Name": "Haselnuss Pudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "650863e9-4109-6814-8015-4aabb0bb4220",
+    "Name": "K\u00FCrbissuppe N Sept. 2010 Rezeptur f\u00FCr Tagessuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "e9cf4976-39c5-b44c-47c4-d6eab54d6e86",
+    "Name": "Kartoffel-Spinat-Auflauf mit einer Petersiliensauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
