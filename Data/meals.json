@@ -14065,5 +14065,14 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "56e54a6f-de85-6c30-cef0-2292c08586e4",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
