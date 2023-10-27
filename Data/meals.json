@@ -14128,5 +14128,32 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "4ef4f4d7-f08c-06da-59dd-e8ab84cd8d3a",
+    "Name": "Erbsencremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "dde4b18c-32a6-9ca6-d21d-b55bee3ff52e",
+    "Name": "Hausgemachter Hackbraten mit Westernsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 517,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ef07055d-148b-0711-b2f8-b8a347ab8213",
+    "Name": "Blumenkohlcreme Suppe N 2020",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
   }
 ]
