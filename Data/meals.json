@@ -14155,5 +14155,338 @@
     "AllergensAndAdditives": 65,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.60
+  },
+  {
+    "Hash": "6b61708b-888f-ceda-57a5-569fcfe775dd",
+    "Name": "Spanische Kartoffelpfanne mit buntem Gem\u00FCse und Oliven dazu eine Tomatensalsa",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 524288,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "a863352e-b316-4598-6515-a9b1ee574dc4",
+    "Name": "Hausgemachte Pasta mit einer Tomaten-Basilikumsauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "5a0df470-a135-df57-e248-ae778c2c17c6",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon dazu eine Schnittlauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "1f93e82a-de49-af71-f009-ff8066b19727",
+    "Name": "Hausgemachte Pasta mit Arrabbiata",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98305,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "4a16763f-80ca-517e-85a0-d3f11f67350e",
+    "Name": "WOK Sojageschnetzeltes in roter Chili-Erdnuss-Sauce dazu Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 177,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "e8463660-42d9-c8fa-3b08-b22d70d5a003",
+    "Name": "mensaVital Linsen-Graupen-rote Bete Ragout mit Kartoffelp\u00FCree",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "ef384bfe-6ff7-c725-1866-0d5625d4f6ab",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 330053,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "d46d6b92-f9e2-b140-2c11-7259405a0ffe",
+    "Name": "Bio Erbseneintopf",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "02b57d2e-045f-c3b9-06f8-ef6510148af3",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 264193,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "21290560-668c-c347-b2a9-abec10cec8f3",
+    "Name": "Grie\u00DFbrei mit Fruchtsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "5273fbfb-e200-f504-a039-6ab12fd63823",
+    "Name": "Linsenbratling mit K\u00FCrbismus",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "d9c18dd3-ef3e-4924-aa9c-6d98872408d6",
+    "Name": "mensaVital Hirse-Champignon Auflauf mit Hirtenk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "2df0edbb-e009-b63e-72bc-8d999776a1ac",
+    "Name": "mensaVital Szegediner Tofugulasch und Kr\u00E4uterkartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 264736,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "046fd43d-e241-459f-0597-30c47823e54c",
+    "Name": "Frischk\u00E4sek\u00F6fte mit Spinatreis dazu ein scharfer Tomatendip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1217,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "ecb0768e-742c-f0de-b63a-43979a4b7cde",
+    "Name": "Gebackener Seelachs mit Sauce tatare und einer Zitrone",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66381,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0e320b19-63c8-ae06-66ce-42fa14c2ec06",
+    "Name": "Spanische Kartoffelpfanne mit buntem Gem\u00FCse und Oliven dazu eine Tomatensalsa",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 524288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "a2a060f6-ebf1-634f-ada3-0149a337f2f0",
+    "Name": "Hausgemachte Pasta mit einer Tomaten-Basilikumsauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "4f01723b-ba4e-3668-862b-bbc13ef4cb41",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon dazu eine Schnittlauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "d2512026-6d01-d29c-7228-ce872979dcce",
+    "Name": "Hausgemachte Pasta mit Arrabbiata",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 98305,
+    "Location": "Marktrestaurant",
+    "Price": 2.50
+  },
+  {
+    "Hash": "715a06f5-11fa-7405-9cec-d642c6c4c275",
+    "Name": "WOK Sojageschnetzeltes in roter Chili-Erdnuss-Sauce dazu Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 177,
+    "Location": "Marktrestaurant",
+    "Price": 3.40
+  },
+  {
+    "Hash": "7f5cf3cd-a208-491c-9663-ef699fd28493",
+    "Name": "mensaVital Linsen-Graupen-rote Bete Ragout mit Kartoffelp\u00FCree",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9976d971-01b6-5732-cc63-b95fa8244512",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 330053,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "8b022fc2-1dc0-0f06-d4da-5acf82d7ae65",
+    "Name": "Bio Erbseneintopf",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "a6a5ec7f-9700-5418-45f5-1d8d9878110a",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 264193,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "2c10ee43-400d-5bd9-1ebc-0ac7c1d32438",
+    "Name": "Grie\u00DFbrei mit Fruchtsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "8da03160-b306-82ba-dc5b-65d13ed87c19",
+    "Name": "Linsenbratling mit K\u00FCrbismus",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "c53a7233-38ff-efc9-c203-228e9ce0241e",
+    "Name": "mensaVital Hirse-Champignon Auflauf mit Hirtenk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "40020735-65d6-0750-5805-2c56b66c48f0",
+    "Name": "mensaVital Szegediner Tofugulasch und Kr\u00E4uterkartoffeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 264736,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "61afe2a1-dc40-95e0-c93b-b677c1e7f650",
+    "Name": "Frischk\u00E4sek\u00F6fte mit Spinatreis dazu ein scharfer Tomatendip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 1217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "adaf5bbd-a34b-38a0-14a2-0e048882f8dd",
+    "Name": "Gebackener Seelachs mit Sauce tatare und einer Zitrone",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 66381,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ed8f5839-23f0-2e6f-0e5a-d3a8670ad17e",
+    "Name": "Chow Mein Noodles Tofu | Paprika | Erbsen | Karotten",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 181281,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8fc1a437-bc15-b261-fb95-ece7e54496ab",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir getrocknete Tomaten | Champignons | Rucola",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 84097,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "937368e4-e8d1-e491-63d9-9983a3774b82",
+    "Name": "Bratapfel Dessert Sojajoghurt | Sultaninen | Zimt",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65696,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a40e7c13-b284-ae99-021a-44b245097e34",
+    "Name": "Pasta alla Briciole Knoblauch | Petersilie | Zitrone | Chili | Hartk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 32837,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f27c8dc5-2018-d6b8-3c0f-3a5876e0c7f8",
+    "Name": "Pizza Quattro Stagioni Schwarzwurzel | K\u00FCrbis | Pilze | Kirschtomaten",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 18497,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "e28ca7d5-8a51-ef9f-3159-dbc25ecfa5c3",
+    "Name": "Pizza al Salomone Lachs | Cherrytomaten | Cr\u00E8me fra\u00EEche",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 73,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "fb238272-fdfa-f6df-9e84-2667b2dd5fde",
+    "Name": "Paprika-Mais Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
