@@ -14488,5 +14488,41 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "2f3544e0-b46b-50ff-7dd8-2e982baf62e6",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "abe4b5f8-1d0a-cb5d-3d8c-8b00eb779bb9",
+    "Name": "Grie\u00DFsuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "e37e5ff9-5ca4-29b2-649d-7f6d038dc074",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a0423b1b-802c-1653-3652-56fbc2835c21",
+    "Name": "Pizza al Salomone Seelachs | Cherrytomaten | Cr\u00E8me fra\u00EEche",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 73,
+    "Location": "Mensa",
+    "Price": 6.50
   }
 ]
