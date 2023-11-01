@@ -14524,5 +14524,32 @@
     "AllergensAndAdditives": 73,
     "Location": "Mensa",
     "Price": 6.50
+  },
+  {
+    "Hash": "60f605f3-a78e-93df-0641-27d338ac0af0",
+    "Name": "S\u00FC\u00DFkartoffel-Kokos-Soja-Curry mit Tomatenbulgur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "5a7a669f-41de-bbc2-7696-f2294256a02f",
+    "Name": "Erbseneintopf mit einer Bockwurst",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "48c68491-ffe6-9b2f-db38-603c1b85c821",
+    "Name": "Hamburger",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 4211205,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
   }
 ]
