@@ -14551,5 +14551,95 @@
     "AllergensAndAdditives": 4211205,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.50
+  },
+  {
+    "Hash": "b91e6e74-da59-2e87-cb50-64e435369638",
+    "Name": "Hausgemachte Frikadelle mit Pfefferrahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 581,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "71ead553-d0aa-83be-b741-657118237861",
+    "Name": "Kohlrabi-Cremesuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "69d33d24-4801-645d-4c28-92d2f939949f",
+    "Name": "Rosenkohl natur",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "c7db1529-dde4-636c-b33c-ae2dc3e18616",
+    "Name": "Erbseneintopf mit einer Bockwurst",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "80ee9e2c-8c77-5ebf-0d58-084f3217f422",
+    "Name": "Kartoffelcreme Suppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "63edbb4a-5b0b-8462-91e9-2fe5abe8aeef",
+    "Name": "Blumenkohl-K\u00E4se Medaillon mit K\u00FCrbismus",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "d837414c-04e2-0672-6004-31cf9dacd9b9",
+    "Name": "K\u00FCrbissuppe N Sept. 2010 Rezeptur f\u00FCr Tagessuppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "980b905e-0cb5-ffef-8d0d-a5e248068379",
+    "Name": "Fruchtquark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "7d6fc262-f095-9dc1-a5c9-84db7abce4d1",
+    "Name": "Vichy Karotten",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "f6c1a8ba-ec44-4d3d-d4bb-a6c8c549b893",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
