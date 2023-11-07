@@ -14956,5 +14956,32 @@
     "AllergensAndAdditives": 581,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "715ea1ca-c87c-1e55-e7cd-c75e9e67cc97",
+    "Name": "M\u00F6hren-Kokos-Suppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "34ee087b-8811-96ba-b084-928a5a4b5329",
+    "Name": "Ofenkartoffel mit Ratatouille dazu ein Kr\u00E4uterdip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "d60b2138-0e43-411c-4e8a-8a28687be049",
+    "Name": "Ofenkartoffel mit Ratatouille dazu ein Kr\u00E4uterdip",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.20
   }
 ]
