@@ -14983,5 +14983,68 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 3.20
+  },
+  {
+    "Hash": "0d02ae45-f450-15ca-5991-03b2c6d5cd3c",
+    "Name": "Hirse-Champignon Auflauf mit Hirtenk\u00E4se",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "2ed96f98-cf87-0805-9792-92bc1e573180",
+    "Name": "Frische Waffeln auch mit Nuss-Nougatcr\u00E8me  (\u002B30ct)",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 4257,
+    "Location": "Bistro - Bistro",
+    "Price": 1.40
+  },
+  {
+    "Hash": "4e138a67-dcf9-e192-bbda-0f8b72df9fa8",
+    "Name": "Karottensuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "8c170296-5283-d5c2-ea9b-4d2546a921b1",
+    "Name": "Frische Waffeln auch mit Nuss-Nougatcr\u00E8me  (\u002B30ct)",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 4257,
+    "Location": "Bistro",
+    "Price": 1.40
+  },
+  {
+    "Hash": "4dcbd714-acca-abd1-05d7-c62e5079f353",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 289,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "0758bf9c-dff0-7509-2d57-c09d9160554d",
+    "Name": "Pfirsichquark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "83fc5f72-a931-d6c4-4b05-6a17f6694280",
+    "Name": "Frische Waffeln auch mit Nuss-Nougatcr\u00E8me  (\u002B30ct)",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 4257,
+    "Location": "Mensa",
+    "Price": 1.40
   }
 ]
