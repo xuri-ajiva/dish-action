@@ -15046,5 +15046,284 @@
     "AllergensAndAdditives": 4257,
     "Location": "Mensa",
     "Price": 1.40
+  },
+  {
+    "Hash": "e3d3c7bb-5b9c-df31-f9cb-36ca26bc2a3c",
+    "Name": "Spinatkn\u00F6del mit einer leichten Knoblauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "22d4fb02-a49b-1f67-452b-470e31328783",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 32837,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "d71b9587-3c6c-1817-829d-825f58455bb9",
+    "Name": "Bayrisch Creme mit Erdbeersauce im Glas",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "3e9be553-6887-52f7-fecc-25baa850e198",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16417,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "406f90ba-87fe-ca48-44f2-41aca135e99e",
+    "Name": "Kichererbsencurry mit Quinoa und veganen Filetstreifen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "b9eb483b-b338-b0db-2d43-6a630321b836",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Tomaten-Basilikumsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "070b1f18-66e9-47c8-71c7-730a2dc9a7b1",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264517,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "06edf070-89f3-0c91-232d-20d39253c0b6",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "2cd590da-6bcb-1c2b-c44a-6eb1c7cdf0c8",
+    "Name": "Schokoladenpudding mit Zimt",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "4ead8b29-51e5-8ece-13d0-755c409539eb",
+    "Name": "Lauch-Champignon Gratin mit Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "cee0f4b4-de75-1290-0795-cb91cc446e44",
+    "Name": "Burger mit rotem Krautsalat und Caesar Dressing",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 51013,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "3b20190d-6fe3-8d17-a3f7-e401d0c0571c",
+    "Name": "Blumenkohlcurry",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "e3c4b822-6721-50e6-3e47-7816b42e9a7c",
+    "Name": "Fischst\u00E4bchen mit Remouladensauce",
+    "Image": "1f0a502d-d825-f6dc-6191-f3cd82bbc5d6",
+    "Category": 10,
+    "AllergensAndAdditives": 4293197,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "f9e48d78-3f2a-48ce-99d8-7cd916629b00",
+    "Name": "Spinatkn\u00F6del mit einer leichten Knoblauchsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "dfdb9c45-b866-4d48-ec55-596a54a24615",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 32837,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "97606d71-86cf-4058-45c4-f7e1579d894d",
+    "Name": "Bayrisch Creme mit Erdbeersauce im Glas",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "832bb256-7b69-7b4c-745e-7ede3bd19fd0",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Reisnudeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16417,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "eafdf00b-94c3-cb25-3c52-169977591397",
+    "Name": "Kichererbsencurry mit Quinoa und veganen Filetstreifen",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "3381afe9-2711-4976-f236-1a859bf64408",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Tomaten-Basilikumsauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "6e620e64-0b61-5a2e-d74b-f977a12ac508",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 264517,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "2108122c-a996-8968-6908-70f78d049bbc",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "89542c4d-3776-30b7-cc37-0660f014bb91",
+    "Name": "Schokoladenpudding mit Zimt",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "cd6b6058-07e4-d06e-027f-c96192c261e6",
+    "Name": "Lauch-Champignon Gratin mit Sahnesauce",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "99f8e332-b417-b566-230c-5359d6329a1c",
+    "Name": "Burger mit rotem Krautsalat und Caesar Dressing",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 51013,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "9e43ca42-f9c8-9655-3e31-491f171afd8b",
+    "Name": "Blumenkohlcurry",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "d1f0b17f-7a2e-9439-b13c-4e2de089d282",
+    "Name": "Rotes Thai Curry K\u00FCrbis | Champignons | Basmatireis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 180257,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "814f933a-740d-a246-7999-3f45d531826d",
+    "Name": "Nasi Goreng Tofu | Erbsen | Karotten | Ingwer | Reis",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 180257,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a742c9e9-38bb-1f43-8b7a-f1c5f79dbb69",
+    "Name": "Currywurst Jackfruit-Bratwurst | Currysauce | Pommes frites",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 4276481,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "ccb8276d-2a44-3eb6-4690-6b856c22c49b",
+    "Name": "Pizza Quattro Stagioni Schwarzwurzel | K\u00FCrbis | Pilze | Kirschtomaten",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 18497,
+    "Location": "Mensa",
+    "Price": 6.00
+  },
+  {
+    "Hash": "fd449026-5e1b-e9e6-2677-e6b079689ef2",
+    "Name": "Diplomaten Ricotta Creme karamellisierte \u00C4pfel | Ingwer | Bl\u00E4tterteig | Ei",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 197,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "ea1010e0-ea6f-5605-6c68-16706f0842a2",
+    "Name": "K\u00FCrbissuppe mit Kokosmilch",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
