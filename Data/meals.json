@@ -15325,5 +15325,32 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "48439639-0df9-6198-870f-8edd83a6e45d",
+    "Name": "Pilzrahmsuppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 264257,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "76546a0d-d702-e587-74d4-23cf56f0891d",
+    "Name": "Ananasquark",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "89570c53-9e17-a148-f96d-093b3d9d6e65",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
