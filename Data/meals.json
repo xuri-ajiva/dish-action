@@ -15352,5 +15352,176 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "0b26de9e-b441-6013-b1ea-307d977edd2e",
+    "Name": "Gegrillte H\u00E4hnchenkeule dazu Rote Beete-Apfel Chutney",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 329728,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "47525b9e-de32-c9db-f525-a120af4c3fa4",
+    "Name": "H\u00E4hnchenbrustfilet \u0027natur\u0027 mit einer Tomatensauce",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "5689d29d-2217-cb11-ee6f-cee7ee255110",
+    "Name": "Bio Kartoffeleintopf mit einem Paar H\u00E4hnchen-Wiener W\u00FCrsten",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 33024,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "af4f5462-72e7-d7db-6b9e-ec66cf6c8003",
+    "Name": "Bio Kartoffeleintopf",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c4bed09c-8009-0717-058e-7962877bffed",
+    "Name": "Gegrillte H\u00E4hnchenkeule dazu Rote Beete-Apfel Chutney",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 329728,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "eede8524-663b-313e-8b68-1c474ec5d943",
+    "Name": "Pizza Salami mit Champignons",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 98369,
+    "Location": "Marktrestaurant",
+    "Price": 4.50
+  },
+  {
+    "Hash": "e267f4ff-f4a3-e40c-844d-d509d79d5435",
+    "Name": "Pizza Diavola",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 622657,
+    "Location": "Marktrestaurant",
+    "Price": 4.80
+  },
+  {
+    "Hash": "2eba2654-87f6-bc55-2950-0b6a432671f8",
+    "Name": "Frucht Quarkspeise mit Mandarinen",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "718f2b16-4cb0-f1bc-7dee-c07b3367a84a",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "b9a13ba8-2202-08d8-208d-f32fa5384c88",
+    "Name": "Bio Kartoffeleintopf mit einem Paar H\u00E4hnchen-Wiener W\u00FCrsten",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 33024,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ad1e46b8-2d8b-f51f-abeb-9cee2055947b",
+    "Name": "Bio Kartoffeleintopf",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "2a844bd1-9373-645a-2312-dd4b223a17f4",
+    "Name": "H\u00E4hnchenkeule Kartoffelsalat | Honig-Senf Sauce",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 66048,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "0664f895-0c0d-5db1-9456-471653508e77",
+    "Name": "H\u00E4hnchenbrustfilet im Knuspermantel mit Jus  und einer Zitronenecke",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 264193,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "fc6b8ab1-cd98-5959-f0d8-17aa3ebcecde",
+    "Name": "H\u00E4hnchenbrustfilet im Knuspermantel mit Zitrone",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "095a7ca0-e4f8-23a1-6a0d-a5f3479b1cab",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchini-Champignon Sauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "7cbb12a6-7b9e-99f2-d46b-ab5e709af50f",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchini Sauce Hausgemachte Pasta",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "94ae0b6b-b4ff-a2a5-28c6-a03fc49a0516",
+    "Name": "Rosenkohl mit Zwiebeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "42f46d1d-1ac4-4142-03bc-0feafb9ef932",
+    "Name": "Gr\u00FCne Bohnen \u0027Natur\u0027",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "7b9a6926-5ab3-84fb-7dce-27e7309a1e21",
+    "Name": "Blumenkohlcreme Suppe",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
