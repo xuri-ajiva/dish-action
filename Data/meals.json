@@ -15523,5 +15523,104 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "5ae6b720-5c07-ad5f-8fe5-41c5bd6e54e6",
+    "Name": "Karottencreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "c6924572-1506-8ebd-824a-add8d3140690",
+    "Name": "Kohlrabigem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "bf2adf24-e733-3e97-2b7f-5857f4277f64",
+    "Name": "Kohlrabicr\u00E8me",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "13e8b2da-6408-ffc9-eaaa-1b9b003ad036",
+    "Name": "Kartoffeleintopf",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "ab14bece-b48e-9453-a8f7-eee20023bc6f",
+    "Name": "Maultaschen mit Fleischf\u00FCllung mit Zwiebelbutter auf Kartoffelsalat",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 66373,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "98f6c392-b1d2-2487-6b61-69b16b6c545c",
+    "Name": "Kartoffeleintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d68c9ab6-1635-7f61-8b07-3903d0fafd65",
+    "Name": "Mischgem\u00FCse Natur",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "99e90b9a-3e6b-7c0a-2721-e3a6a672d6d9",
+    "Name": "Milde Knoblauchcreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "6e1bd8bd-1167-64eb-d57d-5293bb2b5039",
+    "Name": "Countrykartoffel",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "a354b402-fc2b-0fa1-9d3e-1f26b2098aee",
+    "Name": "Brokkoli \u0027Natur\u0027",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "1db537df-70fe-8110-fb21-c9cae50340e9",
+    "Name": "Maiskolben vegan",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
