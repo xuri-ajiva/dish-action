@@ -15964,5 +15964,32 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "13ec4995-c807-818d-fd0a-e9875b650c84",
+    "Name": "Schweinekammbraten Westernsauce",
+    "Image": "9e891a9e-14ba-83da-ad56-3dc185512632",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b5825c2b-685a-284e-b4c6-b184416f9c68",
+    "Name": "Rote Gr\u00FCtze Vanille Sauce im Glas vegane Vanillesauce",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 264225,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "ed53a161-eb8b-73ad-fb29-9cffc75e0082",
+    "Name": "H\u00E4hnchenbrustfilet Natur mit Westernsauce",
+    "Image": "5be1b096-82d9-431c-2aff-6ce3004b0a59",
+    "Category": 4,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
   }
 ]
