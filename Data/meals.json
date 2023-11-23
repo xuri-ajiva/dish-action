@@ -15991,5 +15991,86 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.90
+  },
+  {
+    "Hash": "a650ae36-3584-95df-e26f-e80074195f25",
+    "Name": "Rote Gr\u00FCtze mit Vanillesauce im Glas",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 264225,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a723f1dc-51bc-6ba9-f401-ae13e751acae",
+    "Name": "\u0027Lui\u0027 Burger mit Rindfleisch, Brie und Rucola",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 264773,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "d229803c-b234-4b33-cdde-5c80cc4aaa7e",
+    "Name": "\u0027Lui\u0027 Burger mit Rindfleisch, Brie und Rucola",
+    "Image": "dc15d8d7-d91e-2801-b7b0-69be861db318",
+    "Category": 6,
+    "AllergensAndAdditives": 264773,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "13f3fea9-b0d2-86e6-61e8-8507f892b6f7",
+    "Name": "Champignoncreme",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "61df484b-4003-6eb3-02c1-a084bb346104",
+    "Name": "Nasi Goreng Reis | Paprika | Erbsen | Karotten",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 180257,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "55065940-3a3b-13c3-2354-022abcb83635",
+    "Name": "Vanille-Zimt Pudding",
+    "Image": "bd7e4bb7-429b-1a33-756d-1d9378a5926a",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "a9886c8b-9c3d-68d9-6249-a08d4a1700f3",
+    "Name": "Brokkoli mit Mandeln",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 128,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "d569ec78-050e-80cd-2291-52c5fb048b13",
+    "Name": "Tagessuppe Karotten-Kokos Suppe",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "b1128140-600c-4064-5e84-78df88327e9c",
+    "Name": "Erbsen-Karotten Gem\u00FCse",
+    "Image": "d4d37fb2-f5b4-98e7-71ed-03dc17e069aa",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
