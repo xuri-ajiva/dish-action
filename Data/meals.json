@@ -17260,5 +17260,248 @@
     "AllergensAndAdditives": 65,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "f814f9b7-6e22-054f-eae2-4106b19980ed",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Mieudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 98353,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "ba5a1ce7-c2c6-1f13-f9f5-7474ad7d1e1e",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry und Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "153bf319-dc83-badc-429c-fb7b8574c089",
+    "Name": "Gegrillte H\u00E4hnchenkeule dazu Pfefferrahmsauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 329792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "5f3d5918-1f04-6912-0ef2-b288f2795f82",
+    "Name": "Karotten Kokossuppe mit gehackten Erdn\u00FCssen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "739e8ba3-285e-3c91-2c2b-ae2e86428bd0",
+    "Name": "Karotten Kokoscreme mit gehackten Erdn\u00FCssen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Marktrestaurant",
+    "Price": 0.60
+  },
+  {
+    "Hash": "68e91a1d-0886-c1ea-5779-bdf291573b8f",
+    "Name": "Gebackene Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "cedcb289-af6f-71dd-2f5d-34455be5051e",
+    "Name": "Fingerm\u00F6hren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "a26e55dc-95b1-3a95-19d2-2d3287ea32e3",
+    "Name": "Brokkoli Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "d0aa8824-106e-0a75-ef89-a2dc16c80db4",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "53db4c6d-5a7e-2247-185c-836fc0775144",
+    "Name": "Schupfnudeln mit Apfelmus , Zimt und Zucker",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "8c3f568a-8b97-238c-5c27-27ff51a48169",
+    "Name": "Djuvec-Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "374dacfa-d7aa-1c06-1aee-1b0b552ff065",
+    "Name": "Mischgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "7fb67552-c957-9c87-c608-f732e9441931",
+    "Name": "Milde Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "296f7e6b-f884-5733-9b25-5e81b54c76a1",
+    "Name": "Butterbohnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "79b30edf-691b-1b78-3c3a-adc1b2223de5",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Glasnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Marktrestaurant",
+    "Price": 2.90
+  },
+  {
+    "Hash": "5126c79a-b3a9-911f-e01d-af60c9aa8867",
+    "Name": "Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ddb8764f-4e86-19a3-102c-6b1895068db9",
+    "Name": "Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "1967583b-7d56-e356-c091-c287049bcd63",
+    "Name": "Kohlrabi natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "9b230201-981b-1dd9-fe32-0e49ddd84040",
+    "Name": "Erdbeerquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "1308ac40-e8ae-98ec-c4ca-fcbc641fced2",
+    "Name": "Leberkn\u00F6del mit Specksauce auf Sauerkraut",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 362757,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "795e2254-f1e1-167f-a4f9-e20fcbc20429",
+    "Name": "Sauerkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264192,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "44970c66-3f21-837e-d206-bc772681b49a",
+    "Name": "Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d91380df-7177-be9f-e625-329d7a86fb37",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "a3a4dc21-331c-cca6-d4f8-f2f6c36a45a9",
+    "Name": "Pfirsichquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "c9a83435-984c-ffe9-fab7-cde5ec0d9a7e",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "286191b2-7779-620e-e2de-d077d032ea24",
+    "Name": "mit Knoblauchdip Fischst\u00E4bchen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 73,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "25515d70-275d-391d-e15a-a1d90f434e1c",
+    "Name": "Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66048,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
