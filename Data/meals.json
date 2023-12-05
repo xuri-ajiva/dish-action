@@ -17989,5 +17989,248 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "bf5a3088-b395-bf3b-5249-7242d7ea176e",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "b7df7b8f-f8d4-f359-3ad7-096e80dc8f72",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "855c46d2-af47-fb58-8580-e1dc64985c25",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 32773,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "42e55478-e5de-6b5c-5a3f-c28f48058f43",
+    "Name": "Paniertes Schnitzel",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "16c2e8fc-8acd-085e-d96a-87deab2c8cc4",
+    "Name": "Bio Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c6d5f474-aa79-c2cf-d7ce-6378e39fc220",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a4841e96-3fb2-b7d5-b0b0-e1c39eb90a23",
+    "Name": "Bio Erbseneintopf mit einem paar Gefl\u00FCgel Wiener W\u00FCrsten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 33024,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "1266dc4f-8a72-fa28-2d05-d07f663aa5f5",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 313408,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "58b7c894-4a52-ba7b-2eec-8f280f224546",
+    "Name": "Vegane Cevapcici mit Ajvar",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "15e64bb2-b068-83ca-e8b7-738658acd517",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 32773,
+    "Location": "Marktrestaurant",
+    "Price": 3.10
+  },
+  {
+    "Hash": "e188c476-6ae7-5405-a84f-0ffafd5326a1",
+    "Name": "Rosenkohl mit Zwiebeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "b384b701-9d16-93c1-c1f4-4d8bc180f2d6",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "73c59f70-19c5-32d0-a108-b32d6e5288c1",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "cd1af9f0-ffb4-3545-f795-1ee19393fd2b",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d5fc689c-ae2c-c5b9-a1cb-b95ba3479c7b",
+    "Name": "Haselnuss Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "f8adad00-c48e-e36c-9f58-b9c1cb7022fe",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a6c38d83-9de0-d6a7-7f56-f84c6ebc744f",
+    "Name": "Bio Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "a7aecca7-0175-c2f4-5fee-219078460933",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "6b02d69d-b793-dad8-1dd4-7ea966585d91",
+    "Name": "Bio Erbseneintopf mit einem paar Gefl\u00FCgel Wiener W\u00FCrsten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 33024,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "d858c750-c11d-c8bf-0b09-e6bca003541b",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 313408,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "53df6cd3-2749-6906-4bd4-fe2416e89b0a",
+    "Name": "Vegane Cevapcici mit Ajvar",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "ec116b10-8b5e-5b96-3c05-2ae8cba2b371",
+    "Name": "Rosenkohl mit Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98304,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "22790667-c04d-57a6-636b-d6a14005ef49",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "73266323-34aa-f27a-e676-ecb3b6dc5d3c",
+    "Name": "Gnocchi mit Tomaten-Mozzarella Sauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "115d0cba-b3d2-01e8-bf88-6b3aaaed172f",
+    "Name": "Bayrischer Schweinebraten mit K\u00FCmmelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "bee26cb7-b09e-4ea5-182c-b882eadcbff3",
+    "Name": "Bio Wei\u00DFer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "5834b3b2-69ec-5c77-1bee-7d00724f6da0",
+    "Name": "Bio Wei\u00DFer Bohneneintopf dazu ein Paar H\u00E4hnchen-Wiener W\u00FCrste",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 33024,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
