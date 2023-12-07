@@ -18232,5 +18232,50 @@
     "AllergensAndAdditives": 33024,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "c41b7ac8-8176-0f68-b08a-c52b87d5ea8d",
+    "Name": "Hausgemachte Pasta mit einer Sahnesauce \u0027Els\u00E4sser Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 362561,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "74b518ea-63e7-5d62-e58c-261dfc899cfd",
+    "Name": "Linsen Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "feb9acad-a27e-11da-c005-3b320290fb61",
+    "Name": "Winterlich veganes Rahm Wurzelgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16673,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "7969388c-d624-6f19-9204-f79ab27c5dc1",
+    "Name": "Brokkoli mit Mandeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "6d281184-316e-76e8-f87a-50f03d33db47",
+    "Name": "Sauerkischquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
