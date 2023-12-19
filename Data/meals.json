@@ -19789,5 +19789,77 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "c431b3a1-ee74-af27-e9ad-9f16a931006d",
+    "Name": "Rosenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "1747e713-fe76-2e5f-f7a8-0ed1ce502608",
+    "Name": "Karotten Kokossuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "970ff6b0-7875-7866-ab9d-2a13589d47bb",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "42b718f5-6147-096a-b081-86673aa7aac8",
+    "Name": "Rote Gr\u00FCtze mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "b4379f75-3e4f-205e-f0dc-14af0c6c150f",
+    "Name": "Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "d070f62e-934a-392b-01e5-2aba95fc9e72",
+    "Name": "Mini Fr\u00FChlingsrollen mit Sweet Chili Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "402c2b5e-2eec-9329-e4e3-69a57b83a1e1",
+    "Name": "Kroketten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "3ca11fcd-3940-0672-5dd4-f416c5e96d60",
+    "Name": "Erbsen \u0027Natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
   }
 ]
