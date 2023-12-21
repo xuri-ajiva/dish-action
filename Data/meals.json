@@ -19861,5 +19861,113 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "5913e50c-ab8c-72d1-76e0-d39b79d03dc0",
+    "Name": "Broccoli natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "9435b029-707d-09ff-f4b6-3c1b2942111f",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65792,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "76e6dd27-10cc-2876-fb16-59c7c76b322a",
+    "Name": "Linseneintopf mit ein Paar Gefl\u00FCgel Wiener",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 98560,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "7a78e546-ab64-e4dd-d856-a872f5794e98",
+    "Name": "Paniertes Schnitzel mit Westernsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "3e27a0b7-31f1-ce78-c9bc-6a446e7209dd",
+    "Name": "Kohlrabi",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "ff129d00-7e6f-86ce-19ae-e3dc9b168e5f",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "252ab2f1-229c-bf28-6635-1147bffc6b50",
+    "Name": "Wirsinggem\u00FCse Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ce9477f8-d8f1-76a6-642f-2b2aff4e0860",
+    "Name": "Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "15f7a236-3dc7-7408-e643-3750d225f9ed",
+    "Name": "Kartoffelgratin",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "67c39b73-5e9d-9b5f-970a-81a8d11e2d9c",
+    "Name": "Apfelrotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65537,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "2d699e7f-f255-bbd9-c90e-af5b316fc784",
+    "Name": "Hausgemachte Pasta mit Pesto Rosso  und Blattspinat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 34817,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "436797f9-edd0-83a1-2ce9-2c685458502b",
+    "Name": "Wei\u00DFkraut gebraten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
