@@ -20329,5 +20329,131 @@
     "AllergensAndAdditives": 66381,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.70
+  },
+  {
+    "Hash": "e7f0fefb-b5de-7c63-d7fc-fc27b737f0e9",
+    "Name": "Hausgemachte Pasta mit Spinat-Sojasahnesauce und gehackten Waln\u00FCssen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 161,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "283d2f8b-dcc2-47a2-32dd-ad774d555c69",
+    "Name": "H\u00E4hnchenbrustfilet im Knuspermantel mit Jus",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 264193,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "537e00d7-29f6-ab06-c465-8b232427022c",
+    "Name": "Kartoffelsuppe N 2020",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "28de5e55-d101-9756-e171-b8e9167c55fd",
+    "Name": "Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "5f39ee79-321a-a2e3-13cd-5e9af8beb102",
+    "Name": "Vichy Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "14afcca9-0ec2-a188-3f42-a17f8f9c6fa5",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "0fdd6827-3152-be78-5ed3-0934c97d1384",
+    "Name": "Gem\u00FCseschnitte dazu Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "7a9d8479-99e7-253d-ee3c-876f426b5799",
+    "Name": "Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "782c9b5c-032c-aee0-ab61-10149d4aad30",
+    "Name": "Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "7290564a-a656-df1c-4692-a2d658ab0f17",
+    "Name": "Hausgemachte Pasta mit einer Westernsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "4e10143f-41d8-ca8a-f4d9-37b3dcbdeac5",
+    "Name": "Vichy Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "7c025595-e234-e7ac-75a9-a4d454f135fc",
+    "Name": "Buttererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "db14bc33-6ef9-da7e-4f00-fb018e6b908e",
+    "Name": "Gr\u00FCne Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "32336de3-80ff-431c-8c04-9df39b669998",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
