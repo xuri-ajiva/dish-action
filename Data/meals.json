@@ -20941,5 +20941,212 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "69757b10-14be-5d49-5e65-e521f0ce62ac",
+    "Name": "Broccoli natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "0cb4d1a5-ce46-aa0d-5a85-dbcd3d66e3e9",
+    "Name": "Butterm\u00F6hren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "bd8487dd-d0b7-3964-b63b-1edfb5434ec0",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 264453,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "9d6d6b28-b055-1eed-9546-4164ff14f744",
+    "Name": "Countrykartoffel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4d3fdd61-ac93-8f9e-4097-600433a25e2f",
+    "Name": "Bohnen natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "f8abae46-a0aa-2b5d-5b5f-3b2ac2b31c8c",
+    "Name": "Blumenkohl a la creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "ec66cf9b-1362-7618-35c0-6ecf68ee9734",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 264453,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "bc6b39f1-7536-269a-fbe0-b6fd008ddcc4",
+    "Name": "Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "c198f973-8c31-1fe2-2ade-2315805230f8",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "4bd52db5-f5b5-53f0-02bb-97575b848c43",
+    "Name": "Rosenkohl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "255b3b99-a45c-022f-468c-414b2fab3f41",
+    "Name": "Vichy Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "cb713217-1034-8bd5-3957-437c44350eaa",
+    "Name": "Tomatencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "a9d6746e-77a2-2677-0e24-9a6b096e4e85",
+    "Name": "Pfirsichquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f0ddfdd6-d463-5892-62e3-af9c5b97eb5d",
+    "Name": "Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c5fbcf34-1f51-edb6-d0c8-9b5624d73bbf",
+    "Name": "Karotten Vichy",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "5added96-45dd-52fe-e714-7b8b4ad18451",
+    "Name": "Petersilienkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "a301fa4e-ee9f-9c9f-4633-9654513eb2da",
+    "Name": "Paprika-Mais Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "6a633f5e-6ca7-4b81-3f03-c2e4c9807e84",
+    "Name": "Erbsencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "14a1b255-b9c8-5c2c-e8f9-3dc0ad3128aa",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "f8b4989e-62fc-ae18-0a99-04009f69ee17",
+    "Name": "Linsencremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "9541d4c6-6182-80a5-df7e-9ca7cccaa20a",
+    "Name": "Hausgemachte Pasta mit Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "0affdba8-9fe6-341d-9fbe-9d52f219f187",
+    "Name": "Blumenkohl natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "c03f6a44-6382-baaf-eaca-4d1be2a37243",
+    "Name": "Butterbohnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
