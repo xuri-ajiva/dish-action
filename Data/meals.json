@@ -21148,5 +21148,176 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "378fb42f-c62f-6e18-2ac5-267d8ef5776e",
+    "Name": "Kartoffelklo\u00DF",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 362497,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "3774f5e1-21da-9a4f-d0bc-3c51117b3996",
+    "Name": "Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "ad53c802-1092-9eb2-8660-15b2a2048460",
+    "Name": "Tomatencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Marktrestaurant",
+    "Price": 0.60
+  },
+  {
+    "Hash": "ad6c2678-c07e-11ec-a781-db4e48372f58",
+    "Name": "Sauerkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264192,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "c005fc22-2cd3-b34e-f6b0-90b143d63cfa",
+    "Name": "Gr\u00FCne Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "9f3fb685-fe1f-05aa-6110-71717088f7be",
+    "Name": "Kartoffelsuppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "223369b6-5c6e-a792-a4df-69ee9ed75c8f",
+    "Name": "Mischgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "9408eba1-3617-44c7-c9ed-6229554c422a",
+    "Name": "Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "b87c45d1-8a22-b75a-2f40-58245652799f",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 114753,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "0679bb74-816b-79a8-82c1-2771d4826c50",
+    "Name": "Tomatenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "480b89ba-87a5-ca0f-d8ff-382b2196286f",
+    "Name": "Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "e4084354-3925-deef-b6ac-1dab3722376c",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "4b543dd8-d5e2-91b8-f9ce-a91e2d7a9e01",
+    "Name": "Gebackenes Schollenfilet mit Sauce Tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 66381,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "3a286bd3-49c9-62c7-67f2-93d97999e097",
+    "Name": "Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66048,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "1ba12938-6a9e-71bc-5c61-a2fc0c46d52c",
+    "Name": "Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "ceac0dc9-bf7e-3288-8555-06079f7a1fd3",
+    "Name": "Mischgem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "32456992-f9ac-3fc3-fb09-b7f70413a46d",
+    "Name": "Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 5,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e0ccc968-758b-511a-3527-a0d973ab2ea6",
+    "Name": "Leipziger Allerlei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "f1f63b70-50b3-01a3-b892-c61a43a8ccbe",
+    "Name": "Ratatouillegem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
