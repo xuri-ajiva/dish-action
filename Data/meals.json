@@ -21751,5 +21751,212 @@
     "AllergensAndAdditives": 4211269,
     "Location": "Mensa",
     "Price": 4.90
+  },
+  {
+    "Hash": "d1557425-3fbd-b4b9-bb17-a291bf5cc6f8",
+    "Name": "Gebratenes Wei\u00DFkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "fb24cae8-7f60-32e7-c9ad-e8250a797a54",
+    "Name": "Rosenkohl mit Butter und Zwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "91b063fb-637c-ba6a-52db-4093acf86e01",
+    "Name": "Veganes Solero-Orange Dessert im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "c9afd562-1abc-a812-9cb6-94efdb2ef502",
+    "Name": "Pizza Salami mit Champignons",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "e2fea4ee-73df-aa84-f7cc-26122d1ffc10",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Einlage",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "dd5cc661-ed7c-91d5-c9f8-31aa97999c64",
+    "Name": "Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 362497,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d49bb445-908c-0ac1-a4eb-ba3c60b60ba2",
+    "Name": "Brokkoli Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "97080234-481f-8e0b-bbfa-d58af2560f91",
+    "Name": "Fingerm\u00F6hren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "b8a15704-ffeb-dfaf-c0eb-73b6e598f409",
+    "Name": "Veganes Solero-Orange Dessert im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "ff472df2-04cd-e458-b29e-2a2b531e38c5",
+    "Name": "Kroketten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "805aa1d3-2a5b-a423-f005-fc7e737899b6",
+    "Name": "Erbsen Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "fe761d9c-d116-7df0-5259-be65f92e7a3a",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "4eea76ca-d2ae-a00c-f8c7-708714a76421",
+    "Name": "Schokoladenpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ca9ed321-e98c-ea69-3403-329abac4fc71",
+    "Name": "Pasta mit K\u00FCrbis Hokkaido K\u00FCrbis | Salbei | Rosmarin | Panko-Amaretto-Haselnuss-Crumble",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 18561,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "9b30d493-d416-a742-49f8-0d249a697814",
+    "Name": "Currywurst Bratwurst | Currysauce | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6374145,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "0325339c-0665-8c2c-5086-89b25d95f484",
+    "Name": "Chow Mein Noodles Ei | Paprika | Erbsen | Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 180277,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "051022dd-ec3d-d0e0-82a5-5d1ee66ad853",
+    "Name": "Milchreis mit Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "994e999e-3035-7dd0-1dda-5dfd40a3d2df",
+    "Name": "Schwenkkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4679e246-1d31-5217-7559-cdbbb3ec6ba9",
+    "Name": "Butterm\u00F6hren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "75827dda-3d3c-aaf8-2328-6d57cc450fe8",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "fee146b8-554b-a81a-fbe1-af923cd3d237",
+    "Name": "Kartoffelgratin",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "234a0a58-e4d3-8e6c-d5fd-745b7e575796",
+    "Name": "Kohlrabi a la Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "e9e3f1db-b6e2-b388-cc6e-3ca273087bbd",
+    "Name": "Erbsen \u0027Natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
