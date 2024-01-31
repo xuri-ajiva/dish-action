@@ -22309,5 +22309,239 @@
     "AllergensAndAdditives": 2195521,
     "Location": "Mensa",
     "Price": 4.90
+  },
+  {
+    "Hash": "a50bc421-f226-5da5-b84b-a45504ac361e",
+    "Name": "Quarkspeise mit Ananas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "03dececf-2d86-adc6-28f2-a50adfb0597c",
+    "Name": "Blumenkohl \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "da7f1cb6-9a1c-1bb7-5989-a78de07f31b3",
+    "Name": "Veget. Gem\u00FCseschnitte mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 257,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c36ce21e-c9d7-f9cf-4073-00548f54e6dc",
+    "Name": "Rosenkohl Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "6978c7c8-d8c2-2d68-8308-17435cbc732c",
+    "Name": "Spinatcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "e66a1095-f9df-713e-dd85-702d1ba3b7aa",
+    "Name": "Cappuccinopudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "110b28cb-2a82-d54a-ebbb-c385f5c16e00",
+    "Name": "Quarkspeise mit Ananas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "80d213ee-d17f-8af9-6351-96ef23b347a2",
+    "Name": "Apfelrotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "fe21876b-60da-a50f-1d3d-a028bbd89d20",
+    "Name": "Kartoffelcreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "87ff63b9-9fb3-8e15-9a14-9e1d10cbed0d",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 264773,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "056de094-b180-bf96-b04c-48298db0bb33",
+    "Name": "Gr\u00FCne Bohnen Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "cd4a4007-03be-ade5-e522-4cb8e982961b",
+    "Name": "Pfirsich Mango Quark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d5f29344-1662-6aa6-5ef0-6d868f4f30df",
+    "Name": "Wokpfanne Brokkoli | Paprika | Erdnuss | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "7a9e8f27-e8b5-e066-39be-580b452b5b76",
+    "Name": "Pizza Antipasti Paprika | Zucchini | Aubergine | Tomaten | Knoblauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83969,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "7706fe27-85d0-1504-2418-7c80342e2323",
+    "Name": "Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f79a153d-59fd-d2ed-162d-1a334d280502",
+    "Name": "Apfelquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e12b0476-473e-804c-62c7-32355b0b8d56",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 330053,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e27fb83b-ad9e-8d37-3350-ecac4355fc0b",
+    "Name": "Karottencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "a542cbc7-7eba-07d7-c9e9-6ad8f11504db",
+    "Name": "Blumenkohl mit Butter und Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "dfae2765-d667-ab40-d4b2-7024936c69d8",
+    "Name": "Schwarzwurzel \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "6f5b7d37-a7b0-56c1-8655-6c6dc9b10975",
+    "Name": "Bio Kartoffeleintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7580aa70-4d2c-c679-9668-84123724b6f2",
+    "Name": "Kartoffeleintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "9a9caced-11d1-8a6c-f3c6-6a9d7d8d8be9",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 4212293,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "c9edc04c-8b8d-64ed-1f4c-441ee5e47408",
+    "Name": "Risi-Bisi",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "63e112ea-4333-d12c-2310-6f68c38b6cac",
+    "Name": "Hausgemachte Pasta mit Westernsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "8fcfc2e9-1613-41cb-ed23-d3d20182d969",
+    "Name": "Mediterrane Gem\u00FCsecremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
