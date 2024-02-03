@@ -22588,5 +22588,194 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "cedfe020-fd14-536c-6ce7-356fe1839163",
+    "Name": "Chicken Nuggets mit BBQ-Dip",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "3eb966ef-f17b-41a1-ebbc-dcb54e0f2913",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8f1d98ee-600d-68f4-e7bd-6e1e06692b8f",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 378913,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "49500317-0240-c496-032c-315092df270e",
+    "Name": "Bio Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7e9250a1-daa5-3c5a-b5ce-a5b2d70e2716",
+    "Name": "Bio Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch dazu ein Paar H\u00E4hnchen-Wiener W\u00FCrsten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 33024,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "6acc440c-e5aa-73f1-1ec1-88993164bd3a",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 297024,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "00cb087a-cf17-2666-944f-1472e6517f38",
+    "Name": "Chicken Nuggets mit BBQ-Dip",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "5eac46bc-5721-d284-c186-f084b0075d94",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Marktrestaurant",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e648f7cd-a737-6417-5dd3-764dcaaca443",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 378913,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "ca785944-9dfb-1edb-c33f-c49f379ad39f",
+    "Name": "Bio Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f095a225-9696-e2b4-1df0-c037bc502c41",
+    "Name": "Bio Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch dazu ein Paar H\u00E4hnchen-Wiener W\u00FCrsten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 33024,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b3cd8d89-c753-5701-5154-d3ac5d4d2588",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 297024,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "87731e7c-e8e8-54ac-eb41-c5c288f42183",
+    "Name": "Dal Tadka Linsen | Tomaten | Koriander | Bockshornklee | Brot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e4152494-aeb6-b9be-ff17-df85ceb3d848",
+    "Name": "Salat Bowl Tempeh | Sesam | Obst | Rohkost | Blattsalate",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 19489,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "73779a06-4c0a-b2b2-643a-f2424098b07c",
+    "Name": "Pizza Quattro Stagioni Schwarzwurzel | Pilze | Kirschtomaten | K\u00FCrbis | Balsamico Creme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83969,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "12899d0a-0f1b-00c0-7ac7-d29aecaffa58",
+    "Name": "Pizza mit Champignons Mozzarella | Basilikum | Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "dc5de223-494e-f5c3-0a93-1b4e9b1d3797",
+    "Name": "Milchpudding Pistazien | Waln\u00FCssen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "02c5f05c-e849-46c6-fe97-a18e44c095af",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4310885,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "d2069956-ce41-5741-e9d4-ff80795f5710",
+    "Name": "Pizza Finocchio Fenchelsalami | Kirschtomaten | Rucola",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 6.40
+  },
+  {
+    "Hash": "30897315-d1a9-cf13-9ae6-62eb165e62b1",
+    "Name": "Soja Chili mit Bohnen und Mais",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 288,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "7335ba23-f4a4-2180-33a1-932f74f535be",
+    "Name": "Hausgemachte Pasta mit H\u00E4hnchen-Ratatouille",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
