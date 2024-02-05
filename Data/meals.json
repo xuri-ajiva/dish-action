@@ -22777,5 +22777,14 @@
     "AllergensAndAdditives": 1,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "e00e993b-bd36-53f1-4413-e7a8a9b04ae1",
+    "Name": "Kokos-Mandel Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 224,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
   }
 ]
