@@ -22786,5 +22786,176 @@
     "AllergensAndAdditives": 224,
     "Location": "Marktrestaurant",
     "Price": 0.90
+  },
+  {
+    "Hash": "871be71c-806a-fdd9-1df6-7222fef7561c",
+    "Name": "Wei\u00DFkohl-Kichererbsen Ragout mit Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "5d790490-46f5-184d-67aa-173881a041a9",
+    "Name": "Pasta mit Rucola-Nusspesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 128,
+    "Location": "Marktrestaurant",
+    "Price": 3.50
+  },
+  {
+    "Hash": "cba61155-f27c-6f3f-02bc-b9d10db7e748",
+    "Name": "Hausgemachte Pasta mit Bolognese von roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 257,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "ad854d0d-8706-9555-37ff-17873ceb213d",
+    "Name": "Maultaschen mit Gem\u00FCsef\u00FCllung mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "c8731ffa-7f36-c468-284a-752db16eeb1d",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32833,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d0e9021f-c0e9-702b-e134-97936ad09ca3",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "257cd29e-c7d9-dd2f-108f-4bb3d932185c",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a6dc8ecd-ab5b-62c9-b916-2046449dcfbf",
+    "Name": "Curryreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "87423fff-94a9-d591-5d54-6e1e7e1fd57c",
+    "Name": "Lauchgem\u00FCse in Sojarahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16417,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "6489c6bd-a1bf-61a7-75b1-bc0f43b34526",
+    "Name": "Rosenkohlcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "72a1ee48-4121-c715-517b-2a56a38bd977",
+    "Name": "Kokosmilchreis mit Erdbeerspiegel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "376de408-804b-2c25-bbe8-281a6a82dd64",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f90b33bc-2d33-635d-7518-b4a367b94797",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in Tomatensaucesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "f1153286-d8ae-c497-67d2-6a75ef832d3b",
+    "Name": "Karottencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "41ffd1cd-d653-c5e3-5574-a36fc02a9cb5",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "802682a7-0a5c-b207-9c0b-6b2b666eb0fb",
+    "Name": "Chow Mein Noodles Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 181281,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "255cc3eb-28ca-fbe9-e770-eea57bfb3b3d",
+    "Name": "Chicken Nuggets mit einem s\u00FC\u00DF-sauren Dip",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4194405,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0a1a2d39-756a-e3d7-c64c-aa25d28071f0",
+    "Name": "Gem\u00FCsecreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 0.60
+  },
+  {
+    "Hash": "942e6a77-b8d7-6797-c4c8-245e33d615e1",
+    "Name": "Klare Br\u00FChe mit Reis und Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.60
   }
 ]
