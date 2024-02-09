@@ -22957,5 +22957,113 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 0.60
+  },
+  {
+    "Hash": "c6bc6d6f-6c43-1ed7-bcb4-a2c44a315aaa",
+    "Name": "Gegrillte H\u00E4hnchenkeule dazu Paprika Pfefferrahmsauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 329792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "698a304b-ba22-d747-b583-8260ad71cf92",
+    "Name": "Gem\u00FCsesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "f7af3418-f9be-7f3e-7884-ac35ae74c086",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "aa2b9812-f7fa-9709-4188-3fc748c92217",
+    "Name": "Maultaschen mit Gem\u00FCsef\u00FCllung mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "9ebfb556-bab2-e521-e64b-5767e1aef56b",
+    "Name": "Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "6a5a535c-09f9-3e28-977c-037afe52262e",
+    "Name": "Rattaouillegem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "e8f9365a-4442-4d45-af3b-29ec1d1bc089",
+    "Name": "Mischgem\u00FCse  a\u00B4 la creme\u0060",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "44ab3fa2-0a4f-80ef-bdd9-ef2406459c3b",
+    "Name": "Wirsing a\u00B4la creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "825b5f58-dad9-96b2-bf8a-8eb4cc0162a2",
+    "Name": "Apfelrotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65536,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "5afc261a-e10f-42fe-ab62-7e019eb229ce",
+    "Name": "Grie\u00DFbrei mit Fruchtsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "c6ce2b98-1286-cd12-e12c-732f6b1d018e",
+    "Name": "Lauchgem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "9e3227a8-9ca2-cc82-90b5-1f922a54003b",
+    "Name": "Grie\u00DFbrei mit Fruchtsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
