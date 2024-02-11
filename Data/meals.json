@@ -23065,5 +23065,167 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "a996b3af-c0e5-c47a-448a-9c27654b5b97",
+    "Name": "mensaVital Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "dfabcb03-1f2d-35e1-b0c8-73a2b58e355c",
+    "Name": "Pizza Verdure",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8ab1687f-8cc2-8278-3d18-176d7d8eeb35",
+    "Name": "Hausgemachtes Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "de0dbae3-1f7f-8426-6416-84acbcb73d4f",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c2e58b1b-dd9e-933b-6179-bbf724375dcd",
+    "Name": "Aschermittwochs-Gericht: Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln dazu ein Kr\u00E4ppel",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 4358733,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "41c367a0-1536-41bb-33b5-8661e274bd50",
+    "Name": "mensaVital Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "c1ee8a01-f85d-0158-1cee-2ab31a32102e",
+    "Name": "Besuchen Sie unsere Salatausgabe (pro 100g)",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "5207bb9e-ecb4-fb55-9b62-b3b60aa20731",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c8cb86b6-7a66-122b-0ef8-adaf54bcf590",
+    "Name": "Aschermittwochs-Gericht: Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln dazu ein Kr\u00E4ppel",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 4358733,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f52adba9-a473-e166-ceb8-b30f37d4e784",
+    "Name": "Panzanella Baguette | Cherrytomaten | Rucola",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "f7625126-b642-d9d6-2ec2-26236bbd5f47",
+    "Name": "Payasam Kheer Kokos | Reis | Sultaninen | Kardamom",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1d5fd3ad-b49f-c008-6fde-4ca07e1c1b19",
+    "Name": "Pasta con Broccoli Salbei | Mandeln | Cherrytomaten | Grana Padano",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32965,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "13863b3f-fc76-5ce7-5b66-296c0afb3b77",
+    "Name": "Pizza Quattro Formaggi Tomatensauce | Mozzarella | Camembert | Gorgonzola | Schafsk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "96db7d31-6876-ee88-a8bc-e387af84ba64",
+    "Name": "Haselnusstarte Zimt | Ei | Frischk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 196,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "3e13d413-61ca-3ef4-ff05-afc2ee1952b1",
+    "Name": "Pizza Chorizo | S\u00FC\u00DFkartoffeln | Feta",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98369,
+    "Location": "Mensa",
+    "Price": 6.90
+  },
+  {
+    "Hash": "c111a9cd-d2b4-d215-0389-140828a084f0",
+    "Name": "H\u00E4hnchenbrustfilet im Knuspermantel mit Rahmsauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "cb55dde7-8f6e-ae45-594f-08a42f1a75b0",
+    "Name": "Pilzragout mit hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "e2f7a4ef-de70-6064-2d8e-52590870558d",
+    "Name": "Quark-Nougatcreme mit Bananen im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
