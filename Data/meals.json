@@ -23227,5 +23227,122 @@
     "AllergensAndAdditives": 192,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "20018e5b-b916-0a7b-cca4-070020321318",
+    "Name": "Jackfruit Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "38459672-90f8-cd02-00c9-1dd58a07490f",
+    "Name": "Currywurst aus Jackfruit-Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4227105,
+    "Location": "Grill",
+    "Price": 3.90
+  },
+  {
+    "Hash": "3b4c60d8-40ff-a914-64d2-8f196deb219c",
+    "Name": "Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2163200,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "4a88c50e-b561-4d03-8c25-f9ec70af0626",
+    "Name": "K\u00E4sewurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212416,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "74d6123e-6748-c46b-30a4-f9f2e3260191",
+    "Name": "Fleischk\u00E4se mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195968,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "9ffa7f43-9c2c-8020-3131-5103b6dc55ad",
+    "Name": "Currywurst aus Rinds- oder Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6390305,
+    "Location": "Grill",
+    "Price": 3.90
+  },
+  {
+    "Hash": "0dd9eba0-20c9-41f2-3cbe-1b4de4ecf94d",
+    "Name": "Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195968,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "a38a53b8-2239-2241-9ab5-8dff8b6c1dfe",
+    "Name": "Hausgemachtes Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "109edb4c-03f4-d9a3-f655-ff27fc6bf17a",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "4061a814-daba-bac2-14eb-5c2a44d2b24e",
+    "Name": "WOK Asia Kokos Pfanne mit Gem\u00FCse und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Marktrestaurant",
+    "Price": 3.60
+  },
+  {
+    "Hash": "6c3ab378-4ab2-9971-8047-f7f29f11d0b6",
+    "Name": "Chow Mein Noodles Tofu | Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 181281,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "bd40d8aa-8330-0b0c-5803-ba28856d3bd2",
+    "Name": "Wirsing \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "77490101-3957-d8eb-22f3-89d66adf40e7",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
