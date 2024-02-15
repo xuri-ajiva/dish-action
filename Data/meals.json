@@ -23344,5 +23344,59 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "762a9af6-b13b-18d6-c13f-41baa98d8072",
+    "Name": "Gebackene Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2d8b6702-a36f-5cc1-2280-9c44d4960078",
+    "Name": "Brokkolisauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "5df4a67c-8c68-af55-eb2a-6eb73d8bd6ac",
+    "Name": "Quarkspeise Fr\u00FCchte M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16577,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "56f24716-1f77-5877-cb79-b619336a4a79",
+    "Name": "Pasta con Broccoli Salbei | Mandeln | Cherrytomaten | Hartk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32965,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4c8bb6ff-3de3-0d48-4eaa-7464e9986ca0",
+    "Name": "Erbsenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "3fdb773c-3c0f-c2ec-85ae-ff22809669e7",
+    "Name": "Zucchini-Paprikagem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
