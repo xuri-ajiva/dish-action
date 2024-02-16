@@ -114,6 +114,26 @@ public class DbHandler : IAsyncDisposable
             }
         }
 
+        foreach (var meal in _meals)
+        {
+            if (meal.Name.StartsWith("mensaVital "))
+            {
+                meal.Name = meal.Name["mensaVital ".Length..];
+                var newHash = HashMeal(meal);
+                foreach (var day in _days)
+                {
+                    var index = day.Meals.IndexOf(meal.Hash);
+                    if (index != -1)
+                    {
+                        day.Meals[index] = newHash;
+                    }
+                }
+                meal.Hash = newHash;
+                _hasChanges = true;
+                _logger.LogWarning("Removed mensaVital prefix from {Meal}", meal.Name);
+            }
+        }
+
         return true;
     }
 

@@ -32,17 +32,17 @@ public class DataProvider
             {
                 var result = await client.GetStringAsync(side, cancellationToken);
 
-                var Count = 0;
-                await foreach (var record in ProcessResult(result, side, cancellationToken))
+                var count = 0;
+                await foreach (var _ in ProcessResult(result, side, cancellationToken))
                 {
-                    Count++;
+                    count++;
                 }
 
-                _logger.LogInformation("Processed Side {side} got {count} Days", side, Count);
+                _logger.LogInformation("Processed Side {Side} got {Count} Days", side, count);
             }
             catch (Exception e)
             {
-                _logger.LogError(e, "Failed to process side {side}", side);
+                _logger.LogError(e, "Failed to process side {Side}", side);
             }
         }
     }
@@ -90,7 +90,7 @@ public class DataProvider
         foreach (var node in nodes.Where(x => x.Name == "li"))
         {
             var result = await ProcessNode(node, cancellationToken);
-            if(!record.Meals.Contains(result.Hash))
+            if (!record.Meals.Contains(result.Hash))
                 record.Meals.Add(result.Hash);
         }
         return record;
@@ -103,7 +103,7 @@ public class DataProvider
         var location = node.FirstOrDefaultByClass("fmc-item-location")?.InnerText;
         var icons = node.FirstOrDefaultByClass("fmc-item-icons")?.ChildNodes?.FindFirst("span")?.ChildNodes?.FindFirst("svg")?.OuterHtml;
         var line = node.ChildNodes.FindFirst("div");
-        var title = line.FirstOrDefaultByClass("fmc-item-title")?.InnerText;
+        var title = TrimTitle(line.FirstOrDefaultByClass("fmc-item-title")?.InnerText);
         var price = line.FirstOrDefaultByClass("fmc-item-price")?.InnerText;
 
         decimal priceFormat;
@@ -120,11 +120,26 @@ public class DataProvider
         }
         if (priceFormat >= 80) //bc 0.80€ is the lowest price know. 80€ is a bit high for a meal probably the format is wrong
         {
-            _logger.LogWarning("Price {price} is too high fixing (/100)", priceFormat);
+            _logger.LogWarning("Price {Price} is too high fixing (/100)", priceFormat);
             priceFormat /= 100;
         }
 
         var icon = _dbHandler.GetOrCreateImage(icons ?? "", cancellationToken);
-        return await _dbHandler.GetOrCreateMeal((MealCategory)byte.Parse(cat ?? "0"), title?.Trim() ?? "-", priceFormat, location?.Trim() ?? "-", await icon, cancellationToken);
+        return await _dbHandler.GetOrCreateMeal((MealCategory)byte.Parse(cat ?? "0"), title.Trim(), priceFormat, location?.Trim() ?? "-", await icon, cancellationToken);
+    }
+
+    private readonly string[] _prefixFilter = [
+        "mensaVital",
+    ];
+
+    private string TrimTitle(string? innerText)
+    {
+        if (innerText is null) return "-";
+        foreach (var filter in _prefixFilter)
+        {
+            if (innerText.StartsWith(filter))
+                innerText = innerText[filter.Length..];
+        }
+        return innerText.Trim();
     }
 }
