@@ -23821,5 +23821,14 @@
     "AllergensAndAdditives": 2163200,
     "Location": "Mensa",
     "Price": 4.60
+  },
+  {
+    "Hash": "4a947c2e-86c9-e6d7-5052-bf593e0bddb5",
+    "Name": "Beilagensalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
