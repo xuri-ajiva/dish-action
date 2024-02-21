@@ -23830,5 +23830,68 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "2519af4a-7cc6-f59c-94b9-f2d7bb6158bf",
+    "Name": "Pizza Verdure",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "560c544a-d6a1-0004-a981-b542c910abe2",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "aaa98ff9-20fe-9226-db60-dae76024be87",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "cd5f33c5-eb31-9ecf-d9d4-84ff343cda18",
+    "Name": "Paniertes Schnitzel mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "2844f257-a2ee-ee82-73e7-d0c973b1bf8a",
+    "Name": "Gem\u00FCsefries aus Karotten, Pastinaken und rote Beete dazu ein Kr\u00E4uterdip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 18976,
+    "Location": "Bistro - Bistro",
+    "Price": 3.70
+  },
+  {
+    "Hash": "d667094f-6fab-30c3-17ae-2791e55d4759",
+    "Name": "Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66048,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "ddc72fd4-b677-04dc-6f85-30b52688687c",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
   }
 ]
