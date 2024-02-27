@@ -24271,5 +24271,59 @@
     "AllergensAndAdditives": 16794721,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "0634b05b-ced5-ff6b-4880-7523c42f6d15",
+    "Name": "Pizza mit Kapern und Sardellen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 73,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "70db24cb-246f-3f6b-c716-fcc2a5c3366a",
+    "Name": "Brokkoli mit Butter und Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "187959e0-f713-650f-700b-f33e52d53919",
+    "Name": "Klare Gem\u00FCsesuppe mit Haferflocken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435713,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "ca500e32-0e34-c940-4fae-8db0d7db9edb",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "b321f890-8462-b7db-8c48-f93113447dac",
+    "Name": "K\u00FCrbis Kokoscreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1088,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "f0cb74ac-7a3f-05ff-2c98-a8a276c95abc",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
   }
 ]
