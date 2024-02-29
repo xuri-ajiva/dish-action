@@ -24325,5 +24325,77 @@
     "AllergensAndAdditives": 16777281,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.00
+  },
+  {
+    "Hash": "0ba84eb2-f8b1-f0ad-300b-d80d5e2dee3c",
+    "Name": "Zucchini-Mais Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "1160a405-fb82-7400-dbee-e0edc41caef4",
+    "Name": "Cappuccinopudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "dec89dff-2eb7-9ebe-7928-7bb00a1cc240",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "bfa9fd1d-f9d6-a794-d9f1-4015486bc6fc",
+    "Name": "Fingerm\u00F6hren Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "d27365f0-8de4-6a50-5688-0645976d93d0",
+    "Name": "Blumenkohlcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "db28e209-ab14-d27f-8ed8-6cbe64d4faee",
+    "Name": "Karotten Ingwercreme mit Kokos",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.60
+  },
+  {
+    "Hash": "4124e98a-431e-b767-66e6-dd7eb90a8d31",
+    "Name": "Kohlrabi Karottengem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "4df8b593-9c3b-83f6-2c7e-2829717bd844",
+    "Name": "Rindswurst Rind | Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195456,
+    "Location": "Mensa",
+    "Price": 5.50
   }
 ]
