@@ -24397,5 +24397,149 @@
     "AllergensAndAdditives": 2195456,
     "Location": "Mensa",
     "Price": 5.50
+  },
+  {
+    "Hash": "85bbcf6a-c777-de68-1ce0-737fa51579d4",
+    "Name": "Hausgemachte Nudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a5c26750-a0cb-1d91-fde4-61060a89d78c",
+    "Name": "Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "56117e47-e7fe-0038-7267-bced2f583e84",
+    "Name": "Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66048,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "eb24f534-80e2-657e-a239-942bac84d157",
+    "Name": "Mischgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "aec6ad2c-aaa4-2865-5115-7a4ac88357ec",
+    "Name": "Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0891506a-c929-75ef-951b-cc3699520109",
+    "Name": "Chia Pudding mit Heidelbeeren im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "7e281cd0-acd5-0ebf-9bed-177677871e80",
+    "Name": "Cappuccinopudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "75a167e8-adca-effb-6ce9-2f2e53cad1b1",
+    "Name": "Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "87f4b3a4-3fba-973b-ec20-d46083c1c1c1",
+    "Name": "Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9fd9995c-b51e-8c75-7f21-bb7a552ca56d",
+    "Name": "Hausgemachter Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 68096,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "dc09e1a8-1ee7-2bae-e55c-0fbc46f64922",
+    "Name": "Mischgem\u00FCse Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f1a8d40a-62bc-e25a-758d-a5ef7bddf37a",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "17d1a06b-4f89-082b-0950-924477536896",
+    "Name": "Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "cf0155c0-5bab-afdb-7cb9-ddbb62db202c",
+    "Name": "Chia Pudding mit Heidelbeeren im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "491d8fc2-7f24-82f0-1db7-ca7274cd564d",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.80
+  },
+  {
+    "Hash": "8fc15ab2-eb19-d6dc-286b-eb0c6d109980",
+    "Name": "Kokos-Mandel Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
   }
 ]
