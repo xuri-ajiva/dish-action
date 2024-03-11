@@ -25450,5 +25450,41 @@
     "AllergensAndAdditives": 150995265,
     "Location": "Mensa",
     "Price": 5.90
+  },
+  {
+    "Hash": "9c598e3f-8c8b-466b-37a8-cde0e2d5b523",
+    "Name": "Brokkoligem\u00FCse Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2a26396a-a3fd-74aa-673e-a2227a025821",
+    "Name": "Kartoffelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b97485a4-1754-6690-fc1d-0b18676af804",
+    "Name": "Grie\u00DFbrei mit Fruchtsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "65b48b99-1835-daeb-2d5e-16e46fc12e35",
+    "Name": "Couscous Salat Paprika | Tomaten | Essig | Sabal Olek",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16877569,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
