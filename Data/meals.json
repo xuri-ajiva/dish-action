@@ -25486,5 +25486,131 @@
     "AllergensAndAdditives": 16877569,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "4f86952f-8fd3-13ed-6c52-fb1a222fbcf1",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8f14daf3-b9dc-601f-d2ec-711aba288c51",
+    "Name": "Zucchini-Mais Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "cac13c57-44ed-6132-5cc0-f92fa4dd00eb",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e9cc8dc5-ed81-f534-3633-def53abc521d",
+    "Name": "Kartoffelklo\u00DF",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 362497,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "fcded27d-6170-9b6e-9c12-5a7d22648433",
+    "Name": "Rosenkohl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "6d075ebb-95d1-3a38-6b41-34d4a2db6840",
+    "Name": "Blumenkohl a la creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d69a372c-68eb-0801-6b6c-ed43fd2e2ffe",
+    "Name": "Karottencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "baf2eac4-d592-dcdc-c979-e72038335607",
+    "Name": "H\u00E4hnchenbrustfielet \u0027Natur\u0027 mit Sauce Arabiata",
+    "Image": "9e62c678-5bff-e662-5ebd-a5df58c1ad9d",
+    "Category": 11,
+    "AllergensAndAdditives": 114688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "7c037c76-c7c6-3ca4-fdb1-cd1b2df37260",
+    "Name": "Gebackene Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a5fa573c-a6cc-701f-8bc2-5c4f9ced7d68",
+    "Name": "Tomatenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "da6f2055-5d6a-b407-3cfd-c4e9201ede90",
+    "Name": "Vichy Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "209cb57f-2a54-e42e-9fe5-431f38c958d1",
+    "Name": "Blumenkohlcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "05add9af-648c-7fda-a799-68787cb0bf5f",
+    "Name": "Erdbeerquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "c9a88223-0a11-8341-ff2d-7104828467c8",
+    "Name": "Kartoffelgratin",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
