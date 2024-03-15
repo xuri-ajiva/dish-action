@@ -25612,5 +25612,86 @@
     "AllergensAndAdditives": 16777281,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "a4ffeab0-9482-ed89-1148-d5e53915611f",
+    "Name": "Bayrischer Schweinebraten mit Biersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134217729,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "9829f7ae-b6f8-037c-2724-0ace59f75062",
+    "Name": "Bayrischer Schweinebraten mit Biersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134217729,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "31d67e89-1963-ad1b-a2c0-0619388c64a8",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Haferflocken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "67b9b0c1-62c8-e355-9d80-f17bb1e8d9e1",
+    "Name": "Apfelrotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "a58549b2-6667-0099-c01b-24fcb6b1cc90",
+    "Name": "Rosenkohl Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8c3529d5-6195-420d-0bb1-5089dad33e42",
+    "Name": "Pfirsichquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "85f52c23-abbb-29ef-6225-a06a769ff9ef",
+    "Name": "Nasi Goreng Ei | Erbsen | Karotten | Ingwer | Reis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16957477,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "9b1cc8da-5102-c79d-4364-b884742ece1c",
+    "Name": "Kartoffelgratin Milch | Sahne | Weizenmehl",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "ee743aad-d654-88c9-23a3-4cb11c450f9c",
+    "Name": "Kokosmilchreis Kokosmilch | Pfirsiche",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
