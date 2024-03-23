@@ -26017,5 +26017,221 @@
     "AllergensAndAdditives": 2163200,
     "Location": "Mensa",
     "Price": 5.10
+  },
+  {
+    "Hash": "34bc4f41-5da2-5ad8-13ce-23c08a842516",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "7d5d5fa0-943f-6f58-41fb-9c65634ee3f2",
+    "Name": "Hausgemachte Pasta mit M\u00F6hrensugo, Erdn\u00FCssen und Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777233,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "02189bfa-2894-64e9-3517-14a3497868c3",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041473,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "9b1b84d7-cc10-ee90-87f0-675fda8c4b5a",
+    "Name": "WOK Scharfer, ger\u00E4ucherter Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859681,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "8fbb3312-bf3c-dfc0-5c0f-9b35c1803dca",
+    "Name": "Zartweizenragout mit frischen Pilzen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "1c4d2b57-c21f-feae-f2fc-2ce75ed11295",
+    "Name": "Schnitzel paniert mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 837,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "2e2042d4-0833-cbe0-a7d4-8eb4790677a2",
+    "Name": "Schnitzel paniert mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "24c46c5f-b4ca-666d-af4f-d79eac072bee",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435457,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "cf8faf97-5dd2-b576-2480-0c0fa166705c",
+    "Name": "Gem\u00FCsegulasch mit R\u00E4uchertofu und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 288,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "4816fadc-c70e-49eb-cc29-4975017752be",
+    "Name": "Bio R\u00FChreier mit Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "1c2e63bd-07cd-0564-c98c-a24c5eb27405",
+    "Name": "\u0027Lui\u0027 Burger mit Rindfleisch, Brie und Rucola",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041989,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "b489fcad-9038-05bb-084a-b1233e9f5418",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "2e1489bd-d01c-e466-4a36-9822dbe5e5e0",
+    "Name": "Hausgemachte Pasta mit M\u00F6hrensugo, Erdn\u00FCssen und Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777233,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "8872c3c4-495e-c5c3-a866-251b91eec2db",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041473,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "00a2f373-7465-e8ee-d653-c8d607447db4",
+    "Name": "Sauerkischquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "9427c953-b1fa-93f8-e36d-ca83f56fb0d9",
+    "Name": "WOK Scharfer, ger\u00E4ucherter Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859681,
+    "Location": "Marktrestaurant",
+    "Price": 4.20
+  },
+  {
+    "Hash": "e1666a81-6c9b-f6d0-ec96-3ae3b3b7ef0e",
+    "Name": "Zartweizenragout mit frischen Pilzen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "4236c419-d0d6-de3f-555b-0c44a1a74a16",
+    "Name": "Schnitzel paniert mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 837,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c3f898c5-5c2c-217e-ff8a-c39c5004f590",
+    "Name": "Schnitzel paniert mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "cd79c0e2-9b35-9ac9-be84-26fd09c34862",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435457,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "57e7ffd6-4a73-1dd1-bea8-bfad8ef003a4",
+    "Name": "Gem\u00FCsegulasch mit R\u00E4uchertofu und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8fcc78ba-b730-234b-da30-58bf42430b73",
+    "Name": "Bio R\u00FChreier mit Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "990a4e54-2378-1d1d-eb40-e4f8742cbf8b",
+    "Name": "\u0027Lui\u0027 Burger mit Rindfleisch, Brie und Rucola",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041989,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "1f834a35-045b-091a-a1df-33d6efd64a97",
+    "Name": "Roastbeef Rindfleisch | Kr\u00E4uterbutter | Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 134218049,
+    "Location": "Mensa",
+    "Price": 0.50
   }
 ]
