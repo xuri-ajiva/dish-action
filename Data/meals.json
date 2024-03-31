@@ -26233,5 +26233,212 @@
     "AllergensAndAdditives": 134218049,
     "Location": "Mensa",
     "Price": 0.50
+  },
+  {
+    "Hash": "bcf817be-9aa3-f629-f19b-1b468e906af7",
+    "Name": "Bio Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "d84193ce-1bcc-f426-381d-cae78ebb1697",
+    "Name": "Vegetarische Maultaschen mit Kr\u00E4uter-Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "367e48b0-3fbb-525b-9778-7a3b92a5ff97",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauch Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 49217,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "05c4bb19-ee51-448b-32e2-d6a5a0540dff",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891969,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "3da76919-a680-8379-9f9d-873d81900278",
+    "Name": "Bio Kokosmilchreis mit Erdbeerspiegel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "658bd91f-d2b3-bb05-f340-b754a30bb673",
+    "Name": "WOK Pad Thai mit Tofu und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "c1aee7f5-9bc6-0f1b-c2b9-bc8cbadcd209",
+    "Name": "Orientalischer Hirsetopf mit Rosinen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "c1a0da2d-c990-e25e-8437-2d4b4d257a1c",
+    "Name": "Bio Gem\u00FCsecurry mit Karotten, Blumenkohl, Brokkoli und Erbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "caedc4a8-d41d-2b4b-2fe2-a219a7aa19de",
+    "Name": "Crunchy Chicken Laugenburger",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155290373,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "f5270857-04b6-d9c5-6ea5-6535736c0caa",
+    "Name": "Haselnuss Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "fabaf4b9-4614-3739-bf72-4ee07c39a732",
+    "Name": "Bio Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "74669373-d336-855e-60d0-97907cab84a6",
+    "Name": "Vegetarische Maultaschen mit Kr\u00E4uter-Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "9951ceef-38d8-d124-b833-51141e491150",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauch Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 49217,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "f8b41231-0253-b5f4-4be0-aac8299fcecf",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891969,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "21dbe8e0-1566-7be0-fc1f-34d4b7e6606f",
+    "Name": "Bio Kokosmilchreis mit Erdbeerspiegel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "5331401c-450d-d660-ef90-4fedb62006b4",
+    "Name": "WOK Pad Thai mit Tofu und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32817,
+    "Location": "Marktrestaurant",
+    "Price": 3.50
+  },
+  {
+    "Hash": "6d46a46f-6dfa-ca0c-c207-20c614307091",
+    "Name": "Orientalischer Hirsetopf mit Rosinen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "58b2d75f-779d-1e22-a61e-8bec35780822",
+    "Name": "Bio Gem\u00FCsecurry mit Karotten, Blumenkohl, Brokkoli und Erbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "e6fe6b79-f10b-4ae1-9660-07b829343e77",
+    "Name": "Crunchy Chicken Laugenburger",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155290373,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0fd060d0-1bf7-5b7d-4d88-a9ed98f7f012",
+    "Name": "Haselnuss Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "dafe4bf4-7e35-e7ff-e5c5-296ce5c6b680",
+    "Name": "Criss cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "9b532ac4-0fd0-c523-80be-9b3b088fdde2",
+    "Name": "Birnen Crumble",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285294593,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "cf8c277f-15eb-1d9f-18fc-acad368cce29",
+    "Name": "Honig Kuchen Sahne | Honig | Ei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
