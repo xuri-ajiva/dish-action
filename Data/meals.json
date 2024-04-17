@@ -26899,5 +26899,95 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "3811e078-5994-c66a-b94e-7a5e1d691983",
+    "Name": "Blumenkohl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "37a32475-20d2-d49e-cfc1-003abbeefc76",
+    "Name": "Butterbohnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f6f7e31d-9d73-42a0-1062-e4eb544ac69e",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauch Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Marktrestaurant",
+    "Price": 3.40
+  },
+  {
+    "Hash": "3f7d90a3-4c4a-d7c4-ed3f-baf10beba8c2",
+    "Name": "Dessert Schokopudding Sahne | Milch | Schokolade",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "ddac3a4a-55b0-cf15-9668-53133c9ca09a",
+    "Name": "Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "96b57205-1581-930e-f56c-c9e59bd6dfc9",
+    "Name": "Salatbeilage",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "14cf212f-aecb-07e1-7040-f5e7685c3192",
+    "Name": "Hausgemachte Pasta mit Spinatinosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "e35a4c99-e659-4d57-c690-5f1daac23acd",
+    "Name": "Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "bc9c356e-6636-353d-0e8d-778e99922d52",
+    "Name": "scholle gebacken mit Kr\u00E4uterdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "df03f476-6e61-021c-bfb8-fdd7a5fb2a5f",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
