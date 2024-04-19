@@ -26989,5 +26989,158 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "894c0d47-5730-6dfe-f63f-a20809f23194",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "452b6be6-393c-ef38-3c7b-c02eb295dcde",
+    "Name": "Hausgemachtes Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "81712fbe-9846-0751-d07b-ebf64ffd4390",
+    "Name": "Rosenkohl mit Butter",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "24cc4974-0392-af76-58c9-e23a146c7dee",
+    "Name": "Heidelbeerquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "29efce59-4668-6dbb-950b-dafaa4dfd374",
+    "Name": "Hausgemachte Pasta mit einer Gorgonzolasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "8943dbfc-cf46-3574-1609-1c7cff3383b6",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "6dba2896-b8fb-3ee4-f0de-c1662f7650c3",
+    "Name": "Cheeseburger Rind  | K\u00E4se | karamellisierte Zwiebeln | Tomaten | Salat",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989025,
+    "Location": "Mensa",
+    "Price": 11.00
+  },
+  {
+    "Hash": "3e66b0fc-7611-8b31-1c05-ca1cf28807c0",
+    "Name": "Cheeseburger Rind 200g | K\u00E4se | karamellisierte Zwiebeln | Tomaten | Salat",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989025,
+    "Location": "Mensa",
+    "Price": 11.00
+  },
+  {
+    "Hash": "8cf47889-dc4b-0a36-45b2-7ae29ffe5554",
+    "Name": "Hausgemachte Pasta mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "7410466b-3f56-8b22-a3fe-6ea195a7f0e9",
+    "Name": "Bohnencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d2b8d391-ed51-1f5a-4b67-1c6a46af9af0",
+    "Name": "M\u00F6hren-Kokossuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "4edebcb2-7e96-0d00-e4bd-9b1c0536209e",
+    "Name": "Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9823a361-36cf-cd49-b7d7-5133f8db09f5",
+    "Name": "Vichy Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c0ff9958-19da-a5f5-f6b1-c8f1970e53c3",
+    "Name": "Kohlrabi a la Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "9ca8cc49-db5a-2083-c98e-0530e37d0b36",
+    "Name": "Mischgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "285b26ed-0b50-cf50-3794-5a26685a4fa1",
+    "Name": "Tomatencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "8b806f1d-25cd-637d-8bde-a1937dca4d7d",
+    "Name": "Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
