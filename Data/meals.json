@@ -27142,5 +27142,374 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "3fbd054e-69b1-b9db-a7d4-ff3c19c13119",
+    "Name": "Bio Pfannengem\u00FCse mit Paprika, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "22891f67-db5e-b96d-fa6d-8bb6974e9626",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "730bba90-f9a1-26a4-58a6-73041ee17e59",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "48f65703-a50e-ba22-9f2d-7aa1c82a632b",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16809989,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "a07eed51-375c-0f30-a62c-9a0fdef39da1",
+    "Name": "Mandarinen-Schmand-Dessert mit Minze im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "c60f4c79-5f4e-9628-8aaa-55a647c2f7f9",
+    "Name": "WOK Scharfes Currygem\u00FCse mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "5bf1fd3d-002e-c117-74c5-5b713af47488",
+    "Name": "Mail\u00E4nder Risotto mit verschiedenem Gem\u00FCse und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8ba781bf-a209-9d90-15b2-17b7ca775daf",
+    "Name": "Paniertes Schnitzel mit Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "0aeb6f99-fe9b-c69d-c92d-8131f0ef3c33",
+    "Name": "Kichererbsen-Kokos-Korma mit Mandelreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536871040,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "ad170a1f-99e1-d9eb-3b0f-d0ef4b9ca1b8",
+    "Name": "Schoko Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "69275c8f-f7f4-a1dd-9292-07aed6f2d58b",
+    "Name": "Gelbe Linsen mit Kokos Curry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "cb6b663e-0590-1f3f-a6fe-f945a6a2c46e",
+    "Name": "Gem\u00FCseschnitte dazu Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549697,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "f1d79810-7307-73f9-0dd6-a883390e9844",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989509,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "21c28096-9023-30d1-3c6c-5b32c719c0d0",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "3f3b9d58-6d97-8da4-f43d-2630f2fdcef0",
+    "Name": "Tintenfischringe mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899009,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "74f64a21-abb4-2027-7505-0cf33dd8fcae",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "1f53cb67-e112-cb40-d277-cd3bf28c48ac",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Marktrestaurant",
+    "Price": 2.90
+  },
+  {
+    "Hash": "2b7a3860-83b3-9d2c-32ff-fc7c036bf449",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "064ad0de-2c20-0fa3-ec56-5bc8a7e8ad63",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16809989,
+    "Location": "Marktrestaurant",
+    "Price": 3.10
+  },
+  {
+    "Hash": "3eab4449-fc71-1f4f-ebe8-0b55f03dc80d",
+    "Name": "Mandarinen-Schmand-Dessert mit Minze im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "45b55d8a-9f68-f340-27e5-5d8ebbd4ecc3",
+    "Name": "WOK Scharfes Currygem\u00FCse mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Marktrestaurant",
+    "Price": 4.10
+  },
+  {
+    "Hash": "d0d949c8-0711-26c7-2448-c657c6fd3a65",
+    "Name": "Risotto mit Spinat und Gorgonzola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "410223cd-a592-94af-10cd-945985efeb77",
+    "Name": "Mail\u00E4nder Risotto mit verschiedenem Gem\u00FCse und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "fd2be7e1-de93-0bbb-04d1-2b5bd7d6bd5f",
+    "Name": "Paniertes Schnitzel mit Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "8579be24-a214-2937-36a7-4511281fb8a0",
+    "Name": "Tortelloni mit Spinat-Ricottaf\u00FCllung mit Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Bistro",
+    "Price": 4.30
+  },
+  {
+    "Hash": "8886bfeb-b8a2-6ea0-8629-4e10e01ae350",
+    "Name": "Kichererbsen-Kokos-Korma mit Mandelreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536871040,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7bc52387-1294-8438-8578-85e0859b47b2",
+    "Name": "Schoko Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "bacf7ac8-e716-9557-4f77-fffc7f5db79c",
+    "Name": "Vollkornsp\u00E4tzle mit Gem\u00FCse Italienische Art",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32837,
+    "Location": "Bistro",
+    "Price": 2.80
+  },
+  {
+    "Hash": "cf888fa2-336a-ff84-2dbf-0ecc9678281d",
+    "Name": "Gelbe Linsen mit Kokos Curry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b2f84b1c-04f4-1406-8f90-9d3c71bdea0e",
+    "Name": "Gem\u00FCseschnitte dazu Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549697,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "b17c6c0e-843b-71cb-c4da-25d7c002fb39",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989509,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "1b0bbcd9-f81c-313a-825c-13eef902d62b",
+    "Name": "Linsen-Orangen-Suppe dazu Baguette",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "8f2061fb-da67-249d-f4ee-c434d28594f9",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "30540621-e0a5-d540-db76-d43994eeeed3",
+    "Name": "Tintenfischringe mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899009,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "7d80862b-3781-db52-babf-bc8998e0c70d",
+    "Name": "Griechische Reispfanne mit Schafsk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Bistro",
+    "Price": 3.20
+  },
+  {
+    "Hash": "a9919bfc-53c2-85f7-e56e-b76cb46a8508",
+    "Name": "Pasta al Rag\u00F9 borlotti Bohnen | Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a4c36700-b614-ec42-721f-586b3067666d",
+    "Name": "Dessert: Schoko-Espresso Pudding Sojadrink | Espresso",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "c95c0865-6b0b-e894-eaa4-725cde80a8f8",
+    "Name": "Wedges",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "aa1ec55e-a5b7-a593-58f0-09b27b350c92",
+    "Name": "Portobello-Pilz Burger Hartk\u00E4se | Kr\u00E4uter | Romanasalat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16862817,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "990cc323-082c-ccfb-aa8e-a6fc74bfa3aa",
+    "Name": "Dessert: Milchreis Sahne | Milch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "441d792b-3ded-0be0-53d1-9c0c4638cc6f",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 3.30
   }
 ]
