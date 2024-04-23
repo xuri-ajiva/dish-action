@@ -27511,5 +27511,131 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 3.30
+  },
+  {
+    "Hash": "ab963538-36a1-68cd-525e-1f0667bae1b7",
+    "Name": "Broccoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8b72c8ce-d006-f092-219d-976fd3e0a382",
+    "Name": "Fingerm\u00F6hren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "7a9cf4c7-f577-583a-7e28-7cab10a3d362",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150997573,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "fae01619-a72e-ca62-4cb1-f6d19287f64d",
+    "Name": "Zwiebelsuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "04a8fd8e-b5f3-01a5-a0fb-96a2246684c4",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b871f3ba-e6c0-5b03-aaa5-d055c9553a28",
+    "Name": "Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "3fa3007b-0ab9-af86-1798-79172254de95",
+    "Name": "Dessert: Milchreis Sahne | Milch | Kakaonibs | Orange",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "72bf08cd-bd41-b883-2cde-bb585c6a2878",
+    "Name": "Mensa Vital Pikante Sesamnudeln mit asiatischem Pfannengem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778289,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "7ce5d139-252b-c0d1-cf7d-60ca7f4c1e88",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "59324148-df6d-ea5c-c19a-643d95f16eb9",
+    "Name": "Beilagensalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b3885e29-db41-8509-e005-28342ffcec25",
+    "Name": "Risotto mit Zucchini, Lauch, Karotten, Erbsen und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "aeb76320-f352-7105-d044-67abffc02078",
+    "Name": "Pommes Frites",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "c0643977-4389-3cef-8f9a-75eea95718d4",
+    "Name": "Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9b42a7f6-9fad-8cc8-1bbc-253f3883ec63",
+    "Name": "Kartoffelecken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
