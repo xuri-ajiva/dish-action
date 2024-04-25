@@ -27637,5 +27637,86 @@
     "AllergensAndAdditives": 16777217,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "32e0a83a-0052-252f-56a4-7af6af488b28",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777505,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "6a3dcf75-5819-223f-4f50-9ddc69fc8964",
+    "Name": "Bohnen natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "34b7238f-82a3-6266-bdce-779e5a01ea69",
+    "Name": "Kohlrabicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3ad776a9-b18d-1f01-dff0-1b024f9e8781",
+    "Name": "Fruchtquarkspeise mit Waldbeeren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "fbe9ff30-98bd-37db-6ed5-f17a7aaa3cee",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "2a1a088f-b77e-5493-2776-3767885ccbe6",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: gebackener Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "e8d30684-8f2c-9e8b-f913-0ac0bb89ed74",
+    "Name": "Bulgur Gem\u00FCsepfanne",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "00250120-171f-3ce2-3edf-f20e58b36558",
+    "Name": "Vanillepudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "51706f87-dfea-9695-7668-cab1e93c7e2a",
+    "Name": "Scharfe Paprikasuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
