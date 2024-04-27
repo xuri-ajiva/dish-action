@@ -27718,5 +27718,266 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "0a68a044-bc89-ccb4-4016-74c4ee18a43d",
+    "Name": "Tomatenrisotto mit Thymian und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 67648,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "0b88651a-2fd5-e2c5-c40d-c8346fc14824",
+    "Name": "Sojagyros mit Tsatsiki",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "d2d746ef-5600-5f86-9f8d-42c0d01dcc93",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "325e2da8-b5d5-9f64-99cc-22f8ade05812",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "fe6d3111-98b0-75a3-8ffb-f94d31be7735",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se-Bratling in einer Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430725,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "94437b8a-0a22-35cd-4f48-d8de4316c70d",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058117,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "697a7ebf-c576-bfc7-9666-32ea3fcbd2c0",
+    "Name": "Bio Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6891fb21-f6f2-3ab4-8482-9d7a3d49a3bf",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "85222cf3-51e6-b2d1-a9d5-285b59c2de11",
+    "Name": "Tofusalat mit Paprika, Gurke und Tomaten dazu ein Mehrkornbr\u00F6tchen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 486540321,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "489f9023-6a12-2603-bda4-ec218d91bdd9",
+    "Name": "Geschmorte Champignons dazu ein Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "124698e7-c6a5-3892-7076-36061a490856",
+    "Name": "Gebackenes Schollenfilet mit Sauce Tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134286157,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "19d265c8-636a-8876-04b5-4c5793508753",
+    "Name": "Tomatenrisotto mit Thymian und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 67648,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "43595f29-b8d6-3a29-8554-9101a2b57ca2",
+    "Name": "Sojagyros mit Tsatsiki",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "ad053f7d-3092-0c19-eb8f-a64cabe666df",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "72c9639f-4544-d7dd-197b-335ccbd50ad5",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Marktrestaurant",
+    "Price": 4.40
+  },
+  {
+    "Hash": "0d65f33f-e5e8-9dcc-d527-91018b9c9355",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se-Bratling in einer Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430725,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "1ce886cf-126f-6cd8-c13b-310f048e7f38",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058117,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "59e8a75a-41a4-3008-d4be-564ad3bf6898",
+    "Name": "Bio Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "72f7027d-cd9a-7545-570d-2863fe4dd127",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "89fd2ab3-2e86-7667-6752-d6ae67e3541f",
+    "Name": "Tofusalat mit Paprika, Gurke und Tomaten dazu ein Mehrkornbr\u00F6tchen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 486540321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "1b171bc7-5a22-608c-160a-badcd28a6927",
+    "Name": "Geschmorte Champignons dazu ein Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "36e318ed-1745-84bf-dc95-cdf6a70cb8f4",
+    "Name": "Gebackenes Schollenfilet mit Sauce Tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134286157,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "4c937516-b97c-169a-4ea7-130ab442077c",
+    "Name": "Nasi Goreng Erdn\u00FCsse | Spitzkohl | Karotten | Erbsen | Paprika",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957489,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d234e527-68a2-96ec-0602-772295ab7f81",
+    "Name": "Linsen-Kr\u00E4uter Dal Tomaten | Lauch | Karotten | Fenchel | Staudensellerie",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1bc97b4d-9150-9460-7d6d-1ca4633a73db",
+    "Name": "Pasta alla Puttanesca Tomaten | Oliven | Kapern | Chili",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301505,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4ce7739d-6689-3f1c-3726-dfaf7cb0b3c6",
+    "Name": "Dessert Apple Crumble Apfel | Haferflocken | Sultaninen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16385,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1af8da4f-3888-a37a-5ddc-ca5396cf140d",
+    "Name": "Gegrillter Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 768,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "a9a53764-324c-dc3f-df63-39a38bae11b2",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "90f3ac86-b520-151e-685d-e885ebd58957",
+    "Name": "Dessert Milchreis Mandeln | Pistazien | Kardamom",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
