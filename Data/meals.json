@@ -27979,5 +27979,50 @@
     "AllergensAndAdditives": 192,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "a1ea643f-8fad-b629-20a7-4e0a94a4ee8a",
+    "Name": "Gr\u00FCne Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b0f0b479-385e-70e7-ce66-66d245d764d5",
+    "Name": "Zucchinigem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "fcff9a4e-fc30-bdb3-5e16-d9ff5da83f2b",
+    "Name": "Tortelloni Ricotta \u0026amp; Spinatf\u00FCllung mit Gem\u00FCsestreifen und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "acaa9281-e738-b0c5-a0a7-02aeb3addd4d",
+    "Name": "Enchiladas gef\u00FCllt mit Chili con carne und K\u00E4se \u00FCberbacken dazu Sour Cream",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 49217,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "800a9a0b-4afb-a6c5-f2ad-eb3002e4c5da",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
