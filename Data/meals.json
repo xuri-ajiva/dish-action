@@ -28024,5 +28024,59 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "c91a4082-098e-fcb9-161b-f6c416f0c040",
+    "Name": "Sojagyros mit Tsatsiki",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65632,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "2a05952d-c314-32d0-896a-0337e397774c",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Einlage",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "111693d8-8ec9-3547-192a-565e11cefd11",
+    "Name": "Rosmarin-Schwenkkartoffeln-Risolee",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "75508efd-fd01-e980-f413-7efbcf5a9f63",
+    "Name": "Brokkoli",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "549891af-8fa4-85ca-20c5-4593c75c3664",
+    "Name": "Linsencremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0e103f6f-78e4-b728-f8aa-aa384ece0977",
+    "Name": "Speckbohnen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98304,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
