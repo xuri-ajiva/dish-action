@@ -28078,5 +28078,50 @@
     "AllergensAndAdditives": 98304,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "89e54ead-fc10-daeb-5d2b-bad9aafee5f3",
+    "Name": "Tortelloni Ricotta \u0026 Spinatf\u00FCllung mit Gem\u00FCsestreifen und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c608bcf2-c79a-065d-1022-4fa3e53ca3ee",
+    "Name": "Zucchinirahmsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d95daee6-2b54-b81d-0bf7-2b713a012357",
+    "Name": "Djuvec-Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "f1600500-9802-166d-0cd6-54d35780ce56",
+    "Name": "Butterbohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "fb7421a9-5955-ed5c-9d0b-e55721a65708",
+    "Name": "Bratkartoffel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
