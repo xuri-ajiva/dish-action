@@ -28438,5 +28438,140 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "41000d27-39a2-255d-cd4e-631ab1f54d0f",
+    "Name": "Hausgemachte Pasta mit Sojabolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777505,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "1e38a301-ecb7-1f98-6f6f-b2cefef2858e",
+    "Name": "Bratwurst und Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2443776,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "8f69dbbd-c99f-cb51-8a9f-ffd8e52571c3",
+    "Name": "Quinoa-Bratling mit Salat und einem Soja-Erdnuss Dressing",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268501041,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "4be57337-a4bb-1489-5a4e-e9313df03952",
+    "Name": "Vanille Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "02abd74f-5632-4db1-968c-94981faf42bc",
+    "Name": "Hausgemachte Pasta mit Sojabolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777505,
+    "Location": "Marktrestaurant",
+    "Price": 2.60
+  },
+  {
+    "Hash": "a38130e4-f19d-6b38-9f53-3e517314696a",
+    "Name": "Blumenkohl Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "a53cbc67-2b96-a87a-a361-07a4c019038f",
+    "Name": "Tomatencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d7c740c6-669d-5ef3-dfb4-90ff4b3177ad",
+    "Name": "Butterbohnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f4b877ac-d5b2-4d8e-dd79-9f2868d18972",
+    "Name": "Quinoa-Bratling mit Salat und einem Soja-Erdnuss Dressing",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268501041,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "a919ff71-6da0-daa8-1a59-f8fb0644b4a1",
+    "Name": "Vanille Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "8657a01b-4523-9eb9-0591-4337ce675ee3",
+    "Name": "Pasta Pilze | Chili | Petersilie",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "973372cd-50e9-c91b-6f6c-3410af1e2d9c",
+    "Name": "Currywurst Rind | Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 140624129,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "1893b2f9-551f-871c-9b75-2ad5c2b473b0",
+    "Name": "Milchreis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "4e8b0e19-a236-91b7-2181-5dc5d0d2e9ae",
+    "Name": "Rosenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "d4fcca7b-323b-7894-f8a8-61ccb908d44f",
+    "Name": "Sahnereisbrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
