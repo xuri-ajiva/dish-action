@@ -28573,5 +28573,41 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "2ddac95c-aee9-9249-d09d-34addb10e234",
+    "Name": "Kohlrabi Karottengem\u00FCse Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "9737c04b-7dd3-432d-4397-9cdf88c4939c",
+    "Name": "Pasta mit Mus von ger\u00F6stetem Paprika gelbe Paprika | Tomate | Knoblauch | Basilikum",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795649,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4961a905-523c-c032-72c3-7feef308a321",
+    "Name": "Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "be62d1f1-51ea-2bf4-2577-10b1ea9b5b23",
+    "Name": "Hausgemachte Pasta mit Gorgonzolasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.40
   }
 ]
