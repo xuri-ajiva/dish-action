@@ -28888,5 +28888,32 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.40
+  },
+  {
+    "Hash": "608075f5-2a31-2842-501a-b2106d534c52",
+    "Name": "Milde Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268435777,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "aeaebae7-70d8-e730-6174-feac23ff620f",
+    "Name": "Curryreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a8c8d226-bc70-1311-59c6-f4e1f1798985",
+    "Name": "Apfel- Meerrettichsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
