@@ -28915,5 +28915,41 @@
     "AllergensAndAdditives": 16844864,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "6c156011-8f78-928d-b51a-4f67fdcb9b52",
+    "Name": "Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777221,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "91264504-d699-8a6d-d12b-fa373ce5cbe5",
+    "Name": "BBQ-Burger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 151028545,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "edbf0d2a-f75c-50e2-fd1c-3b9254a3caa5",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Einlage",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 260,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "c937ae64-252e-73bb-3a00-2dbbcb681d82",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2427392,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
   }
 ]
