@@ -28951,5 +28951,131 @@
     "AllergensAndAdditives": 2427392,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.30
+  },
+  {
+    "Hash": "96c55228-d040-9c87-e409-baceae269e11",
+    "Name": "Countrykartoffel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "cab05c17-f5fe-cf79-5d82-d735f5b511a3",
+    "Name": "Karotten - Kokos - Ingwersuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "be7f3649-620e-28a6-7870-f05c215f2c6c",
+    "Name": "Hausgemachtes Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "d9cb2bd5-8bad-86cb-aa97-55108521632a",
+    "Name": "Sauerkirschquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "99f185c7-9ecf-cbf4-b41c-01ed821a4ef6",
+    "Name": "Djuvecreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "4ec6883c-c6a9-dd41-4eef-77a4aa6ba941",
+    "Name": "Mischgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e594583e-35d3-0935-c997-91fa255442d8",
+    "Name": "Pizzahacksteak Rindfleisch | Schweinefleisch | Paprika | K\u00E4se | Eier | Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777797,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "6c37c736-276e-8958-9f69-dcdff5de7dc8",
+    "Name": "Gebackenes Schollenfilet mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777289,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "90a22ade-f678-47f9-e545-746d0bf1a287",
+    "Name": "Gebackener Seelachs mit Knoblauchdip mit Zitronenecke",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777289,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "9d6a7bbb-c66b-f04c-0623-222703f44dd1",
+    "Name": "Tagessuppe -leere Rezeptur-",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "1dd825ed-d25d-0b09-6681-f3706c34a352",
+    "Name": "Rosmarin-Schwenkkartoffeln-Risolee N 2014",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a8f26016-1559-0556-f502-010682e2405c",
+    "Name": "Gem\u00FCsebr\u00FChe mit Eierstich",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 260,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e48a62fc-b459-182d-5c20-c8c4598dcdec",
+    "Name": "Blumenkohl Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "fa63e6c2-c5f5-e0f3-2b65-1af682562926",
+    "Name": "Linsencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 49216,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
