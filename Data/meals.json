@@ -29347,5 +29347,14 @@
     "AllergensAndAdditives": 96,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "27e9341a-d6db-d8d4-cfe8-a3dd4f7a51ce",
+    "Name": "Blumenkohl \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
