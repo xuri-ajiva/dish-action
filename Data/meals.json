@@ -29356,5 +29356,77 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "c8013533-05af-e687-d286-d236bba7f55f",
+    "Name": "Schweizer Wurstsalat mit K\u00E4se, Zwiebeln und Gurken dazu Bratkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4442688,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "59f7965c-33c9-4f16-8de4-ba5a6db981f0",
+    "Name": "Schweizer Wurstsalat mit K\u00E4se, Zwiebeln und Gurken dazu Bratkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4442688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "78724a78-bdc1-0354-2bb3-b5d89c9ef2ee",
+    "Name": "Karotten Kokoscreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3dfe0b03-04fe-06a6-dc2a-a97d9d51b5ad",
+    "Name": "Fingerm\u00F6hren Kohlrabigem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "eece5680-ae0f-16e1-5c3b-c5baa890d942",
+    "Name": "Ofenkartoffel Ratatouille mit Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "a292eff0-8d1c-165d-136c-d4ac4ff262d6",
+    "Name": "Gr\u00FCne Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "177806cf-917b-509d-9077-4899d3724185",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "f26efce6-a082-de74-1128-cd6100e9e5cd",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777568,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
