@@ -29428,5 +29428,275 @@
     "AllergensAndAdditives": 16777568,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "a2046c55-d929-44a6-db1e-cc7bc358047f",
+    "Name": "Hausgemachte Pasta mit Oreganosauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "318401b3-601a-962e-3446-578623f4f111",
+    "Name": "Schupfnudel-K\u00FCrbis-Champignon Pfanne mit Hirtenk\u00E4se-Quark Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "b16a1a8e-9ad1-4416-a517-a52705fd8500",
+    "Name": "Solero-Orange Dessert im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "d4616c41-9b1a-89b8-91e0-b48a0e6d3fd7",
+    "Name": "Paprika gef\u00FCllt mit Couscous und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "727627db-b357-814b-5f5e-e390c89f16a5",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "1512479a-e5d4-2fa6-9f3d-eb37f7a4b583",
+    "Name": "Paniertes Schnitzel mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793925,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "d46846bc-3490-2051-483a-3cc2c518cb59",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "169fbd4f-bbf9-1a9c-0665-0d9dc7fd172e",
+    "Name": "Gem\u00FCsetortilla mit Kartoffeln, Paprika und Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a03358da-b68f-129f-7bee-9425a4547283",
+    "Name": "Hausgemachte Frikadelle mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276037,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "baa6dc2e-f61d-0b72-9346-30babbf1c009",
+    "Name": "Linsen-Mango-Curry mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "dd3fc3e6-f592-48d0-4fc1-52f2abad1298",
+    "Name": "Germkn\u00F6del mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "06bbe341-26eb-ee28-80f7-4ea38c108646",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 4278861,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "0084039a-db47-ba6b-200d-3e831011bb01",
+    "Name": "Bio Pfannengem\u00FCse mit Paprika, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "bbd69c1a-f33d-c1d9-ee18-765aa5d6b239",
+    "Name": "Hausgemachte Pasta mit Oreganosauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6f4b22ab-aad8-0863-fc3a-d8fe0b3676ec",
+    "Name": "Schupfnudel-K\u00FCrbis-Champignon Pfanne mit Hirtenk\u00E4se-Quark Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "bdb53bd5-b1c4-b230-d0e4-4e3629519a68",
+    "Name": "Solero-Orange Dessert im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "9e826dd6-9a9c-5054-b553-df44fdba9afb",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "09f39190-5605-9e49-de10-279a0b3c35a5",
+    "Name": "Paprika gef\u00FCllt mit Couscous und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0be27f6e-8367-58db-bd6a-782802987298",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "ed95114d-0240-f105-5457-d4fc48daee6c",
+    "Name": "Paniertes Schnitzel mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793925,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "290c749f-adc2-0cc1-067c-7b3669b75edf",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "0235a1e8-c9a9-62cb-9c1a-d2f8753b64f1",
+    "Name": "Hausgemachte Frikadelle mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276037,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "3d0357c2-e773-1f61-eec6-fe6b25ca3e4f",
+    "Name": "Linsen-Mango-Curry mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "bd077012-a479-f50b-0329-434d0f3dceae",
+    "Name": "Germkn\u00F6del mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "966c2007-ebcc-7840-0a8a-0f974a22259f",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 4278861,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "011e4fe0-656c-529c-9f1c-571c83d74246",
+    "Name": "Beilage Salat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "94dd78d8-701e-e99c-5199-347353f9aafc",
+    "Name": "Dessert Apfelschnee pflanzliche Sahne | Apfelmus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6620d926-a27b-6e5a-e089-3b3dd9664799",
+    "Name": "Pasta Spargel-Carbonara Ei | Spargel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 5.60
+  },
+  {
+    "Hash": "20a02bc8-589f-8d4f-de56-a3da2012411c",
+    "Name": "Dessert Rizogalo Reis | Milch | Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "f4c00cfa-f665-40af-e987-47143f633607",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155305829,
+    "Location": "Mensa",
+    "Price": 7.00
   }
 ]
