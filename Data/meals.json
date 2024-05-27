@@ -29698,5 +29698,14 @@
     "AllergensAndAdditives": 155305829,
     "Location": "Mensa",
     "Price": 7.00
+  },
+  {
+    "Hash": "77cea8cc-5ec3-9da1-5b4f-bd6e10982711",
+    "Name": "Kartoffelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
