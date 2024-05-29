@@ -29707,5 +29707,113 @@
     "AllergensAndAdditives": 321,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "ee6cf26b-1046-bdae-459d-4f18a9f91aae",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058053,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "ab0a64d4-e5e7-5620-47b5-74b9af3b9172",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f653412d-103d-b68d-3a43-dd0adc7e404e",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "987e2dd0-38df-96fa-c615-75aa778a873b",
+    "Name": "Ger\u00F6stete Grie\u00DFsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b6cd5d4a-6b58-5226-d174-feedccc2dffa",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "a02b1567-f2ce-20bf-414e-67e7000ff1b9",
+    "Name": "Hausgemachte Pasta mit Oreganosauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "916e09de-0bbf-fd40-92f0-b7bd5bbd9ea8",
+    "Name": "Grie\u00DFbrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "731993be-ac4f-6aca-b08a-aa5848f10f54",
+    "Name": "S\u00FC\u00DFkartoffelsuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65840,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "29d3afae-feae-86de-3450-3d9d9752a255",
+    "Name": "Vollkornsp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777221,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "f334edd6-54d8-29bd-ca29-b22e7e62692a",
+    "Name": "K\u00FCrbis-Kokoscremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3c17f0b8-5fa2-a895-2e00-95da6b83c33e",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 280837,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "0e9ff796-30b4-0d5c-b24f-afe3d35d3211",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
