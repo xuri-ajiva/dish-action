@@ -29815,5 +29815,77 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "64dc6537-bf32-2945-1fa5-bb88c986fa9f",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 181280,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "c16726e4-f060-6600-2f8a-7467fd789167",
+    "Name": "Gem\u00FCsetortilla mit Kartoffeln, Paprika und Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "775a4e19-d616-d939-a6a1-0dac271e5b41",
+    "Name": "Ratatouille Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "9abd7591-66ca-e393-be53-eff4888efccf",
+    "Name": "Tomaten Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0d5ecb27-da65-3ea2-5e12-c72ca93746ee",
+    "Name": "Fruchtquark mit Cocktailfr\u00FCchten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "c6300056-26f2-800a-b8a2-f25d4fb14dd8",
+    "Name": "Hausgemachte Frikadelle mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276101,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "dc4e1467-fb50-7dc5-b74d-6a9cde103730",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 280901,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "66d681ca-3881-f8c9-493e-4e4bac140412",
+    "Name": "Blumenkohl und Brokkoli natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
