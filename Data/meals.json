@@ -30112,5 +30112,50 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "92e0566e-b600-f3f5-5e8a-0aabd73789a6",
+    "Name": "Hausgemachte Frikadelle und Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276037,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "89148fcb-073b-703b-7411-a18438212c88",
+    "Name": "Frischer Stangenspargel mit Sauce Hollandaise dazu Kartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 131396,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "dd6d5e9f-866c-7ef7-1554-116d9a70cfa9",
+    "Name": "Solero-Orange Dessert im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "4e475dc5-9702-36df-18c5-78a9d4bb9cee",
+    "Name": "Frischer Stangenspargel mit Sauce Hollandaise dazu Kartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 131396,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "158c5809-5ff0-347c-69b3-9201777280fd",
+    "Name": "Karotten-Kokoscremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
