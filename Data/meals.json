@@ -30157,5 +30157,95 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "05bb9c17-376c-8a40-441d-1e9e081061bd",
+    "Name": "Spargelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "1af5a598-6a0b-de98-1a1c-aa94bc41acbe",
+    "Name": "Maultaschen mit Gem\u00FCsef\u00FCllung in einer Kr\u00E4utersahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "f6e6f718-02ad-1f41-f6f6-90dd04e261ec",
+    "Name": "Vanillequark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ac544380-d0c4-2c29-ddca-33d1bb7571c4",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "0c9863da-478c-72f5-b621-6555c5830a4c",
+    "Name": "Hausgemachte Frikadelle mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995525,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "6091b265-853c-20b2-4849-19c6125da5cc",
+    "Name": "Linsen-Kokossuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0c35ad3e-524a-8042-9974-051de6ab6715",
+    "Name": "Stracciatellaquark mit Bananen und Haferflocken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268435520,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "b3efc7e1-665c-1efc-be06-ebfde20a031a",
+    "Name": "Hausgemachte Pasta mit Brokkoli-Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "279dbded-469a-df79-c638-163291d47a63",
+    "Name": "Wustpfanne mit Basmatireis",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2163200,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b146a9a0-ae6e-dc42-4c66-45152b3ebad5",
+    "Name": "Sauerkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264192,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
