@@ -30247,5 +30247,86 @@
     "AllergensAndAdditives": 264192,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "8ba6b237-4f74-0496-a59d-6709f35de33e",
+    "Name": "Chili sin carne mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c4c12cab-b6f0-c101-1268-6639a99ed70a",
+    "Name": "Kartoffel-Spinat-Auflauf mit Tomatemsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 69,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "315a9c20-9b82-c863-451e-38ac343fbff1",
+    "Name": "Mais-Erbsen Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "85ab001e-4040-f75c-cbdd-2df1a14deecf",
+    "Name": "Hausgemachte Frikadelle mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151341637,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "863841e9-9c5d-e5f6-9e6e-664bb788a8aa",
+    "Name": "Kohlrabicr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "9bb93bcd-326d-b150-7c31-a2283fcf359b",
+    "Name": "Fingerm\u00F6hren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "b1bf1502-90bf-46dc-d38a-dc0b2ee3c6aa",
+    "Name": "Butterbohnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "e25922cf-127d-b130-0c0e-db08973c7b86",
+    "Name": "Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 68096,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "440252c2-263a-d0a3-11a6-87e9e0d89081",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
