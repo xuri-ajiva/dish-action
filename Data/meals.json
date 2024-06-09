@@ -30328,5 +30328,302 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "8bc83242-98a9-7c69-26b9-34a8f6642c75",
+    "Name": "Soja-Geschnetzeltes \u0027Stroganoff\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20987937,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "16508c68-0ac7-049c-de5b-57b164eb540f",
+    "Name": "Hausgemachte Pasta mit Tomaten-Brokkoli Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "6358f1f4-0264-5b54-7459-7a6ce898f2ca",
+    "Name": "Hausgemachte Pasta mit Frankfurter Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "2a4f0570-82fa-a66b-87f1-3eaae5bd862f",
+    "Name": "K\u00FCrbiscurry mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1088,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "bc622ab9-218d-936f-5491-0c1a62fd8f0c",
+    "Name": "Fr\u00FCchtejoghurt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "bbd69734-74da-6a12-1107-c22400c99c5b",
+    "Name": "Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "9f8d9c82-89eb-3c9b-f1bc-6ed30dac9b37",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123653,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "85ceb12c-4066-989a-ee92-d924b56ae767",
+    "Name": "Gebackenes Schollenfilet mit Sauce Tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063373,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "18690ecd-e180-8710-4037-f721099ae833",
+    "Name": "Karamellpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "72286581-10c6-8a39-862f-081035c45be6",
+    "Name": "Orientalischer Hirsetopf mit Rosinen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "ad934de5-ff53-426f-9765-747f66a1989b",
+    "Name": "Gem\u00FCsecurry mit Karotten, Blumenkohl, Brokkoli und Erbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "a072120d-e364-9d85-90eb-ec9898251fd7",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011909,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "9f4813c2-ae63-76e4-fcc4-f48fd73c2aaa",
+    "Name": "Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "974edf05-2d56-bada-7a59-514e37fb37ba",
+    "Name": "EM L\u00E4nderessen - Deutschland: Burger \u0027schwarz-rot-gold\u0027 mit Linsenbratling",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16796193,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "0f9205dd-3286-99ff-17fb-edea3ebdcadf",
+    "Name": "Soja-Geschnetzeltes \u0027Stroganoff\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20987937,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "e3fe11ed-9380-403c-6b0e-621b261ea934",
+    "Name": "Hausgemachte Pasta mit Frankfurter Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 3.10
+  },
+  {
+    "Hash": "0bafd85d-7162-3911-188f-604adaba82ce",
+    "Name": "Hausgemachte Pasta mit Tomaten-Brokkoli Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 2.10
+  },
+  {
+    "Hash": "2b2b5a97-4154-8fcb-d69e-5049eec54d73",
+    "Name": "K\u00FCrbiscurry mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1088,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "ac2854e4-5bf0-d7df-a8fc-6c12abd5fe55",
+    "Name": "Fr\u00FCchtejoghurt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "6beb2af8-2aca-54bf-b08e-547feda71ec6",
+    "Name": "Bohnen-Gem\u00FCse-Ragout mit Sojasprossen und Erdn\u00FCssen dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "e232f21b-9f71-6d84-51cd-be10ffef9d23",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123653,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "8182b687-8ef5-87a3-80cc-3dbe0d953a15",
+    "Name": "Gebackenes Schollenfilet mit Sauce Tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063373,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "f06da0ba-00ec-c549-c09d-24814b7676f9",
+    "Name": "Karamellpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "5738e0fa-36bb-313c-1e2d-b23f3564201f",
+    "Name": "Orientalischer Hirsetopf mit Rosinen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "18a7f4c0-ef94-cce9-371d-9d58aaacdf7f",
+    "Name": "Gem\u00FCsecurry mit Karotten, Blumenkohl, Brokkoli und Erbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "e248b09d-769f-a50d-160d-0e4b7cb11573",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011909,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "570f4fa9-4dec-fd2d-3696-b94dac225eda",
+    "Name": "Kartoffelgulasch mit Tomaten und Paprika",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "52316c4e-034a-19b3-1ac3-89c0df6ad272",
+    "Name": "EM L\u00E4nderessen - Deutschland: Burger \u0027schwarz-rot-gold\u0027 mit Linsenbratling",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16796193,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "16a1502f-d026-bfea-e688-ec0fc1cc4959",
+    "Name": "Dessert Reispudding Sojadrink | Himbeeren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a8f637fc-c29c-2be8-1248-99e646c9e7c9",
+    "Name": "Champignon Risotto Cherrytomate | Hartk\u00E4se | Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 84036,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "73b5b42c-73e3-cfa3-977b-8c8d0894ab4a",
+    "Name": "Dessert No-Bake-Cake Biskuit | Frischk\u00E4se | Schokolade | Erdbeeren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1f094e5b-4051-b52b-0b2a-11efa2274fe6",
+    "Name": "Pizza Marinara Tomatensauce | Knoblauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "c42c5eb0-4a40-a4ec-151e-72a7eff31197",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 2.40
   }
 ]
