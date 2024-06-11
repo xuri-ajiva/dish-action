@@ -30625,5 +30625,59 @@
     "AllergensAndAdditives": 16777281,
     "Location": "Mensa",
     "Price": 2.40
+  },
+  {
+    "Hash": "856bf9df-8094-e1a8-1d87-715749b7cece",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Eierstich",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 324,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ee161d9c-cfa3-3c00-6cc2-90fe3e0fa7e4",
+    "Name": "Kroketten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c205aacc-794f-5ded-7286-9ab10460bacb",
+    "Name": "Kohlrabi Karottengem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2c8987eb-6f29-a00c-bb90-2976dc5e4f6b",
+    "Name": "Schwenkkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "323c8d51-de92-934b-3b0b-71bf784b57f7",
+    "Name": "S\u00FC\u00DFkartoffelcremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "21070a20-3506-029c-49f4-743e17fcaf86",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
