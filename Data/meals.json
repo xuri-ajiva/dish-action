@@ -30760,5 +30760,131 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "77654a52-a133-bfc0-5df1-0923685b13e9",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "56cbcbe4-d1b1-37e8-33d1-550329b2d5a9",
+    "Name": "WOK \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "3f693113-7b33-0f60-deb3-d285809b1c51",
+    "Name": "Paniertes Schnitzel mit hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "1a131863-004c-ac33-326a-09cda5f399ce",
+    "Name": "Paprikapfanne mit Sonnenblumenhack und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "3a82edb6-5d87-b635-eb25-bb3e50065b1b",
+    "Name": "Grie\u00DFbrei mit Kirschsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "b33c8d20-53fb-4f7e-8dbc-d0392acbd5e5",
+    "Name": "Gem\u00FCseschnitte dazu Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331905,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "9aa52255-7969-084f-398b-da64db84f5ee",
+    "Name": "EM L\u00E4nderessen - \u00D6sterreich: Hausgemachter Kaiserschmarrn mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842821,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0774ce4a-2353-bd87-c501-5d0e5f01f247",
+    "Name": "Grie\u00DFbrei mit Kirschsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "74f0faba-a85e-fe62-c1c6-946370d41924",
+    "Name": "Gem\u00FCseschnitte dazu Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331905,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c0e66d4b-45ac-d183-72b2-67a147b6571d",
+    "Name": "EM L\u00E4nderessen - \u00D6sterreich: Hausgemachter Kaiserschmarrn mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842821,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "885ac67c-ea8e-d50d-9577-1d05f5923155",
+    "Name": "Fried Rice Pilze | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151029025,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "b49e9e7a-fbb5-1751-2a9e-49e2547d261c",
+    "Name": "Joghurt-M\u00FCsli Dessert Sonnenblumenkerne | Apfel | Cranberries | Sultaninen | Haferflocken | Honig",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268468289,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "34a7c94e-5f78-3538-d39c-a3737244fef4",
+    "Name": "Ratatouille Kartoffelpfanne",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "677003e3-3803-37c1-edc3-7b8b03db09fb",
+    "Name": "EM L\u00E4nderessen - \u00D6sterreich: Apfelstrudel mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 3.40
   }
 ]
