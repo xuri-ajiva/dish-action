@@ -30886,5 +30886,86 @@
     "AllergensAndAdditives": 16777281,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "b7b789a7-10da-8b80-f4eb-066b0758d364",
+    "Name": "EM L\u00E4nderessen - T\u00FCrkei: \u0027Imam Bayildi\u0027 Gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "5290873f-06f0-726a-c336-edf9658ee384",
+    "Name": "EM L\u00E4nderessen - Kroatien: Hausgemachte Cevapcici mit Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 5,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b2986ca1-8f0e-c853-c61a-450b5db40cac",
+    "Name": "EM L\u00E4nderessen - D\u00E4nemark: \u0027Stegt fl\u00E6sk\u0027 gebratener Schweinebauch mit Kartoffeln und Petersiliensauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995265,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "ece646e4-f09b-2a7b-cd96-357f58e5e352",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "17588610-fdbc-6ed9-ce0e-64561d767b71",
+    "Name": "WOK \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Marktrestaurant",
+    "Price": 3.70
+  },
+  {
+    "Hash": "cff12eb5-fe0e-fb48-6250-207a3de1f16c",
+    "Name": "EM L\u00E4nderessen - T\u00FCrkei: \u0027Imam Bayildi\u0027 Gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "2154394d-bef0-7ba4-382c-daa8baac2120",
+    "Name": "Paprikapfanne mit Sonnenblumenhack und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b31ee00f-0c8a-a28b-cd98-6d69c72f83c2",
+    "Name": "EM L\u00E4nderessen - Kroatien: Hausgemachte Cevapcici mit Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 5,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "bcf234a1-9c78-f210-01f8-0068ec57ec27",
+    "Name": "EM L\u00E4nderessen - D\u00E4nemark: \u0027Stegt fl\u00E6sk\u0027 gebratener Schweinebauch mit Kartoffeln und Petersiliensauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995265,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
   }
 ]
