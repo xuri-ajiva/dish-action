@@ -30967,5 +30967,95 @@
     "AllergensAndAdditives": 150995265,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.20
+  },
+  {
+    "Hash": "f58bcaa4-229c-8738-bd44-b55908c470aa",
+    "Name": "Grie\u00DFbrei mit Erdbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "f5164d09-e5d2-f702-4130-bc461cef4433",
+    "Name": "Bohnen Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "a4241913-e268-d12d-3399-d7897de7e752",
+    "Name": "Legierte Blumenkohlcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16908357,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "95dbce29-37b5-4f8c-0be7-3ab14dfb3bf7",
+    "Name": "Balkan Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f27ad770-1305-e66f-af3e-9b5675acb4d0",
+    "Name": "Rosenkohl mit Butter",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "5dd51471-b378-06d6-599d-b853f41a992a",
+    "Name": "Kartoffel-Krautpfanne mit veganem Sauerrahm",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268435521,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "a5ee5baa-fd6e-f076-5609-539272eb4b46",
+    "Name": "Karotten-Kokossuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "5e0c1eed-a71c-ea1b-2284-767a8b95a77a",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4f88d2e1-d32f-c0a7-7972-2273abe80d2d",
+    "Name": "Djuvec-Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "ca158fb4-0be6-29ee-28c7-d4633fe68f79",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
