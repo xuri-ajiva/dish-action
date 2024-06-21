@@ -31057,5 +31057,95 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "8abac26b-1bc6-841e-aa99-f54c112faec9",
+    "Name": "Gem\u00FCseschnitte dazu Petersiliensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 184549697,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "fd440bb6-66a9-97ce-7cea-a8d9279e55b6",
+    "Name": "gr\u00FCne Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "6a1995e4-65e4-5c2c-75f2-848b193144ac",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Gem\u00FCseeinlage und Reis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e858f678-b46a-19c6-5280-551a649dbb42",
+    "Name": "Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777221,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "542e95db-3cac-f555-f1d5-995137cca2c3",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16810053,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "cf8347f7-b8bc-1425-574a-93da1c903ce7",
+    "Name": "Djuvec-Reis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "e3566aed-be62-5563-ca88-744521fea67f",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "6509cb8b-2a14-bb02-6df4-60bc2e71ec25",
+    "Name": "Criss Cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "9efd9718-f1e0-0bed-278e-0121576cd0b7",
+    "Name": "Schokoladenpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "2c8d77f1-a588-ffb8-2dbd-b003d63ea815",
+    "Name": "Hausgemachte Cevapcici mit Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 5,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
