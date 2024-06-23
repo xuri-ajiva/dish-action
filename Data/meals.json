@@ -31147,5 +31147,194 @@
     "AllergensAndAdditives": 5,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "8af5a54d-6c2e-969e-2365-f5dfcd6efc4f",
+    "Name": "Linsen-Karotten Dal mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 512,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "a444eb2b-564b-1f2c-8bed-2f74c7617619",
+    "Name": "EM L\u00E4nderessen - Italien: Mail\u00E4nder Risotto mit verschiedenem Gem\u00FCse und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "add74b51-4685-145e-9b9d-32ca2a72062b",
+    "Name": "K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "904af426-9ef3-3315-f848-180a73c253a4",
+    "Name": "EM L\u00E4nderessen - Polen: \u0027Golabki\u0027 Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "4352e277-acda-98e7-d996-b9562ef91e76",
+    "Name": "EM L\u00E4nderessen - Ukraine: \u0027Borschtsch\u0027 Rote Beete Eintopf mit Rindfleisch",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 4261952,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "90adfbe1-29a9-cc4c-ec09-f638e3ce0502",
+    "Name": "Tomaten-Zucchini Gem\u00FCse mit frischen Champignons und Hirtenk\u00E4se auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "6032aa8e-3f85-ede9-08df-f429c3031fd4",
+    "Name": "Tofusalat mit Paprika, Gurke und Tomaten dazu ein Mehrkornbr\u00F6tchen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 486540321,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "eb5a4717-54bb-b6c2-a819-62e7e354f685",
+    "Name": "Kartoffelpfanne mit Karotten, Lauch, Erbsen und R\u00FChrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 260,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "f48abc91-c07d-3ed9-110e-0e051a29667a",
+    "Name": "Linsen-Karotten Dal mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 512,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "8cef45e6-45a0-deed-35fe-517dfde32fea",
+    "Name": "Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "7a5729a0-c7f3-641d-7eda-50e4b07c82ac",
+    "Name": "EM L\u00E4nderessen - Italien: Mail\u00E4nder Risotto mit verschiedenem Gem\u00FCse und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "4c5b014a-ad8c-3f51-9192-4d93b050849f",
+    "Name": "K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "657d1d11-6a3e-ef53-f802-b8d1134a5763",
+    "Name": "EM L\u00E4nderessen - Polen: \u0027Golabki\u0027 Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "ffd4fb4e-9e09-8f51-dc6c-c60e7e2aec73",
+    "Name": "EM L\u00E4nderessen - Ukraine: \u0027Borschtsch\u0027 Rote Beete Eintopf mit Rindfleisch",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 4261952,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "e13702a4-2323-9a3f-e126-44526634f630",
+    "Name": "Tomaten-Zucchini Gem\u00FCse mit frischen Champignons und Hirtenk\u00E4se auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "5766b7ce-e3ef-cf57-4005-36b934407266",
+    "Name": "Tofusalat mit Paprika, Gurke und Tomaten dazu ein Mehrkornbr\u00F6tchen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 486540321,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "f6585081-c1c0-50be-add9-3474e44c1b2a",
+    "Name": "Kartoffelpfanne mit Karotten, Lauch, Erbsen und R\u00FChrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 260,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "5c44edda-d044-e787-5d4d-8a62765a200f",
+    "Name": "Dessert Frische Wassermelone",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "b7c4f222-c244-e36f-e99c-2f67389ef229",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Harissa \u0026amp; Grilled Pepper",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "f5ce68ec-2642-0570-040e-fee43174ed94",
+    "Name": "Roastbeef Rindfleisch | Kr\u00E4uterbutter | Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 134218049,
+    "Location": "Mensa",
+    "Price": 11.00
+  },
+  {
+    "Hash": "0fd85991-1dfc-2481-fb85-6f7649a05799",
+    "Name": "Gnocchi mit Paprikacurry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795649,
+    "Location": "Mensa",
+    "Price": 4.00
   }
 ]
