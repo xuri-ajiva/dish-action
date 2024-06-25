@@ -31336,5 +31336,86 @@
     "AllergensAndAdditives": 16795649,
     "Location": "Mensa",
     "Price": 4.00
+  },
+  {
+    "Hash": "d43e4387-7b46-c9db-1037-9fa39572353a",
+    "Name": "Gem\u00FCsepaella mit Vollkornreis und Waln\u00FCssen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1184,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "eb245ca1-0d5a-d9bc-c74c-43f2d31c1e7d",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "095690c9-300e-4135-5636-9aae0010440e",
+    "Name": "Kartoffelsuppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0de8bc03-805c-27e1-d95d-df1acacdb1bf",
+    "Name": "dazu Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "7436a244-a9e0-a677-2e3b-4e8b27369dcc",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ae33968e-e945-8bc7-9e55-8670df66b158",
+    "Name": "dazu Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "27c5077b-0e31-5bfc-1396-ec358c47e1a8",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Harissa \u0026 Grilled Pepper",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "05732042-644e-8ba9-ea81-597050702322",
+    "Name": "Hausgemachte Pasta mit Sahnelinsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "37607940-e6f5-27cd-9445-34a344494a5c",
+    "Name": "\u0027Stegt fl\u00E6sk\u0027 gebratener Schweinebauch mit Kartoffeln und Schnittlauchsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995265,
+    "Location": "Mensa",
+    "Price": 4.20
   }
 ]
