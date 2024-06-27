@@ -31417,5 +31417,104 @@
     "AllergensAndAdditives": 150995265,
     "Location": "Mensa",
     "Price": 4.20
+  },
+  {
+    "Hash": "819ea939-8c18-2c80-eedf-d3181700ad80",
+    "Name": "Leberkn\u00F6del mit Bratensauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "455d7ba8-e4bd-a88e-f822-8e49c50a0642",
+    "Name": "Leberkn\u00F6del mit Bratensauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793605,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d4d6ce9f-d3ca-1625-9549-dd932f650b1e",
+    "Name": "Lauchgem\u00FCse a la Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "53dd1a0f-efc1-2756-3655-169b0ecff53b",
+    "Name": "Karottencreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0ebb3cf0-b1c6-fd67-e60c-8d70553143c1",
+    "Name": "gr\u00FCne Bohnen Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4ee674bf-92eb-4852-cbdf-c1bd281c55b2",
+    "Name": "Tomatencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2c241c52-9a21-486d-5900-e7e353efe30a",
+    "Name": "Kohlrabi Karottengem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "ed964e80-27e3-48d4-cac8-5f7adcd652f5",
+    "Name": "Pizzahacksteak Rindfleisch | Schweinefleisch | Paprika | K\u00E4se | Eier | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 580,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "40a025d5-6b38-4fff-e616-9187eef79907",
+    "Name": "Schwarzer Burger mit Haferfockenpatty, Tomate und Gurke",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419447301,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "9b177eff-727b-4dbd-1d61-0f015fd7ee63",
+    "Name": "Wiising a\u00B4la Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "a75a5779-6694-2832-0dfa-2f0eba1edf6b",
+    "Name": "Vanille Pudding mit einer halben Birne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
