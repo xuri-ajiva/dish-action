@@ -31516,5 +31516,212 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "3f457df5-936d-0f82-20d3-45601e88afde",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "04a07751-8720-34f7-f97f-68d5e87db316",
+    "Name": "EM - Stadionessen Frankfurt: Eier mit Frankfurter Gr\u00FCner Sauce dazu Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134218053,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ec9dbfac-b1bf-73d8-d2c7-05dc79faf9d7",
+    "Name": "Aubergine-Zucchini Auflauf mit Tomaten-Basilikum Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "eefae595-d9d1-44c8-3d30-640d8f6d50bb",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777477,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "01bcee67-9b4e-80f1-b7c1-c4798102d69f",
+    "Name": "EM - Stadionessen Leipzig: Leipziger Allerlei mit Spargel, Karotten, Blumenkohl, Erbsen  dazu Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ad1143ae-20e9-b053-cf42-919914eaa0ce",
+    "Name": "Hausgemachte Frikadelle mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011909,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "634b616f-894f-b324-fcd4-e34651741fb7",
+    "Name": "Schupfnudeln \u0027Wiener Art\u0027 mit Apfelmus, Rosinen und Haseln\u00FCssen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1090519169,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "b0735ba1-f26f-c01e-c93f-92ffd6231dae",
+    "Name": "Herzhafte K\u00E4sekartoffeln mit Lauch und Quarkdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "9f293ba5-a5e8-228e-819a-c94be8f430f8",
+    "Name": "EM - Stadionessen Hamburg: Pannfisch mit Bratkartoffeln , Senfsauce und einer Zitronenecke",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18874953,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "2125ec03-7a44-3929-3261-53a2aff0182c",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Marktrestaurant",
+    "Price": 3.50
+  },
+  {
+    "Hash": "bccd4a59-77f6-4d6c-d80e-821dae54bfb3",
+    "Name": "EM - Stadionessen Frankfurt: Eier mit Frankfurter Gr\u00FCner Sauce dazu Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134218053,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "8f13087d-30cc-ee91-a97d-55c43d675127",
+    "Name": "Aubergine-Zucchini Auflauf mit Tomaten-Basilikum Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "2ff38afe-375b-37ca-4f94-f402d9bb0343",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777477,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "f63c7ed8-f73a-0e09-3f22-c07a0b148685",
+    "Name": "EM - Stadionessen Leipzig: Leipziger Allerlei mit Spargel, Karotten, Blumenkohl, Erbsen  dazu Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "bd9cc819-79de-a789-502c-27f59b9cc217",
+    "Name": "Hausgemachte Frikadelle mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011909,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "46ac341a-1fd7-b7ba-f588-090f338671cf",
+    "Name": "Schupfnudeln \u0027Wiener Art\u0027 mit Apfelmus, Rosinen und Haseln\u00FCssen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1090519169,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "908dc8b5-bca5-3bae-b98f-08e3a4f3a046",
+    "Name": "Herzhafte K\u00E4sekartoffeln mit Lauch und Quarkdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "c4f6c878-b506-7b8a-3db1-93ea9e2b7d62",
+    "Name": "EM - Stadionessen Hamburg: Pannfisch mit Bratkartoffeln , Senfsauce und einer Zitronenecke",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18874953,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "8d12f750-0ab9-4799-e1f9-5dc95b2859ae",
+    "Name": "Rote-Linsen-Dal Tomaten | Selleri | Lauch | Karotten | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "727f1247-2c52-3668-dea6-5a37e34869f9",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Ginger \u0026amp; Beetroot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "0cd1a674-ceb1-54fe-d56f-d76ff8452d3c",
+    "Name": "Hausgemachte Pasta mit B\u00E4rlauchsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "ff92b47d-7cdc-41ce-f2b0-b5ef0cc2ade8",
+    "Name": "Balkanr\u00F6llchen mit Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777733,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "3679c766-d1e6-3c91-d744-44e76dc2de46",
+    "Name": "\u0027Borschtsch\u0027 Rote Beete Eintopf mit Rindfleisch",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 4261952,
+    "Location": "Mensa",
+    "Price": 3.50
   }
 ]
