@@ -31723,5 +31723,23 @@
     "AllergensAndAdditives": 4261952,
     "Location": "Mensa",
     "Price": 3.50
+  },
+  {
+    "Hash": "09ebd3ea-9022-0fed-41a9-fdfb863051a2",
+    "Name": "Bratkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "950cb58e-e76d-df43-edf1-4e3bb064769e",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Ginger \u0026 Beetroot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
