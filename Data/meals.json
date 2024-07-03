@@ -31741,5 +31741,59 @@
     "AllergensAndAdditives": 16777217,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "c96e487f-3300-9c0c-3582-05141ad28267",
+    "Name": "Kohlrabigem\u00FCse a la Creme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c8d643e2-bdea-6aaa-81d2-220d7d0a9054",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Eierflocken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 324,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0bf796bc-611e-19dc-da73-9f69cb40ead4",
+    "Name": "Dessert Fruchtquark Pfirsich | Quark | Vanillinzucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "88ff9052-c4d3-dc1c-7dac-e6ece1f9e713",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Soja-Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842785,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "ba0f78f9-1ce2-7299-3ca0-10ebbfbc765b",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "bef83374-9df8-d804-7c90-e30c06d2ffd1",
+    "Name": "Criss cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
