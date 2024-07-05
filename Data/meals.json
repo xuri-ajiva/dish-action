@@ -31795,5 +31795,68 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "3ea2c16d-85e6-325c-514a-47f771197a5d",
+    "Name": "Leipziger Allerlei mit Spargel, Karotten, Blumenkohl, Erbsen  dazu Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "343726d4-24a0-54f0-e514-91041921211c",
+    "Name": "Gazpacho Andaluz",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 151062529,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "8406f11f-0307-ecca-3fa1-92d58038c9a3",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "bc567a51-c553-4685-8111-2797e45401ff",
+    "Name": "Hausgemachte Pasta mit einer Tomaten-Basilikumsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "c0115d66-5fa6-988b-aef5-042e579dbb90",
+    "Name": "Balkanr\u00F6llchen mit Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777733,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "738b68fa-1565-4a48-4ac4-eb9190fa44d5",
+    "Name": "Fruchtige Gem\u00FCse-Tajine mit Basmatireis dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "5a17778f-894c-db39-4237-b66cbb676c2d",
+    "Name": "Rahmspinat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
