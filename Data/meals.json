@@ -31858,5 +31858,230 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "1e610234-f028-5411-8a20-a9eaf49627c9",
+    "Name": "Mediterrane Gnocchi mit getrockneten Tomaten und Oliven",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17369089,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "632f65a3-e9c0-c589-b03d-60f13f3f5992",
+    "Name": "Hausgemachte Pasta mit einem Basilikum-Minz-Orangen-Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164260993,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "192f61b7-d072-0a83-11a1-1b77fb99d4b3",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810033,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "0c42ece7-a91c-c02a-2373-e832096b5272",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Meerrettich-Apfel Sauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845125,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e28182fd-3fc4-6b5e-84c6-c67b7de80ef1",
+    "Name": "EM - Stadionessen M\u00FCnchen: Laugenburger mit gezupftem Schweinebraten und BBQ-Bier Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151028289,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "4164a9f8-0e9d-8578-7ab5-f3bf5ab37537",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938624,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d47e3513-4f44-0469-d78e-2924f61ca194",
+    "Name": "Sp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844805,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "5fcd2eb3-cc84-fa26-175f-6708262ec922",
+    "Name": "EM - Stadionessen Dortmund: Sauerbraten \u0027Rheinische Art\u0027 mit Rosinen",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 346112,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "26fbe484-f3ba-3d54-5726-612ab474baad",
+    "Name": "Tomaten-Linsen Sugo mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1025,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "349688ac-0cc3-9a96-2c24-56f7ca6e466b",
+    "Name": "Chili sin carne mit Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "e6ac884b-fd5c-dd9c-0f84-d7b9c0dbd20c",
+    "Name": "Mediterrane Gnocchi mit getrockneten Tomaten und Oliven",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17369089,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "e7f85e88-3075-6fb9-44c6-07eb8f1ea96d",
+    "Name": "Hausgemachte Pasta mit einem Basilikum-Minz-Orangen-Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164260993,
+    "Location": "Marktrestaurant",
+    "Price": 3.60
+  },
+  {
+    "Hash": "6955fe4b-f38d-e470-f626-db020b4a1ef6",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810033,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "864d58aa-0779-849b-8ee5-ac83940a436e",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Meerrettich-Apfel Sauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845125,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "5f50dbfd-1865-f16d-c2a8-83141d709122",
+    "Name": "EM - Stadionessen M\u00FCnchen: Laugenburger mit gezupftem Schweinebraten und BBQ-Bier Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151028289,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "02075fe3-d872-4b78-9246-cfc39fd7792a",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938624,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "5d49f372-6004-f08b-82e6-fa1c5ea02d71",
+    "Name": "Sp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844805,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "94bf2254-a11b-b367-1335-fbcf030191f8",
+    "Name": "EM - Stadionessen Dortmund: Sauerbraten \u0027Rheinische Art\u0027 mit Rosinen",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 346112,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "2620d392-53fd-22f9-6ce1-0941364be1a0",
+    "Name": "Tomaten-Linsen Sugo mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1025,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "eef10395-8cf8-17f8-27f8-66158d99bc2b",
+    "Name": "Chili sin carne mit Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "86bc0462-e102-89cd-7d54-874aa80756d8",
+    "Name": "Gebratener Reis Pilze | Karotten | Erbsen | Sojasauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957473,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "767f1efe-ea94-6f86-2cff-a4c5bf87e873",
+    "Name": "Currybratwurst Jackfruit | Criss Cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 155205889,
+    "Location": "Mensa",
+    "Price": 6.20
+  },
+  {
+    "Hash": "214ac12f-2e83-052e-240a-bca1ab609cf1",
+    "Name": "Dessert Stracciatella Joghurt Soja-Joghurt | Schokolade",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "09fc1949-e8a7-0345-e44e-2db1b0b35918",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Edamame \u0026amp; Herbs",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "5bfc2ec2-bdd3-0da8-063f-5cb4a0b4a931",
+    "Name": "Kichererbsen-Auberginen Pfanne Tomate | Paprika | Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
