@@ -32083,5 +32083,50 @@
     "AllergensAndAdditives": 16777217,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "39181d9d-564d-d3d2-acce-f696f5ee8215",
+    "Name": "Pannfisch mit Senfsauce und Zitronenecke",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18874953,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "f3a32adf-a2b9-705f-c114-0155587955fe",
+    "Name": "Nudelauflauf mit  Sauce Bologneser Art und K\u00E4se \u00FCberbacken",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Marktrestaurant",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1b80246b-08e7-0343-5067-ee8f26e33691",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "1c98f09f-96a9-dd2b-db99-53473da28b35",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "18abd16f-8b33-2de3-146b-da15714ffc72",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 325,
+    "Location": "Mensa",
+    "Price": 2.80
   }
 ]
