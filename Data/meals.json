@@ -32128,5 +32128,95 @@
     "AllergensAndAdditives": 325,
     "Location": "Mensa",
     "Price": 2.80
+  },
+  {
+    "Hash": "1edb828c-0dc7-4250-9f7f-4edfd71a429d",
+    "Name": "Rosenkohl mit Butter und Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98368,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "5c48d6db-d3b0-9cf1-c7f5-8eccb3b32e2f",
+    "Name": "Bratkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9b897650-4c4e-2f5a-13c7-91d44f35f5df",
+    "Name": "Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248577,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9f8962e9-3591-840f-ff97-4d2baed5e4ab",
+    "Name": "Gem\u00FCsekn\u00F6del mit Walspilzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264513,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "08b608dd-aec7-b153-a12b-3984748df653",
+    "Name": "Zucchinigem\u00FCse Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2bc0454d-49ce-f2d1-2aad-7dea4006f50b",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Edamame \u0026 Herbs",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "ac2700ca-9496-e36d-ae1e-ca63bfaead6b",
+    "Name": "Tomaten-Linsen Sugo mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778241,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4bf86614-5b56-6eef-7048-4f4ad7ccddfd",
+    "Name": "Hausgemachte Pasta mit Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "31cf7f8a-f8d3-660b-cc22-1e79d38d97dd",
+    "Name": "Apfelstrudel mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "b3a8a6e1-9777-3d30-b295-5360abddaf8b",
+    "Name": "Kroketten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
