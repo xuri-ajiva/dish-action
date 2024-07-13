@@ -32218,5 +32218,176 @@
     "AllergensAndAdditives": 16777217,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "a04c31fd-1e54-8dfa-06d5-e212537036fd",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "95e60590-1da7-c2aa-6e93-8ad400a3f95c",
+    "Name": "Vegane Cevapcici mit Ajvar",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "051da32e-3abe-06e9-bf4d-c911cb0c6b12",
+    "Name": "Gem\u00FCse Lasagne mit Brokkoli, Kohlrabi und Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041733,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "e2354ab2-e3b1-e7ea-2d2b-2872beb805e2",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470085,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "6c8235a4-29b8-57e4-bc25-b57c0b1d1fde",
+    "Name": "Grillbraten vom Schweinenacken mit Biersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134234113,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "4413b52a-2a20-6118-1bb7-8d7f321cb540",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435457,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "72100306-4468-7b8a-e15d-18a497b9f1a2",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "ad0c7641-2c07-ca92-9cba-7f2ffc4a8b17",
+    "Name": "Reispuffer mit Rosinenratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310177,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "00291c98-f57f-1f20-faf7-b6382bc118f8",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "c5395a9c-c465-c3c7-9c7d-316b97ba44f0",
+    "Name": "Vegane Cevapcici mit Ajvar",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "9f24fe0e-6eb7-675d-f2f2-ad21e0382045",
+    "Name": "Gem\u00FCse Lasagne mit Brokkoli, Kohlrabi und Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041733,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "62065a72-a1d3-50e9-9b0b-5c28e8ac3ba5",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470085,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "3df8e1f0-0ac2-2ed3-c85d-dd978bd13a10",
+    "Name": "Grillbraten vom Schweinenacken mit Biersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134234113,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "8b8841b1-f5f8-4ab0-7bd4-05cb8e3d7036",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435457,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "2ae862a4-ed40-c4d8-06c1-a0994863cbff",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "32726846-ef31-a61b-e6dd-f38828ff00d0",
+    "Name": "Burger mit rotem Krautsalat und Caesar Dressing",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150996805,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "214ca4e6-be49-b95c-03ff-8da9c81a31fc",
+    "Name": "Reispuffer mit Rosinenratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310177,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "47182e7f-28cc-3d47-efd2-65d67fe6719a",
+    "Name": "Wirsinggem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e239cede-950b-b7e2-1860-2dd94116afeb",
+    "Name": "Gem\u00FCse-Paella",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.30
   }
 ]
