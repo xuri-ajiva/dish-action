@@ -32389,5 +32389,14 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 2.30
+  },
+  {
+    "Hash": "e48ae01a-811b-a06e-a41f-cc3f6523e1d7",
+    "Name": "Chia-Pudding mit Waldbeer Toping",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
   }
 ]
