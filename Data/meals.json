@@ -32398,5 +32398,95 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.30
+  },
+  {
+    "Hash": "c3af267b-c6f7-8434-70cd-eb174f9c215c",
+    "Name": "Haselnusspudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "7ca9f313-7b20-0ae5-9141-6cf027cfcb59",
+    "Name": "Soja-Gulasch mit frischen Champignons dazu Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "d6928fdd-ebcb-5c4f-48ee-6a581432f37e",
+    "Name": "Pizza Marinara Tomatensauce f\u00FCr Pizza Mensa NEU 2021",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "360a2fe0-ae86-f8aa-ee53-23116721d821",
+    "Name": "Klare Gem\u00FCse Kartoffelsuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2a0363ab-0356-f548-ab60-00a5215b192f",
+    "Name": "gebackene Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "d6f2f7d9-f9a6-cdcc-7204-8f7c960180e8",
+    "Name": "Quarkspeise Fr\u00FCchte M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268452033,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "9a6755cb-0848-7379-f888-249548b4d4dc",
+    "Name": "Tomaten-Linsen Sugo mit Mie-Nudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1025,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "286e3bd8-0b5f-f31c-5147-08c407f4d4f7",
+    "Name": "Erbsenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "5c5209b0-784a-9897-65b3-30d6a8d758f9",
+    "Name": "Gem\u00FCseschnitte dazu Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331969,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "b3652ad1-5458-2089-4134-1e8799ab7f23",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.30
   }
 ]
