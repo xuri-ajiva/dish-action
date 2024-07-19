@@ -32488,5 +32488,41 @@
     "AllergensAndAdditives": 16777217,
     "Location": "Mensa",
     "Price": 3.30
+  },
+  {
+    "Hash": "1ac0b74e-1d95-48e4-1af1-a2d375ab1c5a",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "9d716d77-3ca1-6f3a-15f0-79c77e7999aa",
+    "Name": "Curry Kokoscreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "8c819822-53c3-de0c-0701-d2e5bc1954fa",
+    "Name": "Chia-Pudding mit Waldbeeren im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "19445d7b-5dcd-ff0e-1aaa-4b12f9c68f9b",
+    "Name": "Chia-Pudding mit Waldbeeren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
   }
 ]
