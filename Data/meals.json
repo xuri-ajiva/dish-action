@@ -32524,5 +32524,185 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.30
+  },
+  {
+    "Hash": "e2b2f4bd-7251-f662-0019-820643d9f745",
+    "Name": "Hausgemachte Pasta mit Limette, Erbsen, Pilzen und Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744641,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "626d867a-5d7d-0361-9f46-2064fd3e344b",
+    "Name": "Quarkspeise Fr\u00FCchte M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268452033,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "47acb5f2-b8d6-586d-ee9e-e241fa787998",
+    "Name": "Reispfanne \u0027Paella\u0027 mit Erbsen, Paprika, Bohnen, Tomaten und Oliven",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 524288,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "e6869643-57d9-10fa-6ca6-2e22ab6dc25f",
+    "Name": "Rote Beete-Bratling mit Kartoffelp\u00FCree dazu Lauchgem\u00FCse in Sojarahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285229089,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "93a12eb4-9906-d14d-8cec-333e9e993119",
+    "Name": "Gem\u00FCse-Couscous Pfanne mit Joghurt-Ingwer Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "94adc44e-2987-55fe-b2a1-a4ac9ce4065b",
+    "Name": "Paprikapfanne mit Sonnenblumenhack und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "cd3a98a1-7041-98c1-f9e2-27f8c7a53503",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777797,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "1d01cdcf-ce73-1f19-6c09-fe242aab02ea",
+    "Name": "Tintenfischringe mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899009,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "57cd88c3-b4d9-7271-1ab1-f36e6d97f441",
+    "Name": "Hausgemachte Pasta mit Limette, Erbsen, Pilzen und Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744641,
+    "Location": "Marktrestaurant",
+    "Price": 3.60
+  },
+  {
+    "Hash": "2fa3fe7a-46bb-1f3a-b0c1-24b709a9da59",
+    "Name": "Reispfanne \u0027Paella\u0027 mit Erbsen, Paprika, Bohnen, Tomaten und Oliven",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 524288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "7a9a9333-5113-9d31-6043-5d3941db2012",
+    "Name": "Rote Beete-Bratling mit Kartoffelp\u00FCree dazu Lauchgem\u00FCse in Sojarahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285229089,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "dfe914bd-6a12-99ac-6448-bd338d11560f",
+    "Name": "Gem\u00FCse-Couscous Pfanne mit Joghurt-Ingwer Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "4d145ad2-f515-0f04-1329-e385d820515c",
+    "Name": "Paprikapfanne mit Sonnenblumenhack und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "dc78d34f-6d57-4c6a-4f92-5312a1b22648",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777797,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "53e3fb5d-7ab2-f7a2-d722-66918861b0df",
+    "Name": "Tintenfischringe mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899009,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "4390f771-f2e3-0d24-8643-6653c888b6b2",
+    "Name": "Chow Mein Noodles Tofu | Paprika | Erbsen | Karotten | Erdnuss",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958513,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "4f00698b-3820-e509-e5cd-4a6174175aeb",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Veggie Stick Pea \u0026 Mint",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994945,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "dc807e75-ccb2-4810-64db-f1548c067681",
+    "Name": "Currywurst Schwein | Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140624129,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "5368b4da-de0b-4939-df66-01299244fee3",
+    "Name": "Pasta mit Pilzen Champignons | Cherrytomaten | Chili",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4e13e4d6-c087-6596-ddfe-e43102233cce",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Veggie Stick Pea \u0026amp; Mint",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994945,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
