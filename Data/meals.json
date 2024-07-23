@@ -32704,5 +32704,104 @@
     "AllergensAndAdditives": 150994945,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "ace557d9-e18a-cad7-25bb-4dc743616c4d",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "0c0fb415-5354-48f0-5b85-553b15301c57",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "22ebcf41-6d63-3681-f404-cef2ab180ed2",
+    "Name": "Pizza Kapern und Sardellen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16842825,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "00acd2dc-1768-07a8-2bb8-c10e385058be",
+    "Name": "Tomatencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "c49cf2b0-a8ca-198b-321a-cf524faec63f",
+    "Name": "Quarkspeise Fr\u00FCchte M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268452033,
+    "Location": "Marktrestaurant",
+    "Price": 1.10
+  },
+  {
+    "Hash": "94e4834e-4235-dc37-ab4f-8103ea7b7346",
+    "Name": "Karotten-Ingwer-Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ffaa01e9-2234-78e7-8034-1ff3525e5685",
+    "Name": "Blumenkohl mit Margarine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e84fd576-d564-a946-6cae-8e70425e7d6a",
+    "Name": "Beilage Bulgur-Salat Paprika | Tomaten | Petersilie",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16877569,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "1ae8290d-d47c-e6e7-fad7-32eb1945f722",
+    "Name": "Couscous-Gem\u00FCsepfanne Karotten | Paprika | Brokkoli | Erbsen | Joghurtdip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810049,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "1d6bed5f-fecb-212e-e850-805f4e4d6279",
+    "Name": "Ratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "371b0b03-5c55-e501-d286-f7660d3a8d8f",
+    "Name": "Gnocchi mit Waldpilzen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
