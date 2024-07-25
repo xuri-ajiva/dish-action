@@ -32803,5 +32803,59 @@
     "AllergensAndAdditives": 16777217,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "b983055c-4365-a903-14ba-ec043dec4426",
+    "Name": "Champignon-Zucchini Ragout auf hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "804c2ee1-6bf8-cb8d-5950-d81920380ba8",
+    "Name": "Kartoffelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "82c2089f-d89e-7b0d-a38c-201922fabee5",
+    "Name": "Pilzrahmsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "a69fd8b0-4f67-1cc6-1685-4509a8dd84d7",
+    "Name": "Quarkspeise mit Waldbeeren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "51738dbb-4d1b-20fb-876b-86b55e46ca25",
+    "Name": "Linsen-Gem\u00FCse Chili Reis | Paprika | Karotten | Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e6decc13-cddc-82d4-214f-5ee9f717a663",
+    "Name": "Schoko-Quark-Creme mit Sauerkirschen im Glas mit Sauerkirschsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 1.30
   }
 ]
