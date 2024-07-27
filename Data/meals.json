@@ -32857,5 +32857,176 @@
     "AllergensAndAdditives": 96,
     "Location": "Mensa",
     "Price": 1.30
+  },
+  {
+    "Hash": "a25a5bdc-ee2a-95ba-8f61-e60d5bd94647",
+    "Name": "Gem\u00FCsecurry in scharfer Senfsauce mit Bulgur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957985,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "b7e1cfce-4ca9-f99d-4d13-3134c107ed3c",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2443776,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "8d5d40ac-c3f6-1d64-bd9c-680b1d19edfa",
+    "Name": "Schupfnudeln mit Julienne Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "c6e2714c-4314-e9f7-48b9-93e21ca07b0a",
+    "Name": "Paniertes Schnitzel mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778053,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "7276bbd2-b15f-7219-5c66-f53aafa98c75",
+    "Name": "S\u00FC\u00DFkartoffel Curry mit Kartoffeln, Erbsen und Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "85a9935c-5c1f-8e3c-a27e-82e64937b8d0",
+    "Name": "Kichererbsen-Bohnenpfanne mit Paprika- Auberginenw\u00FCrfeln dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "ac1bd5a1-55a7-9442-105c-c530b6422001",
+    "Name": "Bowl Mediterran mit hausgemachter Pasta , Oliven, Zucchini und Aubergine",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16861249,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "6ed63b7c-d938-882d-0cf0-6aa8f70e8606",
+    "Name": "Gem\u00FCsecurry in scharfer Senfsauce mit Bulgur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957985,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "fbd84797-42ba-59a8-1f0c-cec0be8aaca0",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2443776,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "9ecbf509-15d4-ce41-e5de-384b4d1c70f5",
+    "Name": "Schupfnudeln mit Julienne Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "ad84c9f2-1387-0eb8-7353-d474f1523ac8",
+    "Name": "Paniertes Schnitzel mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778053,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "0da7735c-7ce7-7958-379e-4ceaa527efbb",
+    "Name": "S\u00FC\u00DFkartoffel Curry mit Kartoffeln, Erbsen und Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "fc5556fa-6cd0-fbc4-e441-eb8efd0aa3dd",
+    "Name": "Hausgemachte Nudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "7402f957-73de-8de2-f955-0eac65f01d92",
+    "Name": "Kichererbsen-Bohnenpfanne mit Paprika- Auberginenw\u00FCrfeln dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "4b9eca0c-cbc0-b83c-d0d0-87708f06ac21",
+    "Name": "Bowl Mediterran mit hausgemachter Pasta , Oliven, Zucchini und Aubergine",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16861249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "dce40a09-f9ba-cc78-a1d3-b3581374ba63",
+    "Name": "Schokoladenpudding",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "4b94ba0e-7f4a-9a02-b951-6a65615258c1",
+    "Name": "Quarkspeise mit Ananas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ad8267a1-cbb9-7b00-ef87-88c48e63f7b3",
+    "Name": "Blumenkohl natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "894163bd-ac5d-bf1d-9503-47710ddc8846",
+    "Name": "Mischgem\u00FCse  a\u00B4 la creme\u0060",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
