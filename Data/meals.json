@@ -33028,5 +33028,14 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "cc5576d6-0c10-9b35-4310-cb1c72ebd9a8",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
