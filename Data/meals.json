@@ -33109,5 +33109,23 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "ff86288d-c3f1-fada-c3d9-20cc27d8a474",
+    "Name": "Karotten - Kokoscreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "240589db-a2f1-8a37-41d2-7053c66b5eac",
+    "Name": "Wassermelone",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Marktrestaurant",
+    "Price": 0.80
   }
 ]
