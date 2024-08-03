@@ -33127,5 +33127,113 @@
     "AllergensAndAdditives": 0,
     "Location": "Marktrestaurant",
     "Price": 0.80
+  },
+  {
+    "Hash": "174d1e0f-cda5-0a33-5f04-1258a53c1794",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123653,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "fd16aff5-aee1-8a21-9d4f-f9087483cfa7",
+    "Name": "Hausgemachte Frikadelle mit Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995461,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "961e4918-2984-b1d2-ff6f-2ac5cd6ffbf6",
+    "Name": "Hamburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20973061,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "eaccec49-6902-523b-6eb4-52f40393e6be",
+    "Name": "Curry Bowl mit Wildlachs, Basmatireis und Currygem\u00FCse",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1032,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "19e7e86a-abd5-d5b1-31c5-cf6c4cb2b4fb",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123653,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "35ecdb2e-a4c6-0821-43a4-4c3f03fb98b1",
+    "Name": "Hausgemachte Frikadelle mit Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995461,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "e9b92055-3d71-d927-49a9-07686158203e",
+    "Name": "Hamburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20973061,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "f95a3f39-971c-c945-7448-e74dfd0922d1",
+    "Name": "Curry Bowl mit Wildlachs, Basmatireis und Currygem\u00FCse",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1032,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.40
+  },
+  {
+    "Hash": "c8cd1d2e-933b-666a-6934-67fb58c9b15a",
+    "Name": "Hausgemachte Pasta mit Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 297285,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "5edb2773-b22d-d156-a4f7-b2963a07b385",
+    "Name": "Gnocchi mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "4fed4eb8-daff-835c-0002-f8dff4480f46",
+    "Name": "Rindswurst",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195968,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "b3c45780-af48-30b4-561f-24237bfc9c00",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Soja-Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842785,
+    "Location": "Mensa",
+    "Price": 3.40
   }
 ]
