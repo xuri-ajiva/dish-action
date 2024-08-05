@@ -33235,5 +33235,14 @@
     "AllergensAndAdditives": 16842785,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "51986bfb-086e-dc99-6910-912caf59f5e8",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
