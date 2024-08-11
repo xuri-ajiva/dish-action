@@ -33424,5 +33424,140 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "0ccb6763-9bf6-fb1e-f117-e4b2dbce8445",
+    "Name": "Paniertes Schnitzel mit hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "f3f9cd0f-3448-b3f3-199c-1a92850ff6c3",
+    "Name": "Hausgemachte Cevapcici mit Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150994949,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "d32a20f9-3ae2-f0da-8d5e-eb67510fbee6",
+    "Name": "Gem\u00FCseschnitte dazu Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549697,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "3156f03b-afdd-d4b9-38f8-0ee85a279942",
+    "Name": "\u0027Lui\u0027 Burger mit Rindfleisch, Brie und Rucola",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041989,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "3c3c6635-558b-7aaf-533f-6ca534f4592f",
+    "Name": "Salat Bowl mit ger\u00F6stetem Maiskolben und Butter-Tomaten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "76dbac47-4aff-564c-6215-7d21a62fa2e1",
+    "Name": "Paniertes Schnitzel mit hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "47fe4840-f96d-d56b-f38a-c37330e0ba6f",
+    "Name": "Hausgemachte Cevapcici mit Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150994949,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "afa3f3ba-97b9-a0e8-9fd4-5d03ca239223",
+    "Name": "Gem\u00FCseschnitte dazu Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549697,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "9e14d98d-19b9-8486-423a-d755e1a00029",
+    "Name": "\u0027Lui\u0027 Burger mit Rindfleisch, Brie und Rucola",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041989,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "09d7a1c3-a4a1-6746-18b3-2fdd6491e613",
+    "Name": "Fruchtige Gem\u00FCse-Tajine mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "62609270-16dd-3efe-f2d3-1f196214cbc6",
+    "Name": "Salat Bowl mit ger\u00F6stetem Maiskolben und Butter-Tomaten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "539af1d8-f6e9-ddc2-db84-e0ebe4676faa",
+    "Name": "BIO Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "d7a84309-d8b8-d390-842d-cf7563c8bbcd",
+    "Name": "Butterbohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "3ea3c20b-d0cf-ab8f-9fc5-e1d991c0af89",
+    "Name": "BIO Blumenkohl Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4eb85924-c4ea-f4a4-9e3d-60277e502a80",
+    "Name": "Himbeerquark",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
