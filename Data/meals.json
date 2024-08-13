@@ -33559,5 +33559,50 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "b2e9efab-19f8-acce-0a0e-3e1a24754874",
+    "Name": "Zuckererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b0fbd88b-12cd-9a53-fbbc-81cf76cfd155",
+    "Name": "Kohlrabi Natur",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e48e0e7c-9cf2-8573-f348-f43c487d30bc",
+    "Name": "Gem\u00FCse Kartoffel Gratin mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "25f5415c-a879-abcd-204c-f0548c8cfe2e",
+    "Name": "Heidelbeerquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "26848a04-03b2-47b2-b6c8-6a8fcd68b933",
+    "Name": "BIO Reis Beilage",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
