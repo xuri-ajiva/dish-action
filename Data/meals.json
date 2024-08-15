@@ -33604,5 +33604,77 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "de1a6db1-3404-0fe8-56ef-68e85e625953",
+    "Name": "Hausgemachte Pasta mit Gem\u00FCsesauce und Lachs",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16779584,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "498f6f66-0850-d7d9-1fd5-a00b5c2c1e10",
+    "Name": "Pasierte Linsensuppe mit Kokos",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "75751fd6-99af-072b-d1d0-8f2298dd03ff",
+    "Name": "Erbsen natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "1530a183-ef08-bbdd-b8b1-84329dec0c3b",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "9379eacc-a186-fa57-7aac-cdc99ca60fa0",
+    "Name": "Mischgem\u00FCse a la Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "bb87d736-bebe-0603-5930-c3945d6fd6ca",
+    "Name": "Sp\u00E4tzle",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "cb23cce2-7410-a346-ddcd-e62a730046c1",
+    "Name": "Paprika-Mais-Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0769030c-094f-37af-5fae-fc493487f148",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
