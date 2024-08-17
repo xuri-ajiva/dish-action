@@ -33676,5 +33676,158 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "1e3cc853-1819-37d6-d354-bea9a9f01c63",
+    "Name": "WOK Scharfes Currygem\u00FCse mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "1655643e-1410-8442-cb83-a8d0138b2ebe",
+    "Name": "Geschmorte Champignons dazu Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435457,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "f726a487-c91c-41ab-4ed8-6865aeda5ba0",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058117,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "4b984445-0db4-b4c6-ea2c-569bd4337940",
+    "Name": "K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "fba488e9-2be1-02cd-686a-6b3ab601cfa4",
+    "Name": "Hausgemachte Lasagne \u0027Florentin\u0027 mit Blattspinat und Tomaten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "a53c93f8-185e-583d-039a-b2be2dc722a6",
+    "Name": "Schweinegulasch \u0027Z\u00FCricher Art\u0027 mit Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "1bf5bcbc-c934-88d5-e05c-8cf371a6d4aa",
+    "Name": "Quinoa Bowl mit ger\u00E4uchertem Tofu, Brokkoli,  Erbsenguacamole und Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778273,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "30e9ce20-8431-df2d-a368-b936eb1220e0",
+    "Name": "Germkn\u00F6del mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c71dcd4f-d6a2-0ab2-b54b-d14f2b666cad",
+    "Name": "Gnocchi mit Paprikacurry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795649,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "6a742002-bff4-7498-dcad-4a76bc3e1561",
+    "Name": "dazu Fingerm\u00F6hren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "5a9e5d2f-3150-5212-4975-0b9c582994dc",
+    "Name": "WOK Scharfes Currygem\u00FCse mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Marktrestaurant",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d60657c5-b687-78c8-e049-ecc32872e795",
+    "Name": "Geschmorte Champignons dazu Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "61c31c00-b190-2508-2c60-19c502c38c1b",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058117,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "72e7d8a2-b75a-b4f3-a80a-48a0830d32cf",
+    "Name": "K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8f3621c0-ddc8-088d-2782-26b39b902bc2",
+    "Name": "Hausgemachte Lasagne \u0027Florentin\u0027 mit Blattspinat und Tomaten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "82602ad0-cc56-67f5-f5e1-8db96f31d38b",
+    "Name": "Schweinegulasch \u0027Z\u00FCricher Art\u0027 mit Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "d3440bfa-d4e4-1166-7c8c-1bbc613d961a",
+    "Name": "Quinoa Bowl mit ger\u00E4uchertem Tofu, Brokkoli,  Erbsenguacamole und Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778273,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
   }
 ]
