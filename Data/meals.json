@@ -33829,5 +33829,23 @@
     "AllergensAndAdditives": 16778273,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.90
+  },
+  {
+    "Hash": "b8ffc198-9c09-a2c8-af1d-61a8e251cddc",
+    "Name": "dazu Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777221,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "349b70ef-579f-3931-945d-7cf44ce419c2",
+    "Name": "dazu ein Maiskolben mit Butter",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
   }
 ]
