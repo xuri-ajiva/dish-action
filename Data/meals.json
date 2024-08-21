@@ -33847,5 +33847,104 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.30
+  },
+  {
+    "Hash": "1352078a-7dc0-b1af-2271-c3ce376e8d68",
+    "Name": "Currywurst aus Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6291488,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "998bddf8-0bf9-1fd1-9cf7-1b8f7903fbfa",
+    "Name": "Maiskolben mit Butter",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "b7f0b9c4-cbf9-27cd-ab76-bb2ed50f2cdb",
+    "Name": "dazu Kohlrabi",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "6d14dfa8-1466-4bb3-8339-7377cccf003e",
+    "Name": "dazu Brokkoli",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0db3ed2b-2423-822b-18b4-d819ac38b17e",
+    "Name": "Kartoffelsuppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e67eee3f-0e4f-54c3-0883-bee4ade6c21f",
+    "Name": "Kartoffelsuppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e6dc0611-8da0-8edf-2acd-43bd4cfa6bfa",
+    "Name": "dazu Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2e5066ae-c261-2f44-aaf1-3adf8fc29a21",
+    "Name": "Gr\u00FCne Bohnen natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "74086f50-4816-6f22-f8a7-9c3e40a998cd",
+    "Name": "Apfelstrudel mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "bf2b86cf-b753-e8cc-1fae-b5939ce1eea0",
+    "Name": "K\u00FCrbisgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b9999c4f-a80d-835c-2107-f8144a58b05a",
+    "Name": "Heidelbeerquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
