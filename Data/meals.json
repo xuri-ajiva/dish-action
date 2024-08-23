@@ -33946,5 +33946,41 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "08e5fb0c-a2e6-735f-f89d-f46e1043a576",
+    "Name": "Currywurst aus K\u00E4sewurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389856,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "67794592-e14c-0d8c-c772-e32165b90b48",
+    "Name": "dazu Vichy Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "1597473b-6710-484e-6ffd-d8628742c870",
+    "Name": "Kartoffelsuppe N 2020",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "916a112e-1645-ccc3-057e-83a8ed00b0c0",
+    "Name": "Schwarzwurzeln \u00E0 la Cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
