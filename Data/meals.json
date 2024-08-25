@@ -33982,5 +33982,203 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "ce2f8fcc-b3be-ad8b-1174-6304a0e37e21",
+    "Name": "K\u00E4sekn\u00F6del mit einer Kr\u00E4utersahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "b252bbec-ea6b-62be-f054-0b9e6a95b613",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 181280,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "0b0c69da-bf5b-4968-6e8f-fe273cf6132c",
+    "Name": "Hausgemachte Falafel mit Tomatensugo",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "1d09cb3d-2fdd-0a3f-53d0-1d6482d3af2d",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "b2a6a80a-a6d1-8394-3ecf-5a27d99dd4a9",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 138692869,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "c2668709-4dfc-7288-9b28-4a36d0a84a0a",
+    "Name": "Fr\u00FChlingsrolle vegetarisch mit s\u00FC\u00DF-saurem Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "732ad2b9-b669-c649-a4e6-1a070fb624ce",
+    "Name": "Schweinenackensteak mit Cocktail Dip",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4195077,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "72620a0e-b299-3f8b-45c3-705a5a965036",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777797,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "1559056b-7f79-8531-b8f3-2fafac67d4fb",
+    "Name": "Barbecue Bowl mit Limettenreis, Kidneybohnen, Mais und frittierten Sojabrocken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "d2519c2d-1ada-3ead-65c5-f60e0b93594b",
+    "Name": "Ratatouille Kartoffelpfanne",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "a4c6bcc9-1a4d-d577-5fc1-b14abbbb90db",
+    "Name": "K\u00E4sekn\u00F6del mit einer Kr\u00E4utersahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "b21a0806-c2f9-06e4-8e7d-1b6b526749dc",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ea828db6-5d76-8328-836a-212b765bbbeb",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 181280,
+    "Location": "Marktrestaurant",
+    "Price": 4.50
+  },
+  {
+    "Hash": "be4e1afc-676b-07c2-4961-98069931889d",
+    "Name": "Hausgemachte Falafel mit Tomatensugo",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "88fe771b-cf8a-a41d-d3bf-9baa24d4ccf4",
+    "Name": "Risotto mit Champignons und Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "b64789fa-4f8c-852b-1d76-87dc26d97743",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 138692869,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "24ffacbb-1e4b-8570-b56b-04556407cfad",
+    "Name": "Fr\u00FChlingsrolle vegetarisch mit s\u00FC\u00DF-saurem Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4194661,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c9bd1692-13d0-7904-4567-03857fb1eba4",
+    "Name": "Schweinenackensteak mit Cocktail Dip",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4195077,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "59462ad9-b862-bb57-a3a9-b37542d19cd5",
+    "Name": "Vanille Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "ac3f8c85-6969-0412-8e9c-823d1be2122c",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777797,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "e4eb7fa4-883d-9c46-d20b-80d3487905a4",
+    "Name": "Barbecue Bowl mit Limettenreis, Kidneybohnen, Mais und frittierten Sojabrocken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "b8b1d0f5-b41f-a2e0-9de7-edcdb42f5fe0",
+    "Name": "WOK Scharfes Currygem\u00FCse mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 4.20
   }
 ]
