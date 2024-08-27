@@ -34180,5 +34180,23 @@
     "AllergensAndAdditives": 16777249,
     "Location": "Mensa",
     "Price": 4.20
+  },
+  {
+    "Hash": "cc417482-fd20-3c0d-d597-6465f1a55104",
+    "Name": "Maiskolben",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "c8eaed3d-a037-6c8d-5e8b-d7abb4e62f50",
+    "Name": "dazu Zucchinigem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
