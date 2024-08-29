@@ -34198,5 +34198,50 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "b6c7a599-daf5-ceb8-9841-bc56178cad5a",
+    "Name": "dazu gr\u00FCne Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "5942e17b-26d3-5ef0-0267-9ab9bbfbd16c",
+    "Name": "Grie\u00DFsuppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "bad4728f-d073-fc16-6788-ecbb14a08272",
+    "Name": "Grie\u00DFsuppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Marktrestaurant",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b24e8cf3-3fda-8b23-4d65-844225a9b3c3",
+    "Name": "Kohlrabi a la creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "37f4df72-3c83-bfe1-f404-03d0ca618546",
+    "Name": "Karamell Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
