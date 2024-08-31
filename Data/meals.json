@@ -34243,5 +34243,194 @@
     "AllergensAndAdditives": 96,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "7cdf60d7-2b65-290a-d4ef-f4b17c641311",
+    "Name": "Hausgemachte Pasta mit einer Tomaten-Basilikumsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "edb4d042-3277-8f0d-4423-e67367b6487f",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Schnittlauchsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "036d962d-6944-8916-ccb6-e7cee03889f8",
+    "Name": "Cole Slaw",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68164,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "84bc20ae-ca09-e772-c55f-84346c1c333e",
+    "Name": "Unite!-Essen Turin: Hausgemachte Spaghetti mit einem Petersilie-Haselnuss Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "b57a303f-d69b-c010-2a82-0257759f59fe",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123652,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "efd6e5be-7662-f661-ac3e-8073a06d3f64",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a1bccd3d-675b-7a45-532f-f5cfc94efc1e",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se-Bratling in einer Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430724,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "84d706c6-7709-339e-fab8-c6fbc123a4eb",
+    "Name": "Unite!-Essen Warschau: \u0027Golabki\u0027 Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "2327c361-1f9f-8749-8012-fc066e318bb6",
+    "Name": "Orientalische Gem\u00FCsepfanne mit Dinkel  und ger\u00F6stetem Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50332704,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "79970a1d-7141-3833-f79b-027c0b67ae1d",
+    "Name": "Gebackener Seelachs mit Sauce tatare und einer Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "da8fb364-48f4-c12a-1376-1cbeb03e7a1d",
+    "Name": "Hausgemachte Pasta mit einer Tomaten-Basilikumsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "88f9e57f-62ad-31fc-2c16-c4d23aeeb3d0",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Schnittlauchsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "429fd4a1-09a9-e723-c6e5-46e955ce6a78",
+    "Name": "Hausgemachte Pasta mit Brokkoli-Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "bb2dda26-4de9-6b79-7561-e07cab8f8c79",
+    "Name": "Unite!-Essen Turin: Hausgemachte Spaghetti mit einem Petersilie-Haselnuss Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "7c605283-8918-4314-f076-83b799835171",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123652,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "a1ec2913-882f-451a-8e5f-2e0ce4ec60e5",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "8b3d8a3a-a0dd-9944-6577-674f8a288b44",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se-Bratling in einer Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430724,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8260ad70-6cf2-56a5-74e6-4f227b5918a6",
+    "Name": "Unite!-Essen Warschau: \u0027Golabki\u0027 Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "68d5a7cf-91c6-60a6-3871-71dd6a9744b5",
+    "Name": "Orientalische Gem\u00FCsepfanne mit Dinkel  und ger\u00F6stetem Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50332704,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "cef9a688-3e66-5cff-940b-a924f43d1847",
+    "Name": "Gebackener Seelachs mit Sauce tatare und einer Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "bb140c90-6649-682b-70f2-4e9bc4d8b7a3",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se \u00FCberbacken dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810080,
+    "Location": "Mensa",
+    "Price": 4.30
   }
 ]
