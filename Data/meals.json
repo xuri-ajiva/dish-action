@@ -34432,5 +34432,113 @@
     "AllergensAndAdditives": 16810080,
     "Location": "Mensa",
     "Price": 4.30
+  },
+  {
+    "Hash": "56cd1135-cf38-64ca-65b2-e5f046f25d27",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "90d20a1c-a471-263f-b002-de39a9f4e6cc",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "12032b3d-0621-b1f2-ea3f-8212f4bd9b37",
+    "Name": "Sojagyros mit Tsatsiki",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "e4c78454-8544-8e3e-b92c-c6f43cac05a3",
+    "Name": "Countrykartoffel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "2e773ffd-ab16-8636-8b04-aa8a8ca2517e",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "77ab36ee-c220-8644-83b5-863232d83450",
+    "Name": "Pizza Verdure",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "6248bd6a-acca-6b6d-c6c3-115dfe09d04a",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4345331780,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "36bfb002-1f98-20ad-dd89-ec015818f8d2",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "cab9b219-6e67-914a-c465-242baa5c2b65",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "35e6d0e6-50a6-8767-7086-4c1f7edde00e",
+    "Name": "K\u00FCrbissuppe mit Kokos",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2b64866c-47da-ca56-8caf-6f3c06330096",
+    "Name": "Maiskolben",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "c8c663b5-efe3-41e4-7232-966ea4b2cc4a",
+    "Name": "Broccoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
