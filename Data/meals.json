@@ -34540,5 +34540,32 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "f82e02ac-5fe5-be39-6c2c-9beb44dd6446",
+    "Name": "Kohlrabi Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4c9f37fe-b127-8ab4-26cc-c43d7b353c79",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "7f1ed8e9-bd5e-b42b-3471-6227216fbdbd",
+    "Name": "Kohlrabi a la creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
