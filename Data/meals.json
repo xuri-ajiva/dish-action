@@ -34567,5 +34567,212 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "0a8481cc-afaf-0ef0-80e4-bd32829d7480",
+    "Name": "Hausgemachte Pasta mit einem Basilikum-Minz-Orangen-Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164260864,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "54981b5d-3bf3-ec98-1a16-4e66ec93684e",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4a4f49fb-369d-bfd7-ba15-ef0273f957bd",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "192a7c81-30c6-b899-7a90-38e6c0b3ca39",
+    "Name": "WOK Pad Thai mit Tofu und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "5ace37ef-8e57-aa7f-69c6-ecf68573fd18",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Meerrettich-Apfel Sauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845124,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "58e301a5-2c60-1a3b-3dc1-bc3d06dc3570",
+    "Name": "Paniertes Schnitzel mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778052,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "d9e8417d-4f84-11f3-1f78-877a1adc9329",
+    "Name": "Unite!-Essen Stockholm: K\u00F6ttbullar mit Kartoffelp\u00FCree und Preiselbeeren",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011396,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "3a125318-7d8c-2d22-f5b8-f3bf192bee5e",
+    "Name": "Gr\u00FCnkohl-Hanf Burger mit rote Beete Chutney",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16845824,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "9d170fd8-c443-a30b-c351-0037905339a9",
+    "Name": "Polentabruschetta mit Gem\u00FCse und Mozzarella gratiniert",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "b56878d3-2daa-4b2b-7925-7dcacd40a2a6",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "6ffa2f71-d3e1-a1b7-d843-f1d606c15d73",
+    "Name": "Fischst\u00E4bchen mit Remouladensauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "98368d58-380b-7e7b-d042-ef3aafa40698",
+    "Name": "Hausgemachte Pasta mit einem Basilikum-Minz-Orangen-Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164260864,
+    "Location": "Marktrestaurant",
+    "Price": 3.60
+  },
+  {
+    "Hash": "a5b90128-4276-ac78-c2b8-8f925b86080f",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Marktrestaurant",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c907e8b4-c050-0671-4765-a1a06a5735ca",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu eine Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9214b2c1-0dc4-5b6e-4552-a817edbe7e00",
+    "Name": "WOK Pad Thai mit Tofu und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Marktrestaurant",
+    "Price": 3.40
+  },
+  {
+    "Hash": "1fe9e603-4184-f06a-bef1-8ac0930f8161",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Meerrettich-Apfel Sauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845124,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c9ac306e-edff-6b31-3d43-f6a45bd5398d",
+    "Name": "Paniertes Schnitzel mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778052,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "708120cc-e455-bc67-9081-7c996afadf4b",
+    "Name": "Unite!-Essen Stockholm: K\u00F6ttbullar mit Kartoffelp\u00FCree und Preiselbeeren",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011396,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.90
+  },
+  {
+    "Hash": "72b7facd-4a1d-c5bf-3176-bcff8af41e5b",
+    "Name": "Gr\u00FCnkohl-Hanf Burger mit rote Beete Chutney",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16845824,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "bad9bd75-ea26-154b-91e5-edb61b052bc6",
+    "Name": "Polentabruschetta mit Gem\u00FCse und Mozzarella gratiniert",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "df659c41-776c-f6cc-011d-61c1b9dcfc25",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b66199cd-de17-89d8-e276-4c2dd38e8663",
+    "Name": "Fischst\u00E4bchen mit Remouladensauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "e3eabb00-b12d-8629-de64-3f5665aa6409",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se-Bratling in einer Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285212740,
+    "Location": "Mensa",
+    "Price": 2.20
   }
 ]
