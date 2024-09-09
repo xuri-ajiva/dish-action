@@ -34774,5 +34774,41 @@
     "AllergensAndAdditives": 285212740,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "a0623051-81dc-070f-48a0-6a32e2e20441",
+    "Name": "Lauchreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "65af12f4-9c6b-681c-140d-22cf2e1488a3",
+    "Name": "Lauchcreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "128e43a2-e59d-92ed-26a4-addb76513d19",
+    "Name": "WOK Pad Thai mit Tofu und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "394f6174-bceb-bbec-cbe7-f3b72b493d08",
+    "Name": "Hausgemachte Pasta mit Spinatinosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.20
   }
 ]
