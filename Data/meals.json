@@ -34810,5 +34810,59 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "73f83d9d-5118-7a6f-45da-2d0f9235ac47",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16810052,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "ccf21092-d0c3-fc6b-0c12-0da2cd988b32",
+    "Name": "Haferflockensuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "be78b1eb-e32a-0c76-3bf6-6e777720a045",
+    "Name": "Kohlrabigem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0d565d75-7c85-1bbb-5bb7-ff0150c8ae85",
+    "Name": "Kohlrabicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "bdf50511-fb12-37e7-a45a-a5a721635144",
+    "Name": "W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "88ee6f2d-fc4f-feee-33bd-5e599996d90a",
+    "Name": "Linsen-Kokoscremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1024,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
