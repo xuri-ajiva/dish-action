@@ -34864,5 +34864,95 @@
     "AllergensAndAdditives": 1024,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "1d79519e-dada-931c-b569-d12b5a05b8bf",
+    "Name": "Jackfruit Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 3.60
+  },
+  {
+    "Hash": "a704f651-15fb-d56d-87e6-b69732368f44",
+    "Name": "Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195456,
+    "Location": "Bistro - Bistro",
+    "Price": 3.60
+  },
+  {
+    "Hash": "d58ed958-4d60-d6f1-514c-b0ef18ccf4d8",
+    "Name": "Hausgemachtes Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "dbef9fad-6b1c-1533-96a7-6dd34c6eeb42",
+    "Name": "Apfelquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65600,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "ee6d565d-c9ef-3eeb-f504-f2515fe95828",
+    "Name": "W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Marktrestaurant",
+    "Price": 4.40
+  },
+  {
+    "Hash": "745563a9-dbc0-126f-9bec-fd287d245048",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7a42f908-8b4e-7599-feea-215a6b3c71c7",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16810052,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "961268e0-6add-c6b0-b120-a24032e479e1",
+    "Name": "Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8b912197-3437-3275-9d88-2fe90c6b580d",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777504,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "1f498aee-4505-2f80-8265-b5fd4697de67",
+    "Name": "Linsen-Kokoscremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
