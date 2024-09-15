@@ -34954,5 +34954,239 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "613b6409-d5e7-33b1-688c-5a56f159bc59",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "aafee567-0532-ce79-ac61-cf2c84c15f01",
+    "Name": "Hausgemachte Pasta mit einer Sahnesauce \u0027Els\u00E4sser Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17139776,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "c839da08-66f8-ef8c-e08e-563fe9511682",
+    "Name": "Beeren-Kokos Trifle",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285294624,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "0faf820f-4d46-9b94-add5-38c12c67517f",
+    "Name": "Vegetarische Maultaschen dazu Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "d8565996-c01a-3b56-cfd7-279aeecaffbb",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470084,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "fb24edfd-8ad6-df2c-fd7d-d7e4afb770b6",
+    "Name": "Rote Beete-Bratling mit Kartoffelp\u00FCree dazu Lauchgem\u00FCse in Sojarahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285229088,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "a84a2136-2e9c-fa2d-588f-d7b6142a7b09",
+    "Name": "Criss Cuts mit Kr\u00E4uterquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "d8bdcaad-7b3d-dd48-4988-eab2c63a279c",
+    "Name": "Gem\u00FCse-Couscous Pfanne mit Joghurt-Ingwer Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "94eab785-69dc-aba1-6bf2-d7f91ea2ea4b",
+    "Name": "Hamburger mit 220 g Bio-Rindfleischpatty",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20973060,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "55872b2f-d707-e3ce-ef1e-6547e710520f",
+    "Name": "Reispuffer mit Dattelratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310176,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "919f3f8b-fed3-1b31-fd38-2fb89756b275",
+    "Name": "Forelle \u0027M\u00FCllerin Art\u0027 mit Salzkartoffeln und Petersilienbutter",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134218056,
+    "Location": "Mensa",
+    "Price": 6.20
+  },
+  {
+    "Hash": "d8c61742-c884-3ce4-ec81-224a0289ce8b",
+    "Name": "Unite!-Essen Graz: Hausgemachter Kaiserschmarrn mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "5b761d9f-6478-132d-c9dd-4656e5280516",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 2.10
+  },
+  {
+    "Hash": "7eb73036-c58c-7452-9097-28270e2fb7ac",
+    "Name": "Hausgemachte Pasta mit einer Sahnesauce \u0027Els\u00E4sser Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17139776,
+    "Location": "Marktrestaurant",
+    "Price": 2.70
+  },
+  {
+    "Hash": "4556a65c-c2ce-4b22-f3fd-01e8e0de3b12",
+    "Name": "Beeren-Kokos Trifle",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285294624,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "35245b0a-84af-aeb5-141e-6b1b974f2fdc",
+    "Name": "Vegetarische Maultaschen dazu Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "59947eb0-293b-52b5-938a-ee730690b044",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470084,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "d50f59ed-8b6f-45ba-55a4-c52723a20c4d",
+    "Name": "Rote Beete-Bratling mit Kartoffelp\u00FCree dazu Lauchgem\u00FCse in Sojarahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285229088,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "6d7c57a7-bc0c-23f1-5cd3-4fa353160260",
+    "Name": "Criss Cuts mit Kr\u00E4uterquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "9d838ae0-1ae8-4468-e5e4-f082d246d3a9",
+    "Name": "Gem\u00FCse-Couscous Pfanne mit Joghurt-Ingwer Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "c1118d6c-e8e4-e37c-2a48-6f0cd8a8edd6",
+    "Name": "Hamburger mit 220 g Bio-Rindfleischpatty",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20973060,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "dc85911e-05b7-c4f3-852e-39db40bf7850",
+    "Name": "Reispuffer mit Dattelratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310176,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "22a6600b-d4aa-8499-0363-f5652bc293a1",
+    "Name": "Forelle \u0027M\u00FCllerin Art\u0027 mit Salzkartoffeln und Petersilienbutter",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134218056,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.20
+  },
+  {
+    "Hash": "8ac3623b-6626-7ee7-a3f6-1639f9b96c12",
+    "Name": "Unite!-Essen Graz: Hausgemachter Kaiserschmarrn mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "f1d7a09a-ac7f-68f5-408a-05e13f120b6d",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "e7c06b0d-5b53-20c7-7e3e-44804ec5d8ce",
+    "Name": "Fisch und Chips mit einem s\u00FC\u00DF-sauren Dip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 4227597,
+    "Location": "Mensa",
+    "Price": 4.90
   }
 ]
