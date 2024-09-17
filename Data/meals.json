@@ -35188,5 +35188,50 @@
     "AllergensAndAdditives": 4227597,
     "Location": "Mensa",
     "Price": 4.90
+  },
+  {
+    "Hash": "97d5e788-0d6a-f99a-1f77-37fa3803e947",
+    "Name": "Gem\u00FCsekn\u00F6del mit Champignonsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "b61b9c17-9fe9-0245-88ae-9a25ffde8cab",
+    "Name": "Italienische Gem\u00FCsesuppe Minestrone mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3947e208-871a-5519-9017-01005e3834a1",
+    "Name": "Apfeltiramisu im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "9334a12b-2e6d-90dd-d7fb-8b55817ddd60",
+    "Name": "Curryreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "6b567755-5951-bef9-f9fa-976950c731cd",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
