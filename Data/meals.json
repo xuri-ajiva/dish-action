@@ -35233,5 +35233,68 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "d1b565cc-a589-bd4b-bda8-8e005cb1e9f9",
+    "Name": "Pizza mit Kapern und Sardellen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 50397256,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "b52c7de3-32ee-dfc5-f91f-072613d57884",
+    "Name": "Pizza Kapern und Sardellen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 50397257,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "e6719790-e6b2-7bbf-628a-f893f0e9adc3",
+    "Name": "Backkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "056f5a02-f38c-b38e-55e6-ba35ca6087eb",
+    "Name": "Champignonrahmsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "4d24f070-9615-97af-e645-48b525987141",
+    "Name": "Mandarinenquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "5caad898-b393-cbca-4200-b96b326e9d5d",
+    "Name": "Criss cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "eb77b943-9f97-253d-c7e9-5668f7ff2816",
+    "Name": "Blumenkohl \u0026amp; Brokkoli",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
