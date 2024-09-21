@@ -35296,5 +35296,293 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "65dbaaca-2a67-a975-b64c-a352c0846f6e",
+    "Name": "Unite!-Essen Hessen: Kartoffel-Krautpfanne mit veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "e2adbc2b-47d0-8f2b-395a-39547904cf6a",
+    "Name": "Hausgemachte Pasta mit Limette, Erbsen, Pilzen und Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744512,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "00f7d3cd-9b1a-4589-8ad0-8a035ae9b9c8",
+    "Name": "Hausgemachte Pasta mit einer Chili-Paprikasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "ca79fef7-957a-d4d9-1be5-c266faea4c6c",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891968,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "dca60ff2-fa30-47a3-fed9-b7f2dbee46b6",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "ee798053-80f5-b433-f6d5-28c10babfc45",
+    "Name": "Unite!-Essen Hessen: Eier mit Frankfurter Gr\u00FCner Sauce dazu Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134218052,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "b6d3e84a-c6b5-bc5d-8b9d-760dc872ce75",
+    "Name": "Champignon-Zucchini Ragout auf Vollkornsp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "2a6eaf78-5c1d-ff9e-df84-94e93f99950f",
+    "Name": "Unite!-Essen Hessen: Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "c4900180-5874-c238-5df8-3869bd4b52b1",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "9611cb96-a283-780e-4648-717a02b9148c",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "3a1a0be6-3445-4bda-46d3-fc558845df90",
+    "Name": "Unite!-Essen Lissabon: Caldo Verde Gr\u00FCnkohl-Kartoffelsuppe mit Chorizo",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98368,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "cb3da842-96e9-5ae8-7457-c138eef78171",
+    "Name": "Soja-Gulasch mit frischen Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8104395f-2e1a-1ddb-dae6-6f546035f9b1",
+    "Name": "Hausgemachte Kartoffel Lasagne mit Karottenscheiben und Lauch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "18611237-6f64-eb9a-986f-92eae5fa460e",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "084694cf-913a-19e2-13f7-fa379a523d10",
+    "Name": "Unite!-Essen Espoo: \u0027Riisipuuro\u0027 Milchreis mit Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "6a088988-d400-0757-83ed-871d05771c4f",
+    "Name": "Tintenfischringe mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899008,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "40d2cd44-64bb-ba6a-d032-1c82c4c6347c",
+    "Name": "Unite!-Essen Hessen: Kartoffel-Krautpfanne mit veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "1a8bc84c-ee96-4ce3-bc65-2ac4a761e3c2",
+    "Name": "Hausgemachte Pasta mit Limette, Erbsen, Pilzen und Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744512,
+    "Location": "Marktrestaurant",
+    "Price": 3.60
+  },
+  {
+    "Hash": "56ca8a26-567f-dc83-c7b7-70268e22d00b",
+    "Name": "Hausgemachte Pasta mit einer Chili-Paprikasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "431e6d24-a6b7-4f22-9ac7-677623335791",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891968,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "4cfc7f20-281e-d929-e2ee-e749285693a4",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "db32f771-1d1e-83dc-a539-df3588c1ceb8",
+    "Name": "Unite!-Essen Hessen: Eier mit Frankfurter Gr\u00FCner Sauce dazu Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134218052,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "6305523e-b080-44f3-84fa-f22bc3cd3abb",
+    "Name": "Champignon-Zucchini Ragout auf Vollkornsp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "dc761167-8ab3-9974-f4d0-b5e46c64bbc5",
+    "Name": "Unite!-Essen Hessen: Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "5e74e9af-fd5f-46df-a522-2504959e3cae",
+    "Name": "Hausgemachter Haferflockenbratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "15dd7bf4-f271-e5a3-be1e-a5bbdd34f79c",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "d7a9b5f2-937d-bc82-950e-eab5ddb2f471",
+    "Name": "Unite!-Essen Lissabon: Caldo Verde Gr\u00FCnkohl-Kartoffelsuppe mit Chorizo",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98368,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "d42a1929-7f46-d62b-1fb5-741d9e9bb43c",
+    "Name": "Soja-Gulasch mit frischen Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "b0bde2b3-7aa6-ac06-1b54-bb77feb0edba",
+    "Name": "Hausgemachte Kartoffel Lasagne mit Karottenscheiben und Lauch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "165aa336-b95f-4b5a-b590-e0481014eb5a",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "69eadde8-574c-fa34-61a2-e4d06ac1ef44",
+    "Name": "Unite!-Essen Espoo: \u0027Riisipuuro\u0027 Milchreis mit Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "054068a8-699b-1aab-f28d-0164fb08db28",
+    "Name": "Tintenfischringe mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
   }
 ]
