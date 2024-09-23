@@ -35584,5 +35584,14 @@
     "AllergensAndAdditives": 18899008,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.20
+  },
+  {
+    "Hash": "3e386392-e890-e2cc-f09e-4f411318dde7",
+    "Name": "Blumenkohlcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
