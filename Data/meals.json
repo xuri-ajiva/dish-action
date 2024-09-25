@@ -35593,5 +35593,86 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "c3c5dae1-e516-7252-582c-3ac634ccde6c",
+    "Name": "Rosenkohl mit Butter und Zwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "e8c16db4-adb4-2dad-aac5-c6f96e481628",
+    "Name": "Cordon bleu vom Schwein mit Bratenjus und Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "5308a502-d4a4-2e1d-9918-e2c5a8a0c6b1",
+    "Name": "Ger\u00F6stete Grie\u00DFsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "86889b7b-f753-c033-cf82-60a24711e448",
+    "Name": "Blumenkohl mit Sauce Hollandaise",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
+  },
+  {
+    "Hash": "d271622b-145d-9aaf-a70c-cb5c0ba4a65b",
+    "Name": "Champignon-Zucchini Ragout auf Vollkornsp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "5b31562a-6477-e070-1529-29d00992f037",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d89dd094-42a2-25e0-8f8d-0a876a981ddb",
+    "Name": "Rosenkohl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8f9b9ac6-b5da-6696-2051-043231690bbb",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "87362162-edde-730a-6d16-9577beacd652",
+    "Name": "Kartoffelcremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
