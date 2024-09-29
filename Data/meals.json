@@ -35719,5 +35719,158 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "a44a660f-ffef-b988-8e35-6900a290ae76",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "138980d0-3b0a-11b1-fbea-ebad216aaa93",
+    "Name": "Paniertes Schnitzel mit einer K\u00E4sesauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "1416236a-a34a-fa1f-8354-4d67f5f548ed",
+    "Name": "Bio Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "56e625b6-0844-cce8-30f4-4c72b7e395ce",
+    "Name": "Spinatkn\u00F6del mit Gorgonzolasauce und Waln\u00FCssen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 2164260932,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "c2cf8e2d-81da-f991-ea1b-7d2dd1bd8b58",
+    "Name": "Erbseneintopf mit einem paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "f0ae08ce-d5ed-d94c-4c19-36feb64225ce",
+    "Name": "Szegediner Tofugulasch und Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264736,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "3c57cfa6-1779-8a76-583a-955cdaa62236",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "bf36506a-8b75-04cf-ad93-6a986f21896e",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "7fa473c0-bd38-5f98-6ad1-c78b2b98dbbe",
+    "Name": "Hausgemachte Pasta mit einer Schinken-Erbsen-Sahne Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "b9cc89fe-19e1-591d-fb36-355cef768f8a",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "615f0387-49d8-6047-d695-01959c5b458e",
+    "Name": "Paniertes Schnitzel mit einer K\u00E4sesauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "17c90a52-4429-44ca-7d82-fc7cba6a34dd",
+    "Name": "Bio Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e69d6e7c-698f-dad4-002f-1c0ed9e819d7",
+    "Name": "Spinatkn\u00F6del mit Gorgonzolasauce und Waln\u00FCssen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 2164260932,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "ce9379d2-2622-edd1-b7cd-ff4d107b6812",
+    "Name": "Erbseneintopf mit einem paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "2be55386-68e5-a4da-70b0-b34d41abb817",
+    "Name": "Szegediner Tofugulasch und Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264736,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "59efbf62-7321-5ede-facf-76fbf0e3b600",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "5f03492d-e40a-4918-f872-61ab4c221996",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
   }
 ]
