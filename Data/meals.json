@@ -35872,5 +35872,77 @@
     "AllergensAndAdditives": 21056076,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.30
+  },
+  {
+    "Hash": "d7cf88bd-7aeb-8332-a9c6-62384edb4173",
+    "Name": "Champignon-Zucchini Ragout auf Eiersp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "aa9a0b91-10ef-25e9-f6b7-437faa249374",
+    "Name": "Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "7005a201-3740-c218-7563-159a7940d591",
+    "Name": "Gr\u00FCne Bohnen natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0372d0cd-1b10-9b96-3bb4-22a3e3fcfb3a",
+    "Name": "Blumenkohlcreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "dd2e5a8c-3378-c61d-e61f-d72b417e5afb",
+    "Name": "Sahnereisbrei mit Fruchttopping",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.40
+  },
+  {
+    "Hash": "2c1de456-661e-de2c-2e23-a81bc54cfba8",
+    "Name": "Sahnereisbrei mit Fruchttopping",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.40
+  },
+  {
+    "Hash": "b748a044-4b19-4b32-f2b5-f2dbec5b8c47",
+    "Name": "Herbstliche Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "967a4ab2-9595-d6bc-a2f5-305b15dcc81c",
+    "Name": "Kartoffelcremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
