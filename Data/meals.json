@@ -35944,5 +35944,32 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "92a65fe4-6124-8839-75f4-deb50e7fd187",
+    "Name": "Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "b1ca3d96-8b8d-607b-8b54-2e359e81f976",
+    "Name": "Hausgemachte Pasta mit Sonnenblumen-Hack",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a390c306-ad21-268e-5423-256a531681b3",
+    "Name": "Karottencreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
