@@ -35971,5 +35971,257 @@
     "AllergensAndAdditives": 32,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "7bd72814-603e-3175-8a05-999979bbc427",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "92dd01b6-b543-edbb-3587-d68aa9078b1f",
+    "Name": "Gnocchi mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "ab9ec082-0eb5-9e4b-9ad9-3f15fb3b39db",
+    "Name": "Broccoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2647912e-a422-a7ff-451f-9e98e5ec4205",
+    "Name": "Quarkspeise Fr\u00FCchte M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268452032,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "a4b788ed-da95-f714-7fd5-7b87e7c8cbbf",
+    "Name": "Currywurst aus Jackfruit-Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971552,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "2b5b8093-0261-a80d-2a75-2355402f9c31",
+    "Name": "Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2097152,
+    "Location": "Bistro - Bistro",
+    "Price": 3.60
+  },
+  {
+    "Hash": "2b9bb66b-da18-07a0-0bb8-0d82839f2fe9",
+    "Name": "K\u00E4sewurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195520,
+    "Location": "Bistro - Bistro",
+    "Price": 3.60
+  },
+  {
+    "Hash": "996e6281-7d94-ed14-62f7-bf0549503f95",
+    "Name": "Currywurst aus Rinds- oder Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ed2e5ae6-515e-9636-5928-9e34fc7616b9",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8dcb26aa-4cde-74bf-6d3e-9a4885d40254",
+    "Name": "Bayrischer Schweinebraten mit Biersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134217728,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "8310db3b-cdd6-fd07-f058-c9a36aae2cf7",
+    "Name": "Paprikapfanne mit Sonnenblumenhack und Bulgur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b7f983d3-c219-eaba-c285-b4a97afaf8b3",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ab34167b-64ae-c5c3-23af-d3e301cb9c8a",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch dazu ein Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "fcb7cbcf-8d97-62b2-d74f-ad8de8fdf974",
+    "Name": "Linsenbratling mit K\u00FCrbismus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "3b9fbb33-c83b-528d-a68e-3722c082d256",
+    "Name": "Laugenburger mit gezupftem Schweinebraten und BBQ-Bier Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151028288,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "c942286c-63bd-6ce0-2d97-b4f4fa178509",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84264992,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "cbacdeeb-6db9-7357-52a5-cbe85e1d3367",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "95ff95ac-8ac6-e6d8-7cdc-6a28b09650eb",
+    "Name": "Gnocchi mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "0de888dc-abbd-615f-5baf-7ae98efc0b55",
+    "Name": "Hausgemachte Pasta mit Spinatinosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "d7b2bd11-66a7-e6d6-4217-dfb38bfa26f7",
+    "Name": "Quarkspeise Fr\u00FCchte M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268452032,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "50f5a20b-8d48-33f3-91f5-53896332d263",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8bad9e7b-f54c-095c-933b-ca0abdb988fe",
+    "Name": "Bayrischer Schweinebraten mit Biersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134217728,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "adfb589e-a503-9d14-181a-79bc2fd45b1a",
+    "Name": "Paprikapfanne mit Sonnenblumenhack und Bulgur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d30fce8a-a0cc-b95c-75c1-2444a2d68c78",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "b4ffc246-0fb9-a4e6-6032-7ede28f8f01e",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch dazu ein Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "1dc16477-2054-7ba9-e2ad-7f947e21e526",
+    "Name": "Linsenbratling mit K\u00FCrbismus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "36156c90-11e4-caab-320a-b15ca069b1c3",
+    "Name": "Laugenburger mit gezupftem Schweinebraten und BBQ-Bier Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151028288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "cd7316eb-0794-d525-1abd-9c9bfcba78e8",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84264992,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
   }
 ]
