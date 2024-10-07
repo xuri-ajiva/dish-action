@@ -36223,5 +36223,50 @@
     "AllergensAndAdditives": 84264992,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.20
+  },
+  {
+    "Hash": "9df1ea5b-13d5-9fe4-ff72-00caf1c618e4",
+    "Name": "Ebsensuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "5cdfded3-c4ed-3e50-b299-cdc96fd46ce5",
+    "Name": "hausgemachtes Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9702af5c-c1d2-7219-a472-14481abedb4c",
+    "Name": "Blumenkohl abgeschmelzt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "3ce995bb-4d75-6717-846c-834dc7465db8",
+    "Name": "Germkn\u00F6del mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "141f10fb-6f20-e441-bd81-191d94c17682",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
