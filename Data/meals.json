@@ -36268,5 +36268,59 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "6bdc62ee-52d8-2ec2-cdf5-2ebafd0ca892",
+    "Name": "Rotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "3e01ee8d-66c1-dd90-d03f-a96b1224d511",
+    "Name": "Wei\u00DFwurst-Pizza",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 35652160,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "089eb73c-4a26-4b09-f8cb-bced35b1c477",
+    "Name": "Bayrisch Kraut mit D\u00F6rrfleisch",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98304,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "37e47449-5930-9480-1033-7938f2858a4b",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Kr\u00E4uter- Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995781,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d3d698b6-9546-05c1-eb6f-1c6188cc2527",
+    "Name": "7 Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 mit Biersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2163200,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "db69a906-d0a5-709b-f538-950b25d162f2",
+    "Name": "Apfelrotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
