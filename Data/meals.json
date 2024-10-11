@@ -36322,5 +36322,41 @@
     "AllergensAndAdditives": 67584,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "a2beaa96-6ebb-a71d-e66c-3410d54d5268",
+    "Name": "Gem\u00FCsesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2db7ed52-6aee-597e-b6bd-9c2a64ad873d",
+    "Name": "Wei\u00DFwurst-Pizza mit Zwiebelschlotten, Schmand und geriebenen K\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 35652160,
+    "Location": "Marktrestaurant",
+    "Price": 3.60
+  },
+  {
+    "Hash": "bbcaa625-3935-bf2a-503e-489a1c36bbdd",
+    "Name": "Reis Risi Bisi",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a0214c51-a246-f0f2-4c3f-ab793245d6ae",
+    "Name": "Zwiebelsuppe mit Crouton",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
