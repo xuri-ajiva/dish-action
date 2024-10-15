@@ -36646,5 +36646,59 @@
     "AllergensAndAdditives": 83886144,
     "Location": "Mensa",
     "Price": 2.70
+  },
+  {
+    "Hash": "d8f917b2-7b6b-fbd7-fd9a-4920d0949681",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331713,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "3cff6d68-7cd2-b77c-7f91-87d201de5076",
+    "Name": "Bayrische Pfanne mit gezupftem Schweinebraten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 218466369,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "6a5b6aad-453a-3b3b-4e76-1c02d6bbb9d7",
+    "Name": "Ein Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248577,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "8990a6de-0d21-be60-5abc-03a577d4c108",
+    "Name": "Wedges Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "e582dfc3-d0df-7c5a-841d-3e387d802477",
+    "Name": "Reis Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "0440d8c1-65ec-7d8d-4c5b-3bfb2fa1951e",
+    "Name": "Cappuccino Pudding mit Fruchttoping",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
   }
 ]
