@@ -36700,5 +36700,41 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.00
+  },
+  {
+    "Hash": "7ff74b56-9faa-b472-b04d-e69cf2aacb74",
+    "Name": "Haferflockensuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "46436e08-33f6-15d1-d640-f81cc649b52c",
+    "Name": "Blumenkohl mit Sc Hollandaise",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
+  },
+  {
+    "Hash": "6e138792-9f70-38a2-cb34-bc64ab4b0688",
+    "Name": "Rosenkohl",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "da8c76bc-1e2d-ded1-00cb-f23473452e13",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
