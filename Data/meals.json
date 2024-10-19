@@ -36736,5 +36736,320 @@
     "AllergensAndAdditives": 320,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "ab819c7a-169e-48bf-5143-3c9e33f22bda",
+    "Name": "Hausgemachte Pasta mit Champignonsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793632,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "e44e9553-b72f-4f66-411a-78596f831ce8",
+    "Name": "Gem\u00FCseschnitte dazu Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549696,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "2f32bde8-c06d-393e-1946-16003e7dcf1a",
+    "Name": "Apfeltiramisu im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "6d7822bc-5793-f6ad-4101-01874e64d973",
+    "Name": "WOK Szechuan Tofu mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311761952,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "1fa609f5-70a8-efa5-1c20-3c869edbc332",
+    "Name": "Kreolisches Chili mit schwarzen Bohnen und Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7f2dee44-df6d-e4ff-07f3-2322cd91fd8b",
+    "Name": "Hausgemachter Bulgur-Gem\u00FCse-Bratling mit einer Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "58ab7e15-7491-5e10-2c74-88030081932d",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793860,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "2bd7a8d6-5fdc-3007-0049-eab3f00d347b",
+    "Name": "Bio Wei\u00DFer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "66e51d0c-6ec3-cc5b-f062-e4f7dc5c2561",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "727f872d-9f1d-0624-66c4-096d9be09d23",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "19d96d31-27e2-0aaf-1562-ec307afa12d5",
+    "Name": "Wei\u00DFer Bohneneintopf dazu ein Paar Wiener W\u00FCrste",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "0940687e-4569-3240-beb5-4962bc09f73f",
+    "Name": "Burger mit Haferflockenpatty und rote Beete Chutney",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285281280,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "c303c328-6565-7e5c-c012-c0d4de43eca0",
+    "Name": "Hausgemachte Frikadelle mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276036,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "d46fb107-953e-eb68-02da-203cd4718d5c",
+    "Name": "Asiatische Gem\u00FCsepfanne mit Tofu und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "e400b637-e6e5-ab7d-848d-bebca4b554df",
+    "Name": "S\u00FC\u00DFkartoffelgratin mit roter Beete, Oliven und \u00C4pfeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65600,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "04962805-0a67-038f-b17e-2a18a1d00d79",
+    "Name": "Hausgemachte Pasta mit Champignonsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793632,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "f8c31eef-efaa-d786-e1a2-e8077c20e4fc",
+    "Name": "Gem\u00FCseschnitte dazu Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549696,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "e6c5a19c-8ab9-fb02-8f5c-4d362258284a",
+    "Name": "WOK Szechuan Tofu mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311761952,
+    "Location": "Marktrestaurant",
+    "Price": 4.60
+  },
+  {
+    "Hash": "8b2adc3a-b3a1-f42e-3775-4ce7e7adea41",
+    "Name": "Kreolisches Chili mit schwarzen Bohnen und Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "bb9393d6-1d9d-0ecd-482f-f8f27682b49e",
+    "Name": "Hausgemachter Bulgur-Gem\u00FCse-Bratling mit einer Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "c883eaee-db31-f6e2-5ee2-7989dc17c185",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793860,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "82a1dfa9-70ef-8643-70dd-fa0f5e0c43ce",
+    "Name": "Bio Wei\u00DFer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "78bc9125-ae47-1d89-f1d0-0ab9eea9f1f3",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "2448f32d-6f34-e56f-3704-36cbe25c655d",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "f3170e7e-5dac-4594-7137-fc2e67cdb047",
+    "Name": "Wei\u00DFer Bohneneintopf dazu ein Paar Wiener W\u00FCrste",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "205eb259-e617-d2be-21f9-73eaaf27f1ad",
+    "Name": "Burger mit Haferflockenpatty und rote Beete Chutney",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285281280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "077b6375-893f-7e7d-5e68-03b4d09943c7",
+    "Name": "Hausgemachte Frikadelle mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276036,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "aa9074ab-4c0d-b944-d990-892928642789",
+    "Name": "Asiatische Gem\u00FCsepfanne mit Tofu und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "dcc5fef4-f4c6-1f65-3145-560042327ef8",
+    "Name": "S\u00FC\u00DFkartoffelgratin mit roter Beete, Oliven und \u00C4pfeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65600,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "067b4e5f-509a-45af-0edd-bdfdc8ae470b",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Tajine Bites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218103808,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "dfb2671c-0a77-8917-31d6-0283e6439f09",
+    "Name": "Nasi Goreng Ei | Erbsen | Karotten | Ingwer | Reis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16957476,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "6eb83a54-1e6d-b458-8d0f-8023408c5eea",
+    "Name": "Pasta Pesto alla Genovese Basilikum | Kartoffeln | Kirschtomaten | Hartk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8b0e8769-65ed-3ccb-2206-2fe61c5f6c0f",
+    "Name": "Currywurst Schwein | Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140525824,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "658e8247-b59b-b802-e90b-dde0fbfa6d78",
+    "Name": "Gnocchi mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "c00b0e1c-f11c-1627-2d4e-553d7e9a4239",
+    "Name": "Apfelstrudel mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
