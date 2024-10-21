@@ -37051,5 +37051,32 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "22b7fc15-5e1c-06bc-7c69-6ed153d7625a",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "fa926b39-d59d-5a40-7c60-5ee3e53eb4a5",
+    "Name": "Hausgemachte Pasta mit Zucchini-Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "53bdc4ea-1264-b0d4-226d-3a4bd5ef074c",
+    "Name": "Forelle \u0027M\u00FCllerin Art\u0027 mit Petersilienbutter",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134218056,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.00
   }
 ]
