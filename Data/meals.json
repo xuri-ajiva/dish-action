@@ -37078,5 +37078,95 @@
     "AllergensAndAdditives": 134218056,
     "Location": "Otto-Berndt-Halle",
     "Price": 5.00
+  },
+  {
+    "Hash": "fd42a2f0-985d-82ff-5809-fd4aa398d8d8",
+    "Name": "Pizza Marinara Tomatensauce f\u00FCr Pizza Mensa NEU 2021",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331649,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "124f7304-a8a3-f75c-6195-5076e1b7c702",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini Tomatensauce f\u00FCr Pizza Mensa NEU 2021",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331649,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "429ea73b-a02e-69ad-98fe-3d7581356bb1",
+    "Name": "Gr\u00FCne Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "fe54e548-8d0e-2259-88e3-9e72fa2c6bc9",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "37f2728f-3b60-f1f8-986b-d1556c5c41e2",
+    "Name": "Schweine Kammbraten mit J\u00E4gersauce aus frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 114688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "4f0354dd-bbf5-58f7-db1d-ee883afaa9ca",
+    "Name": "Karotten Inwersuppe mit Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "83e3171c-81f1-235b-35c4-0b1b3ad31d44",
+    "Name": "Blumenkohl mit Sc.Hollandaise",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
+  },
+  {
+    "Hash": "e4222e94-b989-8340-fc9f-a36ae5a87e46",
+    "Name": "Pikante Wurst Reispfanne mit Chorizio, Mais, Kidneybohnen und Paprika",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212416,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "1ce46a9f-9bd4-8948-836c-e49dc74ec171",
+    "Name": "Tagessuppe: Gem\u00FCse Currycreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0a6be0e5-566e-1487-41d6-a70126ed8e4c",
+    "Name": "Schweine Kammbraten mit Bierjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134217728,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
   }
 ]
