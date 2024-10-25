@@ -37168,5 +37168,59 @@
     "AllergensAndAdditives": 134217728,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.00
+  },
+  {
+    "Hash": "cbcf4bd5-94ee-3f64-db70-aa609eb622ba",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331649,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "574814a4-761c-0ee7-2f73-1458783d1eeb",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331649,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b8fec43d-c5e0-a0b4-ba61-ed517a9d50f6",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331649,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "5441493d-4173-b0a6-0c79-68bb5705929f",
+    "Name": "Milde Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e1743d76-1444-b6f1-00da-094d29150700",
+    "Name": "Mischgem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2b721d34-d581-1261-dd0c-272a468fabbd",
+    "Name": "Gem\u00FCseschnitte",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331905,
+    "Location": "Mensa",
+    "Price": 2.50
   }
 ]
