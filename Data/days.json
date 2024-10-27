@@ -42170,5 +42170,500 @@
       "8b806f1d-25cd-637d-8bde-a1937dca4d7d",
       "acf314cf-10c1-1293-8a48-09f554177c47"
     ]
+  },
+  {
+    "Date": "2024-10-28",
+    "DayOfWeak": 1,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
+    "Meals": [
+      "d4c54b45-dbe5-563d-f2e5-cb955c7d9201",
+      "cbcf4bd5-94ee-3f64-db70-aa609eb622ba",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "e2adbc2b-47d0-8f2b-395a-39547904cf6a",
+      "16d910bf-c97d-eabf-b081-6156c2afdec9",
+      "d8f917b2-7b6b-fbd7-fd9a-4920d0949681",
+      "0812a927-8f71-e387-2a88-62190b50b4e9",
+      "15d415fd-4faf-d42c-6a46-494c0abce7f1",
+      "0e7af620-36ff-2c6d-34de-74def07fa96d",
+      "6c156011-8f78-928d-b51a-4f67fdcb9b52",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "ef2558cc-04d7-2d08-50b4-3984e0d5eeb0",
+      "94bb5d8e-8631-5cb2-47b6-49d83bb183ed",
+      "1d79519e-dada-931c-b569-d12b5a05b8bf",
+      "a4b788ed-da95-f714-7fd5-7b87e7c8cbbf",
+      "2b5b8093-0261-a80d-2a75-2355402f9c31",
+      "2b9bb66b-da18-07a0-0bb8-0d82839f2fe9",
+      "c98adf57-991a-eeba-8067-941f804bc4d3",
+      "996e6281-7d94-ed14-62f7-bf0549503f95",
+      "a704f651-15fb-d56d-87e6-b69732368f44"
+    ]
+  },
+  {
+    "Date": "2024-10-29",
+    "DayOfWeak": 2,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
+    "Meals": [
+      "47acb5f2-b8d6-586d-ee9e-e241fa787998",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "e2adbc2b-47d0-8f2b-395a-39547904cf6a",
+      "b6d3e84a-c6b5-bc5d-8b9d-760dc872ce75",
+      "ef57a3e7-26b3-043c-6f5b-2e22b3e3853e",
+      "efd6e5be-7662-f661-ac3e-8073a06d3f64",
+      "113d7f82-18a5-f02f-9720-15310bee94ec",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "ef2558cc-04d7-2d08-50b4-3984e0d5eeb0",
+      "94bb5d8e-8631-5cb2-47b6-49d83bb183ed",
+      "82589093-a145-f4f1-e8fe-8e559b7ca58d",
+      "9c1a6658-1b5d-1f2c-98d9-10daae9a196e",
+      "67abd675-e7ed-31d6-b0b4-88ee4b446522",
+      "13815f89-3a22-fb5d-9302-6fafc0c6db28",
+      "c98adf57-991a-eeba-8067-941f804bc4d3",
+      "44cf5263-a74b-a950-e372-66093fc0fbd7",
+      "b264f83a-ac34-2961-6adf-a0bcff6ca5ed"
+    ]
+  },
+  {
+    "Date": "2024-10-30",
+    "DayOfWeak": 3,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
+    "Meals": [
+      "26fbe484-f3ba-3d54-5726-612ab474baad",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "e2adbc2b-47d0-8f2b-395a-39547904cf6a",
+      "1416236a-a34a-fa1f-8354-4d67f5f548ed",
+      "a1bccd3d-675b-7a45-532f-f5cfc94efc1e",
+      "4f4db8e9-0738-972f-693d-4c41dff9875d",
+      "113d7f82-18a5-f02f-9720-15310bee94ec",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "e4f38c9d-7581-9062-1a90-61b502cdcfaa",
+      "94bb5d8e-8631-5cb2-47b6-49d83bb183ed",
+      "82589093-a145-f4f1-e8fe-8e559b7ca58d",
+      "9c1a6658-1b5d-1f2c-98d9-10daae9a196e",
+      "67abd675-e7ed-31d6-b0b4-88ee4b446522",
+      "13815f89-3a22-fb5d-9302-6fafc0c6db28",
+      "c98adf57-991a-eeba-8067-941f804bc4d3",
+      "44cf5263-a74b-a950-e372-66093fc0fbd7",
+      "b264f83a-ac34-2961-6adf-a0bcff6ca5ed"
+    ]
+  },
+  {
+    "Date": "2024-10-31",
+    "DayOfWeak": 4,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
+    "Meals": [
+      "72c086e4-859e-c569-2d1b-804e0c1948d3",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "e2adbc2b-47d0-8f2b-395a-39547904cf6a",
+      "7a77d4bc-6e80-00ad-65dd-3d2e46246ee8",
+      "bde2409b-4d3b-6d88-8af5-0e1d29b171f7",
+      "113d7f82-18a5-f02f-9720-15310bee94ec",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "e4f38c9d-7581-9062-1a90-61b502cdcfaa",
+      "94bb5d8e-8631-5cb2-47b6-49d83bb183ed",
+      "82589093-a145-f4f1-e8fe-8e559b7ca58d",
+      "9c1a6658-1b5d-1f2c-98d9-10daae9a196e",
+      "67abd675-e7ed-31d6-b0b4-88ee4b446522",
+      "13815f89-3a22-fb5d-9302-6fafc0c6db28",
+      "c98adf57-991a-eeba-8067-941f804bc4d3",
+      "44cf5263-a74b-a950-e372-66093fc0fbd7",
+      "b264f83a-ac34-2961-6adf-a0bcff6ca5ed"
+    ]
+  },
+  {
+    "Date": "2024-11-01",
+    "DayOfWeak": 5,
+    "Source": "lichtwiese",
+    "SourceName": "Lichtwiese",
+    "Meals": [
+      "205d76c0-5e26-fa43-fa0e-24e5e983659b",
+      "f730d639-3e22-b33c-9838-f25c601fa714",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "e2adbc2b-47d0-8f2b-395a-39547904cf6a",
+      "113d7f82-18a5-f02f-9720-15310bee94ec",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "ae4525d9-4659-0e9c-70f9-cb9082213d65",
+      "94bb5d8e-8631-5cb2-47b6-49d83bb183ed",
+      "82589093-a145-f4f1-e8fe-8e559b7ca58d",
+      "9c1a6658-1b5d-1f2c-98d9-10daae9a196e",
+      "67abd675-e7ed-31d6-b0b4-88ee4b446522",
+      "13815f89-3a22-fb5d-9302-6fafc0c6db28",
+      "c98adf57-991a-eeba-8067-941f804bc4d3",
+      "44cf5263-a74b-a950-e372-66093fc0fbd7",
+      "b264f83a-ac34-2961-6adf-a0bcff6ca5ed"
+    ]
+  },
+  {
+    "Date": "2024-10-28",
+    "DayOfWeak": 1,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
+    "Meals": [
+      "6c521158-539c-d97c-4e60-49834a07269b",
+      "2e773ffd-ab16-8636-8b04-aa8a8ca2517e",
+      "1a8bc84c-ee96-4ce3-bc65-2ac4a761e3c2",
+      "02d0c6f1-0894-b6a1-c5b0-627c10c5f2d6",
+      "f1ede6c9-fc4f-455f-d1c8-e10434fe22c7",
+      "77ab36ee-c220-8644-83b5-863232d83450",
+      "36bfb002-1f98-20ad-dd89-ec015818f8d2",
+      "6248bd6a-acca-6b6d-c6c3-115dfe09d04a",
+      "9334a12b-2e6d-90dd-d7fb-8b55817ddd60",
+      "75a167e8-adca-effb-6ce9-2f2e53cad1b1",
+      "aa9a0b91-10ef-25e9-f6b7-437faa249374",
+      "8cef45e6-45a0-deed-35fe-517dfde32fea",
+      "7628bddd-8d31-8a12-d9a6-62e291d1496f",
+      "71ca3e5b-08fd-6f9d-aca2-38c51aa807fd",
+      "71a57a02-d2e7-b6ec-3032-e9e08b20514d",
+      "38528c81-2bbf-fd08-b6b7-de674b7d40e1"
+    ]
+  },
+  {
+    "Date": "2024-10-29",
+    "DayOfWeak": 2,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
+    "Meals": [
+      "2fa3fe7a-46bb-1f3a-b0c1-24b709a9da59",
+      "2e773ffd-ab16-8636-8b04-aa8a8ca2517e",
+      "02d0c6f1-0894-b6a1-c5b0-627c10c5f2d6",
+      "1a8bc84c-ee96-4ce3-bc65-2ac4a761e3c2",
+      "6305523e-b080-44f3-84fa-f22bc3cd3abb",
+      "77ab36ee-c220-8644-83b5-863232d83450",
+      "36bfb002-1f98-20ad-dd89-ec015818f8d2",
+      "6248bd6a-acca-6b6d-c6c3-115dfe09d04a",
+      "dce6d90e-896f-09f8-b430-509499ec4f41",
+      "a1ec2913-882f-451a-8e5f-2e0ce4ec60e5",
+      "9334a12b-2e6d-90dd-d7fb-8b55817ddd60",
+      "75a167e8-adca-effb-6ce9-2f2e53cad1b1",
+      "aa9a0b91-10ef-25e9-f6b7-437faa249374",
+      "8cef45e6-45a0-deed-35fe-517dfde32fea",
+      "7628bddd-8d31-8a12-d9a6-62e291d1496f",
+      "71ca3e5b-08fd-6f9d-aca2-38c51aa807fd",
+      "71a57a02-d2e7-b6ec-3032-e9e08b20514d",
+      "38528c81-2bbf-fd08-b6b7-de674b7d40e1"
+    ]
+  },
+  {
+    "Date": "2024-10-30",
+    "DayOfWeak": 3,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
+    "Meals": [
+      "2620d392-53fd-22f9-6ce1-0941364be1a0",
+      "2e773ffd-ab16-8636-8b04-aa8a8ca2517e",
+      "1a8bc84c-ee96-4ce3-bc65-2ac4a761e3c2",
+      "02d0c6f1-0894-b6a1-c5b0-627c10c5f2d6",
+      "17c90a52-4429-44ca-7d82-fc7cba6a34dd",
+      "8b3d8a3a-a0dd-9944-6577-674f8a288b44",
+      "77ab36ee-c220-8644-83b5-863232d83450",
+      "36bfb002-1f98-20ad-dd89-ec015818f8d2",
+      "6248bd6a-acca-6b6d-c6c3-115dfe09d04a",
+      "e9d662f3-c646-edb0-7b17-b9332d3a9b2e",
+      "9334a12b-2e6d-90dd-d7fb-8b55817ddd60",
+      "75a167e8-adca-effb-6ce9-2f2e53cad1b1",
+      "aa9a0b91-10ef-25e9-f6b7-437faa249374",
+      "8cef45e6-45a0-deed-35fe-517dfde32fea",
+      "7628bddd-8d31-8a12-d9a6-62e291d1496f",
+      "71ca3e5b-08fd-6f9d-aca2-38c51aa807fd",
+      "22bb222f-1bd4-f0d9-f88c-60dd732512f6",
+      "38528c81-2bbf-fd08-b6b7-de674b7d40e1"
+    ]
+  },
+  {
+    "Date": "2024-10-31",
+    "DayOfWeak": 4,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
+    "Meals": [
+      "6d149626-4dad-cfaf-d1e8-58ad5642daa2",
+      "2e773ffd-ab16-8636-8b04-aa8a8ca2517e",
+      "02d0c6f1-0894-b6a1-c5b0-627c10c5f2d6",
+      "1a8bc84c-ee96-4ce3-bc65-2ac4a761e3c2",
+      "f18cb7e6-6158-b562-e1f9-d44b54913b3d",
+      "77ab36ee-c220-8644-83b5-863232d83450",
+      "36bfb002-1f98-20ad-dd89-ec015818f8d2",
+      "6248bd6a-acca-6b6d-c6c3-115dfe09d04a",
+      "1d64b23c-5d2a-7144-aa8b-fecb5b1c5881",
+      "75a167e8-adca-effb-6ce9-2f2e53cad1b1",
+      "aa9a0b91-10ef-25e9-f6b7-437faa249374",
+      "8cef45e6-45a0-deed-35fe-517dfde32fea",
+      "9334a12b-2e6d-90dd-d7fb-8b55817ddd60",
+      "7628bddd-8d31-8a12-d9a6-62e291d1496f",
+      "71ca3e5b-08fd-6f9d-aca2-38c51aa807fd",
+      "22bb222f-1bd4-f0d9-f88c-60dd732512f6",
+      "38528c81-2bbf-fd08-b6b7-de674b7d40e1"
+    ]
+  },
+  {
+    "Date": "2024-11-01",
+    "DayOfWeak": 5,
+    "Source": "stadtmitte",
+    "SourceName": "Stadtmitte",
+    "Meals": [
+      "798dbe1c-d319-4cd7-f8af-72d0eb4b06db",
+      "2e830080-3f68-c73e-5178-65bf0914d728",
+      "02d0c6f1-0894-b6a1-c5b0-627c10c5f2d6",
+      "1a8bc84c-ee96-4ce3-bc65-2ac4a761e3c2",
+      "9334a12b-2e6d-90dd-d7fb-8b55817ddd60",
+      "75a167e8-adca-effb-6ce9-2f2e53cad1b1",
+      "aa9a0b91-10ef-25e9-f6b7-437faa249374",
+      "8cef45e6-45a0-deed-35fe-517dfde32fea",
+      "7628bddd-8d31-8a12-d9a6-62e291d1496f",
+      "71ca3e5b-08fd-6f9d-aca2-38c51aa807fd",
+      "061b4893-a17b-8e02-e8e0-6218f557aef9",
+      "38528c81-2bbf-fd08-b6b7-de674b7d40e1",
+      "c9f46fd9-cd23-26de-6310-9f09d6e5aa04"
+    ]
+  },
+  {
+    "Date": "2024-10-28",
+    "DayOfWeak": 1,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "1031d9d3-4750-4768-1d39-a93a3b861c87",
+      "23a4a716-b8ba-1dbe-b608-2a4d1e857c82",
+      "17e8db91-cb34-6a97-63f1-a355c9a1e8ea",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "85e76539-b651-2883-4655-d966169e3bd3",
+      "20a02bc8-589f-8d4f-de56-a3da2012411c",
+      "91487e78-2693-75f7-1bd9-1b2b2e6fc3b4"
+    ]
+  },
+  {
+    "Date": "2024-10-29",
+    "DayOfWeak": 2,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "1031d9d3-4750-4768-1d39-a93a3b861c87",
+      "23a4a716-b8ba-1dbe-b608-2a4d1e857c82",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "17e8db91-cb34-6a97-63f1-a355c9a1e8ea",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "85e76539-b651-2883-4655-d966169e3bd3",
+      "20a02bc8-589f-8d4f-de56-a3da2012411c",
+      "91487e78-2693-75f7-1bd9-1b2b2e6fc3b4"
+    ]
+  },
+  {
+    "Date": "2024-10-30",
+    "DayOfWeak": 3,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "1031d9d3-4750-4768-1d39-a93a3b861c87",
+      "23a4a716-b8ba-1dbe-b608-2a4d1e857c82",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "17e8db91-cb34-6a97-63f1-a355c9a1e8ea",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "85e76539-b651-2883-4655-d966169e3bd3",
+      "20a02bc8-589f-8d4f-de56-a3da2012411c",
+      "91487e78-2693-75f7-1bd9-1b2b2e6fc3b4"
+    ]
+  },
+  {
+    "Date": "2024-10-31",
+    "DayOfWeak": 4,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "1031d9d3-4750-4768-1d39-a93a3b861c87",
+      "23a4a716-b8ba-1dbe-b608-2a4d1e857c82",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "17e8db91-cb34-6a97-63f1-a355c9a1e8ea",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "85e76539-b651-2883-4655-d966169e3bd3",
+      "20a02bc8-589f-8d4f-de56-a3da2012411c",
+      "91487e78-2693-75f7-1bd9-1b2b2e6fc3b4"
+    ]
+  },
+  {
+    "Date": "2024-11-01",
+    "DayOfWeak": 5,
+    "Source": "schoeffers",
+    "SourceName": "Sch\u00F6ffers",
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "1031d9d3-4750-4768-1d39-a93a3b861c87",
+      "23a4a716-b8ba-1dbe-b608-2a4d1e857c82",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "17e8db91-cb34-6a97-63f1-a355c9a1e8ea",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "85e76539-b651-2883-4655-d966169e3bd3",
+      "20a02bc8-589f-8d4f-de56-a3da2012411c",
+      "91487e78-2693-75f7-1bd9-1b2b2e6fc3b4"
+    ]
+  },
+  {
+    "Date": "2024-10-28",
+    "DayOfWeak": 1,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
+    "Meals": [
+      "d4c54b45-dbe5-563d-f2e5-cb955c7d9201",
+      "16d910bf-c97d-eabf-b081-6156c2afdec9",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "ef2558cc-04d7-2d08-50b4-3984e0d5eeb0"
+    ]
+  },
+  {
+    "Date": "2024-10-29",
+    "DayOfWeak": 2,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
+    "Meals": [
+      "47acb5f2-b8d6-586d-ee9e-e241fa787998",
+      "b6d3e84a-c6b5-bc5d-8b9d-760dc872ce75",
+      "ef57a3e7-26b3-043c-6f5b-2e22b3e3853e",
+      "efd6e5be-7662-f661-ac3e-8073a06d3f64",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "ef2558cc-04d7-2d08-50b4-3984e0d5eeb0"
+    ]
+  },
+  {
+    "Date": "2024-10-30",
+    "DayOfWeak": 3,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
+    "Meals": [
+      "26fbe484-f3ba-3d54-5726-612ab474baad",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "1416236a-a34a-fa1f-8354-4d67f5f548ed",
+      "4f4db8e9-0738-972f-693d-4c41dff9875d",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "e4f38c9d-7581-9062-1a90-61b502cdcfaa"
+    ]
+  },
+  {
+    "Date": "2024-10-31",
+    "DayOfWeak": 4,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
+    "Meals": [
+      "72c086e4-859e-c569-2d1b-804e0c1948d3",
+      "5e8c27ba-b99a-13a6-5f52-38f5211a5059",
+      "18611237-6f64-eb9a-986f-92eae5fa460e",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "e4f38c9d-7581-9062-1a90-61b502cdcfaa"
+    ]
+  },
+  {
+    "Date": "2024-11-01",
+    "DayOfWeak": 5,
+    "Source": "dieburg",
+    "SourceName": "Dieburg",
+    "Meals": [
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1"
+    ]
+  },
+  {
+    "Date": "2024-10-28",
+    "DayOfWeak": 1,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
+    "Meals": [
+      "d4c54b45-dbe5-563d-f2e5-cb955c7d9201",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "16d910bf-c97d-eabf-b081-6156c2afdec9",
+      "e400b637-e6e5-ab7d-848d-bebca4b554df",
+      "a5c26750-a0cb-1d91-fde4-61060a89d78c",
+      "badf52b7-afd5-2f4e-4eb7-eb272674b38a",
+      "4edebcb2-7e96-0d00-e4bd-9b1c0536209e",
+      "37a32475-20d2-d49e-cfc1-003abbeefc76",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "ef2558cc-04d7-2d08-50b4-3984e0d5eeb0"
+    ]
+  },
+  {
+    "Date": "2024-10-29",
+    "DayOfWeak": 2,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
+    "Meals": [
+      "47acb5f2-b8d6-586d-ee9e-e241fa787998",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "b6d3e84a-c6b5-bc5d-8b9d-760dc872ce75",
+      "ef57a3e7-26b3-043c-6f5b-2e22b3e3853e",
+      "efd6e5be-7662-f661-ac3e-8073a06d3f64",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "ef2558cc-04d7-2d08-50b4-3984e0d5eeb0"
+    ]
+  },
+  {
+    "Date": "2024-10-30",
+    "DayOfWeak": 3,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
+    "Meals": [
+      "26fbe484-f3ba-3d54-5726-612ab474baad",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "1416236a-a34a-fa1f-8354-4d67f5f548ed",
+      "a1bccd3d-675b-7a45-532f-f5cfc94efc1e",
+      "4f4db8e9-0738-972f-693d-4c41dff9875d",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "e4f38c9d-7581-9062-1a90-61b502cdcfaa"
+    ]
+  },
+  {
+    "Date": "2024-10-31",
+    "DayOfWeak": 4,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
+    "Meals": [
+      "72c086e4-859e-c569-2d1b-804e0c1948d3",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "7a77d4bc-6e80-00ad-65dd-3d2e46246ee8",
+      "bde2409b-4d3b-6d88-8af5-0e1d29b171f7",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1",
+      "e4f38c9d-7581-9062-1a90-61b502cdcfaa"
+    ]
+  },
+  {
+    "Date": "2024-11-01",
+    "DayOfWeak": 5,
+    "Source": "schoefferstrasse",
+    "SourceName": "Sch\u00F6fferstra\u00DFe",
+    "Meals": [
+      "205d76c0-5e26-fa43-fa0e-24e5e983659b",
+      "f730d639-3e22-b33c-9838-f25c601fa714",
+      "08108744-4d80-4109-bd19-92329a586e15",
+      "b8906cb1-385b-3393-0633-999598b2e49f",
+      "ae4525d9-4659-0e9c-70f9-cb9082213d65",
+      "d1631978-ccf5-ca64-0954-ab376b40c4d1"
+    ]
   }
 ]
