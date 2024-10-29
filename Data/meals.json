@@ -37546,5 +37546,14 @@
     "AllergensAndAdditives": 16777540,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "134ad64d-8a62-df16-093e-39f5fde800fe",
+    "Name": "Paprikacreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
