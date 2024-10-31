@@ -37555,5 +37555,104 @@
     "AllergensAndAdditives": 65,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "8cab37e8-d253-4d0f-de7c-fb4a0f8b4e42",
+    "Name": "Broccoli Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b1f5b9b0-5f7d-8ad6-67b9-a389cf984140",
+    "Name": "Brokkoli-Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "c5cec431-aefc-25d7-f02c-2850d840039a",
+    "Name": "Rosenkohl mit Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98304,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.40
+  },
+  {
+    "Hash": "fab50d2f-a333-fff8-1b72-d1ef1d42480b",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "f71bf213-5b52-c441-f168-3ba5a41902f7",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "587d36c9-d4e1-ed46-f934-233a1ff62a66",
+    "Name": "Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "1c64c55d-b5bb-7af6-0281-4c3d9825bd79",
+    "Name": "Grie\u00DFbrei mit Heidelbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "5e83d9f1-c77a-eb2a-613a-cb44df60da04",
+    "Name": "Sauerkischquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "00c6292b-2f59-3e47-3730-e9a1282084c0",
+    "Name": "Brokkolicremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "78c20092-a475-d9c7-83a1-8a1a9b36289f",
+    "Name": "Haselnuss Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1073741888,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "81cdadf3-8dcb-1d55-5598-05968c9f5a61",
+    "Name": "Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248576,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
