@@ -37654,5 +37654,41 @@
     "AllergensAndAdditives": 84248576,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "a5960219-30a9-c78e-a972-5990214af4f4",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se Bratling mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430725,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "c663a5be-3116-7ec8-0747-225e899a0df8",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen und Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "9d0bae51-767e-81f5-aedc-41c631e63551",
+    "Name": "Hausgemachte Pasta mit einer Sauce Arrabiata",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "02651f4a-ecc8-8241-d6b7-fc02280c979c",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Edamame \u0026 Herbs",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
