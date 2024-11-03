@@ -37690,5 +37690,284 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "7ef1869a-3316-4c3f-1368-ef279d72e664",
+    "Name": "Gem\u00FCsecurry in scharfer Senfsauce mit Bulgur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957984,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "55a660fc-8be1-0fc3-1c05-10762e83e874",
+    "Name": "Wildbratwurst mit Bratenjus , dazu Sauerkraut und hausgemachtes Kartoffelp\u00FCree",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2378304,
+    "Location": "Mensa",
+    "Price": 5.60
+  },
+  {
+    "Hash": "e712a4b3-40a3-05dd-81e3-bef880233f6d",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "bdc424cf-7c51-985b-9af8-25a6741d5b92",
+    "Name": "Quinoa-Bratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "a9c56ccb-f38d-d27b-3eb9-c0f411e295a0",
+    "Name": "Gem\u00FCse Lasagne mit Brokkoli, Kohlrabi und Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041732,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "45301c05-23a8-f4e6-e30a-a454c7708a02",
+    "Name": "Rote-Beete Burger mit Salat und einer Soja-Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 423644704,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "10b68b4d-eed7-e3f8-f770-e1d9b1c0d735",
+    "Name": "Hirschgulasch mit Waldpilzen  und Rotkraut dazu Kroketten",
+    "Image": "2792367d-8ee6-7c1b-143a-086dd7ea5932",
+    "Category": 9,
+    "AllergensAndAdditives": 17106944,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "22a3bb4d-1782-7de0-50cc-a937bc4decd8",
+    "Name": "Jackfruit Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "f05354f0-a2ed-ec66-6faf-57a3809a5684",
+    "Name": "Currywurst aus Jackfruit-Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971552,
+    "Location": "Grill",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a6e74936-7f17-aa30-4859-b7775b337bf2",
+    "Name": "Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2097152,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ba039f26-5c02-e077-c752-558d6aab73fd",
+    "Name": "K\u00E4sewurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195520,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "75a06584-81b2-6490-3492-3c8f2b8f028c",
+    "Name": "Currywurst aus Rinds- oder Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Grill",
+    "Price": 3.90
+  },
+  {
+    "Hash": "03e50dc0-6467-0a3f-fa49-4d50d546b33e",
+    "Name": "Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195456,
+    "Location": "Grill",
+    "Price": 3.60
+  },
+  {
+    "Hash": "15d9349d-0c32-6028-ccd2-37499f3ef5a4",
+    "Name": "Orientalische Gem\u00FCsepfanne mit Zartweizen und Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9d562001-4e3c-b943-44d5-2a7d82e5d145",
+    "Name": "Fischst\u00E4bchen mit Sauce tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "44253e87-7dc8-3089-906b-781d5597a453",
+    "Name": "Gem\u00FCsecurry in scharfer Senfsauce mit Bulgur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957984,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "2cd4e9a4-c3f3-bfe9-02d6-7774a849eaf0",
+    "Name": "Wildbratwurst mit Bratenjus , dazu Sauerkraut und hausgemachtes Kartoffelp\u00FCree",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2378304,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.60
+  },
+  {
+    "Hash": "ce049e14-de4e-5597-ae2d-b3cdb2d4ab98",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "a171f0b4-885c-e816-cbf5-4ae186f207de",
+    "Name": "Quinoa-Bratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "bcf62a82-0e43-ed98-cb8a-a36534d28204",
+    "Name": "Gem\u00FCse Lasagne mit Brokkoli, Kohlrabi und Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041732,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "32fa2930-6fdc-8efb-3c89-974de899af6d",
+    "Name": "Rote-Beete Burger mit Salat und einer Soja-Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 423644704,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "abab768c-64f7-e5a2-c857-bc03453baf00",
+    "Name": "Hirschgulasch mit Waldpilzen  und Rotkraut dazu Kroketten",
+    "Image": "2792367d-8ee6-7c1b-143a-086dd7ea5932",
+    "Category": 9,
+    "AllergensAndAdditives": 17106944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "bf4685b9-7bae-fd8c-3ebe-62673ab3c6be",
+    "Name": "Orientalische Gem\u00FCsepfanne mit Zartweizen und Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f6178a0a-f701-f53b-da11-162cadc73f00",
+    "Name": "Fischst\u00E4bchen mit Sauce tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ec26ca3d-0565-c399-da55-4a0acd1bff2d",
+    "Name": "Nasi Goreng Reis | Tempeh | Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "39031788-a8a2-b466-714e-a15cb1cb3e33",
+    "Name": "Dessert Grie\u00DFbrei Heidelbeerkompott | Sojadrink | Zimt",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "18b84034-db35-61bb-36d7-fdcde66c1c1d",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Ginger \u0026amp; Beetroot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "00321535-a844-558c-10e9-5017d6eb463f",
+    "Name": "Wedges",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "00aae4e6-d5b6-67ff-e8b7-7b41ce1c9966",
+    "Name": "Bulgur-Gem\u00FCse Pilaw Kichererbsen | Paprika | Tomaten | Sellerie",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "874342c5-ba96-2d0c-485e-e6afff111862",
+    "Name": "Dessert Pudding Bananen | Amarettini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1011a82d-2238-cd8f-ce27-8b04e42f48a4",
+    "Name": "WOK Pad Thai mit Gem\u00FCse und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.00
   }
 ]
