@@ -37969,5 +37969,86 @@
     "AllergensAndAdditives": 16810032,
     "Location": "Mensa",
     "Price": 3.00
+  },
+  {
+    "Hash": "f84834d9-a755-6642-ce43-e4c6117fae9c",
+    "Name": "hausgemachtes Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "4f11d344-4ee5-dc45-c1f3-d7a9ea6dd241",
+    "Name": "K\u00E4se-, Spinat- und Gem\u00FCsekn\u00F6del mit einer Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "f1cd2ff7-fdd9-c430-3832-d54cf0f17bd9",
+    "Name": "S\u00FC\u00DF Kartoffelcreme mit K\u00FCrbiskernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "99c3be7e-f567-6799-a673-136eb2872c36",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel Ginger \u0026 Beetroot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "a7786bb8-148e-b6f3-d78e-cb6a5e775707",
+    "Name": "Pasta alla Briciole Knoblauch | Petersilie | Zitrone | Chili | Hartk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "ae96f2c2-768d-281e-878d-42c585de59d9",
+    "Name": "Grie\u00DFbrei mit Sauerkirschsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "ea65a2e6-e346-4c5d-f82e-aa1520585e54",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se-Bratling in einer Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430724,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "7b46cef5-04be-d94f-f3f4-30f55138a709",
+    "Name": "Karotten-Ingwersuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "6907cf35-34df-41fb-8470-907e4f509d7a",
+    "Name": "Erbseneintopf mit einem paar Wiener W\u00FCrtschen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 4.70
   }
 ]
