@@ -38050,5 +38050,59 @@
     "AllergensAndAdditives": 2196224,
     "Location": "Mensa",
     "Price": 4.70
+  },
+  {
+    "Hash": "74a983fd-7272-9626-b2e6-12f4749b36ca",
+    "Name": "Lauchgem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995265,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "675b1c17-db55-5de1-65b2-90b3a6847c46",
+    "Name": "Currybratwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2097152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "40d1c51b-155d-da57-5312-95853cd433ed",
+    "Name": "Karottencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "cc51c913-b019-b58b-ba34-15de85b67f5b",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "d668b69b-6c23-e34b-e5e9-082e33c170b2",
+    "Name": "Gem\u00FCsekn\u00F6del mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e12484a3-863c-e38e-4e69-52d83c332693",
+    "Name": "Gem\u00FCse Lasagne mit Brokkoli, Bohnen und Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041732,
+    "Location": "Mensa",
+    "Price": 2.70
   }
 ]
