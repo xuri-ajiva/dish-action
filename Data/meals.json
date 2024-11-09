@@ -38104,5 +38104,185 @@
     "AllergensAndAdditives": 17041732,
     "Location": "Mensa",
     "Price": 2.70
+  },
+  {
+    "Hash": "bb0c80d8-9849-434a-e505-2cc75e315c2d",
+    "Name": "Quark-Nougatcreme mit Bananen im Glas mit Sauerkirschspiegel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1073741920,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "7c1333f6-f8c8-d340-881a-f077e6029fb5",
+    "Name": "Gnocchi mit Waldpilzen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "fb98ae43-3d0b-632a-34fc-149771d9fee6",
+    "Name": "Wei\u00DFkohlcurry mit Kichererbsen und roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "928217a0-1dc0-8bea-9a16-e1732620cdea",
+    "Name": "Mexikanischer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d1d2ea48-5919-8364-8d0c-d962a7aec77a",
+    "Name": "Sojagyros mit Tsatsiki dazu Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777312,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "61c21ef4-c8e6-cd02-bd06-2f4d6bb610e7",
+    "Name": "Mexikanischer Bohneneintopf mit Feuerwurst",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 98560,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "f25f0dfc-902e-ac5c-ec52-878b9954323b",
+    "Name": "Milchreis mit Heidelbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "b9633635-e424-bd43-7bef-074e14ba8551",
+    "Name": "Quark-Nougatcreme mit Bananen im Glas mit Sauerkirschspiegel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1073741920,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "d71be0e9-c89c-5c07-cb9a-2e2138755714",
+    "Name": "Gnocchi mit Waldpilzen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ccaf481a-320b-8daa-a211-6eea6f5ce88b",
+    "Name": "Wei\u00DFkohlcurry mit Kichererbsen und roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "67187df1-80a2-821f-2b2c-3461242a6560",
+    "Name": "Mexikanischer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "5ef291b7-df4e-b370-f150-9b8fec11c84e",
+    "Name": "Sojagyros mit Tsatsiki dazu Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777312,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "3acf0cea-c547-0f26-c1c1-f48251032641",
+    "Name": "Mexikanischer Bohneneintopf mit Feuerwurst",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 98560,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "8a88c151-034e-25df-169d-e08950d7d132",
+    "Name": "Milchreis mit Heidelbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "c7240bca-7bbc-3b18-6cf7-62abd9f61eef",
+    "Name": "Linsen-Kr\u00E4uter Dal Tomaten | Lauch | Karotten | Fenchel | Staudensellerie",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331904,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "adbabb19-5c59-2098-aad4-e499d0f30fe7",
+    "Name": "Pasta alla Puttanesca Tomaten | Oliven | Kapern | Chili",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "3a22aa5f-b98f-c3e0-e55a-6d1436480a7a",
+    "Name": "Dessert Fr\u00FCchteschnee mit Heidelbeeren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a58ec1a2-23ca-5e58-1a01-c91eca00c4a2",
+    "Name": "W\u00FCrziger Gem\u00FCsecouscous Aubergine | Karotten | Tomaten | Joghurt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810048,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "dc11093d-fd04-3bcf-5ffa-a1f35963df0f",
+    "Name": "Dessert Milchreis-Tiramisu Apfel | Milch | Sahne | Amarettini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6ecbf2ca-f09f-0b30-2650-f89b727fe3aa",
+    "Name": "Currywurst Rind | Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 140624128,
+    "Location": "Mensa",
+    "Price": 5.30
   }
 ]
