@@ -38284,5 +38284,59 @@
     "AllergensAndAdditives": 140624128,
     "Location": "Mensa",
     "Price": 5.30
+  },
+  {
+    "Hash": "c031a0fd-ef3c-015f-a10c-5ee754b985e6",
+    "Name": "Vegetarische Maultaschen mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "2c855188-6860-a4bb-c890-519a5c2354fb",
+    "Name": "Vegetarische Maultaschen mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "37e864f0-cbee-479d-801e-1b3fa2adc794",
+    "Name": "Milde Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268435776,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "6135550e-ab1f-ead6-1f48-f6e67455aa24",
+    "Name": "Pilzrahmsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0525a97f-d439-524b-ecda-5a5a672bbf9d",
+    "Name": "Gnocchi mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "cb1d9126-d8f0-9078-a506-a244cc49c78f",
+    "Name": "Currywurst Rindswurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
