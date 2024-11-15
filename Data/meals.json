@@ -38338,5 +38338,59 @@
     "AllergensAndAdditives": 6389792,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "c254e074-3c1c-07a8-a8ae-78a3241ce231",
+    "Name": "Vegane Cevapcici mit Ajvar",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "19cc737d-7e2b-a9fd-7a3a-aee6d5ef71b0",
+    "Name": "gebratenes Wei\u00DFkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "73982baa-9c5e-60a9-bb6a-835562bac760",
+    "Name": "Hausgemachte Waffeln auch mit Nuss-Nougatcr\u00E8me  (\u002B30ct)",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1090523168,
+    "Location": "Bistro",
+    "Price": 1.60
+  },
+  {
+    "Hash": "cdd47a40-f539-0b75-df5f-c36808c585fb",
+    "Name": "dazu Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d68d10e3-bb34-b062-0cab-1b024a7e113f",
+    "Name": "Hausgemachte Waffeln auch mit Nuss-Nougatcr\u00E8me  (\u002B30ct)",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1090523168,
+    "Location": "Mensa",
+    "Price": 1.60
+  },
+  {
+    "Hash": "11208aa8-2072-e967-f4b7-8dd5555d36c1",
+    "Name": "Gem\u00FCsebr\u00FChe mit Br\u00FChe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
