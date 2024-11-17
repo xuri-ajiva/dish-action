@@ -38392,5 +38392,203 @@
     "AllergensAndAdditives": 16777476,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "8ed15878-2c19-320d-bfd2-92a1532c956e",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331713,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "90f8c81e-8e27-9b7e-a2aa-3644e9a9731c",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis-Carbonara",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "03e76955-18ea-8f76-e6f6-1d72cf123326",
+    "Name": "Scharfes K\u00FCrbisgem\u00FCse mit Linsen und Rucola auf hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "279592ae-8c68-e00d-64cf-805a77c55bd3",
+    "Name": "Hausgemachte Waffeln auch mit Nuss-Nougatcr\u00E8me  (\u002B30ct)",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1090523168,
+    "Location": "Bistro - Bistro",
+    "Price": 1.60
+  },
+  {
+    "Hash": "b3f61c4b-888b-371e-5f14-ba1f77afdbe2",
+    "Name": "Reispuffer mit Rosinenratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310048,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "0687ed0e-82c7-fd53-91ed-efcaeeebc595",
+    "Name": "K\u00FCrbis-Kartoffel Eintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "afa02251-efce-6b14-16cb-9f7f3c22b232",
+    "Name": "Haselnuss-Zimt Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "cbc8c1cd-d7c8-0eb0-b65b-a31b31321f30",
+    "Name": "Sp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844804,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "7312477f-4cea-6ed7-e784-37260cb2c335",
+    "Name": "K\u00FCrbis-Gulasch mit Schupfnudeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d4a813aa-b68e-c484-7d41-97bd022b9d86",
+    "Name": "Zartweizen mit Maronen und K\u00FCrbis dazu Erbsen Guacamole",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870913,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "507b30d7-e0cc-f247-98c0-57213ed2a11d",
+    "Name": "Gebratener Seelachs mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778312,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "2d916687-2b80-129d-6ffc-36727aec6b01",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis-Carbonara",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Marktrestaurant",
+    "Price": 2.70
+  },
+  {
+    "Hash": "25ece630-6b13-3a7c-e82a-1468841b3c7f",
+    "Name": "Scharfes K\u00FCrbisgem\u00FCse mit Linsen und Rucola auf hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "641b8ef8-b4ed-72b8-c6a5-39a3a78a95c9",
+    "Name": "Reispuffer mit Rosinenratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310048,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "aaf3962e-45cd-0e51-7727-68070dace49c",
+    "Name": "Haselnuss-Zimt Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "26f11576-319a-8f5b-443b-4af5a9ba9901",
+    "Name": "Sp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844804,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "04a78b1d-5746-81bb-2f26-45227bac5eeb",
+    "Name": "K\u00FCrbis-Gulasch mit Schupfnudeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "849aa282-fd5f-7a0d-3707-4d9026606d40",
+    "Name": "Zartweizen mit Maronen und K\u00FCrbis dazu Erbsen Guacamole",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870913,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "4d788bf3-bde5-4901-83d4-4cd660d250f0",
+    "Name": "Gebratener Seelachs mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778312,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "7b935fcc-06fc-b758-2d24-8ea3bf3346ce",
+    "Name": "Criss Cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "0b580866-e878-5413-3a0f-073cb9f0393f",
+    "Name": "Dessert No-Bake-Cake Biskuit | Frischk\u00E4se | Schokolade | Erdbeeren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "0ab48dbe-42f7-eaf0-0620-52f7b671c0a7",
+    "Name": "Cheeseburger Rindfleisch | Tomate | Gurke | Criss Cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 7.60
   }
 ]
