@@ -38590,5 +38590,59 @@
     "AllergensAndAdditives": 20989508,
     "Location": "Mensa",
     "Price": 7.60
+  },
+  {
+    "Hash": "fb26e09d-c449-514b-0986-07346f66a7d3",
+    "Name": "K\u00FCrbis-Paprika-Rahmgem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "de0c54bb-1c63-678c-a227-6477f3c219eb",
+    "Name": "dazu Rosenkohl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "19bb36ec-bd37-f979-de7e-330dd1a34857",
+    "Name": "Karotten-Ingwer-Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 128,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "47ce8fd5-dd70-51f2-c295-54baae55197f",
+    "Name": "dazu Bratkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "2342da83-f042-1ac2-68e7-ec0f55e8099e",
+    "Name": "Blumenkohl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "bc302c00-78a4-dd0c-e318-b8f1baead5e2",
+    "Name": "Tofusteak mit Bulgur-Gem\u00FCse Pilaw",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777504,
+    "Location": "Mensa",
+    "Price": 3.50
   }
 ]
