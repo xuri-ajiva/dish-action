@@ -38644,5 +38644,68 @@
     "AllergensAndAdditives": 16777504,
     "Location": "Mensa",
     "Price": 3.50
+  },
+  {
+    "Hash": "278b5edc-c450-f35c-0372-7a9d60baae63",
+    "Name": "Ebly",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "11ec76e3-9032-4234-1c17-93d1e83f7ec1",
+    "Name": "K\u00FCrbis-Kartoffel Eintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8c0363ef-bc79-3ad7-1740-42c99033cf9e",
+    "Name": "S\u00FC\u00DFkartoffelcreme mit Kokos",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e0f0ee5e-6216-e8fc-3777-e1ccc6d202cf",
+    "Name": "Brokkoligem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8bfa3dc8-082e-4a1b-6580-ee5bd2b53d4f",
+    "Name": "K\u00FCrbis-Kartoffel Eintopf mit ein paar Gefl\u00FCgelwiener",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32768,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "69a44bed-4ecc-e6b5-2f5f-276f3960732e",
+    "Name": "Currywurst aus Rind mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "c882a590-89d1-91b5-af06-c974043feb64",
+    "Name": "Pudding Kokos Mandel Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 224,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
