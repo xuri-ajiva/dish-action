@@ -38707,5 +38707,248 @@
     "AllergensAndAdditives": 224,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "3ead59da-46f4-41fc-5b56-3addbe2bdcd7",
+    "Name": "Linsenpfanne mit Tomaten und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "6d75bd31-0450-f464-787c-4232230a56d9",
+    "Name": "Hausgemachte Pasta mit Tomaten-Basilikumsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a060e0d1-87b7-f461-148a-f3c4c46ca33e",
+    "Name": "Gem\u00FCseschnitte mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549697,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "84c63d84-0010-66e8-e80d-6cb23007d491",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972741,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "c543d4d6-594a-73a5-ef1a-e730dce8f408",
+    "Name": "Solero Dessert im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "6db3a35d-1789-5ac2-cb3c-877efb178f9f",
+    "Name": "Paniertes Schnitzel mit Hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "fd5b6159-a5b8-4243-8cfb-a34b8f89572d",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777477,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a9578389-b35d-89c7-8252-6f1a956cd0a7",
+    "Name": "Linseneintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2197760,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "2f67cd9a-7dda-90f0-ceb1-b64e0448d192",
+    "Name": "Kartoffel-Wirsing-Auflauf mit Karottenw\u00FCrfel und Cashewkernen mit Hirtenk\u00E4se \u00FCberbacken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 197,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "bc144eba-8e13-fea7-4470-def60a269dd6",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972741,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "12ab9596-b512-e52d-6665-54382fb9b59e",
+    "Name": "\u00C4ppler Burger N 2017",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778821,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "531aac4b-ff80-d8d1-1953-4276a75c4e4b",
+    "Name": "Linsenpfanne mit Tomaten und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "4ec8d09e-a408-390c-1361-ea92aaf199b9",
+    "Name": "Hausgemachte Pasta mit Tomaten-Basilikumsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "841212c5-5998-ee8a-fae7-00d32c65c604",
+    "Name": "Gem\u00FCseschnitte mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549697,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "6400ae7b-5f2b-cee7-d69d-fb51d5b85e33",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972741,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "bdf99670-3860-6897-5a08-06b859b928fa",
+    "Name": "Solero Dessert im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "1e5d7196-72a3-efd4-75d7-47ac27d5f33a",
+    "Name": "Paniertes Schnitzel mit Hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "c2bbaabd-0cd8-f75c-bb1d-6ad573ed42bc",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777477,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "7a6cbbcb-b905-3b97-8e91-c2888427206f",
+    "Name": "Linseneintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2197760,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c465802d-5607-d66f-ce26-c3e48be7cb2b",
+    "Name": "Kartoffel-Wirsing-Auflauf mit Karottenw\u00FCrfel und Cashewkernen mit Hirtenk\u00E4se \u00FCberbacken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 197,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "038237a4-5321-26d4-61a1-b918d3e0ba30",
+    "Name": "\u00C4ppler Burger N 2017",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778821,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "9c56019a-4c26-fe1c-a5c8-ae6487d1f706",
+    "Name": "Nasi Goreng Erdn\u00FCsse | Spitzkohl | Karotten | Erbsen | Paprika",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957488,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f633e63a-8d80-3077-c8ac-4c6e42b516a7",
+    "Name": "Pasta mit Mus von ger\u00F6stetem Paprika gelbe Paprika | Tomate | Knoblauch | Basilikum",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795648,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "cc5c3499-6cf8-0074-503e-86f4089d4445",
+    "Name": "Kichererbsen-Auberginen Pfanne Tomate | Paprika | Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "42cd47d9-08ca-d66a-9431-18e327fda057",
+    "Name": "Currywurst aus Jackfruit-Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971552,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "2c831634-f548-4616-cdd4-f8606efecb3f",
+    "Name": "Currywurst aus Rinds- oder Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "c4cccd93-3459-d6d5-2347-972b22119738",
+    "Name": "Hausgemachte Pasta mit Tomaten-Basilikumsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 2.20
   }
 ]
