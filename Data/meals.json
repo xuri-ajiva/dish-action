@@ -38950,5 +38950,14 @@
     "AllergensAndAdditives": 16777217,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "3eb8c2db-2475-7d5e-4bbd-9c18c450e788",
+    "Name": "Kartoffel - K\u00FCrbiscreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
