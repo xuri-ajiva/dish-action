@@ -38959,5 +38959,77 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "92b17c1b-6e2f-38a5-5157-7a98c90da7e8",
+    "Name": "Vanillepudding mit Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "b33fb34e-9ff5-c21a-781e-1740e3c38aa0",
+    "Name": "Kartoffel-Wirsing-Auflauf mit Karottenw\u00FCrfel und Cashewkernen mit Hirtenk\u00E4se \u00FCberbacken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4311744580,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "e464f9b0-1d2b-994f-4af3-ea970466b8ab",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "67125419-2d38-889d-628b-9855202393d4",
+    "Name": "Vanillepudding mit Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "515b072d-547e-67e1-d5ab-8573fdabd3a9",
+    "Name": "Kartoffel-Wirsing-Auflauf mit Karottenw\u00FCrfel und Cashewkernen mit Hirtenk\u00E4se \u00FCberbacken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4311744580,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "0506b366-c0d0-2953-5e1f-92c5d6fa4516",
+    "Name": "\u00C4ppler Burger Brioche, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "bd4abcc8-eea5-3caa-c538-0bd0a0b04970",
+    "Name": "Dessert Fr\u00FCchteschnee mit Himbeeren",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "63f7a642-ca79-6882-e1cd-64f4a0dd5bb4",
+    "Name": "Gem\u00FCsekn\u00F6del mit Gorgonzolasauce und Waln\u00FCssen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 2164261188,
+    "Location": "Mensa",
+    "Price": 4.90
   }
 ]
