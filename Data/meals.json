@@ -39031,5 +39031,95 @@
     "AllergensAndAdditives": 2164261188,
     "Location": "Mensa",
     "Price": 4.90
+  },
+  {
+    "Hash": "f4cb8c7a-26fd-a113-e9ad-0e4886ce0c9c",
+    "Name": "K\u00FCrbis-Gulasch mit Sp\u00E4tzel",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "37957184-cf18-a6b7-df91-9b4c6d7711cf",
+    "Name": "\u00C4ppler Burger Bun, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "67c940b6-d34a-42d3-06d2-d25f2e5fba47",
+    "Name": "Erbseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "51c6129d-66b2-e912-2cf3-048980b1ffb8",
+    "Name": "Quarkspeise mit Birnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "afd60f1c-774b-ca85-a53f-9e43274e21cc",
+    "Name": "\u00C4ppler Burger Bun, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "a83b6d11-54c1-f1ec-4b7f-4ac9dae14382",
+    "Name": "Erbsensuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d06b7e06-8793-b22d-cf4f-66fd3b85546a",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Marktrestaurant",
+    "Price": 4.40
+  },
+  {
+    "Hash": "68c09228-b57c-94a4-ca78-82d2c1792d3a",
+    "Name": "Wirsinggem\u00FCse Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "2ee6673e-50b5-7630-8bab-510374ec944f",
+    "Name": "Toskanische Nudelpfanne mit Zucchini, Sellerie, Paprika, Radicchio, Schlotten und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65857,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b4bb4546-928d-5c08-14a1-838856b824dd",
+    "Name": "Gem\u00FCseschnitte mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331905,
+    "Location": "Mensa",
+    "Price": 2.50
   }
 ]
