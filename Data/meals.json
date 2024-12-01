@@ -39121,5 +39121,203 @@
     "AllergensAndAdditives": 50331905,
     "Location": "Mensa",
     "Price": 2.50
+  },
+  {
+    "Hash": "80eff2a2-c28c-7e6d-8b7e-4b3fd6e7aa70",
+    "Name": "Hausgemachte Pasta mit Bolognese von roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "d5b64bcb-de41-98ea-0ab4-b4fd67763836",
+    "Name": "Mensa Vital Gnocchis mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "2775dafb-5005-6cb2-eee4-7d10f5d32367",
+    "Name": "Bayrisch Creme mit Erdbeersauce im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "37608a02-c79a-4062-25e6-43895a049787",
+    "Name": "WOK Asia Kokos Pfanne mit Gem\u00FCse und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "60d5dfb1-c2c5-7ed3-caae-06f3ea617b18",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uterdip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "c9bfc048-42ed-2390-b88b-80ccb152c57c",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack und Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "04a25c6d-71a6-59ab-5265-8c32d550610e",
+    "Name": "Risotto mit Zucchinischeiben",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "092192e3-9972-3659-d13c-a3d2ad4fcd68",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84264992,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "f3e0eb76-6c81-2a4b-95c6-994dd3554ff1",
+    "Name": "Nikolausteller Schweiner\u00FCcken mit Lebkuchensauce dazu Kroketten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793601,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "cf1cdad1-6d10-c416-a728-9c5b41e3c5aa",
+    "Name": "Hausgemachte Pasta mit Bolognese von roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "85978e84-4c1e-b5e6-fa14-395e1dcd2dc4",
+    "Name": "Mensa Vital Gnocchis mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "18da90f1-ac28-39e0-a0a1-38d0a384e69a",
+    "Name": "S\u00FC\u00DFe Weihnachtspizza mit Apfel und Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33620032,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ab84e558-2c1a-3762-39c0-916350eb7eaf",
+    "Name": "Bayrisch Creme mit Erdbeersauce im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "149fa488-2485-8f86-2075-5a9c54593314",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uterdip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "5d5df232-552f-aba9-c995-6122b73f3394",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack und Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8ab97322-97f9-8908-8b97-881ad6b572e1",
+    "Name": "Risotto mit Zucchinischeiben",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "87fb7ca5-24e7-0eb1-35d5-e6b187c53cd0",
+    "Name": "Pilzragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84264992,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c4060058-c528-cdcf-ae7b-71c369e9e1b5",
+    "Name": "Nikolausteller Schweiner\u00FCcken mit Lebkuchensauce dazu Kroketten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793601,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "9d303fb5-174e-b245-6869-9fec61d2464e",
+    "Name": "Gebratener Reis Pilze | Karotten | Erbsen | Sojasauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957472,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9432510c-5b42-f6c6-4f60-232fb02a70e9",
+    "Name": "Currybratwurst Jackfruit | Criss Cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 155205888,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "08efef22-8b07-cb90-a1d4-e231c208e5e1",
+    "Name": "W\u00FCrziger Gem\u00FCsecouscous Aubergine | Karotten | Tomaten | Joghurt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810048,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "0a0929d4-f9a8-e779-acc7-2ab0665f312f",
+    "Name": "K\u00FCrbisrisotto Schlotten | Hartk\u00E4se | Ingwer",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
