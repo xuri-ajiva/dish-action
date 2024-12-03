@@ -39319,5 +39319,59 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "2f826305-c568-8443-536a-31ced91cde9d",
+    "Name": "S\u00FC\u00DFe Weihnachtspizza mit Apfel und Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33620032,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "f289ed11-63b8-db40-4683-27d5d5c862a1",
+    "Name": "Weihnachtspizza Apfel \u0026amp; Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33620032,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "b9565795-edc5-38d0-4d0c-87f2bef64b85",
+    "Name": "Rotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d46713b6-440c-bf98-3520-fda4bfa68586",
+    "Name": "Brokkoli-Creme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3fc2f1f8-1ce0-c0ad-3827-2535d2c99617",
+    "Name": "Quarkspeise Fr\u00FCchte M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268452032,
+    "Location": "Marktrestaurant",
+    "Price": 1.10
+  },
+  {
+    "Hash": "ef98e9d7-2e5a-b51e-3478-f539a9e0678d",
+    "Name": "Bayrisch Creme mit Erdbeersauce im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
   }
 ]
