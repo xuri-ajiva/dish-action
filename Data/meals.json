@@ -39373,5 +39373,104 @@
     "AllergensAndAdditives": 64,
     "Location": "Marktrestaurant",
     "Price": 1.30
+  },
+  {
+    "Hash": "e79fe508-6029-2676-657c-bc92af1f476a",
+    "Name": "Gem\u00FCsefries Beilage",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "8c9e43cf-8266-c780-e3f0-ecaefd61f77b",
+    "Name": "Gnocchis mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "fe198a8f-98c1-bbfe-85f6-cf41207e7ad2",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331649,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "068c2202-0fcf-0563-973f-992cedc98986",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331713,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "bb484f55-04e8-7716-2663-533bab4a35be",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331713,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "c67091a5-76cf-9ead-3ac5-3c7a4b8f1f7e",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4345331909,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "cc050ba5-8dcb-fbb2-e470-da181ab9cc22",
+    "Name": "Pastinakencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "15195c5e-8657-18ec-abd8-fb73db56db7f",
+    "Name": "Blumenkohl \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b27621f5-32b9-d4d8-00c0-6e25f31f72bd",
+    "Name": "Gem\u00FCsesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "bb45c987-1eac-a45b-c476-03b92698ea5a",
+    "Name": "Klare Gem\u00FCsebr\u00FChe mit Einlage",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "a91aaddc-90c0-2f9e-9b80-8e421504c6f1",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
