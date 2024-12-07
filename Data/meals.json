@@ -39472,5 +39472,122 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "fa8dc3f4-fe72-7f65-0c4a-11bcf3f78de8",
+    "Name": "Schokopudding mit Lebkuchensauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "81fb41b5-c9d5-c4a6-de83-bc962602cdb6",
+    "Name": "Kartoffeleintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "01974a9d-bf79-7e41-5df9-cc21629d22db",
+    "Name": "Kichererbsen-Bohnenpfanne mit Paprika-Auberginenw\u00FCrfeln dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "4c681923-8ece-e173-2b70-81e32df4a641",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063373,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "532f5513-23fe-ce2d-9102-61ea9abde6f0",
+    "Name": "Schokopudding mit Lebkuchensauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "f2746da8-0e06-9ad3-7132-366b4450dd16",
+    "Name": "Schokopudding mit Lebkuchensauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9a5e8177-4a5f-4533-0db1-23d6038e4959",
+    "Name": "Kartoffeleintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4b97f2a9-633b-a818-4a3f-3c30c61dbb47",
+    "Name": "Kichererbsen-Bohnenpfanne mit Paprika-Auberginenw\u00FCrfeln dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "61c2c735-453b-d71e-87f2-d7194f915ed1",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063373,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "56589eb0-690b-d612-1f74-b12c1e5ce20a",
+    "Name": "Linsen-Gem\u00FCse Chili Reis | Paprika | Karotten | Sellerie | Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7e838268-7a39-a47c-ab6c-0c71c4550351",
+    "Name": "Dessert Ger\u00F6steter Apfel Sojajoghurt | Sultaninen | Zimt",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "22be3516-4edd-1018-d883-4f5fc7781b41",
+    "Name": "Dessert Honig Kuchen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "5f0545b1-163a-e3e9-3b7e-2cb7ff92ff58",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 7.20
   }
 ]
