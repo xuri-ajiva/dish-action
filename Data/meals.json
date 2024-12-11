@@ -39625,5 +39625,86 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "0a913092-3a4d-d259-f0b0-0670abe7b57b",
+    "Name": "Schokopudding mit Lebkuchensauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "6b47919b-2b10-61ec-806d-8f0060d66386",
+    "Name": "Schokopudding mit Lebkuchensauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "f765967e-40e8-69c6-652f-b48bf60a2674",
+    "Name": "Cappuccino Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "34e68562-f940-6a0e-d028-12f8916881c7",
+    "Name": "Rote Linsen Creme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "978a370f-9803-5589-3b71-c8b5e67281bf",
+    "Name": "Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248576,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "71033c2d-f32c-54c7-97e9-656971143e93",
+    "Name": "Schokopudding mit Lebkuchensauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "fd4bc16c-e503-e774-0344-c082f945a551",
+    "Name": "Grie\u00DFbrei mit Mangosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "0c393f3c-2c00-00b1-8c59-ddc449a29667",
+    "Name": "Grie\u00DFbrei mit Mangosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "22e46d1b-11ce-9612-ea06-ea779c5494b1",
+    "Name": "Linsen-Gem\u00FCse Chili Paprika | Karotten | Sellerie | Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
