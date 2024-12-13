@@ -39706,5 +39706,86 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "59b61e80-a56e-68cf-1371-15e5486742d4",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "33b17454-ddda-8354-7a4d-ed1da25a0e72",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "fc580fb8-f87e-a5b5-bdb0-785e832c43f1",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "62347a00-c2a7-f0ad-2ed2-7cebe43e5a45",
+    "Name": "Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "539117e6-6cac-df4a-ce5f-ac24219484bc",
+    "Name": "Karotten Ingwer Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f92f287f-913d-8c78-8e5a-b3ddfca8f865",
+    "Name": "Grie\u00DFbrei mit Kirschsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "1f99e519-5c7d-2fd5-d7fe-c512ef557003",
+    "Name": "Grie\u00DFbrei mit Heidelbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "f97331ba-987b-0319-b8f7-c3c2128104d7",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c5c8982b-93f6-3674-5b63-e89843674b68",
+    "Name": "Grie\u00DFbrei mit Fruchtsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
