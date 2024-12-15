@@ -39787,5 +39787,122 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "25e64340-5c05-6851-5e18-24f3cda5592d",
+    "Name": "Hausgemachte Pasta mit Tomaten-Hirtenk\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "e9375e0e-18e0-5a78-7752-bf39f19f3c37",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875585,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "60a3c091-19ca-f2a4-a9fd-4e1080339333",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648325,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "15cb8fa8-9bd4-d4be-5e61-346697bd09b8",
+    "Name": "Hausgemachte Frikadelle mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276036,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8bea780d-9f2c-2d0f-d511-2a2c0e7224ee",
+    "Name": "Hausgemachte Pasta mit Champignonsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793632,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "862b7216-fe3b-3709-f8e1-77f58dbb6396",
+    "Name": "S\u00FC\u00DFe Weihnachtspizza mit Apfel und Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50397248,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "86ac7e66-e6f0-8c4c-7ef2-9bed544dc376",
+    "Name": "Hausgemachte Pasta mit Tomaten-Hirtenk\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "6223cb60-e8a4-d57a-c074-87d4ed0cb97c",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875585,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "7654dfbc-fb7a-a6c1-c365-a1ac3e3597d7",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648325,
+    "Location": "Marktrestaurant",
+    "Price": 1.50
+  },
+  {
+    "Hash": "88e6b808-9134-053b-d292-0981800227c8",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648325,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
+  },
+  {
+    "Hash": "965ff3b9-307b-66fc-51a6-80c82c7361df",
+    "Name": "Pudding Kokos Mandel Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "62be8c95-ef76-bc94-33f1-fe03ba5677d2",
+    "Name": "Hausgemachte Frikadelle mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276036,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b47741ce-098a-1933-c8fc-f3819e3a1d38",
+    "Name": "Currywurst Schwein | Criss Cuts",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 157303040,
+    "Location": "Mensa",
+    "Price": 5.30
   }
 ]
