@@ -39904,5 +39904,158 @@
     "AllergensAndAdditives": 157303040,
     "Location": "Mensa",
     "Price": 5.30
+  },
+  {
+    "Hash": "3abd34a3-0601-9cb0-39d6-f9f8880347f1",
+    "Name": "Hausgemachte Pasta mit  veganer Champignonsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793632,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "93ea650c-cc3f-c0af-92af-fdc4f8cd2090",
+    "Name": "S\u00FC\u00DFe Weihnachtspizza mit Apfel und Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50397248,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "cbc4af05-72f9-eb78-9585-929903a4dbcf",
+    "Name": "Cordon bleu vom Schwein mit Champignonrahmsauce mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17156161,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "90d0d7eb-6dc2-b980-4d69-77009dc002a5",
+    "Name": "Ratatouille Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0b3ae166-bd16-a9ca-f378-9939d9e4516d",
+    "Name": "Hausgemachte Falafel mit Tomatensugo",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "f6a195f1-6800-631d-2c86-3e6d2e4ba8cb",
+    "Name": "Hausgemachte Pasta mit Tomaten-Hirtenk\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "acf5437e-835f-bf2f-6281-0f2fa0cd6355",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648324,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "2595325b-a7c3-bf18-6bce-a2608da7e5ef",
+    "Name": "Wei\u00DFer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c64db3e9-da1d-3404-693e-1a41e3499674",
+    "Name": "Schweine Kammbraten mit J\u00E4gersauce aus frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 114688,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "655d0dfb-2135-e92f-680b-b61d5d45ccec",
+    "Name": "Grie\u00DFbrei mit Fruchtsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "6986aa4c-a4c4-0865-8c49-909f66010b9e",
+    "Name": "Hausgemachte Pasta mit Tomaten-Hirtenk\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "fc10a18b-bc06-0623-867d-2005b98871ef",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648324,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
+  },
+  {
+    "Hash": "0c91d891-ce8e-c484-ce19-2bf2fe517718",
+    "Name": "Schokoladen-Lebkuchenpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "8d02bae6-b731-5ae9-1350-b77209b6e189",
+    "Name": "Wei\u00DFer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b8b66fe7-2d20-00a2-e176-b928022a78e6",
+    "Name": "Gem\u00FCse-Tajine Couscous | Tomaten | S\u00FC\u00DFkartoffel | Staudensellerie | Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "1dd3f061-8db2-b7b8-a707-9d65b33c6d8d",
+    "Name": "Balkanr\u00F6llchen mit Dip",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777733,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "656cd951-30b1-0f4a-3c34-06554c1ed493",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Kr\u00E4uter-Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
