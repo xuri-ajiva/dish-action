@@ -40057,5 +40057,158 @@
     "AllergensAndAdditives": 16777284,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "81b8dbff-31c5-73a2-6f6b-255326f708b1",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "6491c29b-f6ab-efc7-49bd-44f02368032a",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648196,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "535ba564-60e2-b6ec-ce02-ef3c1ddebf80",
+    "Name": "Mischgem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d99cbe1f-a4f5-b2b6-1a83-186757051c5b",
+    "Name": "Kammbraten vom Schwein mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 280576,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "334b67b8-9968-7708-8e2c-70c993141f0b",
+    "Name": "Schupfnudeln mit Apfelmus , Zimt und Zucker",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842752,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "bdf934bb-7014-d27b-235c-7a0d29b7ebd2",
+    "Name": "Pudding Kokos Mandel Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536871008,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "776d32ae-c10b-4098-c6a7-36bcc936f9b2",
+    "Name": "Zucchinirahm Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f93e9c02-0164-c785-9965-c0b2c2565198",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648196,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
+  },
+  {
+    "Hash": "08570407-a5fd-8757-ad8d-e3adaeb81e55",
+    "Name": "Pudding Kokos Mandel Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536871008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "d13b719e-8540-6b71-c76e-f3383a43b025",
+    "Name": "Sauerkischquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "fa7a3bcf-8793-0c74-50d0-73d948616ec5",
+    "Name": "Pudding Kokos Mandel Zimt",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536871008,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "0c46ae9d-b033-e3b8-488c-ff94b3f40d1e",
+    "Name": "Schupfnudeln mit Apfelmus , Zimt und Zucker",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842752,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "aff004b3-1d08-5559-06b3-605728b891ca",
+    "Name": "Currybratwurst Jackfruit | Country Steak Fries",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 155205888,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "4593a0f5-dc6a-6048-7590-f5a67eda59c6",
+    "Name": "Geschmorte Champignons dazu Kr\u00E4uterdip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "eb0999d0-f459-960c-c979-efca4a95e935",
+    "Name": "Mexikanische Wurstpfanne mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212672,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "4538a009-617f-2d66-0d1c-721c231e6be2",
+    "Name": "Eiersp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a2b9a6a5-b5c7-758d-c9b7-0a2fcb7faf25",
+    "Name": "Mexikanische Wurstpfanne mit Beilage",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212672,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
