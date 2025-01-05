@@ -40210,5 +40210,32 @@
     "AllergensAndAdditives": 2212672,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "d82ea403-2cfc-3fa9-4146-8cad7aa8d8c1",
+    "Name": "Gem\u00FCsecurry in scharfer Senfsauce dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 512,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "15cd46ca-34e8-9ce6-10d9-8c2cf0d88959",
+    "Name": "Hausgemachte Pasta mit Limette, Erbsen, Pilzen und Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744512,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "22fc93c7-d7bc-d952-4287-fd2f5aaf5355",
+    "Name": "Gem\u00FCsecurry in scharfer Senfsauce dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 512,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
   }
 ]
