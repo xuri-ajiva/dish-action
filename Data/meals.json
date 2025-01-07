@@ -40237,5 +40237,77 @@
     "AllergensAndAdditives": 512,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.20
+  },
+  {
+    "Hash": "3a5f1273-1feb-faab-9d00-ed593c203930",
+    "Name": "Soja-Kokos-Curry mit Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777760,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "7016fa5e-031c-50ba-5aa5-86c96469ad08",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "381df3de-4b1a-8386-d27f-0b5d7003630a",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21072460,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "915d8ce7-4431-00d1-ad64-3d72b936cce8",
+    "Name": "Soja-Kokos-Curry mit Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777760,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "d22f828c-509d-da13-80ae-3689907e4d88",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "71ac4f11-a577-fde6-9ba2-644334514d95",
+    "Name": "Karotten Ingwer Creme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "fc29fae3-db86-4f39-663c-ed27163e7636",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21072460,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "026fcdda-7bd9-62a0-0442-f42c25678cf1",
+    "Name": "Soja-Kokos-Curry mit Bohnen dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777760,
+    "Location": "Mensa",
+    "Price": 3.10
   }
 ]
