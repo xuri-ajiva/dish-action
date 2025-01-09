@@ -40309,5 +40309,41 @@
     "AllergensAndAdditives": 16777760,
     "Location": "Mensa",
     "Price": 3.10
+  },
+  {
+    "Hash": "fe0e30ee-801f-7d84-28bb-0bf21e703a4d",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 131396,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d3843783-452e-5269-c5e9-abd73273b94f",
+    "Name": "Tomatencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2067e622-6912-29f1-6ac7-f5b6fb3bf5fa",
+    "Name": "Schweinegulasch \u0027J\u00E4ger Art\u0027 mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "136881bf-684e-87b6-fb9d-a900a923f7b9",
+    "Name": "Karottengem\u00FCse Natur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
