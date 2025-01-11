@@ -40345,5 +40345,113 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "1f01df15-625b-9c87-d3a3-fee319b3ea6c",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "4cb43884-d06b-880a-0e3c-d3c25cea1b92",
+    "Name": "Quinoa-Bratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "b1c0b2ee-18a2-d1ee-fe6e-91e94953515a",
+    "Name": "Black Burger mit Linsen-Gem\u00FCsebratling, Salsa und einer pflanzlichen Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151013920,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "f43b3701-6547-7ae0-d645-f700b0c49cfe",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "79c886bb-840c-3dd7-7096-2becbdf1eb80",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Marktrestaurant",
+    "Price": 3.10
+  },
+  {
+    "Hash": "903788a6-c062-3416-4bd7-196ad9eb686a",
+    "Name": "Quinoa-Bratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "dc464d23-7ce9-1d0d-f6f1-2b975260eb89",
+    "Name": "Black Burger mit Linsen-Gem\u00FCsebratling, Salsa und einer pflanzlichen Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151013920,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "b042e0a0-9dd8-a46d-e978-8dbf4a45be12",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a1a39343-70b4-73ca-9859-070fef0fce63",
+    "Name": "Vanillepudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "fade94b5-52ad-9cfa-0c4a-4063f7e21153",
+    "Name": "Chow Mein Noodles Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957472,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7662f2aa-6c72-b644-5e7e-c6651a0b729e",
+    "Name": "Biryani-Couscous Tomaten | Zucchini | Erbsen | Blattspinat | Aprikose | Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "f174f084-45e2-3a5a-37a9-dd868218e216",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: gebackener Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 83886144,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
