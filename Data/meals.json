@@ -40453,5 +40453,68 @@
     "AllergensAndAdditives": 83886144,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "5ce082fc-f04b-e524-ec08-73d614395c0d",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "a9e9df1a-f3c3-985c-f8b7-b03363e2b91c",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "333ae1f8-a194-cecb-b3fb-1408e23fa93a",
+    "Name": "Vegane Bratwurst mit Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 3.60
+  },
+  {
+    "Hash": "be07ac19-6880-4ffd-3747-be4ea3aaa847",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "919fa8c2-95b2-d3b9-480b-0dac831f09c7",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16417,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "c541eaf2-8a87-9228-4a61-b5fa6d37779a",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Kokosmilch und Baguette / 4,90",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "d62cf444-8e25-ef51-b2b5-c9bd9b3daaf4",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Marktrestaurant",
+    "Price": 3.10
   }
 ]
