@@ -40516,5 +40516,77 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Marktrestaurant",
     "Price": 3.10
+  },
+  {
+    "Hash": "d25808a9-af21-c543-df92-9708de2a42b9",
+    "Name": "Rosenkohl mit Zwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "a2b856c9-155e-4c12-7b84-5ef30ee73988",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Kokosmilch und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "e19decf4-2e42-5e58-6209-fc5b0162a489",
+    "Name": "Tagessuppe: Karotten Ingwer Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ac2a07e1-4b9d-c0c1-9fba-6b9f7b42dbab",
+    "Name": "Zuckererbsen \u0027Natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f33bfd40-477d-cf41-aa4f-aa57eba416bb",
+    "Name": "Gem\u00FCsekn\u00F6del mit einer Meerrettich-Sauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845124,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "9738b333-d9a8-bc8d-053a-b9051bc97df6",
+    "Name": "Spinat-Kokos-Suppe mit Baguette",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Bistro",
+    "Price": 2.50
+  },
+  {
+    "Hash": "834961d8-28e7-b3b6-cf67-5fccd2d43ca5",
+    "Name": "Tagessuppe: Kartoffel K\u00FCrbis Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0e45fff0-0a86-b3ec-2fba-e269343496f3",
+    "Name": "WOK W\u00FCrzige Gem\u00FCsepfanne mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Marktrestaurant",
+    "Price": 3.10
   }
 ]
