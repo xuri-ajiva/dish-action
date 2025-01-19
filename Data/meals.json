@@ -40588,5 +40588,86 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Marktrestaurant",
     "Price": 3.10
+  },
+  {
+    "Hash": "26c22ae4-de23-dfbe-5e17-d1875408ec59",
+    "Name": "Vegane Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 4.00
+  },
+  {
+    "Hash": "19f1077b-1faf-232f-089d-1ec4028a080e",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "37f61404-c2f5-3d97-c6a0-49069fa903d7",
+    "Name": "Vegane Curry-Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971520,
+    "Location": "Bistro - Bistro",
+    "Price": 4.50
+  },
+  {
+    "Hash": "ece7ac71-57b3-0d1d-62ce-0abbaac461ac",
+    "Name": "Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "43b396f2-f063-95be-8456-ee498ea82d87",
+    "Name": "Wei\u00DFkohlcurry mit Kichererbsen und roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0c924f78-a779-52f2-fb6e-039dc3d73476",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Marktrestaurant",
+    "Price": 4.20
+  },
+  {
+    "Hash": "ef31d8fa-c90c-6ecd-0146-b0a7460549c8",
+    "Name": "Wei\u00DFkohlcurry mit Kichererbsen und roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "cebe3fa0-a508-2ecb-a1bf-37a62198807c",
+    "Name": "Milchreis mit Heidelbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "cc0e0a80-a0a2-7611-70e2-bf6c218ab8ee",
+    "Name": "Cheeseburger Rindfleisch | Tomate | Gurke | Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 7.60
   }
 ]
