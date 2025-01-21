@@ -40669,5 +40669,41 @@
     "AllergensAndAdditives": 20989508,
     "Location": "Mensa",
     "Price": 7.60
+  },
+  {
+    "Hash": "893cafad-19be-ab9b-6321-a8dc2f7d2c4d",
+    "Name": "Brokkoli mit Mandeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536871040,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c8539d5c-f54a-6155-d261-9ce3cf0b90e6",
+    "Name": "Rote Linsen-Orangen-Suppe dazu Baguette",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 83886144,
+    "Location": "Bistro",
+    "Price": 2.50
+  },
+  {
+    "Hash": "e544638b-aa0f-b458-2f4a-4296b17d16de",
+    "Name": "Tagessuppe: Spinat -Kokossuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3205271e-913a-f555-cf8c-21f97f784380",
+    "Name": "dzu Apfelrotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
