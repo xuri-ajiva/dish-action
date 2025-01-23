@@ -40705,5 +40705,50 @@
     "AllergensAndAdditives": 67584,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "dc54c66a-c857-c0a3-dc95-88c39aba6692",
+    "Name": "dazu Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "904ed955-888b-db85-d5a9-c7b85ee1a218",
+    "Name": "Quark-Nougatcreme mit Bananen im Glas mit Sauerkirschspiegel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1073741920,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "2141b419-6f17-7145-738d-451b371739d6",
+    "Name": "dazu Ratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c963f0e6-f72b-e7ed-dd92-13498cdb91b4",
+    "Name": "Rahmwirsing",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16793664,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e6cf08a4-bf0e-5d83-e43d-8433df48e20c",
+    "Name": "Linsenbratling mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.20
   }
 ]
