@@ -40750,5 +40750,104 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "daf9f9b5-d808-a595-6e23-fe2b8c375ffc",
+    "Name": "Butterbohnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "b5eb3e77-8dbc-0ff1-ae01-8301301c98fc",
+    "Name": "WOK Pad Thai mit Tofu und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "088eb2e6-4ddb-789f-bb92-f04e31d0548b",
+    "Name": "Reispuffer mit Rosinen-Ratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310048,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "654460f8-756d-2738-f61e-0a42f34f43dc",
+    "Name": "Zartweizen mit Maronen und K\u00FCrbis dazu Erbsen Guacamole",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870913,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "96ae5b85-26e9-6a1f-9c74-60f718d84c34",
+    "Name": "Schokopudding mit Vanillesauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "08295f0d-7f17-5475-448c-75c833e89288",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "d42b481c-8cfe-3cfa-27be-9191588d57af",
+    "Name": "WOK Pad Thai mit Tofu und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "354f458b-ea1b-2d2b-4721-9d29c11fd1d7",
+    "Name": "Reispuffer mit Rosinen-Ratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310048,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "8b2d6335-c2a8-6e10-4346-013d569f9b6e",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "2204de85-b914-cdfc-44db-ad70ce3e922b",
+    "Name": "Zartweizen mit Maronen und K\u00FCrbis dazu Erbsen Guacamole",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870913,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "592969cf-f883-3ce4-9fb2-753a09131638",
+    "Name": "Dessert S\u00FC\u00DFer Grie\u00DFbrei Erdbeerkompott",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
