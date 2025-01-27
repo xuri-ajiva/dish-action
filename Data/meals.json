@@ -40849,5 +40849,23 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "e576a3ac-6a82-b39c-2c50-d53952d1f545",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 321,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "0f89c1ce-dca1-112a-9431-d8655d132272",
+    "Name": "Kroketten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]

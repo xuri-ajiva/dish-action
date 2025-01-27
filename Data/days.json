@@ -49108,7 +49108,9 @@
       "2b9bb66b-da18-07a0-0bb8-0d82839f2fe9",
       "c98adf57-991a-eeba-8067-941f804bc4d3",
       "996e6281-7d94-ed14-62f7-bf0549503f95",
-      "a704f651-15fb-d56d-87e6-b69732368f44"
+      "a704f651-15fb-d56d-87e6-b69732368f44",
+      "95e60590-1da7-c2aa-6e93-8ad400a3f95c",
+      "bf36506a-8b75-04cf-ad93-6a986f21896e"
     ]
   },
   {
@@ -49366,28 +49368,68 @@
     "DayOfWeak": 2,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "1af8da4f-3888-a37a-5ddc-ca5396cf140d",
+      "f633e63a-8d80-3077-c8ac-4c6e42b516a7",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "592969cf-f883-3ce4-9fb2-753a09131638",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "874342c5-ba96-2d0c-485e-e6afff111862"
+    ]
   },
   {
     "Date": "2025-01-29",
     "DayOfWeak": 3,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "1af8da4f-3888-a37a-5ddc-ca5396cf140d",
+      "f633e63a-8d80-3077-c8ac-4c6e42b516a7",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "592969cf-f883-3ce4-9fb2-753a09131638",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "874342c5-ba96-2d0c-485e-e6afff111862"
+    ]
   },
   {
     "Date": "2025-01-30",
     "DayOfWeak": 4,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "1af8da4f-3888-a37a-5ddc-ca5396cf140d",
+      "f633e63a-8d80-3077-c8ac-4c6e42b516a7",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "592969cf-f883-3ce4-9fb2-753a09131638",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "874342c5-ba96-2d0c-485e-e6afff111862"
+    ]
   },
   {
     "Date": "2025-01-31",
     "DayOfWeak": 5,
     "Source": "schoeffers",
     "SourceName": "Sch\u00F6ffers",
-    "Meals": []
+    "Meals": [
+      "71a6768e-c00e-db9e-5f8d-a8ed74297725",
+      "0eecdfa9-6119-9448-e16b-7ce99c7c3956",
+      "1af8da4f-3888-a37a-5ddc-ca5396cf140d",
+      "f633e63a-8d80-3077-c8ac-4c6e42b516a7",
+      "2bd00eae-e61c-677f-d4f2-f4379f45c6ed",
+      "011e4fe0-656c-529c-9f1c-571c83d74246",
+      "592969cf-f883-3ce4-9fb2-753a09131638",
+      "484eda97-8477-8416-57a0-384a6c0e1463",
+      "874342c5-ba96-2d0c-485e-e6afff111862"
+    ]
   },
   {
     "Date": "2025-01-27",
@@ -49403,7 +49445,8 @@
       "4ba59696-2f03-33ca-b21f-a917204b54f1",
       "960cb02f-276e-3beb-4428-1ccea57b8469",
       "894c0d47-5730-6dfe-f63f-a20809f23194",
-      "96b57205-1581-930e-f56c-c9e59bd6dfc9"
+      "96b57205-1581-930e-f56c-c9e59bd6dfc9",
+      "e576a3ac-6a82-b39c-2c50-d53952d1f545"
     ]
   },
   {
@@ -49477,7 +49520,10 @@
       "0e7af620-36ff-2c6d-34de-74def07fa96d",
       "b8906cb1-385b-3393-0633-999598b2e49f",
       "960cb02f-276e-3beb-4428-1ccea57b8469",
-      "894c0d47-5730-6dfe-f63f-a20809f23194"
+      "894c0d47-5730-6dfe-f63f-a20809f23194",
+      "a5c26750-a0cb-1d91-fde4-61060a89d78c",
+      "0f89c1ce-dca1-112a-9431-d8655d132272",
+      "440252c2-263a-d0a3-11a6-87e9e0d89081"
     ]
   },
   {
