@@ -40867,5 +40867,41 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "5d11ad55-5302-65f8-7eb3-7d1412653ed8",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4345331780,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "98bfd629-5b25-12e6-f4bc-93cb08fdd23c",
+    "Name": "Erbsen \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4a470ed0-be84-70d6-afef-8df76e558445",
+    "Name": "Ger\u00F6stete Grie\u00DFsuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "9f7db6f2-9286-3589-4424-ead6e593de9c",
+    "Name": "Kohlrabicremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
