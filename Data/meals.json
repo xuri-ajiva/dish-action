@@ -40903,5 +40903,104 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "d14166c2-f3d0-1bd0-2512-8a1c6e99a633",
+    "Name": "Gem\u00FCsetortilla mit Kartoffeln, Paprika, Sahne und einer Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "1f1c05b5-2f6d-bc88-0b1e-361f32ea2f42",
+    "Name": "Zartweizen mit Maronen und K\u00FCrbis dazu Erbsen Guacamole",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 553648128,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "b9773820-50d3-c18d-f653-334ac884cb50",
+    "Name": "Schw\u00E4bische Krautsp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844804,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "a9e9a200-65bd-f692-6931-ed76bf2229ca",
+    "Name": "gr\u00FCne Bohnen \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "51815ca7-2152-860a-bab9-d303a63c3636",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2cd9d4df-3264-a80b-f403-39af40681efc",
+    "Name": "Zartweizen mit Maronen und K\u00FCrbis dazu Erbsen Guacamole",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 553648128,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "d68003b3-ffea-44b3-632b-04ec8701cd33",
+    "Name": "Leipziger Allerlei",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e94c8b05-d05a-faae-ebb6-decd6d21a406",
+    "Name": "Rosenkohl \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "87e8d7ab-6575-b1b2-eb83-9c7cfd55660b",
+    "Name": "Chili sin carne",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "9456a550-c8ce-638c-100f-4cd2e19bf626",
+    "Name": "Fischst\u00E4bchen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "bb01a4fd-6131-3ec7-ea54-056875529ef2",
+    "Name": "Zuckerschoten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
