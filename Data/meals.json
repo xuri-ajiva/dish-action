@@ -41002,5 +41002,149 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "49b0487f-42f0-ebbc-5e90-cf1a3893cb57",
+    "Name": "S\u00FC\u00DFkartoffel-Chili-Broccoli Curry mit Koriander",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "807bcf02-be6c-42d3-a133-e0109e6c0e6f",
+    "Name": "Hausgemachte Pasta Paprika-Erdnuss-Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844816,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8694bba4-33ee-ac75-fc92-bd691cb15545",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "d0ccdb54-1418-5daa-45b3-df1dbb1728ff",
+    "Name": "Rote Gr\u00FCtze mit Vanillesauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "2675d368-1183-bf79-802e-89b1e2c748fe",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "600a6f95-196d-efaf-a196-4260a4a34808",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "9bbd7060-a133-45df-7c32-7ca6a57abdfb",
+    "Name": "Vanillepudding mit Birne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "7b86b0b8-da4a-d5dc-b23d-90f60811efe5",
+    "Name": "S\u00FC\u00DFkartoffel-Chili-Broccoli Curry mit Koriander",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "2947ed2d-3163-215b-f652-3b413afa81c4",
+    "Name": "Hausgemachte Pasta Paprika-Erdnuss-Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844816,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "d763ffb9-3cae-247f-326a-31ca453fca20",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Marktrestaurant",
+    "Price": 2.80
+  },
+  {
+    "Hash": "0795d23b-c457-cba9-4d4a-a1d34549f66b",
+    "Name": "Rote Gr\u00FCtze mit Vanillesauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "06df5306-1018-2093-8280-5e667753ebd4",
+    "Name": "Stracciatellaquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "bb3755e7-77bb-6c2e-2f0d-f5f66cc7a849",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "2d28445a-4d68-72a4-d352-788a5bb2bf71",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "ba2da5bc-4eb6-1040-2466-dc9f10fd3020",
+    "Name": "Vanillepudding mit Birne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "5f361e93-ed7f-3a47-51da-e63ee5eb07d8",
+    "Name": "Currywurst Rind | Criss Cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 157401344,
+    "Location": "Mensa",
+    "Price": 5.20
   }
 ]
