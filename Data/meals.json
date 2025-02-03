@@ -41146,5 +41146,77 @@
     "AllergensAndAdditives": 157401344,
     "Location": "Mensa",
     "Price": 5.20
+  },
+  {
+    "Hash": "f348d0ab-3758-1f81-84e5-ac639bbe3966",
+    "Name": "S\u00FC\u00DFkartoffel-Chili-Brokkoli Curry mit Koriander",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "f462e6c2-9ca2-a1bf-bdcb-cfa026da1dff",
+    "Name": "Hausgemachte Pasta mit Paprika-Erdnuss-Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844816,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "b7ee34ee-3fcd-478a-3405-9a96783e46a1",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "128d14d9-f801-c449-0b33-3af189bcc9f4",
+    "Name": "Gem\u00FCseschnitte mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549696,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "efdea6d4-3c03-6314-74ca-435e648d7a2a",
+    "Name": "S\u00FC\u00DFkartoffel-Chili-Brokkoli Curry mit Koriander",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "7885adb6-5e27-e2f9-203a-ad4232889496",
+    "Name": "Hausgemachte Pasta mit Paprika-Erdnuss-Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844816,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "ab6c20e8-5831-5b33-75d5-cca23a6f33bd",
+    "Name": "Paniertes Schnitzel mit hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "6974c47e-5a1b-503b-7ead-5ecc4918950e",
+    "Name": "Gem\u00FCseschnitte mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549696,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
   }
 ]
