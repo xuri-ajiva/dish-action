@@ -41218,5 +41218,86 @@
     "AllergensAndAdditives": 184549696,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.50
+  },
+  {
+    "Hash": "d57d68e9-f124-cd3e-20e8-29fc242a4d65",
+    "Name": "WOK Scharfer Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859680,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "2f038769-cd68-36b8-e3d5-d4d23d3fff14",
+    "Name": "Gem\u00FCsereis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "0b385a76-e8b8-a64d-3142-463b706964d1",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry dazu Baguette",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "a88b40b7-2f5e-db22-b0fd-74744d06d05e",
+    "Name": "Pudding Haselnuss-Zimt Geschmack",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "7b7712b9-8bf8-153b-3b80-f833ae87a16d",
+    "Name": "WOK Scharfer Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859680,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ea2cbc40-daf2-1acb-1688-040d77cef71e",
+    "Name": "Gem\u00FCsereis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "3acbeba1-e488-3a46-265b-8bc960b14252",
+    "Name": "Nasi Goreng Erdn\u00FCsse | Spitzkohl | Karotten | Erbsen | Paprika",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311924784,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e3ad364f-c379-bb57-1428-48be323e3401",
+    "Name": "Hausgemachte Pasta mit Sojabolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777504,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8e3e39b1-8de2-6b0a-7b65-aa13a8050bd2",
+    "Name": "Pilzragout mit hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.50
   }
 ]
