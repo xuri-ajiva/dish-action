@@ -41299,5 +41299,77 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 3.50
+  },
+  {
+    "Hash": "99c63fe0-0f90-c388-772f-99f769ef044e",
+    "Name": "Tomaten-Mango-Suppe dazu Baguette",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "52db61a9-81ad-1247-da48-a2e1e52bc50f",
+    "Name": "Karottengem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "191601c8-2de7-64ab-f82f-6a40a810dcb0",
+    "Name": "Bohnen \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "6c7911cd-3e7c-b4db-0dfd-e4e42f4582c2",
+    "Name": "Rote Gr\u00FCtze mit Vanillesauce im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "f5d93f93-b35a-4df7-4c15-c66d9de84260",
+    "Name": "dazu Rahmspinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "540a0aa9-cfc8-6ab4-00c2-34a7051fa7a5",
+    "Name": "Gebackenes Schollenfilet",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16779848,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "06a1c9c4-e65d-dcd5-7bdf-9e690a4fa287",
+    "Name": "WOK Scharfer Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859680,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d653dc05-4b9e-5a0c-364e-beebac4a411d",
+    "Name": "Pilzragout mit hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.40
   }
 ]
