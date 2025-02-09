@@ -41371,5 +41371,203 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "d2871536-132c-374c-9ca9-216570720778",
+    "Name": "Hausgemachte Pasta mit Bolognese von roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "9869acb8-9178-ee30-2552-95bd64419daf",
+    "Name": "Gnocchis mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "db6ec465-9ac7-692e-265a-7ec6f1c031fb",
+    "Name": "Hausgemachte Pasta in Gem\u00FCsesahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "64485d5b-e5b4-fb08-7ce9-dac5dac88012",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "c2eaf013-1acb-076a-1078-0fb53deb0413",
+    "Name": "Ofencouscous mit Rosenkohl, Waln\u00FCssen und Gorgonzola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 2164260932,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "8fdb38ad-2187-5cfd-2938-9123f65d49d6",
+    "Name": "Asiatische Gem\u00FCsepfanne mit Tofu und Glasnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a420f6e0-af52-b914-c555-4b997f30434d",
+    "Name": "Milchreis mit Sauerkirschsauce oder Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "8705fbad-2077-c8f0-71ab-5d4125dc8fc8",
+    "Name": "Karotten-Ingwer-Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c9e7e910-bfd9-4370-3eb1-93adb3a1e703",
+    "Name": "Pizza Marinara Tomatensauce f\u00FCr Pizza Mensa NEU 2021",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "2a64a426-ee95-c008-98ec-89a92c6049d9",
+    "Name": "Hausgemachte Pasta mit Bolognese von roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "b225b67e-7d15-5153-96ed-89a275838f80",
+    "Name": "Gnocchis mit buntem Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "6606ff02-e60c-2e46-e87c-56d724c6f784",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini Tomatensauce f\u00FCr Pizza Mensa NEU 2021",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "1052c25e-1763-edd6-6262-09c220b93dce",
+    "Name": "Pizza Margherita Tomatensauce f\u00FCr Pizza Mensa NEU 2021",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "6feafa6d-c2fb-c828-13a6-b9e3e15fc83b",
+    "Name": "Pizza Mozzarella-Pesto Tomatensauce f\u00FCr Pizza Mensa NEU 2021",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4345331780,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "f68e5fde-d1c0-e193-dffc-71f0328b7a1b",
+    "Name": "Ofencouscous mit Rosenkohl, Waln\u00FCssen und Gorgonzola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 2164260932,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "4fd4ac68-2b3e-9f5d-cfca-e15b75f88a14",
+    "Name": "Hausgemachte Pasta in Gem\u00FCsesahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "21f762c9-f886-26e9-b07b-d3a9878d5536",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "c8406f29-9a60-00d9-8489-4e991da2dfc4",
+    "Name": "Asiatische Gem\u00FCsepfanne mit Tofu und Glasnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "bd8e9c3d-1f39-52b8-a7d4-27c93690969c",
+    "Name": "Milchreis mit Sauerkirschsauce oder Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "42733c68-d92f-6c34-b90f-ee5f371e2c62",
+    "Name": "Kichererbsencurry Reis | Tomaten | Wei\u00DFkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7832227e-2f2b-00c6-b10e-641e19169e89",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Tempeh-Ecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "10cc3495-f90a-b0ca-83e9-1261ad6bf534",
+    "Name": "Chow Mein Noodles Ei | Paprika | Erbsen | Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16957476,
+    "Location": "Mensa",
+    "Price": 4.70
   }
 ]
