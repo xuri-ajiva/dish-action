@@ -41641,5 +41641,23 @@
     "AllergensAndAdditives": 83984448,
     "Location": "Bistro",
     "Price": 2.50
+  },
+  {
+    "Hash": "4ba67d63-9f81-9b4b-beb5-5459a295a80c",
+    "Name": "Brokkoli \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "9e969fed-856a-b0c8-8b05-164d3bdab44e",
+    "Name": "Fr\u00FCchte Quarkspeise",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
   }
 ]
