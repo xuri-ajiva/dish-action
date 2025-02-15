@@ -41659,5 +41659,77 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.90
+  },
+  {
+    "Hash": "84b10055-790c-08ec-4fb9-13e6ab411284",
+    "Name": "Mensa Vita One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "e088e9ae-6b34-5fc7-93bc-dd61da4c59e5",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "65ddd306-91c9-9ac2-a778-05a174293b38",
+    "Name": "Pudding Kokos Mandel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536871008,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "717af5f1-0f15-ee8e-a4ab-7397a2d2071c",
+    "Name": "Gebackener Seelachs mit Remouladensauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "32fdefd0-ae1b-f6ea-dc83-c716f2722848",
+    "Name": "Mensa Vita One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "86c7318d-48a0-597e-e520-a0a70fc3a8f1",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Marktrestaurant",
+    "Price": 3.40
+  },
+  {
+    "Hash": "9289da20-627b-3cca-1e83-352dd73194d1",
+    "Name": "Pudding Kokos Mandel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536871008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "29235c08-75b1-0126-7bcc-2a26eb6b25ff",
+    "Name": "Gebackener Seelachs mit Remouladensauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
   }
 ]
