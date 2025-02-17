@@ -41731,5 +41731,50 @@
     "AllergensAndAdditives": 21056076,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.80
+  },
+  {
+    "Hash": "993879a2-4dcf-39e2-661f-5c8076c53c5a",
+    "Name": "One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "d73db739-5c1f-b139-0269-cf999d3550b1",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu  dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "4d255698-12e2-700c-ae51-0d6f95ad6bb4",
+    "Name": "One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "567fcb69-ba8f-6034-be18-a0c9c44af1e3",
+    "Name": "K\u00FCrbiscreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3d43ad7d-d34f-5cbe-73d8-ce618907b9ad",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu  dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Marktrestaurant",
+    "Price": 3.40
   }
 ]
