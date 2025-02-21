@@ -41803,5 +41803,41 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.00
+  },
+  {
+    "Hash": "6de6fcb8-155e-939d-e379-cdbda64903bf",
+    "Name": "Soja-Geschnetzeltes mit Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "3112aa38-c56d-b969-de12-31b234094bef",
+    "Name": "Hausgemachte Pasta mit Tomaten-Mozzarellasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "4b5d6f92-d392-d440-2d97-fb52b23b40c8",
+    "Name": "Milde Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "53e6fecc-5a09-5dbc-04b7-c1ef426afcbb",
+    "Name": "Gem\u00FCse Currycreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
