@@ -41839,5 +41839,149 @@
     "AllergensAndAdditives": 320,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "e619b175-bc3f-cacf-94ad-39acce77f21d",
+    "Name": "Pilz-Stroganoff mit Gem\u00FCsepilaw",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4210976,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "534b0d6a-5850-bcd9-5b55-00af8d6d01db",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung in einer Kr\u00E4utersahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "386e38d3-0b59-aa08-c7b3-99298f721698",
+    "Name": "Wokpfanne Tofu und Gem\u00FCse in Sataysauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "9e240e79-17c4-84c8-d53a-001e660dec10",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "6155e7c4-f6e8-c770-7928-90de3781f035",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "618ade79-21bd-b03b-c11c-17447540e156",
+    "Name": "Hausgemachte Frikadelle dazu Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995460,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "92006493-7173-d095-7a40-e82cbd997d5c",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "99c70180-6c36-2ebe-3ebf-9f08c34416de",
+    "Name": "Pilz-Stroganoff mit Gem\u00FCsepilaw",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4210976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "7ba7f19f-4c2e-7a2c-e189-18a4d4a5a467",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung in einer Kr\u00E4utersahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7577a17d-930e-71da-343a-21c0628c3e1b",
+    "Name": "Wokpfanne Tofu und Gem\u00FCse in Sataysauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Marktrestaurant",
+    "Price": 4.20
+  },
+  {
+    "Hash": "ae92e6d8-fa62-6602-f05a-cf5a129e3853",
+    "Name": "Cordon bleu vom Schwein mit Champignonrahmsauce mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17156161,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "21e2c6a0-f845-6add-b318-a95fb4a03c80",
+    "Name": "Grie\u00DFbrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "82d4e988-b12f-f089-1fe4-9d877bd78082",
+    "Name": "Hausgemachte Frikadelle dazu Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995460,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "dc91389b-4ebc-a09b-c0e8-e26bf6399649",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "3d77cc28-0dfd-61ee-56e5-eae347ff3cd0",
+    "Name": "Scharfe Nudeln Paprika | Sojasprossen | Zuckerschoten | Miso | Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "b1a95994-88d3-6e4b-36d8-127fc2a51df7",
+    "Name": "Cheeseburger Rindfleisch | Tomate | Gurke | Wedges",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 7.60
   }
 ]
