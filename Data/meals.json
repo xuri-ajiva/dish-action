@@ -41983,5 +41983,77 @@
     "AllergensAndAdditives": 20989508,
     "Location": "Mensa",
     "Price": 7.60
+  },
+  {
+    "Hash": "07ccb76c-2f92-3b21-7290-1a0eec22e907",
+    "Name": "Wok \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "a0275a20-8bbc-41df-f9e6-418ed846abad",
+    "Name": "Cordon bleu vom Schwein mit Champignonrahmsauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17156160,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "6480b287-2481-7f6b-e614-f8301249463f",
+    "Name": "Grie\u00DFbrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "fd616fc6-dfa4-6016-b802-77f40f728201",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "4be69162-c30f-4d99-3ef0-bf6d037ba96b",
+    "Name": "Wok \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Marktrestaurant",
+    "Price": 4.20
+  },
+  {
+    "Hash": "7362b28e-db2e-508c-a8fb-89ecbc8e22f3",
+    "Name": "Cordon bleu vom Schwein mit Champignonrahmsauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17156160,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "3c7243b5-08ee-74f3-a4d4-bc488a3b2987",
+    "Name": "Grie\u00DFbrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "582bf1d6-b963-512e-95aa-50a6575c00b5",
+    "Name": "Scharfe Nudeln Paprika | Bambussprossen | Zuckerschoten | Miso | Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
