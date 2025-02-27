@@ -42055,5 +42055,50 @@
     "AllergensAndAdditives": 16958496,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "b91f96f7-d55b-990d-a434-ed4a55468eb4",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "abe4df31-1265-b183-fbdb-48be4e7c56cd",
+    "Name": "Tomatencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "5dacc061-1715-3d9c-f471-b2188c61ae12",
+    "Name": "Bunte Wurstreispfanne mit Paprika, Bohnen und Mais",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212352,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "3d32eb46-e94c-835f-630f-7004e67c1465",
+    "Name": "Karotten Kokos Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e521290e-b857-e780-b374-00af5b8fdee9",
+    "Name": "Birnenquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
   }
 ]
