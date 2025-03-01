@@ -42100,5 +42100,185 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.90
+  },
+  {
+    "Hash": "6a5b5514-2068-8502-20f8-9031c84c898d",
+    "Name": "Risotto mit Spinat und Gorgonzola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "62e026a5-3978-618d-b1b3-88a03e2f4eaa",
+    "Name": "WOK S\u00FC\u00DFkartoffel Curry dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "42ef6e62-d8a7-cf1a-5ed5-d0dbb98d02f5",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470084,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "f9c6477c-8d8e-eb1d-cacb-26bf68eeea6f",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "6e4934a2-e164-a2c3-3784-14415fa05c93",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "8593ddb7-3aab-d435-a2cd-55663cd2d107",
+    "Name": "Wildschweingulasch mit Waldpilzen",
+    "Image": "2792367d-8ee6-7c1b-143a-086dd7ea5932",
+    "Category": 9,
+    "AllergensAndAdditives": 264192,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "aca8b277-7b13-1b6a-ab18-659be21c0748",
+    "Name": "Aschermittwochs-Gericht: Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln dazu ein Kr\u00E4ppel",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21135948,
+    "Location": "Mensa",
+    "Price": 5.55
+  },
+  {
+    "Hash": "5bf94c54-499d-8a87-3f3d-f6b5fd99111b",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "aab323ec-9386-7214-8522-dee523e509eb",
+    "Name": "Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "23689693-0ffc-1db3-2eff-d2cc77b8f0ba",
+    "Name": "Cevapcici vegan mit Ajvar und Tomatenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "46d22feb-d6b3-466b-d0bf-79e17f026f24",
+    "Name": "Risotto mit Spinat und Gorgonzola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "9ec78f01-4cf3-991c-b5f8-dc6533280ad3",
+    "Name": "Gr\u00FCne Bohnen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "134f109d-87ce-8600-9aa2-8228c00a8ef2",
+    "Name": "WOK S\u00FC\u00DFkartoffel Curry dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 3.30
+  },
+  {
+    "Hash": "f3d98586-5812-e48e-85ff-1d2c7e4411b6",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "3ffe68e3-03b5-b14e-eaa1-24ba2741d2eb",
+    "Name": "Wildschweingulasch mit Waldpilzen",
+    "Image": "2792367d-8ee6-7c1b-143a-086dd7ea5932",
+    "Category": 9,
+    "AllergensAndAdditives": 264192,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "94ce2e9f-1bb7-e1ec-9996-91c855dc962c",
+    "Name": "Aschermittwochs-Gericht: Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln dazu ein Kr\u00E4ppel",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21135948,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.55
+  },
+  {
+    "Hash": "9819d5e4-2605-5c51-a460-1d4898a4de41",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "03d69356-a5b4-0de8-d58d-4c579cc8c02d",
+    "Name": "Handk\u00E4sfrikadelle Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "9abcb9d5-0f2e-9d88-58f1-b705bf059795",
+    "Name": "Cevapcici vegan mit Ajvar und Tomatenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "46b373b9-e02c-756c-87dc-2bc1642ac674",
+    "Name": "Pasta mit Champignons - Sch\u00F6ffers pflanzlich Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
