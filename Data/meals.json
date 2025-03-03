@@ -42280,5 +42280,59 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "835a2a16-25d5-da6e-6b4c-33c58bf68037",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "4eb57e63-089e-7a24-1971-d33ce77eea86",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "070fab6b-240c-cf54-5144-122df17563ae",
+    "Name": "Vegane Cevapcici mit Ajvar und Tomatenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "6269cee9-3899-2528-20e4-bfa5edb01b20",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0dabeb7a-e49c-8b67-69e7-37200f4a8048",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "00c8c463-a67b-70c5-8960-943be952c7c3",
+    "Name": "Vegane Cevapcici mit Ajvar und Tomatenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
   }
 ]
