@@ -42334,5 +42334,59 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.80
+  },
+  {
+    "Hash": "dc7562e9-cb1c-b2e2-0ae3-2b98016a05cf",
+    "Name": "WOK S\u00FC\u00DFkartoffel Curry dazu Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "33a79d13-c3df-49f6-1d89-c56c0d24a770",
+    "Name": "WOK S\u00FC\u00DFkartoffel Curry dazu Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 3.30
+  },
+  {
+    "Hash": "44503020-321e-eb4a-1c8e-d03ae802bfdf",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470084,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "1a12b474-b8b7-1c35-105d-353437ab400b",
+    "Name": "Brokkoli",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4ca3dead-db09-1b56-859c-18eaaa06765e",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "e990a1df-3a66-0015-ea6d-5c51f72ccf77",
+    "Name": "Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
