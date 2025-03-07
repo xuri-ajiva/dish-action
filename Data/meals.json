@@ -42388,5 +42388,50 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "ec6218ec-6c74-de4a-dcfa-58d069165bf1",
+    "Name": "Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 4375116,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.35
+  },
+  {
+    "Hash": "46c8525b-3446-f98b-a700-3a6d44f17da4",
+    "Name": "Pasta mit Champignons - Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "2f092e52-13be-8041-50ac-21c54d7cf74c",
+    "Name": "Pasta mit Champignons Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "72f130b7-5074-0384-0bd1-1c14c09f41d0",
+    "Name": "Pasta mit Champignons Chili | Zwiebeln | Knoblauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "67c6a536-8eb1-5af1-9052-15b2f0827cdf",
+    "Name": "Currywurst Schwein | Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 157303040,
+    "Location": "Mensa",
+    "Price": 5.30
   }
 ]
