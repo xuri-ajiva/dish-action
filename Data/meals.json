@@ -42433,5 +42433,86 @@
     "AllergensAndAdditives": 157303040,
     "Location": "Mensa",
     "Price": 5.30
+  },
+  {
+    "Hash": "723bc6aa-6aaf-6f95-1cf9-e50be722e4ae",
+    "Name": "Gem\u00FCsekorma mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32832,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "0fa64692-1a1b-531a-d0b9-090d5440133f",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "36881df6-717d-9fea-51d0-957acbe90fc7",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058117,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "d86479c6-4c12-6662-29db-7bc59cc1e94f",
+    "Name": "Frischk\u00E4sek\u00F6fte dazu Spinat-Mandel-Reis dazu ein scharfer Tomatendip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4848616640,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "aab9e0fd-bdbe-ad35-642a-5003a502be20",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen und Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "dbd0a7cc-bb5e-df24-63cb-f5f88df4a863",
+    "Name": "Gem\u00FCsekorma mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32832,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "9c49ef51-7665-c738-5aec-d0b37e4994cd",
+    "Name": "Polentarahmsuppe mit Champignons  und Baguette",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 83984448,
+    "Location": "Bistro",
+    "Price": 2.50
+  },
+  {
+    "Hash": "10fea144-d4d3-b4ab-9ee6-e4122d50c908",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058117,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "db583c01-1c59-0689-22ec-bf0865f69092",
+    "Name": "Frischk\u00E4sek\u00F6fte dazu Spinat-Mandel-Reis dazu ein scharfer Tomatendip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4848616640,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
   }
 ]
