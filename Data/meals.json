@@ -42514,5 +42514,14 @@
     "AllergensAndAdditives": 4848616640,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.00
+  },
+  {
+    "Hash": "933957b6-ceb6-3af6-c94b-643cdb25402a",
+    "Name": "Heringe nach \u0027Art des Hauses\u0027 mit Dampfkartoffeln",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 4375116,
+    "Location": "Mensa",
+    "Price": 4.35
   }
 ]
