@@ -42523,5 +42523,32 @@
     "AllergensAndAdditives": 4375116,
     "Location": "Mensa",
     "Price": 4.35
+  },
+  {
+    "Hash": "d4761b3d-b0f0-2930-bb8b-d5f861911f61",
+    "Name": "Hausgemachte Frikadelle dazu Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151276100,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "713409f7-4c88-c2ca-f93b-6f19a435ccad",
+    "Name": "Burger mit Red Bean Patty mit veganer Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16797216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "cf7693a3-d4ff-46cd-dba4-b408a50ea7b3",
+    "Name": "Hausgemachte Pasta mit Spinatinosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
   }
 ]
