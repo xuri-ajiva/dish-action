@@ -42658,5 +42658,14 @@
     "AllergensAndAdditives": 16777284,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.80
+  },
+  {
+    "Hash": "73e7d3b3-7b66-91b7-35ed-a3539b51e4eb",
+    "Name": "Grie\u00DFsuppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
