@@ -42667,5 +42667,41 @@
     "AllergensAndAdditives": 16777536,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "08315798-39e8-58b3-8ff1-7f1c37449726",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "c43dafc6-754c-a557-917f-9aa6917c67ea",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "f865289d-0de5-8eac-dbe3-244825d6a41e",
+    "Name": "Pizza Margherita mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "bbf1013e-222b-c800-4006-94abb9f0bd12",
+    "Name": "M\u00F6hren-Kokos Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886080,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
   }
 ]
