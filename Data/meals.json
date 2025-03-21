@@ -42703,5 +42703,104 @@
     "AllergensAndAdditives": 83886080,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.70
+  },
+  {
+    "Hash": "c9550e3f-560c-0892-c750-36b899b8cbfd",
+    "Name": "Blumenkohlcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3ad7582b-f591-9ded-811d-c8d326779d8f",
+    "Name": "Tomaten-Zucchinisauce auf Hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "414375e5-6dd8-3919-61b5-a3cf03e92ae2",
+    "Name": "Sahnesauce \u0027Els\u00E4sser Art\u0027 auf Hausgemachter Pasta",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17139776,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "bbaac114-0fd4-293c-a838-1e924cc311fb",
+    "Name": "WOK Tofu Orange-Ingwer dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "75e5cd25-0add-05e8-c8c3-1b78f4cd9c99",
+    "Name": "Kartoffelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "fa363876-b4fa-e870-eba9-0692c0afeb1b",
+    "Name": "Ungarischer Gulaschtopf mit Kartoffeln, Karotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.30
+  },
+  {
+    "Hash": "4e4483d2-64d1-7fa7-4717-fc2880e899e4",
+    "Name": "Blumenkohl-K\u00E4se Medaillon mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "c9303664-288e-9d35-410a-52ee2ab78e83",
+    "Name": "Rosenkohl Naur",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c0ce2619-4861-5f27-d175-2f667d55cd10",
+    "Name": "Kohlrabi Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "7389e142-c3d7-bd72-1648-c0114f1434e6",
+    "Name": "Reis  \u0027Risi Bisi\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "742b1d1d-bbb1-9da8-23b9-8c2f96633d70",
+    "Name": "Mischgem\u00FCse \u0027Natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
