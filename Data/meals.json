@@ -42802,5 +42802,68 @@
     "AllergensAndAdditives": 16384,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "314656a4-ad5e-7205-26c2-a173055a6271",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "025d93a3-3a1c-27e4-4a75-244b0fbad0c5",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058052,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "5ac0913a-f396-b4bd-c5e4-e249bfdbe1e0",
+    "Name": "Hausgemachte Kartoffelpuffer mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "1d747c98-bc34-60ae-177e-362efb6b49c1",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058052,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "a6870a3e-889e-f375-84fa-2d09ffe25672",
+    "Name": "Hausgemachte Kartoffelpuffer mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "34644136-5dbc-e864-6328-0ca910e464a5",
+    "Name": "Pasta Carbonara Ei I Speck Hausgemachte Pasta",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9a9c4843-bb68-d0a6-974f-284665038f61",
+    "Name": "Rindswurst Pommes Frites Currysauce",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 140624128,
+    "Location": "Mensa",
+    "Price": 5.50
   }
 ]
