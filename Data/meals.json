@@ -42865,5 +42865,149 @@
     "AllergensAndAdditives": 140624128,
     "Location": "Mensa",
     "Price": 5.50
+  },
+  {
+    "Hash": "3fba5211-4777-c7c4-ed38-dca19579298f",
+    "Name": "Tomaten-Basilikumsauce mit Hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "ac8a510c-d97e-24c5-f95c-bfccfb41894b",
+    "Name": "Gem\u00FCseschnitte mit Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549696,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "014f5b78-1a78-ff07-5e72-38b09b658a98",
+    "Name": "K\u00FCrbis-Carbonara mit Hausgemachter Pasta",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "56aa2d62-2612-8b9b-6950-27ef23f54eaf",
+    "Name": "Kartoffel-M\u00F6hrensuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "8096a087-7be6-2821-6117-a82538d3bd0e",
+    "Name": "Vegane Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Bistro - Bistro",
+    "Price": 4.00
+  },
+  {
+    "Hash": "4dd4ba8b-9333-2d1c-d399-bbc53f827059",
+    "Name": "WOK Tofu Pad Thai mit Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "d7c75679-1743-8667-e9cb-d93eb4485e15",
+    "Name": "Vegane Curry-Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4194304,
+    "Location": "Bistro - Bistro",
+    "Price": 4.50
+  },
+  {
+    "Hash": "73d760a8-81b7-643d-63b1-93a71dbae570",
+    "Name": "Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "312d8875-142f-b86b-dfc3-2eca4a14636d",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "91ac1fad-56a7-3839-282f-a9ff66387d63",
+    "Name": "Tomatencreme mit Baguette",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "82f931b3-0132-7f26-bfd2-0f4bcc9b223b",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ce722e96-28c9-7d46-f763-b1cd7e0fee5d",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4345331780,
+    "Location": "Marktrestaurant",
+    "Price": 4.80
+  },
+  {
+    "Hash": "2e19b194-d9ef-f5e9-7a43-c76171d9ef08",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Marktrestaurant",
+    "Price": 4.90
+  },
+  {
+    "Hash": "2ee767b9-2122-158d-3956-560a84f937aa",
+    "Name": "Gr\u00FCne Bohnen \u0027natur\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "3e402518-38ae-09b0-9062-a06c9de76415",
+    "Name": "Pasta Carbonara Ei I Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "fff5e087-dc16-6c93-0f9e-a02cededaf66",
+    "Name": "Currywurst Rind | Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 140624128,
+    "Location": "Mensa",
+    "Price": 5.50
   }
 ]
