@@ -43009,5 +43009,68 @@
     "AllergensAndAdditives": 140624128,
     "Location": "Mensa",
     "Price": 5.50
+  },
+  {
+    "Hash": "3bdd43a9-5700-26e8-1cd7-faf5202bdf90",
+    "Name": "Kohlrabicremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ee6edec8-46e0-0919-d289-b9d95be07460",
+    "Name": "Blumenkohlcurry",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d782e32f-a9ba-7e37-a898-6458a3eb35fd",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "579710af-157d-19dc-92aa-3b6724cf2d59",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e0253b5a-d6ce-471d-dad7-ad23d5a35c74",
+    "Name": "Hausgemachte Pasta mit einer Tomaten-Basilikumsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "615c3f32-01b7-550f-59ee-7261880dfb85",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis-Carbonara",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "ba55b085-ab67-7fa8-fdc9-e691c077352e",
+    "Name": "Beilagensalat Couscous",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16809984,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
