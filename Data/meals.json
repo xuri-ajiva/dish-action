@@ -43072,5 +43072,104 @@
     "AllergensAndAdditives": 16809984,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "498ebcee-ab2f-4049-fc3f-ed89e0fe0e85",
+    "Name": "Kichererbsen-Bohnenpfanne mit Paprika- Auberginenw\u00FCrfel dazu Kr\u00E4uterkartoffel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "3d88d58e-56b6-2be5-a26d-46d67677a69d",
+    "Name": "Paniertes Schnitzel mit Hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "06feae1d-cb7b-f162-d262-f7ae2005fa36",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ab5074f5-5772-ecf1-3776-dd0d516ccf78",
+    "Name": "Schweinegulasch \u0027B\u00FCrgerlich\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 264512,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "0f45cd2d-7dde-1f30-b343-3a7718a7af48",
+    "Name": "Wrap mit Gem\u00FCsecouscous und Korianderjoghurt (2,A,A1,G",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "a13dd5ca-644d-002c-7a4b-4bc71ba8141f",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "842b6cd3-084d-be2c-391a-6b18e81b5e58",
+    "Name": "Kichererbsen-Bohnenpfanne mit Paprika- Auberginenw\u00FCrfel dazu Kr\u00E4uterkartoffel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "07b869bc-bd37-a981-db5d-78925dcf8c92",
+    "Name": "Paniertes Schnitzel mit Hausgemachtem Kochk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "a31097ee-740c-ed45-784a-967774b1d4bb",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ff4adec7-b064-3600-f7d6-aad7b6340f7c",
+    "Name": "Schweinegulasch \u0027B\u00FCrgerlich\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 264512,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "9b14de43-2b5c-c6c1-7f23-4a30102b4d02",
+    "Name": "Wok Pad Thai mit Tofu und Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
