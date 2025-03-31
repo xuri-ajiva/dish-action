@@ -43171,5 +43171,23 @@
     "AllergensAndAdditives": 16810032,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "d7171911-c0f9-24aa-c60a-0a2dc9e96a6a",
+    "Name": "Gem\u00FCsecreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2655fdb3-44bf-3522-6517-1ae38db44897",
+    "Name": "dazu Apfelrotkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
