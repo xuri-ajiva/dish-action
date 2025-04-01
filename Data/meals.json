@@ -43189,5 +43189,68 @@
     "AllergensAndAdditives": 67584,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "ff618584-e5ce-6d20-d0d4-bc8d88f1363d",
+    "Name": "Gem\u00FCsecremsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "45457ff8-e8a8-5253-20c3-c54f5bbfa0b0",
+    "Name": "Gem\u00FCsecurry Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f9bc03dd-2e74-a77a-33ea-009d8a3d53bf",
+    "Name": "WOK Scharfer Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859696,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8286d235-a2d8-507e-2739-1073c50b7ba1",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "1a1826ef-22a3-d366-0a48-3dfb48b389f4",
+    "Name": "Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "bd6f1080-959c-4c92-4d80-6894155bf4db",
+    "Name": "Kichererbsen-Bohnenpfanne mit Paprika-Auberginenw\u00FCrfel dazu Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "4522d302-9e65-73ee-8d5b-d714448ef56c",
+    "Name": "Pad Thai Tofu | Champignons | Sojasprossen | Koriander | Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
