@@ -43306,5 +43306,140 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "e97681b5-3b7e-a9f1-45d0-0e2530e8909e",
+    "Name": "Semmeltaller  mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "5f538b2b-5577-7267-802a-82a6f76aa0ba",
+    "Name": "Paniertes Schnitzel mit Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "5bcfad1c-1eed-3ab9-b1b1-b70173fdec91",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Pastinaken und Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "da30db15-2c8b-4417-8f40-103e0a7c04ee",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Pastinaken und Erbsen mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "1dc17ecc-389e-0ce0-2960-cd57e441cba5",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "03488339-fa99-aa2f-644a-2f1a4524ea58",
+    "Name": "Mandarinenquark",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "0af3c86f-ee57-3b06-f8c0-8bb7ed164480",
+    "Name": "Semmeltaller  mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "ce110ce7-8044-bc4e-2249-fd10f12192cc",
+    "Name": "Paniertes Schnitzel mit Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 261,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "fc983356-27e6-e570-6b67-c36bfa02f6b2",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Pastinaken und Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "db3cb466-40b3-b51d-3241-fb95be34d082",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Pastinaken und Erbsen mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "38072ac7-ded1-344f-871a-fd26b4ba2dee",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "979bcde3-ae56-1370-6183-301ef374c1de",
+    "Name": "Wokpfanne Brokkoli | Paprika | Erdnusscreme | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "9411efad-1599-c226-7950-a1a4b255a92c",
+    "Name": "Beilage Gurkensalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "9223b435-4f6b-b379-2e7d-f3cd86fa6f72",
+    "Name": "Warmes Topping f\u00FCr die Salat Bowl: Falafel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.80
+  },
+  {
+    "Hash": "5a21ae33-c41a-0039-1e8e-eeb6dccaeb57",
+    "Name": "Cheeseburger Rindfleisch | Tomate | Gurke | criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 7.60
   }
 ]
