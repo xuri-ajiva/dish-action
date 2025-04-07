@@ -43441,5 +43441,23 @@
     "AllergensAndAdditives": 20989508,
     "Location": "Mensa",
     "Price": 7.60
+  },
+  {
+    "Hash": "d228dd2b-2145-c868-cdde-53db0d8d1a57",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4345331780,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "08327b02-ef2c-0fcf-41aa-a3746ecb6281",
+    "Name": "Wokpfanne Brokkoli | Paprika | Erdnuss | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
