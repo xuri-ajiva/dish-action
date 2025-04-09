@@ -43459,5 +43459,77 @@
     "AllergensAndAdditives": 16,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "9613db36-e0be-ee6f-9993-8bda1ec9e07c",
+    "Name": "Linsencreme-Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "bdf5cee2-b5ce-7d7b-3a8b-f7234f6769a2",
+    "Name": "Semmeltaler mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "832c13ab-a6ce-5f72-be0d-27d89821671e",
+    "Name": "Aprikosenquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "3dff577f-ff37-ff91-fdb4-3664c6218c81",
+    "Name": "Karottencurrysuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2042fbd3-a035-ea91-fdec-0a0be82c7698",
+    "Name": "Semmeltaler mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f4de11aa-9baa-cac6-f359-35cb996313e6",
+    "Name": "Kirschenmichel mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1627390052,
+    "Location": "Bistro",
+    "Price": 2.80
+  },
+  {
+    "Hash": "55ad5c00-b2f0-8314-3288-0ec99b459127",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Marktrestaurant",
+    "Price": 4.80
+  },
+  {
+    "Hash": "65db5250-181f-a7fd-cb60-40e1f4cddf2d",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Marktrestaurant",
+    "Price": 4.50
   }
 ]
