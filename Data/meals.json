@@ -43531,5 +43531,32 @@
     "AllergensAndAdditives": 33554432,
     "Location": "Marktrestaurant",
     "Price": 4.50
+  },
+  {
+    "Hash": "cdbbcbb5-5020-c155-8a0f-472b2401a5db",
+    "Name": "Milchreis mit Sauerkirschsauce mit Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "07becbc8-8bda-224c-323e-5ee19a262f84",
+    "Name": "K\u00FCrbiscremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "cd1355df-885a-a478-a098-33790f41e9df",
+    "Name": "Milchreis mit Sauerkirschsauce mit Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
   }
 ]
