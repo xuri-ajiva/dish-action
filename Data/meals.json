@@ -43558,5 +43558,221 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.30
+  },
+  {
+    "Hash": "c9f1b182-6ac5-55fa-b39d-296ad9b59973",
+    "Name": "Gnocchi mit B\u00E4rlauch und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "191f71ab-a717-064b-71f3-b42e797dec4c",
+    "Name": "Risotto mit Champignons, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "4f1caad5-e0c6-fc16-6640-95021cde9690",
+    "Name": "Solero-Orange Dessert im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "d1f2a277-a453-458c-2973-a99a22670373",
+    "Name": "Gr\u00FCnkern-B\u00E4rlauchbratlinge mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "3c89c61c-ba6f-cc1f-7e68-0871bc04d3c4",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauchpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "a691d2c5-6510-f3ef-11af-97e208ef5265",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123652,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "0c8ff806-6582-ca7a-7db1-50de88fc310c",
+    "Name": "Kartoffel-B\u00E4rlauchsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c245ffdc-ef0e-4bb4-0bce-9116c78e6993",
+    "Name": "Kartoffel-B\u00E4rlauchsuppe dazu eine Rindswurst",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195776,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "5c18f2cf-6425-59d7-9c0a-fcb0de60fff3",
+    "Name": "R\u00FChreier mit Rahmspinat und Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "dda5520f-7ee8-4fbc-508d-80c15e2baea9",
+    "Name": "Seelachsfilet mit B\u00E4rlauchmarinade und Gem\u00FCse-Buchweizen mit B\u00E4rlauchpesto",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 72,
+    "Location": "Mensa",
+    "Price": 6.20
+  },
+  {
+    "Hash": "838053b0-f429-048d-f362-3ab674bf608a",
+    "Name": "Gnocchi mit B\u00E4rlauch und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "775a1490-22f7-c139-3a80-4f2f85f3c589",
+    "Name": "Risotto mit Champignons, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "f012aa0b-9319-0f4a-ffb4-88393fb38460",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauchpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "3446a3ad-00c7-78c5-3011-214cfa12c743",
+    "Name": "Solero-Orange Dessert im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "25fb3967-c6f2-b378-aa0a-75b0d3139c1e",
+    "Name": "Gr\u00FCnkern-B\u00E4rlauchbratlinge mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "f42394c5-c4a0-73dd-6619-761ce00dfe8d",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauchpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "cb788b76-26b3-390c-a635-24d81650ca59",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123652,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "cbeb155d-8c38-524f-de35-64a2e309438b",
+    "Name": "Kartoffel-B\u00E4rlauchsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b477f722-1c8d-f376-1329-10488336f13a",
+    "Name": "Kartoffel-B\u00E4rlauchsuppe dazu einem Paar Wiener-W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195776,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "3c62c313-56a2-0634-6b22-6ad9ecc2e62e",
+    "Name": "R\u00FChreier mit Rahmspinat und Salzkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "e6bdec85-788d-54a1-18e6-c29642782e88",
+    "Name": "Seelachsfilet mit B\u00E4rlauchmarinade und Gem\u00FCse-Buchweizen mit B\u00E4rlauchpesto",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 72,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.20
+  },
+  {
+    "Hash": "b9f846b3-bcff-807c-0daa-900057fc1e41",
+    "Name": "Pad Thai Champignons | Sojasprossen | Karotten | Erdnusskerne | Koriander | Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "50cdf6fb-dc9a-d916-e8fc-d5b416934c0c",
+    "Name": "Currywurst Schwein | Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 157303040,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "53472a32-c999-2f15-7521-d26edbe5ffb4",
+    "Name": "Gnocchi mit B\u00E4rlauch und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
