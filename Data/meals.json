@@ -43837,5 +43837,104 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "df3e159d-c28f-330c-865e-498850dc5cab",
+    "Name": "Cordon bleu vom Schwein mit Pfefferrahmsauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17156160,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "5864aa17-b390-5a9c-2b5b-2786ddbfbf15",
+    "Name": "Kroketten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "9abbbeb6-4c58-ac45-62d7-68daed4784a5",
+    "Name": "Kohlrabicreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "756d89ad-24ce-0695-015a-67ab2a7f1523",
+    "Name": "Karottencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "fb34e5e2-507b-355f-6b6e-c8b9e728576e",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauchpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ddf27f52-12fd-9ac6-765b-26ff80e9b92f",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch dazu Couscous",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "8bff3ff9-d8b1-345a-a794-6c948106c425",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Marktrestaurant",
+    "Price": 4.60
+  },
+  {
+    "Hash": "1a6bde05-ad99-d81c-b487-5657cdf8c2e9",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Marktrestaurant",
+    "Price": 4.90
+  },
+  {
+    "Hash": "9b97c385-c804-eb51-bc53-98a0a4a5939f",
+    "Name": "Currywurst Schwein | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 157303040,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "4aad2ffe-9216-ca16-be5e-aa954a590c62",
+    "Name": "Gem\u00FCsecreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "75b9af0e-d4bc-96d9-c058-45085f9981ad",
+    "Name": "Vegane Curry-Bratwurst",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971520,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
