@@ -43936,5 +43936,23 @@
     "AllergensAndAdditives": 20971520,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "f2e4f63d-e844-9c5d-a50f-0873ccb48063",
+    "Name": "Hausgemachte Pasta mit Tomaten-Knoblauchsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "b07a5508-ca46-68ac-8df0-e90d5bf13733",
+    "Name": "Hausgemachte Pasta mit Tomaten-Knoblauchsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
   }
 ]
