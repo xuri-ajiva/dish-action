@@ -43954,5 +43954,86 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Marktrestaurant",
     "Price": 2.00
+  },
+  {
+    "Hash": "b87c390a-6e44-f3a8-b0ab-c73fb2e57c6e",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331648,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "94d91dcb-d646-6af0-a5aa-c8c2e3ce2850",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331712,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f5b65f7a-7615-d78b-7ed1-2ca61fc89fb6",
+    "Name": "B\u00E4rlauch-Karotffelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d14a5d79-af4e-927b-eb6d-01bc6b91b111",
+    "Name": "Shakshuka",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "7e0790cd-6899-c265-0c9c-f2e89a7ffe83",
+    "Name": "Brokkolicreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "a79111d9-8baf-df88-e830-b2d5ad58e42b",
+    "Name": "Gr\u00FCnkern-B\u00E4rlauchbratlinge mit Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "ea7a4e8d-75ee-9469-323e-38fa1770b56d",
+    "Name": "Shakshuka",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "a98af363-70f9-9af0-39f8-a92ef35da772",
+    "Name": "Hausgemachte Pasta in einer Kr\u00E4utersahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "b00ad3a4-2504-3596-fde6-09d4e2501fa3",
+    "Name": "Currywurst Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 6389760,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
