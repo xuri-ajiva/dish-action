@@ -44035,5 +44035,50 @@
     "AllergensAndAdditives": 6389760,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "b828c4c4-f044-ee70-d83f-bba158b8d16a",
+    "Name": "Curry-Rahmwirsing Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870944,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "577ddb61-90e4-c2b2-9898-51447c85205e",
+    "Name": "Gem\u00FCsecrem-Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "221f9999-cef2-d32c-29ed-8031462b971d",
+    "Name": "Currywurst Rind | Wedges",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 157401344,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "a4f22030-3e53-aa2f-70b6-b41f72834bb9",
+    "Name": "Karotten Curry Suppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f1679b96-101b-b823-3cca-5d0d6781d561",
+    "Name": "Lauchgem\u00FCse a\u00B4la creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
