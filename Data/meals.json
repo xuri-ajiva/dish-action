@@ -44305,5 +44305,86 @@
     "AllergensAndAdditives": 16957472,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "b83b72ac-985b-4891-e8f3-d6c7ccc70505",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301536,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "72d8b818-2482-db64-142d-2fe58e020596",
+    "Name": "Kartoffel-Spinatcreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "95390a01-bf2d-9777-bd1a-f4317dd4993b",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "fb7c41c9-e377-0844-a012-aeb67e8d24e6",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301536,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "323ceedd-4c87-a9b2-d142-4aaf551ce347",
+    "Name": "Karottencreme Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2f7e2514-b86d-2fdf-b159-e1f223e5e39a",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886080,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "81a47e97-07a7-c567-2158-42f4f9279389",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301536,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "3472430f-0849-3ad7-b859-9caa2fb27245",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301536,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "64b3fafb-5472-d3fa-fabf-cb5fbc05b123",
+    "Name": "Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
