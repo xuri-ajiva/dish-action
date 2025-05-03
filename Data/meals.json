@@ -44431,5 +44431,203 @@
     "AllergensAndAdditives": 17301536,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.00
+  },
+  {
+    "Hash": "2480dc99-96ce-3528-2d68-492cac87ed3f",
+    "Name": "Fruchtige Gem\u00FCse-Tajine mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "bf264b94-fbc5-1fe1-3061-f0dfaaac9d9a",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "f5364657-f6cd-ba84-65ba-8a4c160a1838",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "849d8ba3-6641-800b-0cab-6b75fa9accc2",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "1144fe80-08e0-a4b6-adb9-670ffa810b37",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16809989,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "25e163b4-60b8-77fc-e0f6-a66d5dc3b4c8",
+    "Name": "Paniertes Schnitzel mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778052,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "270ae4b2-cbd2-8a20-ada7-2e05dc669a11",
+    "Name": "Rote Beete-Bratling mit Bulgursalat und veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285313024,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "54fdd182-8874-15c7-ac6d-782a9a572533",
+    "Name": "Burger mit Linsen-Gem\u00FCsebratling, Salsa und einer pflanzlichen Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151013920,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "6b9b17a9-2602-7f5e-7a2a-603964b51323",
+    "Name": "Risotto mit Champignons, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "96b703a1-5b53-3280-da93-3d0c1efedc3c",
+    "Name": "Gegrillter Schweinebauch mit Honig-Senfsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041952,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "8e651b20-af31-9fe3-639d-4359b67e4c0d",
+    "Name": "Bowl Mediterran mit hausgemachter Pasta , Oliven, Zucchini und Aubergine",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16861249,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "947cb2e5-f3c5-411e-bf82-90da0ce553d9",
+    "Name": "Fruchtige Gem\u00FCse-Tajine mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "5356d50c-06bf-a46f-d1e8-a18d7c408d3b",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Marktrestaurant",
+    "Price": 2.50
+  },
+  {
+    "Hash": "1b23961e-a273-79ef-001b-047e280271ce",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16809989,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "507e997c-ce2e-3dda-2b27-05dc02d84dc8",
+    "Name": "Paniertes Schnitzel mit Gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778052,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "96b9b6a3-4b8d-448e-7ad5-8a0c5b82f2f9",
+    "Name": "Rote Beete-Bratling mit Bulgursalat und veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285313024,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "560edb6b-3f60-04b4-3d3c-ed84cf61161e",
+    "Name": "Burger mit Linsen-Gem\u00FCsebratling, Salsa und einer pflanzlichen Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151013920,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "c9f914ea-dd55-eb0b-0a48-d16b48b0f025",
+    "Name": "Risotto mit Champignons, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "7b0984eb-8e4d-5716-7153-fc1aedd7e029",
+    "Name": "Gegrillter Schweinebauch mit Honig-Senfsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041952,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.30
+  },
+  {
+    "Hash": "664b0271-ee90-be55-d23d-b9894fa54247",
+    "Name": "Bowl Mediterran mit hausgemachter Pasta , Oliven, Zucchini und Aubergine",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16861249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.30
+  },
+  {
+    "Hash": "cdceb670-4ed5-4bde-7a3e-d6c0baec494d",
+    "Name": "Falafel Burger Cole Slaw | Soja-Minz-Dip | ger\u00F6stete Paprika | Hummus | Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66593,
+    "Location": "Mensa",
+    "Price": 7.20
+  },
+  {
+    "Hash": "82a46c2d-0be7-467d-77ef-e7550e9e87dd",
+    "Name": "Falafel Burger Cole Slaw | Soja-Minz-Dip | ger\u00F6stete Paprika | Hummus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66593,
+    "Location": "Mensa",
+    "Price": 7.20
   }
 ]
