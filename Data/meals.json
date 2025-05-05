@@ -44629,5 +44629,68 @@
     "AllergensAndAdditives": 66593,
     "Location": "Mensa",
     "Price": 7.20
+  },
+  {
+    "Hash": "f103c23d-551c-f82f-e166-d67bbfda2579",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "e035ca2c-22ee-4223-6bc4-f4a5100700d9",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "87dfe6fe-2d4a-8fde-03d4-8a11b8cca2f4",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "3fee058a-3f0c-abb6-7f4e-652dbf96cd13",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 4.90
+  },
+  {
+    "Hash": "962bd5b9-3b2e-c34e-1a48-8ed9c27171cc",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4311777348,
+    "Location": "Marktrestaurant",
+    "Price": 4.80
+  },
+  {
+    "Hash": "4ab7cd7d-bc67-4a30-5cca-15886f056de2",
+    "Name": "Falafel Burger Soja-Minz-Dip | ger\u00F6stete Paprika | Hummus | Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66593,
+    "Location": "Mensa",
+    "Price": 7.20
+  },
+  {
+    "Hash": "45b0c145-e567-8c00-5f2e-01ebc2652347",
+    "Name": "Falafel Burger Soja-Minz-Dip | ger\u00F6stete Paprika | Hummus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 66593,
+    "Location": "Mensa",
+    "Price": 7.20
   }
 ]
