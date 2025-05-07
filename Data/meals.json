@@ -44692,5 +44692,59 @@
     "AllergensAndAdditives": 66593,
     "Location": "Mensa",
     "Price": 7.20
+  },
+  {
+    "Hash": "556420fb-1c13-8989-13c1-a944cf1e3b12",
+    "Name": "Milde Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "fa17c56b-e032-661a-d4ef-966d8a942445",
+    "Name": "Schwarzwurzel \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "0872f2a4-2580-7380-6d50-bc1f738b763a",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 4.60
+  },
+  {
+    "Hash": "71462c28-b3f9-fa9f-6405-49280bbeaf6d",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 4.90
+  },
+  {
+    "Hash": "feb085ec-9d02-43d3-1a61-979aae2ee4b2",
+    "Name": "Falafel Burger Soja-Minz-Dip | Salat | ger\u00F6stete Paprika | Hummus | Pommes frites",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 66657,
+    "Location": "Mensa",
+    "Price": 7.20
+  },
+  {
+    "Hash": "0fdfbebd-dca5-fa24-1c4a-a6c9d86b403b",
+    "Name": "Pasta mit M\u00F6hrengr\u00FCn-Pesto M\u00F6hrengr\u00FCn | Sonnenblumenkerne | Knoblauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
