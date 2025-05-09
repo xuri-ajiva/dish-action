@@ -44746,5 +44746,50 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "f3344833-eb9e-0340-30f1-875ff90f9d1c",
+    "Name": "Blumenkohlcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3b51a7a5-23b1-2749-b7d2-c93866716b2a",
+    "Name": "Mediterrane Gem\u00FCsesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "a5fe0579-21c7-7e93-a9fa-96a67497a43d",
+    "Name": "Kohlrabicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "bfd4bd48-8cea-d509-47fb-0b2277111db9",
+    "Name": "Mischgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f8d2cc78-da35-ba3f-36c8-bbf2c4f24c5c",
+    "Name": "Dessert Pudding Vanille | Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
