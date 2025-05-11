@@ -44791,5 +44791,149 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "d3e57e4b-2cd6-edd6-7c02-0dc3ca6457ba",
+    "Name": "Hausgemachter Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "caff71d6-a4b1-a994-2cdc-0a8c71340393",
+    "Name": "Hausgemachte Pasta mit einem Petersilien-Nusspesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "b6b9be99-35d8-89c4-65ea-25b5f534d8e3",
+    "Name": "Gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "a12a03fb-e85c-e325-9fae-743a8786b58f",
+    "Name": "Quinoa-Bratling mit Salat und einem Soja-Erdnuss Dressing",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268501041,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "aee3e220-254f-f6cd-b5e7-0c5d6e9a93c2",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "b72c6f90-8b49-811d-3880-26b4d3f4cee8",
+    "Name": "Curry Bowl mit Wildlachs, Basmatireis und Currygem\u00FCse",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1032,
+    "Location": "Mensa",
+    "Price": 6.00
+  },
+  {
+    "Hash": "38207435-3eb4-8cc6-b6da-195c62bff582",
+    "Name": "Hausgemachter Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "bdbd3ec1-2a28-bff0-cb4d-73d48f7b471c",
+    "Name": "Hausgemachte Pasta mit einem Petersilien-Nusspesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "ed521705-3c61-92d8-f47a-26e59642b709",
+    "Name": "Himbeerquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "3fc57866-82b8-d48d-9d00-cf5d0391f8e5",
+    "Name": "Gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "2daa03e5-4753-65e9-11ce-fb22ce73e9b6",
+    "Name": "Quinoa-Bratling mit Salat und einem Soja-Erdnuss Dressing",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268501041,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "ae5207d3-680a-d49a-b09a-017b54453812",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "7f7e7a2d-2756-ce49-d210-13cceeae889f",
+    "Name": "Geschmorte Champignons dazu Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435457,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "fd2932e3-8d97-dd8c-84c5-c34583a2c659",
+    "Name": "Curry Bowl mit Wildlachs, Basmatireis und Currygem\u00FCse",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1032,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.00
+  },
+  {
+    "Hash": "eb08984b-2e71-06e3-b499-f08e40e8a045",
+    "Name": "Dessert Fr\u00FCchteschnee mit Erdbeere",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "12cf1531-7e42-4a53-7556-e395fa5cef00",
+    "Name": "Currywurst Rind | Criss Cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 157401344,
+    "Location": "Mensa",
+    "Price": 5.60
   }
 ]
