@@ -44935,5 +44935,50 @@
     "AllergensAndAdditives": 157401344,
     "Location": "Mensa",
     "Price": 5.60
+  },
+  {
+    "Hash": "ba9abe66-5e20-8816-cdcb-2a791a19e85f",
+    "Name": "Karotten Ingwersuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ed018c79-97b9-22cb-5ef8-e7994fea5ba9",
+    "Name": "Rote Bete Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ccc63f8e-0311-dbf1-7ce5-440cb31a6ed3",
+    "Name": "Mexikanische Wurstpfanne vegan mit Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Bistro - Bistro",
+    "Price": 4.50
+  },
+  {
+    "Hash": "6a004b0e-13fb-f297-d70d-8ccefeeb0164",
+    "Name": "Gebackener Hirtenk\u00E4se mit Tsatsiki",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "0a071c5a-0e18-d006-0af2-2b5ce39f9c9c",
+    "Name": "Blumenkohl mit Semmelbr\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793600,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
