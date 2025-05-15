@@ -44980,5 +44980,95 @@
     "AllergensAndAdditives": 16793600,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "ba2eb251-cd71-2c22-b828-cc393b406383",
+    "Name": "Rote Bete Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "645d4968-f28f-ab25-05d1-b95846d41906",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "d87478a7-3f55-5553-0b5a-1faa710d0cd6",
+    "Name": "Linsensuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "cc345db1-06e7-1bcb-2a2d-fb97d2293a18",
+    "Name": "Mexikanische Wurstpfanne vegan mit Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 4.50
+  },
+  {
+    "Hash": "7b89b49e-7010-3b08-7df2-51007d3f2d6d",
+    "Name": "K\u00FCrbissuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "11a0ba47-806d-0504-f36d-c0bdaa4fb733",
+    "Name": "Blumenkohl-K\u00E4se-Medaillon in einer Kr\u00E4utersahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "5c52d157-e739-14b0-0588-371bbb44b4f0",
+    "Name": "Mexikanische Wurstpfanne",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2211840,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "ef6fe409-ef04-e1be-6ca8-bedeba1578e9",
+    "Name": "Blumenkohl mit Margarine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "ef8b4aa3-cac7-0edc-5177-e095d58ad464",
+    "Name": "Grie\u00DFbrei mit Erdbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "251ebde7-87a3-3e9a-1c2c-5b601fbbe43e",
+    "Name": "Kokos-Currysuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
