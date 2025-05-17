@@ -45070,5 +45070,158 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "579745eb-d3a6-ad3f-6f97-57e2246fceca",
+    "Name": "Pasta mit Spargel, Tomaten u. ger\u00F6steten Pinienkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "2f05bb8f-0620-c296-b2de-7d7bfe5e97f7",
+    "Name": "Risotto mit gr\u00FCnem Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "67edae0b-a1a5-8677-48fa-eaa85fa559d2",
+    "Name": "Schweiner\u00FCckensteak Spargelgem\u00FCse Petersilienkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 6.10
+  },
+  {
+    "Hash": "55e2c8e5-7e59-588a-dc41-4e6e2dad73ee",
+    "Name": "Frischer Stangenspargel mit Sauce Hollandaise dazu Kartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 131396,
+    "Location": "Mensa",
+    "Price": 8.00
+  },
+  {
+    "Hash": "2e4b5e7f-0c48-d3d4-cb0c-0abc3a9bee73",
+    "Name": "Schweinegulasch \u0027Z\u00FCricher Art\u0027 mit Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "baf78abe-c6d6-4c49-fe2b-08ec679ca6c6",
+    "Name": "Gebratener Spargel mit Kartoffeln und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "95ca3995-31c8-546f-74ff-3905603c9bba",
+    "Name": "Spargel Bowl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844800,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "1f18b7bb-4e62-a4f5-97a0-802fe4623b9d",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "6c969035-eebc-4085-0001-b9a3dff18dc2",
+    "Name": "Pasta mit Spargel, Tomaten u. ger\u00F6steten Pinienkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 4.00
+  },
+  {
+    "Hash": "0a6da71d-cbd6-b181-50a0-f200c367a11a",
+    "Name": "Risotto mit gr\u00FCnem Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "79dc7c46-834c-8178-4637-c509a93aa713",
+    "Name": "Kohlrabi",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "0ce446a8-1f91-12e2-bbd0-5c33f21ffe26",
+    "Name": "WOK Tofu Pad Thai mit Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ff5aef88-ffb6-58c0-8a10-6d31da0246cf",
+    "Name": "Schweiner\u00FCckensteak Spargelgem\u00FCse Petersilienkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.10
+  },
+  {
+    "Hash": "2256f33f-8f5b-0799-2519-f18a7d43c56b",
+    "Name": "Frischer Stangenspargel mit Sauce Hollandaise dazu Kartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 131396,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 8.00
+  },
+  {
+    "Hash": "6a756597-b960-cb9e-99ae-b04fce268551",
+    "Name": "Schweinegulasch \u0027Z\u00FCricher Art\u0027 mit Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "598ea87e-2b1a-7c16-8784-40a7c7e815df",
+    "Name": "Gebratener Spargel mit Kartoffeln und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "be553d1b-5502-7143-813a-201d178490f5",
+    "Name": "Spargel Bowl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844800,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.40
   }
 ]
