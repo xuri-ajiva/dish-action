@@ -45223,5 +45223,23 @@
     "AllergensAndAdditives": 16844800,
     "Location": "Otto-Berndt-Halle",
     "Price": 5.40
+  },
+  {
+    "Hash": "a773a9d4-584e-dbf8-54e0-7bfdbbcb6956",
+    "Name": "Hausgemachte Pasta mit Wildlachs in Gem\u00FCsesahnesauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777544,
+    "Location": "Marktrestaurant",
+    "Price": 2.90
+  },
+  {
+    "Hash": "efc0ca39-40cd-af68-0499-50272d66282a",
+    "Name": "Curry Bowl mit Wildlachs, Basmatireis und Currygem\u00FCse",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778248,
+    "Location": "Mensa",
+    "Price": 6.00
   }
 ]
