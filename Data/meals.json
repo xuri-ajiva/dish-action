@@ -45241,5 +45241,41 @@
     "AllergensAndAdditives": 16778248,
     "Location": "Mensa",
     "Price": 6.00
+  },
+  {
+    "Hash": "d48fd5b9-821a-3462-205d-b6c30fb0b49e",
+    "Name": "Linsencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "00b359c0-77ec-31b9-ec44-8c0ea5bbd89f",
+    "Name": "Spargelgem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "69fb68f9-d07b-3ff6-fe6b-414dea43c8d3",
+    "Name": "Linsencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f3fb2828-bf4b-b8ef-12cc-1b203e461448",
+    "Name": "Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793600,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
