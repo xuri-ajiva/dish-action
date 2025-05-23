@@ -45277,5 +45277,68 @@
     "AllergensAndAdditives": 16793600,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "b6db3e5c-c054-b453-4a02-b6bacfabe384",
+    "Name": "Reispuffer mit buntem Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310048,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "78bf782c-2a37-dc69-912e-915879f69d53",
+    "Name": "Kartoffelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b3865ba4-d7e3-8652-3862-7f03e9a912f3",
+    "Name": "Spargelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "4dfbe845-7366-11c0-9d48-5b044211d6d2",
+    "Name": "Maiskolben",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
+  },
+  {
+    "Hash": "18c7ab18-3984-ec29-8072-bb3cb76ff773",
+    "Name": "Schwarzwurzel \u00E0 la cr\u00E8me",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "43e928e1-4c7b-21bd-20c6-e8fc97608043",
+    "Name": "Maiskolben",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "e54434d3-0228-41a4-31e6-ed4889b34cfb",
+    "Name": "Gebackener Seelachs mit Sauce tatare und einer Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
