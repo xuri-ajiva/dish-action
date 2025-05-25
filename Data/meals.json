@@ -45340,5 +45340,68 @@
     "AllergensAndAdditives": 151063372,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "79752e9f-15c3-1851-2133-3dd5d3b99300",
+    "Name": "Hausgemachte Pasta mit Tomaten-Olivensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "ec8a373f-c8a3-461c-faa4-48fc2dba4f33",
+    "Name": "Maiskolben",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "a25b98ff-3bf1-039e-f815-ba657fd67077",
+    "Name": "Grillbraten vom Schweinenacken dazu eine Tomatensalsa",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "d9e53c55-9eff-e098-64c9-b0e103ff6e86",
+    "Name": "Hausgemachte Pasta mit Tomaten-Olivensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Marktrestaurant",
+    "Price": 2.10
+  },
+  {
+    "Hash": "b0b814c8-6487-6f04-700e-b1e31978c0f1",
+    "Name": "Kalte gr\u00FCne Erbsensuppe mit Baguette",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 83886144,
+    "Location": "Bistro",
+    "Price": 2.20
+  },
+  {
+    "Hash": "185e2b6d-9da4-a311-1ac8-24508933a0db",
+    "Name": "Grillbraten vom Schweinenacken dazu eine Tomatensalsa",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "f8174432-e82b-68bb-3264-092a956deee1",
+    "Name": "Dessert Rhabarberkompott Sahne | Milch | Vanillepudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
