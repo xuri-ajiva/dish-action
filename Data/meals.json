@@ -45403,5 +45403,32 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "b0c59d28-5abe-82f8-3dea-b02b82ed3930",
+    "Name": "Gem\u00FCsesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "40c0cde2-2a5c-75b8-1563-938757e97831",
+    "Name": "K\u00FCrbis-Kokos-Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d6373135-93ac-e12e-9b9b-88cc8455aa93",
+    "Name": "Milchreis mit Blaubeeren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
