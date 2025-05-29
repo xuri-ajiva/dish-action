@@ -45430,5 +45430,77 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "a5759e0d-6776-8975-75c5-e9a21efc2c82",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "b641176b-bd08-7444-022d-ed260a91b1a9",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "a14b1d64-6171-f0ac-070e-6f8ec0e1f9b9",
+    "Name": "Asiatische Gem\u00FCsesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e06c5e7e-d300-1830-8afc-97c14bb7d1e1",
+    "Name": "Zwiebelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "156de1c4-8e25-3106-1aef-87cbc80ad061",
+    "Name": "Hausgemachte Pasta mit Tomaten-Olivensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "b62d4f08-946b-a5dc-1cd5-8eb763dac073",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "34da8da7-f282-0c56-a3c5-85763099a94b",
+    "Name": "Kartoffelgratin",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "3ae6463f-20ba-f02c-6e72-7f9d7a46ff80",
+    "Name": "Soja Chili mit Bohnen und Mais dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.40
   }
 ]
