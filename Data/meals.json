@@ -45502,5 +45502,221 @@
     "AllergensAndAdditives": 32,
     "Location": "Mensa",
     "Price": 2.40
+  },
+  {
+    "Hash": "59742c7e-b8d1-7b6c-a195-cad32b684e6f",
+    "Name": "K\u00FCrbiscurry mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1088,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8adaeb0b-98c4-86e3-2d9a-f5812ae4806f",
+    "Name": "Hausgemachte Pasta mit Paprika-Koriander Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 49217,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a439f95f-22e7-44d3-d11e-5d56dcca817a",
+    "Name": "Rote Beete Cous cous dazu gebackene rote Beete und ein Sojajoghurt-Minz Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "2d7b1582-c816-27cf-8bd7-030b71a530fd",
+    "Name": "Spaghetti a\u00B4ll Amatriciana",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "1821eec4-23b1-060a-5b61-d7c5ccbee88a",
+    "Name": "Gem\u00FCsecurry in scharfer Kokossauce dazu Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "6c7b1665-be6e-6fae-a9da-fbbece1591f5",
+    "Name": "Arroz caldero",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "86716286-feb8-6dd9-be2a-e796072524a0",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "8e842e53-a7a1-6375-21d3-4f9afcb2059e",
+    "Name": "Irish-Stew",
+    "Image": "2a5ba272-5db6-1037-c5db-1413d20f5500",
+    "Category": 8,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "f53b90f5-4d0d-84e1-f56a-b11a2e61ad44",
+    "Name": "Orientalischer Hirsetopf mit Rosinen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "0780609f-9b60-279b-037f-c23d822817ae",
+    "Name": "Griechische Bowl mit Oliven, Schafsk\u00E4se,Tsatsiki und Pizzabrot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301568,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "fa95ffdc-bfbc-8599-3a27-016c16c7747a",
+    "Name": "K\u00FCrbiscurry mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1088,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "b6738b7b-5e50-ca65-8652-b2c9466f9d95",
+    "Name": "Hausgemachte Pasta mit Paprika-Koriander Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 49217,
+    "Location": "Marktrestaurant",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a396b6a0-41d2-f766-1b7b-2822970187eb",
+    "Name": "Kalte Gurken-Buttermilch-Suppe mit Sonnenblumenkernen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 83886144,
+    "Location": "Bistro",
+    "Price": 2.20
+  },
+  {
+    "Hash": "2053da12-102a-6841-b268-5389d91aa968",
+    "Name": "Rote Beete Cous cous dazu gebackene rote Beete und ein Sojajoghurt-Minz Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "cb3ae9c0-d574-1e67-c041-7526a8202841",
+    "Name": "Spaghetti a\u00B4ll Amatriciana",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "f09d7c14-e505-3f3f-32a3-8be006a58a4e",
+    "Name": "Gem\u00FCsecurry in scharfer Kokossauce dazu Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "e25d49b8-17a6-5e47-5704-293050022bf4",
+    "Name": "Arroz caldero",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "041b8592-3057-c829-8dde-a3295fb66c94",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "c2dddda1-071d-477d-db66-7e517503721b",
+    "Name": "Irish-Stew",
+    "Image": "2a5ba272-5db6-1037-c5db-1413d20f5500",
+    "Category": 8,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "5985f816-1467-d7fd-4a6a-2632471d91b5",
+    "Name": "Orientalischer Hirsetopf mit Rosinen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "aea88cca-f9b8-ba78-b95b-0743118c9a6e",
+    "Name": "Griechische Bowl mit Oliven, Schafsk\u00E4se,Tsatsiki und Pizzabrot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "1d975d3b-12dc-73ac-7de6-06d40c392360",
+    "Name": "Pad Thai Champignons | Sojasprossen | Karotten | Erdnusskerne | Koriander | Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "377a97e4-c274-2237-21f6-c6f24c2f71f8",
+    "Name": "Biryani-Couscous Tomaten | Zucchini | Erbsen | Blattspinat | Aprikose | Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "aa6b613c-e632-b379-04ae-1e3868f03492",
+    "Name": "Hausgemachte Pasta mit Paprika-Koriander Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32837,
+    "Location": "Mensa",
+    "Price": 2.30
   }
 ]
