@@ -45718,5 +45718,68 @@
     "AllergensAndAdditives": 32837,
     "Location": "Mensa",
     "Price": 2.30
+  },
+  {
+    "Hash": "58969c35-c3a5-0179-389d-0d13c9c751bd",
+    "Name": "Spaghetti a\u0027ll Amatriciana",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "89c34320-fac7-4fb3-0557-90e39e4bc360",
+    "Name": "Spaghetti a\u0027ll Amatriciana",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "c6145a38-42f6-67b2-ba0e-cd8f7a702c14",
+    "Name": "EUT\u002B Italien: Spaghetti a\u00B4ll Amatriciana",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "ed6e06bf-6f0b-26a2-023c-ee96bd5857f9",
+    "Name": "EUT\u002B Spanien: Arroz caldero",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "e6776562-4918-319c-5df8-c9bf9a5bfa10",
+    "Name": "EUT\u002B Irland: Irish-Stew",
+    "Image": "2a5ba272-5db6-1037-c5db-1413d20f5500",
+    "Category": 8,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "0443daa6-27e6-a8cd-e39c-d12df05eb8ce",
+    "Name": "EUT\u002B Griechenland: Griechische Bowl mit Oliven, Schafsk\u00E4se,Tsatsiki und Pizzabrot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301568,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "86506eb8-9cbe-c0ef-13f8-862ebae733b2",
+    "Name": "EUT\u002B Italien: Spaghetti a\u00B4ll Amatriciana",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.20
   }
 ]
