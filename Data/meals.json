@@ -45781,5 +45781,77 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 3.20
+  },
+  {
+    "Hash": "6ce515f3-1019-583f-cced-bcb80d7c5b00",
+    "Name": "Rote Beete Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "556a39ec-6abc-6847-5c31-3532fd0bd809",
+    "Name": "Griechische Bowl mit Oliven, Schafsk\u00E4se,Tsatsiki und Pitabrot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301568,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "ef5d8aae-58e7-0fe7-5902-103fabecf457",
+    "Name": "Apfeltiramisu im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "0b4ee340-e651-0e5f-6e1f-d21ad903afbf",
+    "Name": "Griechische Bowl mit Oliven, Schafsk\u00E4se,Tsatsiki und Pitabrot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "c51b856b-ac39-4dc8-eafd-b9497620a6b1",
+    "Name": "Spargel \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "a8e35489-e4b5-bd6b-0b4f-3ab4ea81eef3",
+    "Name": "Frischer Stangenspargel mit Kartoffeln dazu Sauce Hollandaise",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 131396,
+    "Location": "Mensa",
+    "Price": 8.00
+  },
+  {
+    "Hash": "d9711152-9c98-1af4-bc75-3cdead7bd505",
+    "Name": "Laugenburger mit gezupftem Schweinebraten und BBQ-Bier Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151028288,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "ae6af79c-9529-983f-43d8-721600bff068",
+    "Name": "EUT\u002B Griechenland: Griechische Bowl mit Oliven, Schafsk\u00E4se,Tsatsiki und Pitabrot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17301568,
+    "Location": "Mensa",
+    "Price": 4.20
   }
 ]
