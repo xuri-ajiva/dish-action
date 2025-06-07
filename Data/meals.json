@@ -45853,5 +45853,167 @@
     "AllergensAndAdditives": 17301568,
     "Location": "Mensa",
     "Price": 4.20
+  },
+  {
+    "Hash": "bb564eda-74f4-83a4-12b6-c10b41e898ee",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "e57c7a76-2c0d-359b-9a56-4a30fef1c317",
+    "Name": "M\u00F6hren-Pastinaken-Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "670acc7e-62a4-2ab4-a795-6f0235f2832a",
+    "Name": "Kohlrabicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "4bd5cfd9-56ea-c98c-d02d-5139c9084bff",
+    "Name": "Rhabarberkompott mit Vanillecreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "5849d9f5-5e31-c4c5-78d2-faf24ad961c5",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "b92c3c2e-baba-c296-a311-da184965ff8e",
+    "Name": "Rote-Beete Burger mit Salat und einer Soja-Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 289426976,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "8129cf25-fda7-dd5e-7261-8f2e699c5f13",
+    "Name": "Spie\u00DFbraten mit Tsatsiki",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 65600,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "c6a7b345-51bb-4862-a790-3ffb22bb3406",
+    "Name": "Thai Bowl mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "9e1ad6f3-ab68-748a-0910-97b7d0fc0cf1",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "4f091afc-9f66-489f-7c8a-7f8ed0754ddb",
+    "Name": "Kroketten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "72e078f4-de55-48c7-03c7-7212a142c499",
+    "Name": "Rhabarberkompott mit Vanillecreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "ae90cde7-b00a-4974-04b9-173363ba23a4",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "e236f425-1dce-ae07-69a1-5533a2c01d24",
+    "Name": "Rote-Beete Burger mit Salat und einer Soja-Mayonnaise",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 289426976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "001b616b-fb3e-3af6-32ee-b2c99575d0a8",
+    "Name": "Spie\u00DFbraten mit Tsatsiki",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 65600,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "06ec6c6b-2c40-64f9-e852-d41083a5aa3e",
+    "Name": "Thai Bowl mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "96362f43-f748-b51b-f194-c354f1fe6fa5",
+    "Name": "Gebackener Seelachs mit Sauce tatare und einer Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0cc4d122-03ea-5573-a9e9-a8e7fcfff779",
+    "Name": "Pizza Marinara Tomatensauce | Knoblauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "3a4ea237-0112-04fe-c5e3-ed3ce428ca08",
+    "Name": "Pizza Margherita Mozzarella | Tomaten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 4.20
   }
 ]
