@@ -46015,5 +46015,59 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 4.20
+  },
+  {
+    "Hash": "875a4ba6-ef31-590a-1df2-5dedd19cb33b",
+    "Name": "Linsen-Karotten Dal mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "2f4a3dfc-93ed-55ee-7322-ee1cfa08529e",
+    "Name": "Kartoffelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "daffb69d-7a3b-e110-6c6f-05a4591d76b7",
+    "Name": "Wurzelgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "1b6311ec-a9fe-28b0-6115-778670c4644f",
+    "Name": "Brokkoli-Creme Suppe N 2020",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e152d9b8-3ce1-ae1b-86ea-09c6081e5a52",
+    "Name": "Hausgemachter Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "8eadcf52-c83f-e07a-a3a6-725f1b68c62e",
+    "Name": "Brokkoli und Blumenkohl mit Br\u00F6selbutter",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
