@@ -46114,5 +46114,113 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "4cea2945-f465-6fe0-7725-5b1f6a1d60f0",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "6d613f9f-bd47-4b89-2d74-b4b0263e00b2",
+    "Name": "Hausgemachter Haferflockebratling dazu Rote Beete-Kichererbsensalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "8af22f95-6e1e-f8ba-a4d0-3f3304ae07c8",
+    "Name": "Schweiner\u00FCckensteak mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 346176,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "132ddcd9-44e7-ff97-eca4-ed79a0dd2576",
+    "Name": "Soja-Gyros mit Tsatsiki Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "57dfd21f-9847-e470-371b-b6eca5b5faf8",
+    "Name": "S\u00FC\u00DFkartoffel Bowl mit Joghurt Minz Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4311813216,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "fbbd274f-191a-ae60-faf5-f2ca2d8571b6",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "d98407b0-4767-1178-d4f0-7c62d465efc8",
+    "Name": "Hausgemachter Haferflockebratling dazu Rote Beete-Kichererbsensalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "3077da94-9e03-04a6-4341-de137d1fd5f2",
+    "Name": "Schweiner\u00FCckensteak mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 346176,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "ecb374dc-55d2-c724-abdf-1d3030cf0e22",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "0edfae9b-9c35-ff0a-a84a-35255d7d5229",
+    "Name": "Soja-Gyros mit Tsatsiki Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "2bf27a40-61fa-f3a9-136c-3b439a738a6f",
+    "Name": "S\u00FC\u00DFkartoffel Bowl mit Joghurt Minz Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4311813216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "b6dbab3a-6bb2-789d-7402-7a3d4be70c8b",
+    "Name": "Falafel Burger Soja-Minz-Dip | Salat | ger\u00F6stete Paprika | Hummus | Criss cuts",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16843808,
+    "Location": "Mensa",
+    "Price": 7.20
   }
 ]
