@@ -46222,5 +46222,41 @@
     "AllergensAndAdditives": 16843808,
     "Location": "Mensa",
     "Price": 7.20
+  },
+  {
+    "Hash": "06c81e7a-fe0c-a113-7486-c4e55be8bae0",
+    "Name": "Brokkolicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0622451f-df01-2e3b-becb-516c61d4ae84",
+    "Name": "Risotto mit Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8820b331-168f-1440-a50f-d88efffb9652",
+    "Name": "Hausgemachte Pasta mit Waldpilzragout",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "d817860d-8e3d-2fb7-b1ad-2ff53bc7a591",
+    "Name": "Rhabarberkompott mit Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
