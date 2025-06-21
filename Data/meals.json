@@ -46294,5 +46294,194 @@
     "AllergensAndAdditives": 16809989,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.00
+  },
+  {
+    "Hash": "f894f66e-e879-d8f8-b65c-8204a1f27e0b",
+    "Name": "Linsen-Karotten Dal Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 512,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "34ee539c-b608-eba7-8d5a-9cd5715fb073",
+    "Name": "Schupfnudel-K\u00FCrbis-Champignon-Pfanne mit Hirtenk\u00E4se-Quark-Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "9211e965-b363-242c-6ae7-58d48e7ccfbd",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uter Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "2104c3b6-2edd-d4ea-bd19-e8056636590a",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se Bratling mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430724,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "353af4df-147c-ff6e-db50-82f750fed617",
+    "Name": "Gef\u00FCllte Paprika mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "fe845537-1ab9-3ac4-7204-35fd2a59272f",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "18d06abd-26e8-6043-787b-a873e37c5169",
+    "Name": "Hausgemachte Frikadelle dazu Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995460,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "29a50f44-5bc2-acb5-95b4-309154508447",
+    "Name": "Herzhafte K\u00E4sekartoffeln mit Lauch und Quarkdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "85de2b58-165a-e9b3-e80a-845eb8c2859e",
+    "Name": "Linsen-Karotten Dal Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 512,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "30165fcd-bee9-cec2-3d3e-43f94417cbd8",
+    "Name": "Schupfnudel-K\u00FCrbis-Champignon-Pfanne mit Hirtenk\u00E4se-Quark-Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "6d3be83b-2f9a-7a15-90ec-aaa6c72aff93",
+    "Name": "Indisches Gem\u00FCse mit Kichererbsen dazu ein Kr\u00E4uter Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 19232,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "26fc4928-a1b5-98dc-6c88-e095ae06c3c8",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se Bratling mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 419430724,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "a670b50e-be48-7b2b-169b-99bba575ce18",
+    "Name": "Gef\u00FCllte Paprika mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "30f365aa-8cf3-0775-3669-1b92121b7f6a",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "c0e43ddd-5dec-bc08-39b5-a3bd665c60d0",
+    "Name": "Hausgemachte Frikadelle dazu Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995460,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "7632d16a-9714-c55e-0804-d01c95a290e3",
+    "Name": "Herzhafte K\u00E4sekartoffeln mit Lauch und Quarkdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f1071468-3138-0206-d213-db85c0397406",
+    "Name": "Vegane Curry-Bratwurst",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971552,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "6007ce17-73ec-8bde-4298-49789c48004a",
+    "Name": "Currywurst Rindswurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "0d981cfa-1d40-40d4-c005-611fe59d345e",
+    "Name": "Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2097152,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "fa0f0527-bc7e-8080-4260-a548764a168d",
+    "Name": "K\u00E4sewurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195520,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "3f097943-efdf-cf01-7331-c75f626696cb",
+    "Name": "Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195456,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
