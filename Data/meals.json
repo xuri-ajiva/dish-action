@@ -46510,5 +46510,77 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "bddaf287-fe00-bdff-5900-68d543dbbb44",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "17cd84b6-39b9-3dc9-a181-776b56577472",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f7d0b236-974c-c757-57e6-755732cf792d",
+    "Name": "Wassermelone",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "54d48db2-5353-0208-b69b-2e2fa90ed03a",
+    "Name": "Zucchini-Mais Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d37eb128-8de8-b4c5-8568-b6c3c20d1b55",
+    "Name": "Vegane Curry-Bratwurst",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971552,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "c5733c67-00e8-d559-f9ae-614a8c81b450",
+    "Name": "Vegane Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "ed0c3749-839b-5d41-b305-acc49c2c81bd",
+    "Name": "Milchreis mit Fruchsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "bd492336-b70a-4d9a-b673-3071e99b780b",
+    "Name": "Kokos-M\u00F6hrensuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
