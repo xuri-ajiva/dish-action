@@ -46582,5 +46582,77 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "703c67a1-b1b6-e290-f4df-079b407f642e",
+    "Name": "Wackelpudding Waldmeister mit Schlagsahne",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16448,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "fd9deafd-693f-1786-371c-ae4ab8ba5e96",
+    "Name": "Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777217,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "1926eca8-fa59-f06f-d625-fdf6f2ed1928",
+    "Name": "Pizza Marinara Tomatensauce | Knoblauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "b6df6174-345e-b3af-5d22-8e61b4c9e851",
+    "Name": "Pizza Margherita Mozzarella | Tomaten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d3eb21d3-0c85-bbc2-9f0b-ddfd86af8b49",
+    "Name": "Ofenkartoffel mit Salatgarnitur und einem Sojajoghurt-Knoblauchdip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e52bb5fb-a307-4752-da35-499a5d99896b",
+    "Name": "Curryreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "e73369a6-3554-6f59-83c1-6c118e51bab7",
+    "Name": "Kokos-Mandel Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536871008,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "97352cf8-cc35-04b7-2f90-09b86ae090d5",
+    "Name": "Wackelpudding \u0027Waldmeister\u0027 mit Vanillesauce",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16448,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
