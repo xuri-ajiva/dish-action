@@ -46654,5 +46654,158 @@
     "AllergensAndAdditives": 16448,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "9993df05-760d-ac16-9ac8-ac8d23593513",
+    "Name": "K\u00FCrbisgem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e4602545-28e3-992e-0404-9d557ec67957",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "59a61ee0-3c77-fb4a-a6a2-7d4f031330b0",
+    "Name": "Gem\u00FCse-Lasagne mit Brokkoli, Kohlrabi und Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041732,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "4d09b177-e038-da45-eaef-436a4bcb7ee2",
+    "Name": "Gegrillter Schweinebauch Kimchi S\u00FC\u00DFe-scharf sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 6.00
+  },
+  {
+    "Hash": "36514d97-40a2-4cfa-c0c5-9daf92c3789a",
+    "Name": "Gebratenes Gem\u00FCse mit Chinakohl, Paprika und Karotten in Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "4adee6ad-d660-df41-1fee-e49c850d454b",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "84ae9276-6044-1751-e0f3-8e32081cb2e8",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Marktrestaurant",
+    "Price": 3.80
+  },
+  {
+    "Hash": "4662c7c5-f8c8-4594-e60c-8baf1229f785",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4445995076,
+    "Location": "Marktrestaurant",
+    "Price": 4.80
+  },
+  {
+    "Hash": "0d1df433-6539-6f34-7cf5-a5b58c29e6a7",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Marktrestaurant",
+    "Price": 4.90
+  },
+  {
+    "Hash": "35e030e0-8318-afed-912f-a1aded628154",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Marktrestaurant",
+    "Price": 3.20
+  },
+  {
+    "Hash": "dbe15348-670c-b9b4-4a6c-09dc086aa50f",
+    "Name": "Karamellpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "2a06285f-faed-96b1-398e-9c5234ee3970",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "fc66f9ed-dbcd-e019-7e9a-083ce3d5b711",
+    "Name": "Gem\u00FCse-Lasagne mit Brokkoli, Kohlrabi und Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041732,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "6f9cade3-6439-3b49-0c10-80d04e7c48ee",
+    "Name": "Gegrillter Schweinebauch Kimchi S\u00FC\u00DFe-scharf sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.00
+  },
+  {
+    "Hash": "2192759b-e724-8e76-a383-4d96ed46ff75",
+    "Name": "Gebratenes Gem\u00FCse mit Chinakohl, Paprika und Karotten in Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "0c1710f4-4ce6-0491-5c01-17fb72958f74",
+    "Name": "Nasi Goreng Reis | Tofu | Erbsen | Karotten | Ingwer",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957473,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "8981569a-7cb4-17ee-5833-cb0f3d74d0e1",
+    "Name": "Hausgemachter Haferflocken-K\u00E4se Bratling mit Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285212740,
+    "Location": "Mensa",
+    "Price": 2.20
   }
 ]
