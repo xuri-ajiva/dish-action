@@ -46807,5 +46807,32 @@
     "AllergensAndAdditives": 285212740,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "45889912-789a-2b7d-23d1-9040992ec6ee",
+    "Name": "Gazpacho Andaluz",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218171392,
+    "Location": "Bistro",
+    "Price": 2.50
+  },
+  {
+    "Hash": "1384c3c9-7ac6-3fe2-7549-56eb1d5916c9",
+    "Name": "Beilage Wei\u00DFkrautsalat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68100,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "5ffd3ddd-b9a7-c1b1-089a-c5845a4e6aab",
+    "Name": "Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
