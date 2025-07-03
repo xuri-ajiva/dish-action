@@ -46834,5 +46834,14 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "3321f441-2767-6453-b637-932b33a98f00",
+    "Name": "Kohlrabi",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
