@@ -46843,5 +46843,86 @@
     "AllergensAndAdditives": 16384,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "b2e83b47-0023-0a27-e374-bbdf1a1621d8",
+    "Name": "Himbeerquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "be7aa5fe-6fe9-b677-4a07-d62fd1fc8761",
+    "Name": "\u0027Imam Bayildi\u0027 gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "1d7abcc8-d1ec-3b6b-8ea9-76c104443411",
+    "Name": "Gnocchi mit Tomaten und Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "45e88996-f1e1-aa85-4d1f-6887dcd331f4",
+    "Name": "Schweizer Wurstsalat mit K\u00E4se, Zwiebeln und Gurken dazu Bratkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4442688,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "5cc04caa-8e61-9c37-8ebd-c4eca409775f",
+    "Name": "Kidney Bohnen Bratling Mais-Salsa Salat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213216,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "aaf5cf6d-a2d1-c84e-38a6-7e7708835725",
+    "Name": "\u0027Imam Bayildi\u0027 gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "132ba111-25c3-c461-8b5e-93c063907e64",
+    "Name": "Gnocchi mit Tomaten und Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "9ddff199-6d22-e2fb-3580-2926c2c3f37f",
+    "Name": "Schweizer Wurstsalat mit K\u00E4se, Zwiebeln und Gurken dazu Bratkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4442688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "4b59250f-f619-e2a4-64ab-f6921b8b6762",
+    "Name": "Kidney Bohnen Bratling Mais-Salsa Salat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
   }
 ]
