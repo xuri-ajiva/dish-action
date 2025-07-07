@@ -46924,5 +46924,23 @@
     "AllergensAndAdditives": 285213216,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.20
+  },
+  {
+    "Hash": "9be267f3-8741-edc2-4a6d-e24c38d611cb",
+    "Name": "Bailagensalat Couscous",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16809984,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "43cbf807-dd83-3de7-27eb-f0877274a271",
+    "Name": "Tofusteak Kimchi S\u00FC\u00DFe-scharf sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 4.80
   }
 ]
