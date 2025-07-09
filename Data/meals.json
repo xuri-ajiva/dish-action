@@ -46942,5 +46942,50 @@
     "AllergensAndAdditives": 16778272,
     "Location": "Mensa",
     "Price": 4.80
+  },
+  {
+    "Hash": "93bd0b22-bc08-c6b5-4935-4fdb8dd3f900",
+    "Name": "Gem\u00FCseschnitte dazu Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50331905,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "ece2de1a-9121-ce1c-9ede-9d5e81072db3",
+    "Name": "Lauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "5a78b8f2-d12d-f31b-10fa-a96b269a5ffe",
+    "Name": "Vanille-Quark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "2a0dfd66-e815-4d7a-2355-6bb191345c29",
+    "Name": "Cappuccinopudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "13d749e2-b178-3ff6-b597-416023aec118",
+    "Name": "Pasta mit K\u00FCrbis Hokkaido | Rosmarin | Haselnuss-Amarettini-Crumble",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090537540,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
