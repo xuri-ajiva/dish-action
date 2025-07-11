@@ -46987,5 +46987,41 @@
     "AllergensAndAdditives": 1090537540,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "515cf551-239d-3231-e093-6f870f2314c9",
+    "Name": "Kidney Bohnen Bratling dazu ein Mais-Salsa Salat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213216,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "4637865c-8d55-1f0a-fe75-605997522acc",
+    "Name": "Kidney Bohnen Bratling dazu ein Mais-Salsa Salat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "8ef1859e-1517-3535-960d-607208adb1bf",
+    "Name": "Schweizer Wurstsalat mit K\u00E4se, Zwiebeln und Gurken Bratkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4442688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "efbefc1f-9b17-d08c-4dba-0b4c613df87d",
+    "Name": "Gebackenes Schollenfilet mit Dilldip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777289,
+    "Location": "Mensa",
+    "Price": 4.30
   }
 ]
