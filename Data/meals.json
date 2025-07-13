@@ -47023,5 +47023,203 @@
     "AllergensAndAdditives": 16777289,
     "Location": "Mensa",
     "Price": 4.30
+  },
+  {
+    "Hash": "fa2b4afb-b365-e424-8b30-3088749d3304",
+    "Name": "Gnocchis mit buntem Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "17a7a2fd-24a0-4464-ebcb-3929da546879",
+    "Name": "Risotto mit Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "a7ad0672-53af-5a27-5c57-862aca100848",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "33ad1ecf-e4c9-baa0-d28b-891971b16700",
+    "Name": "Paniertes Schnitzel mit K\u00E4sesauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "e4787a5a-415f-2beb-26a2-85c0e7e06d9f",
+    "Name": "Orientalische Gem\u00FCsepfanne mit Dinkel  und ger\u00F6stetem Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50332704,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "573483a9-3123-f3f6-727c-24f4bbd50e05",
+    "Name": "Ofenkartoffel mit Ratatouille und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "ab4a5ead-2baf-326c-8ac1-60d0ef1e107d",
+    "Name": "Schweinegulasch \u0027Z\u00FCricher Art\u0027 mit Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "6e347152-459a-0445-3ff3-16f6f753ed28",
+    "Name": "Tandoori Blumenkohl Gurken-Minz Soja-Joghurt",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "757950c4-5e15-c692-bf4f-b30f8b04f86c",
+    "Name": "Hausgemachte Lasagne mit Sonnenblumenbolognese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "d5f4d94f-dc86-b296-78d6-6a1b558bbe6c",
+    "Name": "Bibimbap Bowl mit Reis, Tofu, Gem\u00FCse und Ei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17026084,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "c82c0d17-5646-6316-77ba-0edfa0603fed",
+    "Name": "Gebratener Seelachs mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778312,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "9690fe49-170f-9ea7-283b-0b8858454ed7",
+    "Name": "Gnocchis mit buntem Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "15733735-349c-1edd-6d43-3d23860199e9",
+    "Name": "Risotto mit Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "813a7527-4a3e-dfe5-e154-5edb1d14713d",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "f26afba0-1733-3905-b2f4-581ab6704912",
+    "Name": "Paniertes Schnitzel mit K\u00E4sesauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "8f792714-effe-a9d0-bf7e-f097a74542ed",
+    "Name": "Orientalische Gem\u00FCsepfanne mit Dinkel  und ger\u00F6stetem Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 50332704,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "89f4ce47-77de-358a-fbe3-5ff7748d1c7a",
+    "Name": "Ofenkartoffel mit Ratatouille und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "57637fa5-160f-0c3a-5112-9d35ee1205c4",
+    "Name": "Schweinegulasch \u0027Z\u00FCricher Art\u0027 mit Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "f6c91554-5dac-941d-8a97-2c7a9c1e090d",
+    "Name": "Tandoori Blumenkohl Gurken-Minz Soja-Joghurt",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "8458d730-f51c-a2a6-3253-adc332dcac2f",
+    "Name": "Hausgemachte Lasagne mit Sonnenblumenbolognese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "ecdc09fa-39b2-c0fb-b138-de78ddfd905b",
+    "Name": "Bibimbap Bowl mit Reis, Tofu, Gem\u00FCse und Ei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17026084,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "83512f2f-ceb1-97f5-ec9e-f60edaedf8fc",
+    "Name": "Gebratener Seelachs mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778312,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
   }
 ]
