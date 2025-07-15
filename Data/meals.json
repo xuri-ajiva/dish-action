@@ -47221,5 +47221,50 @@
     "AllergensAndAdditives": 16778312,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.10
+  },
+  {
+    "Hash": "1d64e596-873b-917d-79a8-b000af26cbe1",
+    "Name": "Tandoori Blumenkohl mit einem Gurke-Minz Sojajoghurt",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c05210b8-0603-3574-6f92-ced564e9690b",
+    "Name": "Kalte Tomaten-Orangen-Suppe mit Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886080,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "2d27f12a-7887-72f0-1446-de31f07a76af",
+    "Name": "Tandoori Blumenkohl mit einem Gurke-Minz Sojajoghurt",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "068ccbce-7e5e-3008-c51d-a8f631a24859",
+    "Name": "Kichererbsen-Kokos-Korma mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e4ac8033-3e96-76df-a630-df986a4b19f7",
+    "Name": "Kohlrabi mit Margarine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
