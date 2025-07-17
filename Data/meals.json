@@ -47266,5 +47266,14 @@
     "AllergensAndAdditives": 16384,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "669a2345-a739-d963-4417-4b378e0ec4fa",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se \u00FCberbacken dazu Kr\u00E4uterquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810080,
+    "Location": "Mensa",
+    "Price": 4.30
   }
 ]
