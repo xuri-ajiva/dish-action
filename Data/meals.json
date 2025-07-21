@@ -47509,5 +47509,32 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "74b18949-8bc4-506c-370b-5c53c388de91",
+    "Name": "Hausgemachte Pasta mit einer Gorgonzolasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "0328bc11-9380-9ed3-97a9-1267dcbe9d86",
+    "Name": "Hausgemachte Pasta mit einer Gorgonzolasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 2.20
+  },
+  {
+    "Hash": "959f2d45-d1a0-7ec7-5aad-0b711aff645d",
+    "Name": "Feuerwurst Curryketchup N ge\u00E4ndert 08",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 4292608,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
   }
 ]
