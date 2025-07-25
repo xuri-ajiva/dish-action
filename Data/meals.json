@@ -47554,5 +47554,50 @@
     "AllergensAndAdditives": 4292608,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.40
+  },
+  {
+    "Hash": "c8fe6885-82a2-f043-c8a1-a812f6c00cac",
+    "Name": "Dinkelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "fe70643f-43b0-adbe-9f06-34b5c03cfc16",
+    "Name": "Lacuhcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "c985a1d3-2b94-e0f3-7ea3-73604df26c15",
+    "Name": "Gem\u00FCsereis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "4b4157ee-d264-a655-524e-6848a763bbc2",
+    "Name": "Currywurst Schwein | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140525824,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "326d4413-2765-0bb9-8d47-51c36b83f1f6",
+    "Name": "Dessert No-Bake-Cake Biskuit | Frischk\u00E4se | Erdbeeren",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
