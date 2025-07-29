@@ -47896,5 +47896,23 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 4.10
+  },
+  {
+    "Hash": "eac531c5-c22d-6b57-0330-2dd65def4ee3",
+    "Name": "Veganes-Geschnetzeltes mit Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1b0fef58-c059-ac46-1f28-77d4b43e8877",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
