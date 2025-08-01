@@ -47959,5 +47959,14 @@
     "AllergensAndAdditives": 1024,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "96cc1e18-b824-51c6-a66f-46ea6c9dcf37",
+    "Name": "Mischgem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
