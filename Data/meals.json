@@ -48229,5 +48229,86 @@
     "AllergensAndAdditives": 16957472,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "c27aeece-a922-ca56-666e-66772a105eaa",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu ein Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b718cd2c-8796-591c-3b92-fd24e1340a47",
+    "Name": "Pilzcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "6b8a4228-0289-ab3e-09f5-1d2175e190c7",
+    "Name": "BBQ Tofu mit Barbecuesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 155189536,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "0b687f62-5f40-4844-6231-64f525ed5916",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "418cc8cf-16e9-992e-a435-45f6d079db48",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung dazu ein Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "0d24f8f7-8032-7698-98e1-94eccb516e60",
+    "Name": "BBQ Tofu mit Barbecuesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 155189536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4a5301eb-bdb2-2f15-ff2e-b22743a28f0f",
+    "Name": "Tabouleh mit ger\u00E4uchertem Tofu Bulgur | Petersilie | Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a2fc9d15-5487-9408-2617-d266b5b3197c",
+    "Name": "Beilage Tabouleh Bulgur | Tomaten | Petersilie",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "7ec2f263-46f0-f9b7-3312-92ada3a67960",
+    "Name": "Hackfleisch-Gem\u00FCsepfanne Rindfleisch | Couscous | Paprika | Aubergine | Tomaten | Couscous",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 5.50
   }
 ]
