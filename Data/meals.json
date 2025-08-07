@@ -48310,5 +48310,41 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 5.50
+  },
+  {
+    "Hash": "605fcb66-ee9b-09b6-6277-e4343f5587c2",
+    "Name": "Gnocchi mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "322c7abb-4fc3-0f76-89cf-d983cab12b6a",
+    "Name": "Currysuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "560293d8-fbf3-c1ea-b5df-7e60e9c81dd2",
+    "Name": "Brokkolicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b1d9df73-1019-2008-f2d1-647ce744b426",
+    "Name": "Dal Curry Linsen | Tomaten | Koriander | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
