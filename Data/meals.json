@@ -48346,5 +48346,140 @@
     "AllergensAndAdditives": 150994944,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "b318123b-c050-cd88-2f9d-fc5cec13b4a1",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "3cc097ed-8649-ba07-d39d-83407ea5772d",
+    "Name": "Mandarinen-Schmand-Dessert mit Minze im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "9ba5505b-20b9-d642-5a97-06184207c62e",
+    "Name": "Gebrannte Melanzani mit Hummus  und Fladenbrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778240,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d97b33b4-2958-24df-485f-c3b6b7ad0b02",
+    "Name": "Hausgemachter Haferflockebratling dazu Rote Beete -Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "e7fbaded-8382-062d-12e1-ee8f1af9865b",
+    "Name": "One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "5eda5825-f06b-69eb-dae6-2872ef738876",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "beca0b39-d1fd-78d1-6bf4-229c6bb868c3",
+    "Name": "Bagel Burger mit Rindfleisch und Cheddar",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 151012932,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.90
+  },
+  {
+    "Hash": "ebfbf3dd-825a-c497-96e0-38c74fcc9ac1",
+    "Name": "Gebrannte Melanzani mit Hummus  und Fladenbrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778240,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "6855d6b6-85c9-b893-8f0d-4efff346c5a0",
+    "Name": "Hausgemachter Haferflockebratling dazu Rote Beete -Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "89bc6e93-d0b7-4590-c066-31d64936382c",
+    "Name": "One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "6f7e1d26-af3d-217b-ec76-41fd4581725d",
+    "Name": "Pasta alla Puttanesca Tomaten | Oliven | Kapern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b8c807b5-865f-03fb-5de9-41cfae265765",
+    "Name": "Dessert Fr\u00FCchteschnee mit Sauerkirsch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "5747c632-f182-8418-8189-ef11c5677dc8",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17156161,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "56fcc2ff-727c-f5c4-2665-bd8f07ee5d01",
+    "Name": "Dessert No-Bake-Cake Biskuit | Frischk\u00E4se | Mango",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "e7d20162-72d9-4024-1937-252773690f54",
+    "Name": "Tabouleh Bulgur | Petersilie | Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
