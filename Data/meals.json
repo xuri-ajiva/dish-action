@@ -48481,5 +48481,14 @@
     "AllergensAndAdditives": 16778272,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "235c3950-63d1-20d2-110b-2f202d16eeb3",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17156161,
+    "Location": "Mensa",
+    "Price": 5.70
   }
 ]
