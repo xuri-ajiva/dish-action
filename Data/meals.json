@@ -48490,5 +48490,77 @@
     "AllergensAndAdditives": 17156161,
     "Location": "Mensa",
     "Price": 5.70
+  },
+  {
+    "Hash": "66383993-8efe-019c-a212-6956ca8765dd",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16809988,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "db452a3d-5f29-a16d-547a-10de3fd599fa",
+    "Name": "Wackelpudding Waldmeister mit Vanillesauce",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16448,
+    "Location": "Mensa",
+    "Price": 0.80
+  },
+  {
+    "Hash": "92bc963c-09e3-d0fc-9588-087b26617daf",
+    "Name": "Hausgemachter Haferflockebratling dazu Rote Beete-Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "916d006e-3872-560d-ee3c-b32b9dd2ec75",
+    "Name": "Hausgemachte Schinken-Nudeln mit Ei",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16809988,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "1f59c1c0-4ee0-5f66-1828-b58c4358a3c5",
+    "Name": "Gebrannte Melanzani mit Hummus  und Brot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778240,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "0996819b-bd0b-2500-e280-649535ab3b0d",
+    "Name": "Hausgemachter Haferflockebratling dazu Rote Beete-Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "d2a73a97-cfe5-226a-6181-0d617f77a626",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17156160,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "1683fd76-ae1d-76e1-acd1-b9d2e445b28f",
+    "Name": "Blumenkohl-Kartoffel Curry Kokosmilch | Zwiebeln | Erbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.50
   }
 ]
