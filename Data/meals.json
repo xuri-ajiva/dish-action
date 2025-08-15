@@ -48562,5 +48562,59 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 3.50
+  },
+  {
+    "Hash": "8445bd0e-5f8e-6e65-9a2b-414c71830092",
+    "Name": "Mexikanische Wurstpfanne vegan mit Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "747a9bd2-8b98-62ed-a136-70651e66ff39",
+    "Name": "Tomatencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "624963b6-9875-3b23-40fe-a83c01d15eed",
+    "Name": "Mexikanische Wurstpfanne mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18989888,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "46e17ffb-7c6a-ebc8-7dcb-7ba84401255e",
+    "Name": "Hausgemachter Haferflockenbratling dazu Rote Beete-Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "d5f4e94a-cfdf-ae28-aef8-091cfd5e340a",
+    "Name": "Hausgemachter Haferflockenbratling dazu Rote Beete-Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "dfa12049-141c-2b80-6cd0-a2704315f323",
+    "Name": "Beilage Couscoussalat Paprika | Tomaten | Essig | Sambal Olek",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16809984,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
