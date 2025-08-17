@@ -48616,5 +48616,77 @@
     "AllergensAndAdditives": 16809984,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "6ba87665-354a-444a-bc2f-04e5a52057b9",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "d8a0fa67-bd05-ea1f-ebb6-660efa9428c4",
+    "Name": "Schupfnudel-K\u00FCrbis-Champignon-Pfanne mit Hirtenk\u00E4se-Quark-Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e7698e9f-515a-f977-8e7c-cc4c38ea9e65",
+    "Name": "Paniertes Schnitzel mit Paprikasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "391a3574-b7e9-11f1-d61d-1d570af4448a",
+    "Name": "Pasta Rucola Pesto | Rucola | Sonnenblumen\u00F6l | Sonnenblumenkerne | Hartk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "349899a6-3469-7017-efaf-408720e059ff",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Marktrestaurant",
+    "Price": 3.00
+  },
+  {
+    "Hash": "538111bb-2255-4efc-0b33-40fb4b4f759f",
+    "Name": "Schupfnudel-K\u00FCrbis-Champignon-Pfanne mit Hirtenk\u00E4se-Quark-Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "afdded71-7eed-5448-51d5-02b90c44261a",
+    "Name": "Paniertes Schnitzel mit Paprikasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "e4b9e664-65d8-0d50-5de7-c2b2f3e92f6c",
+    "Name": "Rotes Thai Curry K\u00FCrbis | Champignons | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 180257,
+    "Location": "Mensa",
+    "Price": 3.10
   }
 ]
