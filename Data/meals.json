@@ -48688,5 +48688,14 @@
     "AllergensAndAdditives": 180257,
     "Location": "Mensa",
     "Price": 3.10
+  },
+  {
+    "Hash": "2aeb7732-2bdc-9b69-269f-2d3dc1eebf39",
+    "Name": "Kichererbsen-Spinat-Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
