@@ -48706,5 +48706,104 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.80
+  },
+  {
+    "Hash": "5e75bf04-32d5-329e-658d-f065f6a4afb2",
+    "Name": "Vegane Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 4.30
+  },
+  {
+    "Hash": "d34b1571-aa5c-3b35-6579-872f27486078",
+    "Name": "Vegane Curry-Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971520,
+    "Location": "Bistro - Bistro",
+    "Price": 4.30
+  },
+  {
+    "Hash": "623fa58c-ab06-529a-2df2-35c8cf781c19",
+    "Name": "Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2097152,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "f7e86495-4e12-f6fc-498f-3f19829cd141",
+    "Name": "K\u00E4sewurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195520,
+    "Location": "Bistro - Bistro",
+    "Price": 4.00
+  },
+  {
+    "Hash": "7c2a8ebc-db78-64e3-bc2b-86b9cf695a4f",
+    "Name": "Currywurst aus Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Bistro - Bistro",
+    "Price": 4.30
+  },
+  {
+    "Hash": "face224c-6409-19a6-8389-077b28c9e517",
+    "Name": "Currywurst aus Rindswurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Bistro - Bistro",
+    "Price": 4.90
+  },
+  {
+    "Hash": "807d6b24-8d43-72f4-cf04-6e1a8d589a9c",
+    "Name": "Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195456,
+    "Location": "Bistro - Bistro",
+    "Price": 4.50
+  },
+  {
+    "Hash": "aa0b0a47-d8c0-f827-ceec-b5b3aa4a6b59",
+    "Name": "Gebackenes Schollenfilet mit Sauce Tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "5e40d415-2cd7-a409-cae0-b33973d1db31",
+    "Name": "Tofusteak Kimchi S\u00FC\u00DFe-scharf sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "396dd3fe-0c2d-d113-fc65-3dc386f17d7a",
+    "Name": "Gebackenes Schollenfilet mit Sauce Tartare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "67c11fbf-c465-552f-d71c-8976464414c0",
+    "Name": "Briam Zucchini | Aubergine | Kartoffel | Schafsk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 4.50
   }
 ]
