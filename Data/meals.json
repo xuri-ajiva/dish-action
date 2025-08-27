@@ -48805,5 +48805,14 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 4.50
+  },
+  {
+    "Hash": "6afe63fc-5d60-0a82-0e72-ff0fe372c9d7",
+    "Name": "Wirsing in Sojarahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
