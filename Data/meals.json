@@ -48814,5 +48814,14 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "cdce05b7-8027-562b-fc3d-24bf8b7739f7",
+    "Name": "Kokos-Curry-Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
