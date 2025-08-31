@@ -48823,5 +48823,59 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "bda5f146-bf30-4849-4114-58d14d407a0a",
+    "Name": "Hausgemachte Frikadelle dazu Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995460,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "808648f5-3133-7d38-063f-9c858352dfec",
+    "Name": "Hausgemachte Frikadelle dazu Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995460,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.00
+  },
+  {
+    "Hash": "b6c9ca6c-e7c2-b60c-fbe0-3f0eed1a2bc0",
+    "Name": "Beilagesalat Paprika | Gurke | Tomate | Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 591936,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "2e8cc858-d509-d291-81cc-828e98f98b0f",
+    "Name": "Dal Curry Linsen | Tomaten | Koriander | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "5eed0bc3-8835-aedf-1db5-524bf4a66d42",
+    "Name": "Gebratene Aubergine Miso | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 180257,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4cd5b25a-9702-8893-9fe3-ac8a1f651493",
+    "Name": "Fried Rice Pilze | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151029025,
+    "Location": "Mensa",
+    "Price": 3.20
   }
 ]
