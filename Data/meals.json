@@ -48877,5 +48877,41 @@
     "AllergensAndAdditives": 151029025,
     "Location": "Mensa",
     "Price": 3.20
+  },
+  {
+    "Hash": "4abfb3e6-c8e0-fed3-8477-ed25bb9daf14",
+    "Name": "Kokosmilchreis mit Pfirsich im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "e6837256-41f2-cb40-421d-75a55bdc0fc8",
+    "Name": "Grie\u00DFbrei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "919ce1f8-7a9a-a98d-bcef-e27ef173363b",
+    "Name": "Cappuccinopudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "ddc16cab-034e-d907-5085-f6f9fb564c1b",
+    "Name": "Beilagensalat Tabouleh Bulgur | Petersilie | Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
