@@ -48913,5 +48913,23 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "9801be66-bdb4-7da0-569a-d656ff4ea9cd",
+    "Name": "Blumenkohlrcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2e2eb4d8-0523-608f-4bd0-9bf560f39fe9",
+    "Name": "Hausgemachte Frikadelle mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151341636,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.00
   }
 ]
