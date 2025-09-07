@@ -48931,5 +48931,131 @@
     "AllergensAndAdditives": 151341636,
     "Location": "Otto-Berndt-Halle",
     "Price": 5.00
+  },
+  {
+    "Hash": "676e5e10-f55b-6165-5a54-73eebaf15f88",
+    "Name": "Risotto mit Ricotta und Zuccchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1cdf0ad1-90ba-f578-eedc-13365eed0a0d",
+    "Name": "\u00C4lplermagronen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "409a6ac7-8ad6-da45-2eb8-d0df618a99e4",
+    "Name": "Auberginen-Zucchini-Gratin mit Kartoffeln und Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "ec4958db-5a7f-9a7b-27f3-122ca90d8c8d",
+    "Name": "J\u00E4gergulasch mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "63072cdd-f4c9-6e6e-7f85-2c22caed9e6a",
+    "Name": "H\u00FCttenburger mit Rindfleisch, R\u00F6sti, Zwiebelmarmelade und K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16862788,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "c8423f5a-a5ba-4240-b2b6-483a327f33d5",
+    "Name": "Risotto mit Ricotta und Zuccchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "10fa1917-abcf-3398-9f70-664eea27a26b",
+    "Name": "Pudding Karamel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.20
+  },
+  {
+    "Hash": "eb7cb16a-c373-5308-0c45-4bbda3f11c2c",
+    "Name": "Pudding Karamel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "e4bbc9b1-1658-dbf3-e01b-e4c95fe33074",
+    "Name": "\u00C4lplermagronen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "e2dd19f5-e040-1baa-e344-cb16fccdfff5",
+    "Name": "Auberginen-Zucchini-Gratin mit Kartoffeln und Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "75626520-da17-160b-f6f7-e2975151674a",
+    "Name": "J\u00E4gergulasch mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "55e84b08-49f6-db11-3910-ce332d7ae09f",
+    "Name": "H\u00FCttenburger mit Rindfleisch, R\u00F6sti, Zwiebelmarmelade und K\u00E4se",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16862788,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "15c6b89e-4694-8e0c-af98-7bc4c1f4939a",
+    "Name": "Kichererbsen-Auberginen Pfanne Tomate | Paprika | Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "913b3371-9b17-1284-928e-51f9d2bad60f",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17156161,
+    "Location": "Mensa",
+    "Price": 5.50
   }
 ]
