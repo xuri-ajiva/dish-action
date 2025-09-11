@@ -49111,5 +49111,68 @@
     "AllergensAndAdditives": 16777284,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "c03f2677-c3ea-a8b9-08ef-83c5127a785a",
+    "Name": "Blumenkohlcremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "fbabce4b-3c22-ff25-acf0-40a36ed6e578",
+    "Name": "Rosenkohl mit Zwiebeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.40
+  },
+  {
+    "Hash": "217584ac-40a8-4daf-232e-4e03f86a5a04",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268435521,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "64ef9832-0262-027c-6fd2-594cbdfb7747",
+    "Name": "Haselnuss Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 192,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
+  },
+  {
+    "Hash": "0af3f3de-bf12-34ca-a295-81ae5c137400",
+    "Name": "Hausgemachte Pasta Basilikum-Minz-Orangen-Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164260993,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "87b4cd80-a8bf-50fc-2a5d-e5a975acee9b",
+    "Name": "Hausgemachte Pasta mit einer Chili-Paprikasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "c377c4ae-fbfe-ec65-7f67-99f66a340b4d",
+    "Name": "Gem\u00FCse-Tajine Couscous | Tomaten | S\u00FC\u00DFkartoffel | Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
