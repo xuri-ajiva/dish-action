@@ -49174,5 +49174,158 @@
     "AllergensAndAdditives": 16777472,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "1f710447-8694-cef2-c051-bd722923ffbf",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1e433d21-8c36-3660-8e7d-99df4d4f4508",
+    "Name": "Schupfnudeln mit Sauerkraut und R\u00E4uchertofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "37fc8cd4-ee65-71b2-c0ad-ca863d47faa5",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "e367d5cb-4d5e-852f-92f4-6bfd66d1ab35",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810081,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "e3019429-c9e0-fbe1-598c-f4241fa1df8b",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "6f3fb1e3-94f1-f19a-2dd8-0bfd543e173b",
+    "Name": "One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "d729809d-ee80-ffd8-08e9-ccd2634a5b6c",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "de7ecf10-1f6d-6b80-5cc9-e1c5b4c67513",
+    "Name": "Solero Dessert im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "f3dd529b-7ce7-c5c3-5ba0-aff713c586f0",
+    "Name": "Schupfnudeln mit Sauerkraut und R\u00E4uchertofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "ea814447-7518-70e4-cf05-cb88f97a101b",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "5507e73c-3ed2-5e88-cb52-8d32b24bfe57",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810081,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "c9c53bba-811c-3f2d-0c9b-353c380ecaca",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "b479c179-5bd4-189d-f490-911302177efa",
+    "Name": "One Pot Graupenrisotto mit Pilzen und Kichererbsen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "e6799d12-7466-4a80-0acb-3fa9940e4b64",
+    "Name": "Gnocchi mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "57f11b69-8fa5-d91a-7bb8-6a7078b898d2",
+    "Name": "Beilagensalat Tomaten | Mozzarella | Essig | Zwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 67648,
+    "Location": "Mensa",
+    "Price": 1.80
+  },
+  {
+    "Hash": "00f36d34-9056-0151-8f69-bb915a62c554",
+    "Name": "Cheeseburger Rindfleisch | Tomate | Gurke | Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 7.90
+  },
+  {
+    "Hash": "8cfd0460-5ca8-1175-39b9-c2d7f6df96ac",
+    "Name": "Kartoffelgratin Milch | Sahne | Weizenmehl",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.80
   }
 ]
