@@ -49327,5 +49327,14 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.80
+  },
+  {
+    "Hash": "fd6b8a3f-8648-73b0-9fc0-a2cb15ffe274",
+    "Name": "Karamell Pudding mit Fruchttoping",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
   }
 ]
