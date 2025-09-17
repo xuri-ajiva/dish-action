@@ -49336,5 +49336,68 @@
     "AllergensAndAdditives": 64,
     "Location": "Marktrestaurant",
     "Price": 1.00
+  },
+  {
+    "Hash": "07375ad3-690f-5cc9-9379-23bac693ff2b",
+    "Name": "Kichererbsencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "81c1d74a-5d89-6759-b094-88b9262d5c20",
+    "Name": "Vanille Quark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "b8e3b5eb-cbcb-a14c-5f64-f9a030a8cf6d",
+    "Name": "Linsensuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0aaeb2c6-9e80-b20f-dfba-be66fdb48d0e",
+    "Name": "Kartoffel-Currycremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "16904b9d-24af-9d25-8e86-07aef2df84f0",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "3679acd1-8cf9-8759-7f77-3e89d18c426d",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "a325a985-f138-8daa-220d-3599f5f81946",
+    "Name": "Wokpfanne Blumenkohl | Paprika | Erdnuss | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 3.40
   }
 ]
