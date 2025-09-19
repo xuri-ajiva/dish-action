@@ -49399,5 +49399,32 @@
     "AllergensAndAdditives": 16,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "3736599c-4c1e-ebf7-4439-6a9ba50cfd64",
+    "Name": "Erbsen-Currycremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "c98484b8-5131-b69e-7d08-46249a31a4c9",
+    "Name": "Mediterrane Kichererbsensuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "a4396ca5-3d7e-1230-17ab-e0bb22fac61d",
+    "Name": "Schokoladenpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Marktrestaurant",
+    "Price": 1.00
   }
 ]
