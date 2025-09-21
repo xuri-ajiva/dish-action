@@ -49426,5 +49426,131 @@
     "AllergensAndAdditives": 96,
     "Location": "Marktrestaurant",
     "Price": 1.00
+  },
+  {
+    "Hash": "67e4a7b0-cf8a-9e24-7ced-c0ab95a7ad72",
+    "Name": "Gem\u00FCsecremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "a3d81a9f-ae1e-3ffc-74f1-ec0d83cf83c9",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "0d47fe76-e859-e225-1f05-834e57c82c09",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch und Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6390016,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "cfc06219-d269-c28f-0932-7c5467b4a5aa",
+    "Name": "Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "0fcbc3ba-a1f8-81e6-08f9-2ee02aa0f052",
+    "Name": "Joghurt-Quark mit Ananasst\u00FCcken",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Marktrestaurant",
+    "Price": 0.90
+  },
+  {
+    "Hash": "f5aac126-0b1e-897b-e252-d26691ca783d",
+    "Name": "Apfeltiramisu im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Marktrestaurant",
+    "Price": 1.30
+  },
+  {
+    "Hash": "3e2aeceb-dc2f-18f1-72c5-9a432be47b64",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793860,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "c6e59f42-7116-8eca-421d-7254aaa9af37",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "82f2c5fa-5685-7fd3-5643-4b620b23a87e",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch und Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6390016,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "4bd24e1b-39d5-ba85-dd06-b7d412dac5c8",
+    "Name": "Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "6a974bb1-aec1-0821-b7d4-f8587ccfa0db",
+    "Name": "Fried Rice Reis | ger\u00E4ucherter Tofu | Erdn\u00FCsse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16811056,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "3f5116fe-cbc1-334b-8138-635b13320223",
+    "Name": "Woknudeln Paprika | Aubergine | Spinat | Koriander | Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "7ec628a2-e4fa-8798-7073-24cffcb9eb99",
+    "Name": "Bratkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.80
+  },
+  {
+    "Hash": "adf3cd16-86bd-0a73-112d-52aa5fee7c9d",
+    "Name": "Rote Beete Curry Kichererbsen | Kokos | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
