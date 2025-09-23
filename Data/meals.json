@@ -49552,5 +49552,14 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "e4701b98-60ba-ebaa-233b-2e802532256a",
+    "Name": "Karotten-Currysuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
