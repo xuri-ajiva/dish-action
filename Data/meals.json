@@ -49561,5 +49561,23 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "07261f83-decf-ff72-4183-7437bbff2deb",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793860,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "4e92f498-47a6-1023-fcfe-4375fc9e0639",
+    "Name": "Kartoffelcremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
