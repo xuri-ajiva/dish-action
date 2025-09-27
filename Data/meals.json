@@ -49579,5 +49579,131 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "2948da34-8b3b-4dfe-ff45-3ead81a9f7c4",
+    "Name": "Pasta mit Lauch- Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.90
+  },
+  {
+    "Hash": "3010c476-0c10-c02b-4f01-8b306af658ee",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten, Lauch und Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "03709d7e-062c-70a0-6759-070c6a25301a",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Tomaten-Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "9b3519c2-1569-466e-140b-e7ebb1cd16fa",
+    "Name": "Kartoffeleintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "3865bce1-7f06-2896-a9f5-9501c39ddb34",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "f93351fd-e657-f6f9-81da-a17f4ad56e8a",
+    "Name": "Haferflocken-Burger mit rote Beete Chutney",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285281280,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "70f13d63-6cb1-2b4b-1016-6f317df4d3ce",
+    "Name": "Schweinegulasch \u0027Ungarische Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "7aae98aa-6afd-44c7-aa21-6871a1e75f3c",
+    "Name": "Pasta mit Lauch- Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Marktrestaurant",
+    "Price": 1.90
+  },
+  {
+    "Hash": "3eea262e-9542-c667-db50-4492bd7456c4",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten, Lauch und Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "00fdcf22-4a71-8f4a-4a69-088ffb6ec3d8",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung in einer Tomaten-Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "ac784116-2e3a-3ab6-c5d6-9b396c43eba2",
+    "Name": "Kartoffeleintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "17a070f5-0fdf-73a0-81f4-b123e390cd72",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "22866dd2-7f01-a559-3c28-789413d0ecc1",
+    "Name": "Schweinegulasch \u0027Ungarische Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "2ee8336f-ca11-04b9-dc37-00e18ac88a99",
+    "Name": "Tabouleh mit ger\u00E4uchertem Tofu Bulgur | Petersilie | Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
