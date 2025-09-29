@@ -49705,5 +49705,14 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "beaee255-7e56-1a60-8c32-8b366b043e6e",
+    "Name": "Pilzcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
