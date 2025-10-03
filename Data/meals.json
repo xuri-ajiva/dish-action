@@ -49714,5 +49714,32 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "0122ee79-d5d2-a838-59d2-351d8c95c794",
+    "Name": "Grie\u00DFsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f7251cbf-af4c-9321-3d02-2911d441a010",
+    "Name": "Haferflocken-Burger mit rote Beete Chutney",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285281280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "3d31a63a-9f84-b66d-2117-8f31a5d26ab0",
+    "Name": "Milchreis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
