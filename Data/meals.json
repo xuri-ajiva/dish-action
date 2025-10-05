@@ -49741,5 +49741,266 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "ab0e4af1-a350-dd34-30ed-6ddfe5a4f20c",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "b0f7d16e-215d-c731-311b-ed0fb644bfa4",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "488ca4ff-b784-9de2-66b2-3c36af52bacc",
+    "Name": "Lauchgem\u00FCse a la Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "196587e6-c417-5763-4fc7-91564ce0928c",
+    "Name": "Pikante Sesamnudeln mit asiatischem Pfannengem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778288,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "f6cbae73-67e6-2ec2-99d9-d725e34e243e",
+    "Name": "Gem\u00FCsekorma mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32832,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "fee38c89-bd3b-3823-71ed-78baea1ad646",
+    "Name": "Rescher Schweinskrustenbraten mit Bier- K\u00FCmmelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134234624,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "13a3a512-fb72-fc6d-cf66-195ca7c905c9",
+    "Name": "Veganes Schwammerlragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84264992,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "c3fc53f5-e555-e4dc-807a-520ae157f223",
+    "Name": "Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "951707b0-709f-a364-4cc5-80ce7cb3916f",
+    "Name": "Erbseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "2408680b-c30f-9a48-0344-11cd004c2835",
+    "Name": "K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.90
+  },
+  {
+    "Hash": "dbc944cc-a5e7-1ebe-5713-c31cdf313f4f",
+    "Name": "Gnocchi mit Tomaten-Chilisauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "88d795c0-eff8-82da-f774-4e6a0b4e792a",
+    "Name": "Laugenburger mit gezupftem Schweinebraten und BBQ-Bier Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151028288,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "0f0b1329-a5fa-ed09-2488-c44a6cbd72b3",
+    "Name": "Reiberdatschi  mit Apfelkompott",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842756,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "006f7a08-1659-c1d5-50a2-b88e5b67fd8d",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "35b235a4-b275-fa79-1eed-29fe8e327fe6",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "ae65ac95-71ae-69e1-ef8f-d3e5432de4b9",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Marktrestaurant",
+    "Price": 2.40
+  },
+  {
+    "Hash": "2d0c89ec-eda2-ae8c-e1a0-498361d16683",
+    "Name": "Gebackener Leberkas mit Kartoffelsalat und Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 379392,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "29e0a4c5-7086-c07d-855c-17b9651463e3",
+    "Name": "Pikante Sesamnudeln mit asiatischem Pfannengem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "609ab5af-e064-f9e1-1614-6709c469d497",
+    "Name": "Gem\u00FCsekorma mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32832,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "4008d09c-c1bd-0075-dbdf-48b621598c85",
+    "Name": "Rescher Schweinskrustenbraten mit Bier- K\u00FCmmelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134234624,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "395594b7-7a00-8870-d91c-d96514f52a23",
+    "Name": "Veganes Schwammerlragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84264992,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "4b4f9f0e-1879-3028-39f2-7f2d1a48a36b",
+    "Name": "Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "388aea93-9fa3-ac59-e1dc-cbf7ece546d5",
+    "Name": "K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.90
+  },
+  {
+    "Hash": "56397e51-1e60-2a9a-a556-5f45e5a4af39",
+    "Name": "Gnocchi mit Tomaten-Chilisauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "22b8ac69-7e9f-0694-577d-7b1bc601ecda",
+    "Name": "Laugenburger mit gezupftem Schweinebraten und BBQ-Bier Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151028288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
+  },
+  {
+    "Hash": "e9a78999-019e-db56-07a1-18cc102c04a4",
+    "Name": "Reiberdatschi  mit Apfelkompott",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842756,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "06115beb-df3f-c15c-69e1-cf14dd66e581",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "c78ff964-74ab-f0b3-53a6-9438d5eea45a",
+    "Name": "Gem\u00FCse-Tajine Couscous | Tomaten | S\u00FC\u00DFkartoffel |  Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d15bafcd-9b81-4d0b-047c-95c992a3a2f7",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.00
   }
 ]
