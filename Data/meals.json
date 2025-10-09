@@ -50002,5 +50002,59 @@
     "AllergensAndAdditives": 150994944,
     "Location": "Mensa",
     "Price": 3.00
+  },
+  {
+    "Hash": "a2ca865f-12af-1aff-5c84-47baf0bd97e2",
+    "Name": "Lauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "40504b9f-5f66-857f-67e5-1779564aad3e",
+    "Name": "Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "722b1e80-a48e-0ca2-49ae-627cec8e78a4",
+    "Name": "Erbseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "c7b2008d-6f6c-a9f3-137d-9c0c6824021f",
+    "Name": "Kartoffel-Spinat Auflauf mit einer leichten knoblauchsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0b5d1eeb-e1ae-a10a-8b67-883e2d1ff709",
+    "Name": "Tom kha gai Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Bistro",
+    "Price": 4.00
+  },
+  {
+    "Hash": "df52bdda-8e2f-def4-f043-73c709ad5c6a",
+    "Name": "Gebackener Leberkas mit Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 378880,
+    "Location": "Mensa",
+    "Price": 2.80
   }
 ]
