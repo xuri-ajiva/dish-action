@@ -50137,5 +50137,32 @@
     "AllergensAndAdditives": 2195456,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.90
+  },
+  {
+    "Hash": "15150539-82ea-764c-c870-7e6f9ffaebed",
+    "Name": "Erbseneintopf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "32891cb5-785a-8835-eeef-0f406412501b",
+    "Name": "Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Bistro",
+    "Price": 2.90
+  },
+  {
+    "Hash": "b53f20c1-22fe-9e2f-01ff-2bd104471224",
+    "Name": "Erbseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Bistro",
+    "Price": 4.70
   }
 ]
