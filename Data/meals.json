@@ -50164,5 +50164,32 @@
     "AllergensAndAdditives": 2195712,
     "Location": "Bistro",
     "Price": 4.70
+  },
+  {
+    "Hash": "32b5cd14-06d8-8478-5d27-a1595f8b52f9",
+    "Name": "Erbseneintopf mit Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Bistro",
+    "Price": 4.70
+  },
+  {
+    "Hash": "63877c55-ff66-e22a-00e8-d80dc60c8b05",
+    "Name": "Blumenkohl mit Margarine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f232e3dd-9c25-56dc-c1aa-b390d57638cf",
+    "Name": "Criss Cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
