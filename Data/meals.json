@@ -50191,5 +50191,23 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "a301a23c-4170-2023-1c5b-b7fbbb3794de",
+    "Name": "Beilage Bratkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.80
+  },
+  {
+    "Hash": "8cb6ea2a-6f1e-fc0a-7ad9-13a8d1700f47",
+    "Name": "Beilage Wedges",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
