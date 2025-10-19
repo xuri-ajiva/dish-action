@@ -50209,5 +50209,68 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "c5a25e19-3cbf-fd9f-e323-2f88eac7b649",
+    "Name": "Spinatkn\u00F6del mit K\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "d14f0759-21d8-5ecf-ca2f-beaa1332dcaf",
+    "Name": "Schweinegulasch \u0027J\u00E4ger Art\u0027 mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "64ce4f0a-f3df-6f38-35a9-f6a2fcdeb0fd",
+    "Name": "Spinatkn\u00F6del mit K\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "a7c0740a-8972-06b8-95c1-0d8d895aa140",
+    "Name": "Schweinegulasch \u0027J\u00E4ger Art\u0027 mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ab971e7f-41e2-0a75-c369-a9979a34ee40",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "9ffcaa81-a849-cb74-8b58-839294f1ea3d",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "0be2847f-9a24-991e-3aaf-ec6ca3bb31a9",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4445995076,
+    "Location": "Mensa",
+    "Price": 4.80
   }
 ]
