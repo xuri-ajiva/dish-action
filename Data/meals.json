@@ -50272,5 +50272,32 @@
     "AllergensAndAdditives": 4445995076,
     "Location": "Mensa",
     "Price": 4.80
+  },
+  {
+    "Hash": "5baeabb8-918a-4d53-c584-887a1d119d7a",
+    "Name": "Milchreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "ec4b4a27-2c2b-2dc8-9160-353d31c84f3f",
+    "Name": "Linsencremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2d528f3d-e029-60e4-32b0-8a7e2a8572f0",
+    "Name": "Wirsinggem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
