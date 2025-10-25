@@ -50326,5 +50326,149 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "e4f2a06f-60ca-2186-c129-e381d16da0d7",
+    "Name": "Scharfes K\u00FCrbisgem\u00FCse mit Linsen und Rucola auf hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "1acf2075-4611-151d-91c6-98815c07194a",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis Soja-Bolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "7ad2fd76-00d0-6ded-979c-a28810ad39da",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "c9ae9b65-2184-6be7-d6f5-43a7c99e6dcf",
+    "Name": "Kreolisches Chili mit schwarzen Bohnen und Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "d299a84f-7226-0896-9569-b02b42729350",
+    "Name": "K\u00FCrbisrisotto mit frischen Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "e56b6c43-4305-68de-d1d1-b1b7466f62a5",
+    "Name": "K\u00FCrbis-Kartoffel Eintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "41b0584c-c1d1-fa9c-3555-dd30989c5efd",
+    "Name": "Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "865d9ed1-088c-90be-fc75-370c543cdbb9",
+    "Name": "Scharfes K\u00FCrbisgem\u00FCse mit Linsen und Rucola auf hausgemachter Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d1e7ff02-d8ef-4eb9-db32-f9d36d63fa64",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis Soja-Bolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Marktrestaurant",
+    "Price": 2.60
+  },
+  {
+    "Hash": "f0a7944a-6d20-e161-98d2-0041adfe6bdd",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "5cdae2f8-bcc7-5ab3-67f2-c3c971e37a2e",
+    "Name": "Kreolisches Chili mit schwarzen Bohnen und Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "913211a3-9b8e-6d5b-2bf7-3f514da2d25a",
+    "Name": "K\u00FCrbisrisotto mit frischen Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "507cc530-7032-8205-fc72-9a1dd9c1298d",
+    "Name": "K\u00FCrbis-Kartoffel Eintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "368044c2-36d6-f547-7878-26a9c01ee458",
+    "Name": "Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "af18d713-b3f2-c26b-4764-103e631fd51a",
+    "Name": "Beilagensalat Paprika | Gurke | Tomate | Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 591936,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "d599d82b-8e66-8032-3422-40c72f9aa83c",
+    "Name": "Quarkspeise Fr\u00FCchte-M\u00FCsli Mix",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1342193728,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
