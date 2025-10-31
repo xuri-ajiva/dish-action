@@ -50479,5 +50479,41 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 2.60
+  },
+  {
+    "Hash": "fe43bed1-1320-703d-e9a2-dd5ff70c4f8b",
+    "Name": "K\u00FCrbiscreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2c0a376b-6c40-ff06-ae02-3c6e40061c55",
+    "Name": "Kohlrabi \u00E0 la cr\u00E8me",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "97de8c3c-71cc-7530-dbf0-7c5e54a89ec4",
+    "Name": "Gem\u00FCsereis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "10f890d7-030d-9705-d477-14dca0e3e0bd",
+    "Name": "Ratatouillegem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
