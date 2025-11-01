@@ -50515,5 +50515,275 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "37eb0aa0-1b34-a96b-7f5c-3cace292d80c",
+    "Name": "Zuppa di leticchie e fagio \u0027Linsensuppe mit Bohnen\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795936,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0c46cb89-f125-b3c7-580c-0d083b15f7c9",
+    "Name": "Hausgemachter Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a3449de6-53ac-bcca-f49c-41e5f52127c8",
+    "Name": "Graupen-Auberginenrisotto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "239f4aae-b947-223b-71d5-c78bb0e70a1f",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "f9146deb-42f2-f98b-d549-2068b48031d2",
+    "Name": "Selleriesteak \u0027Holzf\u00E4ller Art\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17106976,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "fcae18f3-936d-b65a-05b8-17502e33d724",
+    "Name": "Walliser Rahmgeschnetzeltes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 281152,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "4a944c4e-e46e-1441-956c-515e24961001",
+    "Name": "Veganes Bigos Ger\u00E4ucherter Tofu mit Kraut und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795680,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "93d2f779-a272-82bd-f5ff-ba23ee80b21a",
+    "Name": "Borscht \u0027Rote Beete Suppe\u0027",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6870911d-0f9d-97b8-5f0b-fb784f263c2c",
+    "Name": "Pljeskavica Hackfleisch mit Hirtenk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 6.30
+  },
+  {
+    "Hash": "d8ad52e0-00ac-5f75-f029-3b66a5757c96",
+    "Name": "Gigantes Plaki Bohnen mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "f63618dd-df6d-24d1-7213-e032955b34b1",
+    "Name": "Pastizio vegetarischer Nudelauflauf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 6.00
+  },
+  {
+    "Hash": "cdcb08dc-4a14-8f2d-36d2-7f37bab0f780",
+    "Name": "Gyros vom Schwein mit Tsatsiki dazu Krautsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 67648,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "66f4d763-51c4-f5e0-254e-b989a0043516",
+    "Name": "Espinacas con Garbanzos Kichererbsen mit Spinat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870912,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "667a2301-2242-c13c-51ec-b254999b6a55",
+    "Name": "Pimientos Brat-Paprika mit Penne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "6288228f-773c-4b7e-118c-fd7a44def20b",
+    "Name": "Zuppa di leticchie e fagio \u0027Linsensuppe mit Bohnen\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795936,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "48bec551-9afd-ad53-1a51-dc4b000361af",
+    "Name": "Hausgemachter Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "5b183262-32b2-b746-d470-babcb4c48e2c",
+    "Name": "Graupen-Auberginenrisotto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 134217792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "38029c4a-8d11-af9c-e4cb-76546ce5e9c4",
+    "Name": "Curry-Kartoffel-Suppe mit Rosinen Vegan dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 620757120,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1f5ae107-505e-9a58-6837-1a75e0df8cc1",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Marktrestaurant",
+    "Price": 3.70
+  },
+  {
+    "Hash": "2629ed21-eb07-cf38-472f-5a4dea008a14",
+    "Name": "Selleriesteak \u0027Holzf\u00E4ller Art\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17106976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f9ffb248-c7c3-4d66-3cf1-3e810c87844f",
+    "Name": "Walliser Rahmgeschnetzeltes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 281152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.70
+  },
+  {
+    "Hash": "b3feb00b-937e-5a62-579b-40e69480accf",
+    "Name": "Veganes Bigos Ger\u00E4ucherter Tofu mit Kraut und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795680,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "906e7983-5d9e-42da-0468-d1a2f038b8f9",
+    "Name": "Borscht \u0027Rote Beete Suppe\u0027",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "934864e8-6587-f31d-91b7-0058aaf2bb3e",
+    "Name": "Pljeskavica Hackfleisch mit Hirtenk\u00E4se",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.30
+  },
+  {
+    "Hash": "4e949322-1be7-486c-1c09-0dcec1a1c6e3",
+    "Name": "Gigantes Plaki Bohnen mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "6227ede3-206a-3cf8-f0cd-87bb1ee3d424",
+    "Name": "Pastizio vegetarischer Nudelauflauf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.00
+  },
+  {
+    "Hash": "b7779cb2-5ae6-8050-518d-a00e23cf5eb7",
+    "Name": "Gyros vom Schwein mit Tsatsiki dazu Krautsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 67648,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "30bfd073-7cf1-8672-e861-6f5167b7e1d7",
+    "Name": "Espinacas con Garbanzos Kichererbsen mit Spinat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870912,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "ac428628-23e2-3f7b-491c-275eec7556f7",
+    "Name": "Pimientos Brat-Paprika mit Penne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "1cd2a241-e57d-ad1f-e23c-9688a11e3cb6",
+    "Name": "Gebratener Reis Spinat | Karotten | Tofu | Miso | Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958497,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
