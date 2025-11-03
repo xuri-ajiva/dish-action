@@ -50785,5 +50785,32 @@
     "AllergensAndAdditives": 16958497,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "29452eb4-ea37-3ba3-d0cc-f12f800dda75",
+    "Name": "Pastizio vegetarischer Nudelauflauf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 6.00
+  },
+  {
+    "Hash": "cd05d2ab-45f0-b2d2-53c0-6c2549786272",
+    "Name": "Curry-Kartoffel-Suppe Vegan dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 620757120,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "491d64da-6732-3081-3065-f24b97d09bf4",
+    "Name": "Pastizio vegetarischer Nudelauflauf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.00
   }
 ]
