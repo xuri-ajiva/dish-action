@@ -50812,5 +50812,50 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Otto-Berndt-Halle",
     "Price": 6.00
+  },
+  {
+    "Hash": "0c188e66-0e48-36de-91aa-83974d53063e",
+    "Name": "Walliser Rahmgeschnetzeltes mit R\u00F6sti",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 281152,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "2ebd1022-1f6c-a524-760c-5bb49284471a",
+    "Name": "Pljeskavica Hacksteak gef\u00FCllt mit Hirtenk\u00E4se dazu Ajvar und Djuvec Reis",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 6.30
+  },
+  {
+    "Hash": "ab6f73f6-5e41-d80f-4ff7-e6bba07103af",
+    "Name": "Curry-Kartoffel-Suppe dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 620757120,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "ec744799-2977-d746-9af3-f0a6e3177624",
+    "Name": "Walliser Rahmgeschnetzeltes mit R\u00F6sti",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 281152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.70
+  },
+  {
+    "Hash": "5d7ab3de-a3d4-c22b-6666-bf720a5cdc66",
+    "Name": "Pljeskavica Hacksteak gef\u00FCllt mit Hirtenk\u00E4se dazu Ajvar und Djuvec Reis",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.30
   }
 ]
