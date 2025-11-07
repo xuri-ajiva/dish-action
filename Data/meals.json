@@ -50857,5 +50857,32 @@
     "AllergensAndAdditives": 68,
     "Location": "Otto-Berndt-Halle",
     "Price": 6.30
+  },
+  {
+    "Hash": "fac56a42-36ed-7ac3-9a41-a0dba22ad91b",
+    "Name": "Pastizio vegetarischer Nudelauflauf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "3e490777-cc4b-9fe8-dd05-b29a2c11f126",
+    "Name": "Selleriecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "fa3b3278-579a-2bcf-0d32-67a364f751a9",
+    "Name": "Quark-Nougatcreme im Glas mit Sauerkirschspiegel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1073741920,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
   }
 ]
