@@ -50884,5 +50884,248 @@
     "AllergensAndAdditives": 1073741920,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.30
+  },
+  {
+    "Hash": "6df2b47a-c7dd-ffad-7526-61f665bcc6c5",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "53075e45-7ba3-dba5-bf52-a55afec8c901",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "b51107f7-506d-aa74-20ee-071b76bd38ed",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "a2d90506-d7ac-8068-8007-44e7a7f7fdef",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810081,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "9e409942-2ada-f438-c3ba-1075a12cc497",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "20fb408e-9743-f790-2502-33fba79289a5",
+    "Name": "Linsenbratling mit K\u00FCrbismus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "f3686a6b-d9d2-1ca7-0f97-e8105804ef31",
+    "Name": "Gnocchi mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "a1322617-747b-b990-6295-b2ea9604f85f",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "82c51a3a-c4bf-bc54-0965-158e597cafb6",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "eea91256-9c6a-cc38-2a5a-5bf85e2d0064",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "9d676b51-9681-1d87-b826-5fe3ba2179d6",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry dazu Brot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 218104864,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c065a6f3-e7cd-1573-5c1b-20c9b853d763",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "a727cab8-564c-7282-802f-183e7af9bf2a",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810081,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "322ded7b-6090-7252-5be0-63848d0af867",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "c8a660e6-c5bd-1412-109e-758a89451206",
+    "Name": "Linsenbratling mit K\u00FCrbismus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "7ee05fde-7356-40f1-e9e2-7d5447a99846",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry dazu Brot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218104864,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "5b0aa8e7-fe09-4549-92f3-19c2be4903a8",
+    "Name": "Gnocchi mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "f17d9f14-49b8-b6ff-3bcf-c13da97cf997",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "04d80863-47b2-467b-0d13-fbbd2c516550",
+    "Name": "Beilagensalat Gurke | Dill | Essig | \u00D6l",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "4a3ce312-da03-faa7-0bab-c0f895883582",
+    "Name": "Wokpfanne Blumenkohl | Paprika | Erdnuss | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "cbd81fb3-fc28-6844-f787-b5bca8755e1b",
+    "Name": "Teriyaki Tempeh Asia cole slaw | Wedges",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "6c6880b4-da01-49cc-b9c4-54715b59c3f8",
+    "Name": "Rotes Thai Curry K\u00FCrbis | Champignons | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 180257,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8e867e47-6db2-ee06-53cc-0f3f9f0f9e36",
+    "Name": "Pad Thai Tofu | Champignons | Sojasprossen | Koriander | Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1446e3f9-9dd8-2072-7bc8-bd6ff49a6456",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Criss cuts",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 6.60
+  },
+  {
+    "Hash": "8ead7a60-6431-3d64-0c58-c9d3b84bcb92",
+    "Name": "Schupfnudeln mit Sauerkraut und R\u00E4uchertofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "e405f9b6-34c5-f866-d4ff-a338038029a6",
+    "Name": "Hausgemachte Pasta mit Tomaten-Olivensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "ce7544d5-0e7e-cb97-f549-1217d6cad26b",
+    "Name": "WOK Scharfer Tofu mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859681,
+    "Location": "Mensa",
+    "Price": 1.00
   }
 ]
