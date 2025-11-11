@@ -51127,5 +51127,59 @@
     "AllergensAndAdditives": 16859681,
     "Location": "Mensa",
     "Price": 1.00
+  },
+  {
+    "Hash": "3ab498ed-d200-1384-6f5b-94f008ce5396",
+    "Name": "Wokpfanne Brokkoli | Paprika | Erdnuss | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "a446fcba-2ebe-629c-de72-bea26c9683c0",
+    "Name": "Kichererbsen-Kokos-Korma mit Mandelreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870912,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "574118bd-d4e5-b8d2-dd7d-3e9df5f36db6",
+    "Name": "Aktion 1 Schupfnudeln mit Sauerkraut und R\u00E4uchertofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "1a77c1b0-807c-c47e-eed6-833dfa2ab36b",
+    "Name": "Aktion 2 Hausgemachte Pasta mit Tomaten-Olivensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "969f4b82-d40b-5cb3-1d0b-e5d8f99026dd",
+    "Name": "Aktion 3 WOK Scharfer Tofu mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859681,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "2894ebf2-7ca8-44e4-1191-07d472818b4b",
+    "Name": "Bananenquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
