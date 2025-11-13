@@ -51181,5 +51181,41 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "b48ccc7e-7927-4161-4edc-57cb95eb368c",
+    "Name": "Karotten-Kokos-Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "00f1fb6d-bc7c-4bdf-ace4-39860a732feb",
+    "Name": "Gem\u00FCsereis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "c64970ed-d39a-052b-4551-77b27300c0e0",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "58020978-3405-9e77-f70e-c894950d56d6",
+    "Name": "Schwarzwurzeln mit Br\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793600,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
