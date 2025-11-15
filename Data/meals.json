@@ -51217,5 +51217,212 @@
     "AllergensAndAdditives": 16793600,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "f5c88fa5-c681-f3ea-f118-d6e4761d624e",
+    "Name": "Hausgemachte Pasta mit Tomaten-Brokkoli Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "27da5331-12cd-edc6-7704-94e138eef6f5",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2443776,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "2d00bcab-f019-658e-e728-b12bbfc025d7",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "ebdbdd86-0779-c905-d8dc-13321bbefdcd",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "7853e2b4-ae0b-279d-a9a5-edbfce335c21",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "cbe24e9d-5657-2d36-d272-b8574c3aee84",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "a76372b6-6317-d4df-f94f-e58d4fe2b095",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch und Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6390016,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "51a5365e-adbb-c7ea-0de5-308dc68324d9",
+    "Name": "Soja-Gyros mit Tsatsiki  dazu Krautsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67616,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "ade94545-0a41-9c25-719f-368bd7273d74",
+    "Name": "Semmeltaler mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "f45446bb-17e2-0736-1048-f1efc6d95bd0",
+    "Name": "Hausgemachte Pasta mit Tomaten-Brokkoli Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "85fb52d4-a094-7747-36d8-cf72651499c1",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2443776,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "b9be5a28-bb02-d255-8f77-ac9c60167e8a",
+    "Name": "Bratapfel Dessert mit Quark-Joghurtcreme im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "3c6e3be9-b9ab-3653-239b-009f9bf0f5b3",
+    "Name": "Asia-Suppe mit Glasnudeln und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886368,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6024de94-4708-ca49-4c41-8efcd7bfce58",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Marktrestaurant",
+    "Price": 3.40
+  },
+  {
+    "Hash": "7ee6d731-a707-4d27-7edb-bc9867c230c5",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "dc791d3f-0411-8825-41c4-2365deab7f94",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "47aaadf7-e657-cc5b-e08e-ec20bc7c2dde",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch und Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6390016,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "9e1a9dba-4577-c163-f304-8198536e3d9e",
+    "Name": "Soja-Gyros mit Tsatsiki  dazu Krautsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67616,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "1fe33670-da45-083c-d553-5407b8a23b88",
+    "Name": "Semmeltaler mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "d9615788-e6fb-d39c-1188-7e7cb56ad26b",
+    "Name": "Fried Rice Reis | ger\u00E4ucherter Tofu | Erdn\u00FCsse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16811056,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "fd381f22-b49b-8cf4-48c2-92d1232e728a",
+    "Name": "Dessert No-Bake-Cake Biskuit | Frischk\u00E4se | Himbeere",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "d2e5fda2-2cf5-9125-ef50-08b60534c96d",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 6.60
+  },
+  {
+    "Hash": "d1691381-5cef-fb0c-fd78-c61c52f93843",
+    "Name": "Briam Zucchini | Aubergine | Kartoffel | Schafsk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 4.30
   }
 ]
