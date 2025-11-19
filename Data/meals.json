@@ -51433,5 +51433,32 @@
     "AllergensAndAdditives": 134217792,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "9726f568-fee2-756f-20e0-e2ad150d071c",
+    "Name": "Maronensuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b479fa9a-50c1-efea-d360-61109260137d",
+    "Name": "Currybratwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6291456,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "7d28d387-6842-8532-e2d7-5025ac1da070",
+    "Name": "Brokkoli Semmelbr\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793600,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
