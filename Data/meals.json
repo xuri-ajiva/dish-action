@@ -51460,5 +51460,50 @@
     "AllergensAndAdditives": 16793600,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "cb6d7cf4-0967-c527-b127-bbd19ce0dbdd",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten, Lauch und Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6390016,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a2abb1a6-3f52-ca5f-14b9-2f68ab62e2ee",
+    "Name": "Sauerkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264192,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f8e866e7-0c2f-8cb8-75fd-23f1ce548317",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 7.20
+  },
+  {
+    "Hash": "7fe39f8a-0c06-6ed3-e4a2-613cadd6a404",
+    "Name": "Kohlroulade mit Hackfleischf\u00FCllung und Specksauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891904,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "8190b939-53b7-b433-10cb-6046a0f6ed06",
+    "Name": "Gebackener Seelachs mit Kr\u00E4uterdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 3.50
   }
 ]
