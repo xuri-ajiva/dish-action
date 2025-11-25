@@ -51865,5 +51865,14 @@
     "AllergensAndAdditives": 16958497,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "363d4b8c-bce8-dd99-bcea-b9aef8897a1c",
+    "Name": "Kartoffelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
