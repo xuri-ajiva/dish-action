@@ -51874,5 +51874,86 @@
     "AllergensAndAdditives": 16777536,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "8f3fb8c3-4dc6-f33c-79bc-8fb82210c2a3",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891972,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "84e4e4ac-410b-1887-dd04-6f0768403a9f",
+    "Name": "Karotten-Ingwer Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "97f5a6b9-ea2d-7d12-2f28-c777f3efee4c",
+    "Name": "Cordon bleu vom Schwein mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "da888590-c5cb-7bc8-cb07-a252d89a25cf",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "3d40400b-2ae4-83b6-6704-42ee1b670bd2",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu  dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "07de6c9c-45ec-4f78-c47d-e456401cec0a",
+    "Name": "Brokkolicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "e2e5103f-c047-b9d7-8834-936a9b0d1477",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891972,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "53dc3ff1-3a44-7c2c-3872-b6f1f690391a",
+    "Name": "Cordon bleu vom Schwein mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "596d3927-1e56-e125-1885-4f2f02a86ab0",
+    "Name": "Hackfleisch-Gem\u00FCsepfanne Rindfleisch | Couscous | Paprika | Aubergine | Tomaten | Couscous",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 6.10
   }
 ]
