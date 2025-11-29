@@ -51955,5 +51955,347 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 6.10
+  },
+  {
+    "Hash": "0281e08f-683a-5eb1-ff5b-7f80786f58a7",
+    "Name": "Pikante Sesamnudeln mit asiatischem Pfannengem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778288,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "958af809-1e78-6490-c0cb-04a96f93f264",
+    "Name": "Gem\u00FCseschnitte mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549696,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "7defa8cf-7974-c298-364f-64be326a2e15",
+    "Name": "Wildbratwurst auf Sauerkraut  mit Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2378240,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "1321e3bf-ca5c-ecab-12c4-9559c2ba625a",
+    "Name": "Wok \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "7013dfd0-82d7-704a-fb5c-cdaf17d60ea4",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d79f619a-0087-1ade-6c9b-bbf80fd94693",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "fc0dd138-200d-f210-dc57-4b0cea3ba06e",
+    "Name": "Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "6ebb0600-5980-746e-ae33-fb4af1985d52",
+    "Name": "Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "0e8a2a23-5f7b-8a5d-6db0-a5decc5819b1",
+    "Name": "Erbseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "a99afba3-53c0-780a-1106-44c0047aaae3",
+    "Name": "Chili sin carne mit Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "29006047-51d3-b8fc-e2c1-87d8240d4852",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "01e90cb0-f3bb-9547-da46-1f663235e4d6",
+    "Name": "Curry-Rahmwirsing mit roten Linsen, Bohnen und Mandeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870944,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "49e20dd3-bb8f-2fc7-4a4d-6a42ecc6c12a",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "30bc65b2-d058-7577-6788-d986e9add939",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "f847b404-ccaf-8749-ad77-e7782d7be66e",
+    "Name": "Pikante Sesamnudeln mit asiatischem Pfannengem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "5be45b55-b154-d5ce-1fa7-a2e533defefa",
+    "Name": "Hausgemachte Pasta mit Bolognese aus roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Marktrestaurant",
+    "Price": 2.00
+  },
+  {
+    "Hash": "728d4e05-81b5-bc0d-363f-ca4d1f3a020a",
+    "Name": "Gem\u00FCseschnitte mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 184549696,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c5a59f2a-cfea-e698-abd4-2bf80561686f",
+    "Name": "Wildbratwurst auf Sauerkraut  mit Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2378240,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "91048225-6eb0-7a48-e574-aa22d992818f",
+    "Name": "Rote Linsensuppe mit Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886080,
+    "Location": "Bistro",
+    "Price": 3.50
+  },
+  {
+    "Hash": "76fccd08-bf6e-f641-397e-5d48ff49a3b3",
+    "Name": "Wok \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Marktrestaurant",
+    "Price": 3.40
+  },
+  {
+    "Hash": "05aed2d8-9115-3f97-02a7-7cdb6aa804fa",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e2c0e9e8-4039-ae08-0cd7-4f7d1f9e8f7a",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "d5fe4512-de2d-f7f5-e6ee-ff1e055289c2",
+    "Name": "Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "a0f9756e-98de-9f99-5618-735c13973bd7",
+    "Name": "Erbseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "fc3ebf6f-3b20-efe7-c2f6-d215fc689ec7",
+    "Name": "Erbseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "2a000a18-8028-ebf8-f4e2-b8013c255ef2",
+    "Name": "Chili sin carne mit Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "1a9fd1ef-f2ab-5ffd-f821-4f10d4e59464",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "0502d543-ab34-a9c6-17e9-cff72e0129b6",
+    "Name": "Curry-Rahmwirsing mit roten Linsen, Bohnen und Mandeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536870944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "5d99b1b6-2937-89e3-27f3-5b51d1168e8b",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "2dab56c9-dfe1-e7cc-cb93-5536797c2ec4",
+    "Name": "Gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "74b4ccaf-dea1-051b-5089-737b9b60725e",
+    "Name": "Kichererbsen-Auberginen Pfanne Tomate | Paprika | Couscous",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "409dd913-9110-5260-a802-30b7e8fccf98",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17156161,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "ef0206d0-58b4-632e-823c-694511e89dd2",
+    "Name": "Wokpfanne Brokkoli | Paprika | Erdnuss | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "87ab13ad-eb49-8e85-a9ce-e947044a3b8c",
+    "Name": "Fasolada Bohnen | Karotten | Sellerie | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777473,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "84cacd86-47a3-c073-7027-13fd12ac51b5",
+    "Name": "Gem\u00FCse-Tajine Couscous, Tomaten, S\u00FC\u00DFkartoffeln und Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "849608dd-ada8-e7a8-17ee-7372d1f3d5ac",
+    "Name": "Linsen-Gem\u00FCse Chili Paprika, Karotten, Sellerie und Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "f56ac3f3-aeff-dc5e-f754-f47d1066dc0b",
+    "Name": "Rotes Curry Kichererbsen, Tomate, Wei\u00DFkraut und Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "38893bda-f219-57a8-bfad-1d96eff0be11",
+    "Name": "Fried Rice Pilze, Erbsen und Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151029025,
+    "Location": "Mensa",
+    "Price": 3.20
   }
 ]
