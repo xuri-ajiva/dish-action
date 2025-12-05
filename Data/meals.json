@@ -52450,5 +52450,14 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.40
+  },
+  {
+    "Hash": "0e6c208d-9190-5a50-1872-52b8572f6bdf",
+    "Name": "Kartoffelgratin",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
   }
 ]
