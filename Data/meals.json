@@ -52459,5 +52459,257 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.20
+  },
+  {
+    "Hash": "c2504f2c-a673-2006-00e7-2927efe016b6",
+    "Name": "Nikolausteller vegan Sojageschnetzeltes mit Waldpilzen dazu Apfel-Zimt-Rotkraut und ein Kartoffelklo\u00DF",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248608,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "c4697ce8-17ee-7bb9-a3b3-43d3a0af810a",
+    "Name": "Hausgemachte Pasta mit einer Sauce Arrabiata",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "7496f95b-0949-c979-5b43-d3904da22383",
+    "Name": "Polentabruschetta mit Gem\u00FCse und Mozzarella gratiniert",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "e71f2449-c4d1-18cb-a360-9f36f1348cd2",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "88198513-cf67-e319-a2f6-74244ad0571c",
+    "Name": "Kokosmilchreis mit Zimt und Birne im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "a070ec62-dba7-5b7d-24a2-e60d6f5bfa52",
+    "Name": "Vegane Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Grill",
+    "Price": 4.30
+  },
+  {
+    "Hash": "842a7e32-7fdb-4db0-fe64-d426f0a79dec",
+    "Name": "Vegane Curry-Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 20971520,
+    "Location": "Grill",
+    "Price": 4.30
+  },
+  {
+    "Hash": "fa46c9d9-2bd5-5420-6bc0-a8e86ae86403",
+    "Name": "WOK S\u00FC\u00DFkartoffel Curry dazu Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "d75e3329-65bd-63f1-a896-7f444483f4f0",
+    "Name": "Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2097152,
+    "Location": "Grill",
+    "Price": 3.90
+  },
+  {
+    "Hash": "d94f38c8-a03c-8ec8-dfd9-a7cce6d39e99",
+    "Name": "K\u00E4sewurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195520,
+    "Location": "Grill",
+    "Price": 4.00
+  },
+  {
+    "Hash": "7e4169ae-9547-0ed9-8c24-0614b0d53768",
+    "Name": "Currywurst aus Rindswurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Grill",
+    "Price": 4.90
+  },
+  {
+    "Hash": "d55016e1-f87a-a184-1aa2-f295eca6beb9",
+    "Name": "Currywurst aus Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Grill",
+    "Price": 4.30
+  },
+  {
+    "Hash": "709d2105-f4a3-3b47-635a-0952a5eba6c8",
+    "Name": "Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195456,
+    "Location": "Grill",
+    "Price": 4.50
+  },
+  {
+    "Hash": "3627b426-dd44-16ca-1cd4-d2aa8d16d3fe",
+    "Name": "Kartoffel-Krautpfanne mit  veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "50a5aab7-36d5-5067-cd07-53703fbb8fdf",
+    "Name": "Hirsch-Rahmgulasch",
+    "Image": "2792367d-8ee6-7c1b-143a-086dd7ea5932",
+    "Category": 9,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "6bc40e8e-6674-1482-75c8-98e320a4a5ad",
+    "Name": "Gebratenes Gem\u00FCse mit Tofu, Nudeln und Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311924768,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "a469e7c4-cec5-60b1-64d2-6891c0e64cdc",
+    "Name": "Nikolausteller vegan Sojageschnetzeltes mit Waldpilzen dazu Apfel-Zimt-Rotkraut und ein Kartoffelklo\u00DF",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248608,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1b392914-bb42-d0f6-6b2e-671fef3f1828",
+    "Name": "Hausgemachte Pasta mit einer Sauce Arrabiata",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6e328683-57fd-e326-2ec6-c8fe6ed33619",
+    "Name": "Polentabruschetta mit Gem\u00FCse und Mozzarella gratiniert",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "b9bd9027-9f27-f5b8-d278-2f0f3f1af698",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "936380e6-663e-d8d2-621b-96c8ac9651af",
+    "Name": "Wirsinggem\u00FCse \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "e69979a5-06db-6bb8-2f6b-55a6a16b0ebb",
+    "Name": "WOK S\u00FC\u00DFkartoffel Curry dazu Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "9f543d7e-6293-e830-4532-b94a620365ff",
+    "Name": "Kokosmilchreis mit Zimt und Birne im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "0811a6f4-435b-8446-3bfb-a3626321a7b2",
+    "Name": "Kartoffel-Krautpfanne mit  veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "53022321-7dbf-ae7d-3661-2e177d1e6611",
+    "Name": "Pastizio vegetarischer Nudelauflauf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "54dbe7d9-6cd6-0905-9070-1995e5d99203",
+    "Name": "Hirsch-Rahmgulasch",
+    "Image": "2792367d-8ee6-7c1b-143a-086dd7ea5932",
+    "Category": 9,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.40
+  },
+  {
+    "Hash": "0a9e3a62-c0aa-78bd-d431-d01f268dac3f",
+    "Name": "Chow Mein Noodles Ei | Paprika | Erbsen | Karotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16957477,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "1809ca0c-ef38-3624-6497-ff189083a5c5",
+    "Name": "Seelachs Kartoffeln | Petersilie | Gurkensalat",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16844808,
+    "Location": "Mensa",
+    "Price": 6.50
   }
 ]
