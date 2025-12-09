@@ -52711,5 +52711,41 @@
     "AllergensAndAdditives": 16844808,
     "Location": "Mensa",
     "Price": 6.50
+  },
+  {
+    "Hash": "49b1e1fc-ae45-874d-4d20-515c69e3a99b",
+    "Name": "Nikolausteller Sojageschnetzeltes mit Waldpilzen dazu Apfel-Zimt-Rotkraut und ein Kartoffelklo\u00DF",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248608,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "2eed2efb-005e-4ba1-aecc-cfc265cc50b4",
+    "Name": "Kartoffel-Wirsingcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "87a1d678-d667-bb97-84a3-ec7e5ed58aa5",
+    "Name": "Nikolausteller Sojageschnetzeltes mit Waldpilzen dazu Apfel-Zimt-Rotkraut und ein Kartoffelklo\u00DF",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248608,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "74c53bcb-4983-053f-2e6e-523091f96e5c",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218104864,
+    "Location": "Bistro",
+    "Price": 2.40
   }
 ]
