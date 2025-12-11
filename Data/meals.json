@@ -52747,5 +52747,104 @@
     "AllergensAndAdditives": 218104864,
     "Location": "Bistro",
     "Price": 2.40
+  },
+  {
+    "Hash": "7478c054-4b9c-4202-8e17-e086123292a1",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218104864,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "c18de292-fc99-eba3-0be6-30da1c7c2be2",
+    "Name": "Mexikanischer Bohneneintopf mit Feuerwurst dazu ein Br\u00F6tchen",
+    "Image": "1aec48e8-118e-70e9-c8f4-825d7f9ca6f9",
+    "Category": 1,
+    "AllergensAndAdditives": 2196225,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "d1eff0fa-7a89-6529-3b9b-b848300469d1",
+    "Name": "Mexikanischer Bohneneintopf dazu ein Br\u00F6tchen",
+    "Image": "1aec48e8-118e-70e9-c8f4-825d7f9ca6f9",
+    "Category": 1,
+    "AllergensAndAdditives": 257,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "7df7d3bb-8459-6be7-8337-aa453f228797",
+    "Name": "Mexikanischer Bohneneintopf mit Feuerwurst",
+    "Image": "1aec48e8-118e-70e9-c8f4-825d7f9ca6f9",
+    "Category": 1,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "80492c7b-a8e4-4527-dda4-a6fdeac46786",
+    "Name": "Mexikanischer Bohneneintopf",
+    "Image": "1aec48e8-118e-70e9-c8f4-825d7f9ca6f9",
+    "Category": 1,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "25f89d2e-82e4-ffe8-f290-dfd5f20196b3",
+    "Name": "Vanillepudding",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.00
+  },
+  {
+    "Hash": "cd62c8fa-550f-609a-f85a-92e5bd023d45",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "a0f5b809-77ec-bd8e-7b82-a81bd35a6e57",
+    "Name": "Pide mit Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "937e02b7-8e99-61ed-af83-5b0b2690d654",
+    "Name": "Veganer Pide mit Sonnenblumenhack",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "7285df23-1146-08bf-c925-fb131bdb1169",
+    "Name": "Pide mit Ratatouille",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "afedc57d-83b8-9ca2-e3c5-dc2f2cdb5c14",
+    "Name": "Pide mit Rinderhack",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 5.10
   }
 ]
