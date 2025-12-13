@@ -52846,5 +52846,230 @@
     "AllergensAndAdditives": 150994944,
     "Location": "Mensa",
     "Price": 5.10
+  },
+  {
+    "Hash": "eeaf7a6a-8911-b234-2215-fefb6cdbbc27",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen und Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "c5d9bf7a-c849-eb6e-6ae7-548f6dba0289",
+    "Name": "Dinkelreis-Risotto mit Champignons, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33818688,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "02dc46a8-e4a5-bb4f-1716-8b3533a5d12c",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "a0206e4a-a6a2-2a82-4742-5f4ad9750bad",
+    "Name": "Kichererbsen-Kokos-Korma mit Mandelreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536871040,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "f5891496-59f4-b420-ddb8-0cc9deee24eb",
+    "Name": "Weihnachtsburger Brioche, Jackfruit-Bratling, Rotkraut, Brie, Apfel-Zwiebelmarmelade dazu Criss cuts",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16861764,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "40178294-f2e3-fc97-20fb-9c9d4b406952",
+    "Name": "Weihnachtsburger Brioche, Rindfeisch, Rotkraut, Brie, Apfel-Zwiebelmarmelade dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16861765,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "972c7dcb-3d4e-fb1c-a599-6c2ddfb9ec5c",
+    "Name": "Hausgemachte Lasagne mit Sonnenblumenbolognese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "00046b9e-8170-bda8-87f8-484b131b8230",
+    "Name": "Ungarischer Gulaschtopf mit Kartoffeln, Kartotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "b82ceb85-89a4-1714-d8fe-effe71e47583",
+    "Name": "Gem\u00FCsetortilla mit Kartoffeln, Paprika und Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "38bda492-ef00-c4ca-0869-5b591ed6f0a2",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen und Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "e4bc7716-c486-9fe3-f760-f813c11929c4",
+    "Name": "Dinkelreis-Risotto mit Champignons, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33818688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "18f376f6-2fb1-fdb6-38be-8bf34ed67ac7",
+    "Name": "Hausgemachte Pasta mit Spinatinosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "94da5e19-7493-1f0c-5d3c-33763db400a9",
+    "Name": "WOK W\u00FCrziger Pak Choi mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "01b893d9-9ab8-ea88-95bf-6851b49ebd25",
+    "Name": "Kichererbsen-Kokos-Korma mit Mandelreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536871040,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "3860367d-047b-2cef-10e5-621f8facb966",
+    "Name": "Weihnachtsburger Brioche, Kidney-Bohnenbratling, Rotkraut, Brie, Apfel-Zwiebelmarmelade dazu Criss cuts",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285297253,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "8e067203-0acb-2dde-42eb-a15e3bcfd659",
+    "Name": "Weihnachtsburger Brioche, Rindfeisch, Rotkraut, Brie, Apfel-Zwiebelmarmelade dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16861765,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "6428a7ab-0645-6c2a-5277-520e11b09654",
+    "Name": "Hausgemachte Lasagne mit Sonnenblumenbolognese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "0f7b5315-e45c-7ce0-0fba-4544bdcff3d5",
+    "Name": "Ungarischer Gulaschtopf mit Kartoffeln, Kartotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "3c5622e3-9c3f-13dc-c9b9-4e800087d5fa",
+    "Name": "Gem\u00FCsetortilla mit Kartoffeln, Paprika und Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "9a20cdf2-4e61-943f-ca23-fe8af1e81567",
+    "Name": "Milchreis-Tiramisu Apfel | Milch | Sahne | Amarettini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "9b9a7454-9f62-799a-0d0d-c05e9c2f0366",
+    "Name": "Woknudeln Paprika | Aubergine | Spinat | Koriander | Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "4e9b4896-e97b-9f04-03bd-39abe26108ba",
+    "Name": "Chow Mein Noodles Tempeh | Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958497,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "7d760cf4-08d4-4b33-bc22-10b28711ea2f",
+    "Name": "Currywurst Rind | Wedges",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 157401344,
+    "Location": "Mensa",
+    "Price": 6.70
+  },
+  {
+    "Hash": "51a9c2cc-84ce-7179-ca66-f44b63d83921",
+    "Name": "Weihnachtsburger Brioche, Kidney-Bohnenbratling, Rotkraut, Brie, Apfel-Zwiebelmarmelade dazu Criss cuts",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285297253,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "1b810465-c096-51f7-8df2-bb3a84363598",
+    "Name": "Hausgemachte Pasta mit Spinatinosauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
