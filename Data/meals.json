@@ -53071,5 +53071,14 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "a0ab17e6-2fcb-8ae8-343f-8d24b562485b",
+    "Name": "Gebratener Reis Spinat | Karotten | Tempeh | Miso | Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958497,
+    "Location": "Mensa",
+    "Price": 2.20
   }
 ]
