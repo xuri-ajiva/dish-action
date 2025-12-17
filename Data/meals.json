@@ -53080,5 +53080,68 @@
     "AllergensAndAdditives": 16958497,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "e16d56df-8238-ea33-0663-c8b9fd6ff3b6",
+    "Name": "Mediterrane Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "72950f0d-26a4-cde5-064c-8efd416aa4c2",
+    "Name": "Weihnachtsburger Brioche, Rindfleisch, Rotkraut, Brie, Apfel-Zwiebelmarmelade dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16861765,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "03d79583-36a1-5357-d854-b911a79b1f56",
+    "Name": "Spargelgem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.40
+  },
+  {
+    "Hash": "7014ee8e-2129-c142-f619-b43db3be45c7",
+    "Name": "Weihnachtsburger vegetarisch                           dazu Pommes",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "c7d8f8ff-28ab-b8cc-23b3-234b6d43bb12",
+    "Name": "Weihnachtsburger Sesambr\u00F6tchen, Rindfleisch, Rotkraut, Brie, Apfel-Zwiebelmarmelade dazu Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16862789,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "1aa1430b-918e-60c6-bf64-cd3b0b1eb5ca",
+    "Name": "Schwarzwurzel \u00E0 la cr\u00E8me",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "279e7b87-d9d2-8b39-5898-55f9c73a6f0c",
+    "Name": "Pide mit Sonnenblumenhack",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
