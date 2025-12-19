@@ -53143,5 +53143,23 @@
     "AllergensAndAdditives": 150994944,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "ac1edaba-20ef-6783-55f7-a531e5295c20",
+    "Name": "Schupfnudeln mit Sauerkraut  und R\u00E4uchertofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "c33f0bc9-8e23-1679-5b9c-c67eb61b0d0b",
+    "Name": "Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
   }
 ]
