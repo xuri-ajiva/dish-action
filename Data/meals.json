@@ -53161,5 +53161,50 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.20
+  },
+  {
+    "Hash": "efc0323b-edfa-ce9d-4dce-7f6b61a4c330",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20988485,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "62810f94-f037-8bf7-2a07-5274796ff10f",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "3eb6c09a-bd1d-ab3e-96e3-910695b15943",
+    "Name": "Heidelbeerquark",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "fc663a59-15f1-4396-18f6-2cb82c3622cf",
+    "Name": "Cheeseburger",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20988485,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.40
+  },
+  {
+    "Hash": "c42477de-064a-0a5c-3085-00804ef9da80",
+    "Name": "Curry-Rindswurst dazu Pommes Frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 2195456,
+    "Location": "Mensa",
+    "Price": 5.20
   }
 ]
