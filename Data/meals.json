@@ -53206,5 +53206,23 @@
     "AllergensAndAdditives": 2195456,
     "Location": "Mensa",
     "Price": 5.20
+  },
+  {
+    "Hash": "86b566ed-777c-d710-7af5-89da2a8ac814",
+    "Name": "Vegane Pizza Margherita",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "56e2d08d-c561-d105-009b-6551ec8af145",
+    "Name": "Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
   }
 ]
