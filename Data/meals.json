@@ -53224,5 +53224,14 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.10
+  },
+  {
+    "Hash": "39a25e8d-5c79-7df0-3b85-11d7bf3f4194",
+    "Name": "Schokopudding im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
   }
 ]
