@@ -53233,5 +53233,104 @@
     "AllergensAndAdditives": 32,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.30
+  },
+  {
+    "Hash": "a27aea91-d5c8-798c-0631-8027ecbf483b",
+    "Name": "Vegane Pizza Margherita",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "2c03e15b-b82f-aefa-ed21-3271f47f63ef",
+    "Name": "Hausgemachte Pasta alla Carbonara mit ger\u00E4uchertem Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "7303d41e-9712-6dc3-6a46-33e7588af962",
+    "Name": "Vegane Pizza Margherita",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "6c2a888d-96ee-d7e2-7068-fdd55c30fec4",
+    "Name": "Hausgemachte Pasta mit Tomaten-Brokkoli Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "7a09b8f7-1ef6-d31c-2384-9d3a4f825a71",
+    "Name": "Hausgemachte Pasta a la Carbonara mit ger\u00E4uchertem Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "156ccb95-2e99-18f8-f219-dc687271dc94",
+    "Name": "Hausgemachtes Kartoffelp\u00FCree",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "79b03d69-0d0b-8fcc-3837-ce6accd4ec03",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "537b1853-e724-1b7a-843a-29e68979bda6",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "816c632a-0bad-3e1a-6a20-78adfebfc93a",
+    "Name": "Hausgemachte Pasta alla Carbonara mit ger\u00E4uchertem Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "07cdbc2d-6cea-c615-1f59-6ac5199b96ed",
+    "Name": "Dessert No-Bake-Cake Biskuit | Frischk\u00E4se | Himbeere",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a696fca0-1d2c-51c6-f2ee-4336149c94f5",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten, Lauch und Bockwurst",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6390016,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
