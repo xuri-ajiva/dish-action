@@ -53332,5 +53332,14 @@
     "AllergensAndAdditives": 6390016,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "170356c2-af71-b09c-c2ef-f75964f87074",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
   }
 ]
