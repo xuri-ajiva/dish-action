@@ -53341,5 +53341,41 @@
     "AllergensAndAdditives": 150994944,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.40
+  },
+  {
+    "Hash": "d11a65c6-e900-1682-6022-b9c376d4bf1f",
+    "Name": "Kartoffel-K\u00FCrbis Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2892288c-b4c3-fac7-08b4-ab3050bafca0",
+    "Name": "Cordon bleu vom Schwein mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "c3478ebc-9385-ca76-4c08-962febe6189c",
+    "Name": "Tomatencremesuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "5cf885bd-1967-6a3b-b85f-f7714f0408fa",
+    "Name": "Kohlrabi mit Margarine und Kr\u00E4uter",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
