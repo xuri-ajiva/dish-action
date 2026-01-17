@@ -53377,5 +53377,77 @@
     "AllergensAndAdditives": 16384,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "52e7f335-509a-9fdd-e245-18b4e6d95790",
+    "Name": "Hausgemachte Pasta mit M\u00F6hrensugo, Erdn\u00FCssen und Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777233,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "b5f368de-0e30-193b-86c4-f059a6337a01",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "5fe5723e-ce17-014f-1c5d-ff24544f1ce0",
+    "Name": "Hausgemachte Pasta mit M\u00F6hrensugo, Erdn\u00FCssen und Kokosmilch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777233,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "03f5a14a-074f-a7f1-dcbd-341f0764ed35",
+    "Name": "Hausgemachter Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "67da3299-ed54-667a-675a-be080a225f1a",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "b1cc0b19-23a7-4488-9e88-516c26c30b3b",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu  dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c99f8bab-7f5e-88ed-8743-871273f1fa9c",
+    "Name": "Pflanzliche Pizza Margherita pflanzlicher Mozzarella | Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "e0d78ef9-6a66-2022-3caa-ec0794c359ff",
+    "Name": "Pflanzliche Pizza Margherita inkl. 3 Toppings nach Wahl (Kennzeichnung vor Ort beachten)",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Mensa",
+    "Price": 5.70
   }
 ]
