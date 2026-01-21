@@ -53449,5 +53449,59 @@
     "AllergensAndAdditives": 151011328,
     "Location": "Mensa",
     "Price": 5.70
+  },
+  {
+    "Hash": "ac2aa0b7-32c1-70f8-6964-fd74f01d7a83",
+    "Name": "Pilzrahmsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "be1e0715-b30d-28fe-1fac-d56747fdb267",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "384c46ff-8cf5-0253-a4d7-bcce29096bf6",
+    "Name": "Linsnencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "76296de5-864e-e49e-3074-659f1e14d4ba",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891968,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "36fd8e61-5eaf-ca3f-09e4-a1f4cab59223",
+    "Name": "Cordon bleu vom Schwein mit einer Zitronecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "ad46197a-e039-467a-c68f-eb66b1efe3b8",
+    "Name": "Chili sin carne mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.30
   }
 ]
