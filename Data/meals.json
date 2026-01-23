@@ -53503,5 +53503,32 @@
     "AllergensAndAdditives": 32,
     "Location": "Mensa",
     "Price": 2.30
+  },
+  {
+    "Hash": "58966bb7-5d3c-fa18-459c-2382307d934e",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "adf31393-d363-bf9d-7d37-30b83aecd6c9",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "955efde7-dd32-c9fa-c54f-27c811fb1e4b",
+    "Name": "Speckrosenkohl",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98304,
+    "Location": "Mensa",
+    "Price": 1.40
   }
 ]
