@@ -53530,5 +53530,77 @@
     "AllergensAndAdditives": 98304,
     "Location": "Mensa",
     "Price": 1.40
+  },
+  {
+    "Hash": "e2a7653b-08cf-8b61-e552-c51c73555c15",
+    "Name": "Linsencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "0de5e9f5-cde5-5b0c-3ebb-4e8fa66bc00d",
+    "Name": "BBQ Burger dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 151045952,
+    "Location": "Mensa",
+    "Price": 7.10
+  },
+  {
+    "Hash": "c59c015a-dfd4-de85-740c-9ed9def28d40",
+    "Name": "Pulled Pork Burger mit cole slaw und BBQ sauce dazu Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155257700,
+    "Location": "Mensa",
+    "Price": 6.70
+  },
+  {
+    "Hash": "ed7cdfe4-08e8-a905-43bd-16c9710a08a4",
+    "Name": "Schokoladenpudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
+  },
+  {
+    "Hash": "fa60e651-230d-9ae2-85f1-a63dbbd7092b",
+    "Name": "BBQ Burger dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 151045952,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 7.10
+  },
+  {
+    "Hash": "6045ae2e-e7a7-91a6-3e77-10cacf6de021",
+    "Name": "Pulled Pork Burger mit cole slaw und BBQ sauce dazu Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155257700,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.70
+  },
+  {
+    "Hash": "7c8e4851-6387-1ee2-3348-5062387d0a29",
+    "Name": "Sauce Arrabiata vegan Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "f2f37a90-6873-cc53-2fc5-d5d6329eca7c",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058053,
+    "Location": "Mensa",
+    "Price": 4.50
   }
 ]
