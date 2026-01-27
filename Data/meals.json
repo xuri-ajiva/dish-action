@@ -53602,5 +53602,23 @@
     "AllergensAndAdditives": 17058053,
     "Location": "Mensa",
     "Price": 4.50
+  },
+  {
+    "Hash": "df7ccf02-5abb-d11e-f918-7b562ad1ede0",
+    "Name": "Karotten-Kokos-Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b78eac74-7dd4-d9c1-3f05-9a6136e0ddcb",
+    "Name": "Hackbraten mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
   }
 ]
