@@ -53620,5 +53620,14 @@
     "AllergensAndAdditives": 151259717,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.80
+  },
+  {
+    "Hash": "e96ca931-715f-a9cd-f0c3-db3a3e451aad",
+    "Name": "Gnocchi mit Tomaten-Chilisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
   }
 ]
