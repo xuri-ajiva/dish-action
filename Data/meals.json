@@ -53629,5 +53629,203 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.70
+  },
+  {
+    "Hash": "9b9c030d-70d8-0556-bc1e-972ec7771cf7",
+    "Name": "MensaVital Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "26d1c3bf-6d76-b62e-623a-283f705e9eb0",
+    "Name": "Quark-Nougatcreme im Glas mit Sauerkirschspiegel",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1073741920,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "fc5ab593-e74a-ac3e-ac85-14e7b21740e8",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "32b1aa0d-a543-b2eb-cec8-3de254d86802",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123652,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "fec76f28-ce8d-b439-4093-b600b2c6c984",
+    "Name": "Kartoffel-Krautpfanne mit veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "8c8c256f-c897-3fea-cbba-202d01fc1a4e",
+    "Name": "Gem\u00FCseeintopf \u0027Pichelsteiner Art\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65792,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "53aa5bab-35f2-ed4e-061c-849565b045ea",
+    "Name": "BBQ Ribs",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155189536,
+    "Location": "Mensa",
+    "Price": 6.80
+  },
+  {
+    "Hash": "76e5e275-0784-7728-bd94-ba4002776644",
+    "Name": "Pfeffergeschnetzeltes aus Soja mit Paprika und Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "c0db050e-2272-e857-9d56-a4f334587c12",
+    "Name": "Mac and Cheese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "7ad235b5-e29a-08c7-e2ec-45642e37ca38",
+    "Name": "Gebackenes Schollenfilet mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "bccc0619-5cf3-b46e-0c55-886f94fe0efc",
+    "Name": "MensaVital Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "c01ddae4-c708-f5d0-df8b-9c95113e752e",
+    "Name": "Hausgemachte Pasta dazu eine Tomatensauce mit Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "4d07d0af-5156-07d7-0dea-2565e23b1d61",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "a1b69ecc-5a7d-934d-e15f-8868c99bf8ae",
+    "Name": "Tomatencremesuppe mit Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886368,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "4d233947-c563-0a91-844b-56f32a2a79db",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "ce9c1610-c776-a976-39f0-59444d51f205",
+    "Name": "Paniertes Schnitzel mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17123652,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "c548d959-378d-87d4-b8c6-161a4de2d1dc",
+    "Name": "Kartoffel-Krautpfanne mit veganem Sauerrahm",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "bbf9dfee-c0b4-5838-d324-cceef06ea7d9",
+    "Name": "Gem\u00FCseeintopf \u0027Pichelsteiner Art\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "3af8107f-de7e-bc76-9b21-411e6498cd31",
+    "Name": "BBQ Ribs",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155189536,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.80
+  },
+  {
+    "Hash": "613a017e-0695-56a6-1db3-65c0e9e56d8a",
+    "Name": "Pfeffergeschnetzeltes aus Soja mit Paprika und Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "6bbe921e-c4d6-d63b-57c9-cb5196236f07",
+    "Name": "Mac and Cheese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "903a8887-2f83-da7b-7d0b-cc7d54ade7e4",
+    "Name": "Gebackenes Schollenfilet mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
   }
 ]
