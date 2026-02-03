@@ -53827,5 +53827,23 @@
     "AllergensAndAdditives": 16777224,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.20
+  },
+  {
+    "Hash": "032ab9a8-01a6-f062-72a9-cd508f2e0682",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "cf1b3b23-0ba0-85e1-7c66-29bcede5b00c",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
   }
 ]
