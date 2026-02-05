@@ -53845,5 +53845,50 @@
     "AllergensAndAdditives": 545,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.60
+  },
+  {
+    "Hash": "32fae27c-5047-020c-b159-944b5466d577",
+    "Name": "Hausgemachte Pasta dazu eine Tomatensauce mit Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a47a7f19-c2f6-380e-54c0-8c7330e45cd0",
+    "Name": "Linsensuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "eb49a50d-6804-c8a0-087c-2214ad4a245a",
+    "Name": "Pulled Pork Burger mit cole slaw und BBQ sauce dazu Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155258724,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.10
+  },
+  {
+    "Hash": "150425cc-aa8d-30dc-3c75-90b60ac55205",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "e3f4e6a4-37f7-b6cd-e103-4318169a0891",
+    "Name": "Bananenquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
   }
 ]
