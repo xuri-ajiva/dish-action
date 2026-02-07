@@ -53890,5 +53890,293 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 0.90
+  },
+  {
+    "Hash": "d3d907e1-63a5-6bf5-4f78-ebd45ccf1e78",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen und Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "d351db73-3599-02bf-3ab1-04a22828ae9b",
+    "Name": "Hausgemachte Pasta mit Sojabolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777505,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "cb2a174c-f616-cfd5-c39a-0b0f79be5be8",
+    "Name": "Gem\u00FCsekorma mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32832,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "4e339bf6-2717-2acc-a451-f0e1736a5c6a",
+    "Name": "Spinatkn\u00F6del mit K\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "fe7f027d-750d-5933-6103-6f82724b4bad",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058116,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "6b6c13a2-6e47-9a6f-a85f-55f0a859c996",
+    "Name": "Kartoffel-Gem\u00FCsepfanne mit Rosmarin und einem Soja-Joghurt-Schnittlauch Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "a1690c9a-f3dc-a3d8-83ca-2b90254f1b04",
+    "Name": "Mexikanischer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "bc8ab42c-249f-173d-9795-36ea8614ef33",
+    "Name": "Hausgemachte Lasagne mit Sonnenblumenbolognese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "3e14fbc0-6589-eae1-c669-7891de473a66",
+    "Name": "Mexikanischer Bohneneintopf mit Feuerwurst",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 98560,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "be5c400b-1a39-68ef-ee40-5819231be80e",
+    "Name": "Reispuffer mit Rosinen-Ratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310048,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "8a8eb59a-9041-f70e-d310-ed97740ba81e",
+    "Name": "Schweinegulasch \u0027Ungarische Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "a5a65110-2a35-ce98-4aeb-b27516e7383d",
+    "Name": "Ofenkartoffel mit Ratatouille und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "b7919c70-8209-8e9f-3d9e-aed4ae123f0b",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit K\u00FCrbiskernen und Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "2e9e9c92-1e8d-40f8-8c89-4375f0d9a8e7",
+    "Name": "Hausgemachte Pasta mit Sojabolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777505,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "c8e5c746-b0b9-71c2-4c83-8147db24fa5f",
+    "Name": "Gem\u00FCsekorma mit Basmatireis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32832,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ce7e9dc9-f1e7-2678-e83f-d7066d3349f6",
+    "Name": "Curry-Kartoffel-Suppe dazu Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 620756992,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "99ad3adc-d95f-6b5c-6dd8-83c4af534ae9",
+    "Name": "Spinatkn\u00F6del mit K\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "cb7d893e-29f1-c011-53e1-25681d23e4f9",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058116,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "f5415ea4-370a-8a00-6db8-9dd07539bc56",
+    "Name": "Kartoffel-Gem\u00FCsepfanne mit Rosmarin und einem Soja-Joghurt-Schnittlauch Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "865c928f-537d-984f-d5fb-a1a8603a4936",
+    "Name": "Mexikanischer Bohneneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "d10e0d97-3f6c-c857-3499-ae18a6e60a66",
+    "Name": "Hausgemachte Lasagne mit Sonnenblumenbolognese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "ffa1861b-e858-610c-cb40-44bdde5357fd",
+    "Name": "Mexikanischer Bohneneintopf mit Feuerwurst",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 98560,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "2ef7ba3d-fa34-b679-eccb-eac754ca3883",
+    "Name": "Reispuffer mit Rosinen-Ratatouille",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164310048,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "e1cbdc5d-26c4-dfef-76c3-c26ece13f4e8",
+    "Name": "Schweinegulasch \u0027Ungarische Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "8220ff8b-716d-779b-0f3f-4bedf0bf0a3d",
+    "Name": "Ofenkartoffel mit Ratatouille und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "8f8a8125-b5dd-4972-ac24-45bee8a5669b",
+    "Name": "Scharfe Nudeln Paprika | Sojasprossen | Zuckerschoten | Miso | Sesam",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "7c208db7-d499-04d8-4682-c318482f9431",
+    "Name": "Chow Mein Noodles Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957472,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "351002e6-d955-2486-d0d8-db3c2653d3b2",
+    "Name": "Gebratene Aubergine Miso | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 180257,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "a07b5258-d498-07dd-1b40-d81ca9bf0490",
+    "Name": "Pad Thai Tofu | Champignons | Sojasprossen | Koriander | Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "e3d33da6-771a-3992-2d4b-f09603abab73",
+    "Name": "Kimchi fried Rice Kelp Alge | Chili | Sesam | Ei",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33829,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "412933a9-56d8-d333-8578-34496ce7f56a",
+    "Name": "Mejadra-Linsen-Reisgericht Linsen | Mandeln | Basmatireis | Joghurtdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648192,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ddf9eba6-553f-ed67-0c7c-ff6a3ee46db5",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 6.60
   }
 ]
