@@ -54178,5 +54178,32 @@
     "AllergensAndAdditives": 492932932,
     "Location": "Mensa",
     "Price": 6.60
+  },
+  {
+    "Hash": "37420a6e-b5d2-91d0-71df-7a4d3f2a3749",
+    "Name": "Kartoffelsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 68096,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "703cf213-e76d-f28f-acf6-6a9301708857",
+    "Name": "Beilagensalat Paprika | Gurke | Tomate | Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 591936,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "23d39ec5-dcc9-df3a-386c-b31eb3afe9fe",
+    "Name": "Kartoffelgratin",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.80
   }
 ]
