@@ -54205,5 +54205,14 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 1.80
+  },
+  {
+    "Hash": "032e196c-4ed4-c8b2-9a06-b1e9be20d4c9",
+    "Name": "Kartoffelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
