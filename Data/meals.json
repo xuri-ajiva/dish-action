@@ -54214,5 +54214,14 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "a8d01e48-746b-bd57-e3e5-d1a2d0ff2de0",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 4.90
   }
 ]
