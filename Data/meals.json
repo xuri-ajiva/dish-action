@@ -54223,5 +54223,158 @@
     "AllergensAndAdditives": 16777472,
     "Location": "Mensa",
     "Price": 4.90
+  },
+  {
+    "Hash": "847fa4e2-f613-5a6f-4d17-9d5db4a1c668",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung mit Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "87a5ad63-bd56-c7ff-115a-e82dcf2888a9",
+    "Name": "WOK Tofu Pad Thai mit Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9f13a069-8d06-25a3-2bc6-3a1a4965e387",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "4a7dc13f-0a09-a1c9-8a38-3e18288d9b16",
+    "Name": "Kidney Bohnen Bratling dazu Paprikagem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213216,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "b4c0388d-d5cf-2e10-69fe-98f1790b30cc",
+    "Name": "Maultaschen mit Gem\u00FCsef\u00FCllung und Zwiebeln dazu Kartoffelsalat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845636,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "4bfefcdf-497f-d7bd-3bd0-b45bb0540847",
+    "Name": "Kichererbseneintopf mit Karotten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "9dd86ad6-0b69-39c1-0401-7682b3b557d8",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung mit Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "cdcd09e1-219c-68e5-7b91-755a680b84bd",
+    "Name": "WOK Tofu Pad Thai mit Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "bcda1c73-e474-df7b-dac3-f280675f726b",
+    "Name": "Rote Linsensuppe mit Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886080,
+    "Location": "Bistro",
+    "Price": 3.30
+  },
+  {
+    "Hash": "ca39d91e-cd8d-9f45-af8b-7e7399fa413d",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "9f8d57d9-8682-9a22-1122-24d8801b58c0",
+    "Name": "Kidney Bohnen Bratling dazu Paprikagem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "f207c7e0-bfe0-dd22-fc21-3be99b048b77",
+    "Name": "Maultaschen mit Gem\u00FCsef\u00FCllung und Zwiebeln dazu Kartoffelsalat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845636,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e3cfab46-6bd7-dfb3-5e2e-1171c76d5fb9",
+    "Name": "Kichererbseneintopf mit Karotten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "537ddfc7-0d8f-4aa5-b55b-0719b58bd440",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe mit Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "8f1a92ea-9be2-af88-333a-35a6fce61125",
+    "Name": "Beilage Gurkensalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67584,
+    "Location": "Mensa",
+    "Price": 1.60
+  },
+  {
+    "Hash": "933b48d4-04ca-b90d-39bd-e64098ac6bd4",
+    "Name": "Scharfes Soja Pak Chaoi | Wasabi | Shii Take | Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16794145,
+    "Location": "Mensa",
+    "Price": 6.60
+  },
+  {
+    "Hash": "2d5cc42e-d5cd-6cd8-a9da-a9c93deb2e09",
+    "Name": "Burger \u0027Feiger Lui Burger\u0027 Rind | Feigen | Brie | Rucola",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041988,
+    "Location": "Mensa",
+    "Price": 7.50
   }
 ]
