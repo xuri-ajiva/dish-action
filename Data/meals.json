@@ -54376,5 +54376,41 @@
     "AllergensAndAdditives": 17041988,
     "Location": "Mensa",
     "Price": 7.50
+  },
+  {
+    "Hash": "32c347bd-b9dd-d714-fe18-8279fee2db5d",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ccfed2f3-28cb-c7cc-f512-0df06b38e2b1",
+    "Name": "Mediterane Gem\u00FCsesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "25aad0c0-bf7f-ab34-56f1-9a32dfd2ae1e",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "979c5ea9-f94a-6ee7-6dcd-29b4fb77e9e5",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
   }
 ]
