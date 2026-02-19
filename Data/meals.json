@@ -54412,5 +54412,50 @@
     "AllergensAndAdditives": 16875588,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.30
+  },
+  {
+    "Hash": "99b3deff-2427-867d-1537-25b06edacf1b",
+    "Name": "Maultaschen mit Gem\u00FCsef\u00FCllung und Zwiebeln dazu Kartoffelsalat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845636,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "0c0da929-3e40-eb33-c8b8-be865a1e2065",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "8a1e915e-fc8c-4ce4-e8a7-cf66212e95af",
+    "Name": "ungarischer Gulaschtopf mit Kartoffeln, Karotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "571747f7-aec8-ae6f-f6ce-78404d4429de",
+    "Name": "Ratatouille",
+    "Image": "bd19563e-299c-7e3f-1817-7bf6e482ad65",
+    "Category": 12,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "c5ad22ff-4694-1c77-7345-5bf920afc126",
+    "Name": "Maultaschen mit Gem\u00FCsef\u00FCllung und Zwiebeln dazu Kartoffelsalat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845636,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
   }
 ]
