@@ -54457,5 +54457,140 @@
     "AllergensAndAdditives": 16845636,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.80
+  },
+  {
+    "Hash": "69cca658-dd9c-bb6f-4f0d-605bdbf32ad5",
+    "Name": "Panna Cotta mit Heidelbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "e6a0582a-f88b-729f-c093-eb251f61a9d9",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "c62dc39a-2993-5776-2ed2-316f6dd492c3",
+    "Name": "Blumenkohlcurry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "2bbedb8b-5446-d167-ca4c-c294220d4c9c",
+    "Name": "Kartoffel-Zucchin Puffer dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "7a3d8512-ebea-22f8-25fd-f89ac4fd0340",
+    "Name": "Seelachsfilet ged\u00FCnstet auf Blattpinat und Dill-Sahnesauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778057,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "000403f0-eb23-0470-f06a-9153e8155122",
+    "Name": "Herzhafte K\u00E4sekartoffeln mit Lauch und Quark Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d205fede-c0b7-447b-dc42-3c711d6b8e08",
+    "Name": "Sahnesauce \u0027Els\u00E4sser Art\u0027 auf Hausgemachter Pasta",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17139776,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "5a39d1ad-b268-c4cd-d8ec-0909260142f0",
+    "Name": "Panna Cotta mit Heidelbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "100957cd-3486-7f4f-786a-c8514ca3ecd9",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "92c4a96d-3b7a-9cb6-967b-a8dd27944477",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "fa6cd632-8c0f-743b-6de3-ae3d9fa6df9f",
+    "Name": "Blumenkohlcurry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "f0c0cc90-d3de-584c-2f4e-1e8889948fd5",
+    "Name": "Kartoffel-Zucchin Puffer dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "86810fd3-deda-adbd-2d58-ffb9592d29d4",
+    "Name": "Seelachsfilet ged\u00FCnstet auf Blattpinat und Dill-Sahnesauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778057,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "28219a23-f4ee-bd49-53ba-7b9b6b439956",
+    "Name": "Linsen-S\u00FC\u00DFkartoffeleintopf Tomaten | Sellerie | Karotten | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150995200,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4cfbcb5f-a4f8-8032-b19b-17f064ce7ee7",
+    "Name": "Kartoffel-Gem\u00FCse Tajine Karotten | Paprika | Zucchini | Kichererbsen | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151027712,
+    "Location": "Mensa",
+    "Price": 2.90
   }
 ]
