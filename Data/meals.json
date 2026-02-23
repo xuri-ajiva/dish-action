@@ -54592,5 +54592,14 @@
     "AllergensAndAdditives": 151027712,
     "Location": "Mensa",
     "Price": 2.90
+  },
+  {
+    "Hash": "1b859ba4-85a2-2998-b0d8-56c88d3a1f49",
+    "Name": "Haferflockensuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268435712,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
