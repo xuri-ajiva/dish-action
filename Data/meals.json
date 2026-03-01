@@ -54610,5 +54610,176 @@
     "AllergensAndAdditives": 256,
     "Location": "Bistro",
     "Price": 5.80
+  },
+  {
+    "Hash": "17e75049-781e-b34f-b1af-bb9452b1cba8",
+    "Name": "WOK Scharfer Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859680,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "7b3afb24-fe1d-3275-f7ec-f2f8576e6825",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "a7bcfbeb-9737-3de1-bf00-e46891e1b731",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "64e830ae-be35-2916-c321-a4e70b2d72b2",
+    "Name": "Schweinegulasch \u0027Ungarische Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "966c2811-ae7b-82ac-1870-cc754de604d3",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "b4b777c6-87ca-e333-1220-65a58f2f3ca8",
+    "Name": "Hausgemachte Pasta mit Tomaten-Olivensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17301504,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "861c2c40-cd39-2b23-3a04-ce486fb63b7b",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777537,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6765f1b9-4e7a-eacc-4092-a9dde190d31a",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218104864,
+    "Location": "Bistro",
+    "Price": 2.40
+  },
+  {
+    "Hash": "6dd9d4d5-71f1-3704-5ec6-b8155f82606a",
+    "Name": "WOK Scharfer Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16859680,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "6b95c491-d8b8-5135-1511-f2bd30dfa6f3",
+    "Name": "Linseneintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67840,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "73df5a99-0dcf-60f7-c5ae-b063064a1c97",
+    "Name": "Linseneintopf mit einem Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2196224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "1e8b3568-f9ff-6f41-44aa-31e463a6b07f",
+    "Name": "Schweinegulasch \u0027Ungarische Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "0fbb5d04-fc35-d43d-89b6-5c21f4509854",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "d2e62378-8568-7912-eb53-c389dc1ba5cb",
+    "Name": "Panang Curry Bohnen | Paprika | Sojasauce | Kokosmilch | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8ad14afd-08a4-6fd0-760e-9b04a54c589c",
+    "Name": "Portobello-Pilz Burger Hartk\u00E4se | Kr\u00E4uter | Salat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16862817,
+    "Location": "Mensa",
+    "Price": 6.90
+  },
+  {
+    "Hash": "7c327413-adab-a57e-cbae-421b5a6f88e6",
+    "Name": "Tomateneintopf Bohnen | Karotten | Sellerie | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150995200,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "c78c27ce-eae6-81cb-ae10-811199bfe0a7",
+    "Name": "Chinjao Rosu Soja | Paprika | Ingwer | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 263201,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "fbcdee89-df8e-cf2c-6980-0cfedbae419c",
+    "Name": "Falafel Burger Soja-Minz-Dip | Salat | Hummus | Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16843808,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "7b971e7d-0e99-a6f0-2faf-764071e38165",
+    "Name": "Halloumi Burger fermentierte Tomatensalsa | Hummus | Salat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17505,
+    "Location": "Mensa",
+    "Price": 7.10
   }
 ]
