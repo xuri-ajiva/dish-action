@@ -54781,5 +54781,23 @@
     "AllergensAndAdditives": 17505,
     "Location": "Mensa",
     "Price": 7.10
+  },
+  {
+    "Hash": "68406db5-9c71-67df-6d00-2fc35bb99b20",
+    "Name": "Hausgemachte Pasta mit Seelachs in Gem\u00FCsesahnesauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777544,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f1375582-cff8-430d-df9d-b9fe2605597f",
+    "Name": "Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
   }
 ]
