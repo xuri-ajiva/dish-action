@@ -54799,5 +54799,275 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.20
+  },
+  {
+    "Hash": "a679b01d-91b8-5fad-2cfc-217c5d67598c",
+    "Name": "Kaspreskn\u00F6del in Gem\u00FCsebr\u00FChe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "ce0535bc-2988-8a71-f40a-845c19dd0695",
+    "Name": "Tiroler Ger\u00F6stl",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98308,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "d2251c70-5261-b59a-1529-5acf50c7d126",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "3f9a6ce1-f7a6-d00f-dbc0-3adf8cf305d1",
+    "Name": "Cheese Cake Creme mit Heidelbeer Kompott",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777221,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "ed634ace-e312-7999-e7c5-4dc247286bfa",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "de99eb2a-d759-a2e6-3533-7eaa81b1b7e6",
+    "Name": "Dreierlei Kn\u00F6del mit Butter und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "74ccc491-84b7-931d-f844-f7f48d34546a",
+    "Name": "Paniertes Schnitzel dazu Kartoffelsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16845573,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "9f9d1607-5cb6-341c-63fa-e0489c297bd8",
+    "Name": "B\u00FCndner Gerstensuppe vegan",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150995232,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "69b06d82-fb38-c866-a944-b7c0ef09999b",
+    "Name": "B\u00FCndner Gerstensuppe mit Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134316352,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "52daab75-ace5-4f0d-59ae-bcc682c097f5",
+    "Name": "Mohn-Schupfnudeln m. Zwetschgenr\u00F6ster u. Vanille-Sauc vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "572462c0-40f8-788d-b54c-3d88c4a8a7cb",
+    "Name": "\u00C4lplermagronen vegetarisch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842816,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "6be67e41-3bba-6371-7612-675613cfc8f3",
+    "Name": "Chili sin Carne mit Graubrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218103841,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "08292fd4-f8d6-bd95-57b8-d51185c42d7c",
+    "Name": "Hausgemachter Kaiserschmarrn dazu Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "bc249287-004d-2855-911c-7d092821012a",
+    "Name": "Berner Wurst dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98368,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "46e8a016-3bf3-0522-0ecb-ba6abfb9eac4",
+    "Name": "Pizza Verdure mit pflanzlichem K\u00E4se, Paprika, Aubergine und Zucchini und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "67285b84-6f4c-2e81-7780-4ba3f9afdc7d",
+    "Name": "Kaspreskn\u00F6del in Gem\u00FCsebr\u00FChe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "16086057-17c1-6657-76e6-a3f1ae5a89dc",
+    "Name": "Tiroler Ger\u00F6stl",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98308,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "7ea6f651-0bdd-deb6-7b4b-2afb62f7a52c",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "ee36984f-e5a0-5e49-cb55-7a894cd7776e",
+    "Name": "Cheese Cake Creme mit Heidelbeer Kompott",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777221,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "9e8d644e-dcb9-8853-5118-f2cd8a19b638",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "de5b3809-01e0-bada-613f-64d0465ea9d8",
+    "Name": "Dreierlei Kn\u00F6del mit Butter und K\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777541,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "d82e23f2-821b-f4f5-5460-027a395ac39b",
+    "Name": "Paniertes Schnitzel dazu Kartoffelsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16845573,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "6441ec91-1a33-7136-ce30-87d956367e26",
+    "Name": "B\u00FCndner Gerstensuppe vegan",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150995232,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "769d7d2d-b300-76fe-4868-4ff202b2e45d",
+    "Name": "B\u00FCndner Gerstensuppe mit Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134316352,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "f2883434-5414-6344-b5e6-beeb91c7afd8",
+    "Name": "Mohn-Schupfnudeln m. Zwetschgenr\u00F6ster u. Vanille-Sauc vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "e589768d-e39b-850c-5713-1d85adc90439",
+    "Name": "\u00C4lplermagronen vegetarisch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842816,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "c83451fa-5277-30de-efa3-1457504a6567",
+    "Name": "Chili sin Carne mit Graubrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218103841,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "5e78c4ac-5128-a9c4-1929-2aaf22b6a459",
+    "Name": "Hausgemachter Kaiserschmarrn dazu Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "44ecb190-1c1f-dba2-c27c-a862e6764ea4",
+    "Name": "Berner Wurst Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 98368,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "4539ed1e-9d1e-357f-3f4a-b53415aecd72",
+    "Name": "Beilage Bratkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.10
   }
 ]
