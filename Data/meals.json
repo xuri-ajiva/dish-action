@@ -55069,5 +55069,14 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 2.10
+  },
+  {
+    "Hash": "6b8773f7-c5f2-50a1-6630-2759e10da869",
+    "Name": "Gnocchi mit Waldpilzen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.30
   }
 ]
