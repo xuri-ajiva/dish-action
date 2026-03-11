@@ -55078,5 +55078,77 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 3.30
+  },
+  {
+    "Hash": "67efe618-9db1-9362-f538-11d0f6d48d4b",
+    "Name": "Backk\u00E4se mit Ratatouille",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "470f2b8c-d70a-58b6-2439-3f77e91e8fbf",
+    "Name": "Haferschok Pudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 268435488,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "78de3c60-9037-d2c6-1b0a-dfd7962e6329",
+    "Name": "Schupfnudeln mit Sauerkraut und Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "963fa275-7083-0ed0-66a5-06700024a3bd",
+    "Name": "Klare Br\u00FChe mit Soja",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "6caf04c3-1021-99a2-7bfc-7d6ef9e3ad6e",
+    "Name": "Linsensuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "71b25c6a-0a33-b94d-03e6-8a8a879c74cf",
+    "Name": "Backk\u00E4se mit Ratatouille Gem\u00FCse und Cr\u00E8me Fra\u00EEche",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 83886144,
+    "Location": "Bistro - Bistro",
+    "Price": 3.60
+  },
+  {
+    "Hash": "0cac7b84-577e-8bf0-2937-250a2d4b0ca0",
+    "Name": "Forelle \u0027M\u00FCllerin Art\u0027 dazu Salzkartoffeln",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134218056,
+    "Location": "Bistro - Bistro",
+    "Price": 6.20
+  },
+  {
+    "Hash": "0148815c-56ff-d6dc-ebe4-2a194f900e07",
+    "Name": "Schupfnudeln mit Sauerkraut und Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
   }
 ]
