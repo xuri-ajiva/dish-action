@@ -55150,5 +55150,41 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.50
+  },
+  {
+    "Hash": "d7a6f2ad-f2bb-feeb-8f19-b9d20ace9cca",
+    "Name": "Mohn-Schupfnudeln m. Zwetschgenr\u00F6ster u. vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "871c843e-c9c3-0e29-6c06-a1897e34320c",
+    "Name": "Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "7dac80b1-e631-848d-e68d-945a7517e1e9",
+    "Name": "Mohn-Schupfnudeln m. Zwetschgenr\u00F6ster u. vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "07f59e43-c19f-57fb-d359-b375e738d974",
+    "Name": "St\u00E4rkebeilage Bratkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.10
   }
 ]
