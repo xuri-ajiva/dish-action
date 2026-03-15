@@ -55186,5 +55186,149 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 2.10
+  },
+  {
+    "Hash": "7796af77-3d32-bab2-9033-0a65fd976d55",
+    "Name": "Hafer-Mango-Maracuja Dessert",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "0b8681d7-c483-1d59-5b04-f26dbcb455ad",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu  dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "dae5c479-00ed-607c-d173-c9cd264c4b1f",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891968,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c171f717-57dd-25d3-6c82-ae4de42222d9",
+    "Name": "Cordon bleu vom Schwein mit einer Zitronecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "bcb308e2-a077-8e4e-bcaa-7905ba687bb8",
+    "Name": "Hausgemachter Haferflockenbratling dazu Rote Beete-Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "63e916f3-ba51-4178-d46c-a842bc1d963c",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "0b614962-8e4e-8109-4567-376a7c3f33b1",
+    "Name": "Kartoffel-Zucchini Auflauf mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "4155f8f6-6084-14b6-49c9-e9b07b62605d",
+    "Name": "Pulled Pork Burger mit Cole Slaw und Barbecuesauce dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155258725,
+    "Location": "Mensa",
+    "Price": 6.10
+  },
+  {
+    "Hash": "e7abd2b2-e9e4-512f-29a8-7a27f54b069c",
+    "Name": "Hausgemachte Pasta mit Tomaten-Zucchinisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "899982a6-65ca-5fc9-9fe3-45399d7dd071",
+    "Name": "Pasta mit Lauch- Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "c5d26fbb-514e-097d-1d4e-e44d20aa5fd2",
+    "Name": "WOK Asia Kokos Pfanne mit Tofu  dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "f917391e-2a87-5b57-f526-4dbc2caae214",
+    "Name": "Soja-Gulasch mit frischen Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "622c740d-2ff7-ec2b-1b2e-961841e50bbc",
+    "Name": "Hausgemachter Haferflockenbratling dazu Rote Beete-Kichererbsensalat und vegane Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "fddd3f51-8996-cd1a-02f9-5f60b6ef201e",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "8e89b866-f289-3b6c-9dd0-30ee7502fd78",
+    "Name": "Kartoffel-Zucchini Auflauf mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "eba82fba-494a-64dc-2e12-1349e2296f9a",
+    "Name": "Pulled Pork Burger mit Cole Slaw und Barbecuesauce dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155258725,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.10
   }
 ]
