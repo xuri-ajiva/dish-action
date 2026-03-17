@@ -55330,5 +55330,50 @@
     "AllergensAndAdditives": 155258725,
     "Location": "Otto-Berndt-Halle",
     "Price": 6.10
+  },
+  {
+    "Hash": "03eac3d5-2396-c495-5808-a8be66796e05",
+    "Name": "Forelle \u0027M\u00FCllerin Art\u0027 dazu Salzkartoffeln",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134218056,
+    "Location": "Mensa",
+    "Price": 6.20
+  },
+  {
+    "Hash": "461f1ee2-1904-e164-3e68-d1c83426c7d2",
+    "Name": "Mexikanische Wurstpfanne vegan mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 3.40
+  },
+  {
+    "Hash": "b12ba446-5658-a13f-2aa3-28b7540f187f",
+    "Name": "Mexikanische Wurstpfanne mit Reis",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212672,
+    "Location": "Bistro - Bistro",
+    "Price": 3.40
+  },
+  {
+    "Hash": "99daa493-47cc-f911-2163-a025c8372706",
+    "Name": "Cordon bleu vom Schwein mit einer Zitronecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "ccd9f888-74c9-2bf4-909d-747f9a3da2b4",
+    "Name": "Cordon bleu vom Schwein mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
   }
 ]
