@@ -55375,5 +55375,41 @@
     "AllergensAndAdditives": 16875584,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.50
+  },
+  {
+    "Hash": "edf35264-645f-cdca-9249-559a86e99e20",
+    "Name": "Paprika-Mais Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "f341f650-411c-5e5d-816d-8096608e5f02",
+    "Name": "Gegrillter Kartoffelsalat  Sellerie | Tomaten | Senf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4227840,
+    "Location": "Mensa",
+    "Price": 1.50
+  },
+  {
+    "Hash": "0d5f1597-c2df-6cc3-d868-85e3598d9a7b",
+    "Name": "Mango-Kokos Creme   Mango | Kokos | Limette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "d261cd36-90b3-7461-6889-995030c997d2",
+    "Name": "fermentierte Blaubeeren auf Mozzarella Cheesecake",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
