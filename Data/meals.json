@@ -55411,5 +55411,95 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "38e92c2e-db8f-a786-c908-5cb0218984d2",
+    "Name": "Hausgemachte Pasta mit Blattspinat-Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "ed906a20-2748-a37d-51d3-7f45abc926a5",
+    "Name": "Latte-Macchiato mit Vanillensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "4edae8ec-7c35-22d4-525e-5dfc07c2d3e2",
+    "Name": "Wok \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "a9f3fbd1-3ef8-a4f0-be22-27838de21e7d",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "85be24d7-6494-c1d7-4e06-0cef21a13711",
+    "Name": "Gnocchi mit Tomaten-Chilisauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "9fdaa4a3-5a18-accc-c11e-be669cb2a8f6",
+    "Name": "Gebackener Seelachs mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "531dfe7f-7074-de14-a859-71eb93803088",
+    "Name": "Hausgemachte Pasta mit Blattspinat-Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "54ea3a31-663a-faca-be54-51a11cd20321",
+    "Name": "Wok \u0027Satay\u0027 mit Tofu und Gem\u00FCse dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "f828fb49-f63c-7597-2e1e-ee242693a2f1",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "8cc54879-7b42-8c71-940c-d0366a1f5dfb",
+    "Name": "Gebackener Seelachs mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
   }
 ]
