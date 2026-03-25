@@ -55501,5 +55501,23 @@
     "AllergensAndAdditives": 16777224,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.30
+  },
+  {
+    "Hash": "d62d377f-cd10-eca6-f96f-7e3723d009a0",
+    "Name": "Mexikanische Wurstpfanne mit Nudel",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18989888,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "6f2a530b-ac38-31c7-8e2a-6a915d05c800",
+    "Name": "Paniertes Schnitzel mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
   }
 ]
