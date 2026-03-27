@@ -55519,5 +55519,32 @@
     "AllergensAndAdditives": 16777476,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.90
+  },
+  {
+    "Hash": "3e078433-6534-7330-cd18-d5d6e66a78b8",
+    "Name": "Mexikanische Wurstpfanne dazu hausgemachte Pasta",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18989888,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "002087ec-fa25-9896-2a56-cbdc8794b42b",
+    "Name": "gebackener Seelachs mit Sauce tatare",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "b20f063b-58fe-f97a-e01e-6da5b0c7472a",
+    "Name": "gebackener Seelachs mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
   }
 ]
