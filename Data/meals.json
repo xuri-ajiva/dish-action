@@ -55546,5 +55546,113 @@
     "AllergensAndAdditives": 16777224,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.30
+  },
+  {
+    "Hash": "e9c36ca3-8aab-57e3-8305-15c876267a19",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "401a4d38-ec96-fc30-2a1f-1b4a69dab3fa",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "4a0102c2-1ec3-136f-c898-1aeb3e51c216",
+    "Name": "Ungarischer Gulaschtopf mit Kartoffeln, Karotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "e2301dfa-15ce-6371-045d-007b0963f7b0",
+    "Name": "Kartoffel-Krautpfanne mit Veganem Dip Frankfurter Art",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "711a1652-88e1-a9e7-9355-b5db90ff86e5",
+    "Name": "Rotbarschfilet gebraten mit Frankfurter Gr\u00FCne-Sauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777796,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "a11f8d57-e058-ebf9-4e34-88fb08794ed5",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "9edf78de-e1ce-9563-db55-8fff033ee211",
+    "Name": "Dreierlei Kn\u00F6del mit K\u00E4sesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "68a76090-b38a-3017-b460-c68b38c00f1a",
+    "Name": "Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "dbd95233-32e2-3d7a-ade4-fde5f69be32c",
+    "Name": "Ungarischer Gulaschtopf mit Kartoffeln, Karotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "bc57a805-93b9-c7dd-048b-4fb737b80cd0",
+    "Name": "Kartoffel-Krautpfanne mit Veganem Dip Frankfurter Art",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "b261f19d-1f6c-be6f-c493-dba0aeaf351d",
+    "Name": "Rotbarschfilet gebraten mit Frankfurter Gr\u00FCne-Sauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777796,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "c66f03ab-807f-7089-2f20-17df3e37c001",
+    "Name": "Dessert Panna Cotta Erdbeere | Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
