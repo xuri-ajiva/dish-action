@@ -55654,5 +55654,32 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 2.00
+  },
+  {
+    "Hash": "f4967b4a-38f1-81ea-fc91-6b752c379ef8",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1569,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "0ca4b769-2437-70f2-fd33-582fd1089c44",
+    "Name": "Orientalische Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "ff1a3e77-79b6-1190-ee55-f50a304ae2dd",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1569,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
   }
 ]
