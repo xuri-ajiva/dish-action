@@ -55681,5 +55681,50 @@
     "AllergensAndAdditives": 1569,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.40
+  },
+  {
+    "Hash": "478d0dc2-2975-d4dc-f96a-865c3c9a9e97",
+    "Name": "Vegane Bratwurst dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "af24213a-04f0-6f31-bdf3-8901385f0988",
+    "Name": "Curry-Gem\u00FCse-Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b2d77689-9e42-eb4d-79ef-740dc5f581f4",
+    "Name": "Panna Cotta mit Erdbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "4ca6c385-9e3e-8bda-82c5-f037f5c9f536",
+    "Name": "Panna Cotta mit Heidelbeersauce und Basilikumpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "ab9c1dce-ac3d-4fd1-b2da-8a369500d379",
+    "Name": "Panna Cotta mit Heidelbeersauce und Basilikumpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
   }
 ]
