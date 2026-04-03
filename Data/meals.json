@@ -55726,5 +55726,23 @@
     "AllergensAndAdditives": 536870976,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.30
+  },
+  {
+    "Hash": "65a90898-76e8-be79-77f6-7397b76682fd",
+    "Name": "Panna Cotta mit Erdbeersauce und Basilikumpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "9024a4cd-9ed0-155d-307f-f915981aed3b",
+    "Name": "Mischgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
