@@ -55744,5 +55744,86 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "d342438d-2987-ee90-ee4d-e2a7307ea7d1",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1daa35c3-36c7-aeed-019f-6077bfb586ca",
+    "Name": "Buntes Graupen Risotto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6550ffa3-e440-d815-d314-fb53c6ab3cc1",
+    "Name": "Gem\u00FCseeintopf \u0027Pichelsteiner Art\u0027 mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "9091cd91-a6ff-b501-3689-9f3b1850326e",
+    "Name": "J\u00E4gergulasch mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ca2761eb-68bc-d0a8-fc7d-230af2c713dc",
+    "Name": "Rettet die Knolle: Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "d8433daf-548e-0010-0d5e-e2c3ea20e938",
+    "Name": "Cordon bleu vom Schwein mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "3f9dcd3e-0501-4a00-ad3c-b93c97c312c6",
+    "Name": "Gem\u00FCseeintopf \u0027Pichelsteiner Art\u0027 mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "12cfebc7-e98e-75bd-cfe5-494169896438",
+    "Name": "J\u00E4gergulasch mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "d2591020-36b0-fa84-4349-766901c83bd1",
+    "Name": "Rettet die Knolle: Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
