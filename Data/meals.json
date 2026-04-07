@@ -55825,5 +55825,50 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "8171bf6d-7e5b-3062-a68c-94c1f270bb73",
+    "Name": "Tomatencreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "36fd91f7-fca0-bf12-fe02-ed33ec1f97f9",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Gem\u00FCsepfanne mit Rosmarin und einem Soja-Joghurt-Schnittlauch Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c0ba40c9-91cc-ff31-3ac1-22b36973ed79",
+    "Name": "Feuriges Gem\u00FCse- Fischcurry mit Ingwerreis",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777544,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "8e750fed-82e1-2810-c2c3-d527968bbf68",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Gem\u00FCsepfanne mit Rosmarin und einem Soja-Joghurt-Schnittlauch Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "e41e8f6d-d069-32f7-1c57-38dd4ac63654",
+    "Name": "Feuriges Gem\u00FCse- Fischcurry mit Ingwerreis",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777544,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
   }
 ]
