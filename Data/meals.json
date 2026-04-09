@@ -55870,5 +55870,50 @@
     "AllergensAndAdditives": 16777544,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.40
+  },
+  {
+    "Hash": "939cdb4a-3eed-c035-7252-4b4ab6004fb6",
+    "Name": "Mandarinen-Schmand-Dessert mit Minze im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "afe5b079-46cd-5a23-3c3c-2753a8c9ac2c",
+    "Name": "Kartoffel-Wirsingcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "9c1c0a59-618e-41d9-1b80-a160c75997ce",
+    "Name": "Mandarinen-Schmand-Dessert mit Minze im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "8d1a2515-d9ad-0681-2ddb-085813b431e4",
+    "Name": "Kichererbsen-Auberginen Pfanne Tomate | Paprika | Couscous",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "e13fb9eb-d3eb-9602-0586-3e9f114f8634",
+    "Name": "Chow Mein Noodles Tempeh | Paprika | Erbsen | Karotten | Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958497,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
