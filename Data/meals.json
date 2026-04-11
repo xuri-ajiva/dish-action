@@ -55915,5 +55915,194 @@
     "AllergensAndAdditives": 16958497,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "54a4c800-d6ea-bb86-2083-22d6baa14cea",
+    "Name": "Gnocchi mit B\u00E4rlauch und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "48be3512-5d0e-1531-c522-329239e5463b",
+    "Name": "Hausgemachte Pasta mit Champignonsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793632,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "2bb3c3e2-cccd-e911-6eed-06a84498dde6",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauchpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "bb7e9a5c-c6fd-03dd-c973-fec187610d9b",
+    "Name": "Mohn-Schupfnudeln mit Zwetschgenr\u00F6ster und veganer Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "5e583e7f-ccfc-42a5-c0b8-b752d4e6ee7b",
+    "Name": "Gr\u00FCnkern-B\u00E4rlauchbratlinge mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "8a3e2bc0-ba31-67d9-7514-aac0ada039f6",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-B\u00E4rlauchsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "1e9474cb-59e9-c990-74d0-8f38fdd30a3c",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-B\u00E4rlauchsuppe dazu einem Paar Wiener-W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195776,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "e93c1b04-2b90-817c-6274-dbea1212abb9",
+    "Name": "Dinkel-B\u00E4rlauch Risotto mit Ricotta und Zuccchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "96218c73-de3a-ea40-69e1-30481b4775df",
+    "Name": "Seelachsfilet mit B\u00E4rlauchmarinade und Gem\u00FCse-Buchweizen mit B\u00E4rlauchpesto",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 72,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "35f36b5b-e992-857d-6a9c-d9c3228c0617",
+    "Name": "Gnocchi mit B\u00E4rlauch und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "4ce03282-87bb-2d28-ed8b-45d06964664d",
+    "Name": "Hausgemachte Pasta mit Champignonsauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793632,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "63bb5ee7-2245-2dab-7d1f-c6de4f2ee34e",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauchpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "827c3a58-4283-9796-3050-11c035f66a99",
+    "Name": "Mohn-Schupfnudeln m. Zwetschgenr\u00F6ster u. vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "f2a7676e-dedc-c8df-9ee1-b8689a095e85",
+    "Name": "Gr\u00FCnkern-B\u00E4rlauchbratlinge mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "e9b2ae27-b8a8-d217-aacd-f527249b4973",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-B\u00E4rlauchsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "4e568c78-880d-d29d-6558-ff90e7047112",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-B\u00E4rlauchsuppe dazu einem Paar Wiener-W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195776,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "bafd8066-a043-aa22-8090-c20d7232e59e",
+    "Name": "Dinkel-B\u00E4rlauch Risotto mit Ricotta und Zuccchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "7b931bdd-f47d-b5b4-d1b2-e840f0914330",
+    "Name": "Seelachsfilet mit B\u00E4rlauchmarinade und Gem\u00FCse-Buchweizen mit B\u00E4rlauchpesto",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 72,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "df8a6d54-b5f9-79bd-680a-982169e871f3",
+    "Name": "Gebratener Tofu Zitronengras | Paprika | Bohnen | Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 40,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "44346745-016d-7be8-ab54-052a944ce7d9",
+    "Name": "Mohn-Schupfnudeln m. Zwetschgenr\u00F6ster u. vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777249,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "52a246fb-481f-07ad-63f7-fc8ab87a163f",
+    "Name": "Fleischk\u00E4se mit Spiegelei dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195972,
+    "Location": "Mensa",
+    "Price": 5.00
   }
 ]
