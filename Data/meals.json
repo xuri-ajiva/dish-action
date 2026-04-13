@@ -56104,5 +56104,32 @@
     "AllergensAndAdditives": 2195972,
     "Location": "Mensa",
     "Price": 5.00
+  },
+  {
+    "Hash": "0ccb2425-c7a1-9a62-68e3-0c4ba38edaad",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "20ee59f3-942e-0d45-f8b1-4a1d8289cff8",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470084,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f44aa413-5caf-8603-24a9-f3f008c13b5a",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
   }
 ]
