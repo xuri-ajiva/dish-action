@@ -56131,5 +56131,41 @@
     "AllergensAndAdditives": 16777476,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.40
+  },
+  {
+    "Hash": "44d63728-8b6a-0358-1da9-a1115f3e6dda",
+    "Name": "Paniertes Schnitzel mit Pusztasauce und einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155470084,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "9ae34a42-16bc-99b2-9862-5838d0e527e2",
+    "Name": "Beilagensalat Tomaten | Mozzarella | Essig | Zwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 67648,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "2d1582cb-3245-48e2-aca5-59ea433ef256",
+    "Name": "Linsen-Kr\u00E4uter Dal Tomaten | Lauch | Karotten | Fenchel | Staudensellerie",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150995200,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "f1bd1583-4af6-04a3-0aa9-5b28e668be8e",
+    "Name": "Blumenkohl-Brokkoli mit Semmelbr\u00F6sel",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793600,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
