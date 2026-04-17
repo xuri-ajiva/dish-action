@@ -56167,5 +56167,59 @@
     "AllergensAndAdditives": 16793600,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "f38e8e64-d603-20fe-5dcb-d87275e04498",
+    "Name": "Dinkel-B\u00E4rlauch Risotto mit Ricotta und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33818688,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "83530dd7-3017-d887-5806-89cf07bf4990",
+    "Name": "Veganes Bigos Ger\u00E4ucherter Tofu mit Kraut und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16795936,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "3ae22d92-3154-1013-3300-6312de0382cf",
+    "Name": "Dinkel-B\u00E4rlauch Risotto mit Ricotta und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33818688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "5e5b855a-f996-12a5-4af3-81ecb3f7edc9",
+    "Name": "Mohn-Schupfnudeln m. Zwetschgenr\u00F6ster u. vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "4ea8a80b-751a-82ba-11e3-891e1f3d910f",
+    "Name": "Gr\u00FCnkern-B\u00E4rlauchbratlinge dazu  Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331652,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "db6cb4c9-d061-7a43-0939-190f5401a4d4",
+    "Name": "Blumenkohl mit Margarine und Br\u00F6seln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16793600,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
