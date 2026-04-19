@@ -56221,5 +56221,158 @@
     "AllergensAndAdditives": 16793600,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "0290684d-5457-ef3c-ce00-6908a0873da8",
+    "Name": "Soja-Gulasch mit frischen Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "06008220-2c4f-d3c4-089f-a02c4781bec1",
+    "Name": "\u0027Rettet die Knolle\u0027: mensaVital Szegediner Tofugulasch und Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264736,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "0668acc9-c6ca-04cc-c611-4c4abd0df367",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058116,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "586cdcfd-329a-db35-b745-aa12b62d083d",
+    "Name": "Hausgemachter Bulgur-Gem\u00FCse-Bratling mit einer Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "05dc7b93-7b26-338c-771c-2c44790bbf9b",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810081,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "47030319-04be-d130-b539-0a0202f51241",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "0875f95c-8075-bdcd-0e1f-7addf9c1deb3",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "dde20f44-6c0a-1d34-f274-9d8b553739ae",
+    "Name": "Gebackene Tintenfischringe dazu Paprika-Zucchini Gem\u00FCse und Tsatsiki",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899008,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "29c65c59-97ca-f91b-4e1a-ed18a7707659",
+    "Name": "\u0027Rettet die Knolle\u0027: mensaVital Szegediner Tofugulasch und Kr\u00E4uterkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 264736,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d3b5dbd8-a837-6ab0-6ecf-a1c3b06be1ed",
+    "Name": "Paniertes Schnitzel mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058116,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.30
+  },
+  {
+    "Hash": "b13d1f8a-b7ca-6860-1777-9b6cb31ea2d6",
+    "Name": "Hausgemachter Bulgur-Gem\u00FCse-Bratling mit einer Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "97d5a29c-8320-4663-b851-c432bd19541c",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810081,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "e4ecfe9d-6837-d7bf-01cc-0ca32b1e054d",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "f87c2d86-1c78-c632-abe2-7092ae476343",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "0f88443f-25e0-cf7a-6a06-774412e7212c",
+    "Name": "Gebackene Tintenfischringe dazu Paprika-Zucchini Gem\u00FCse und Tsatsiki",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "9ba5c722-f7a1-d59b-99fa-e7f9a5655197",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "77dcd3f7-3e1f-c939-2a02-2c171c738866",
+    "Name": "Bratwurst mit Currysauce dazu Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140574976,
+    "Location": "Mensa",
+    "Price": 4.20
   }
 ]
