@@ -56374,5 +56374,14 @@
     "AllergensAndAdditives": 140574976,
     "Location": "Mensa",
     "Price": 4.20
+  },
+  {
+    "Hash": "2b6fb6de-eadd-1685-c8b9-ba8f42623723",
+    "Name": "Currycreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
