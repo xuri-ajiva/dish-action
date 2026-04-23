@@ -56383,5 +56383,32 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "fdb285ab-15e3-6574-674f-5213ef55cc9e",
+    "Name": "Katoffelcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "2095741b-40d5-fd0b-26fc-45e506a7d8f4",
+    "Name": "Curry-Weikraut-Apfel Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "effd4844-f236-d1b1-f589-18761fdb24d3",
+    "Name": "Mexikanische Wurstpfanne mit Reis",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212672,
+    "Location": "Mensa",
+    "Price": 3.40
   }
 ]
