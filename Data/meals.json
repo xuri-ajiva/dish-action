@@ -56410,5 +56410,329 @@
     "AllergensAndAdditives": 2212672,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "38486e14-c64f-3e41-0e4f-6d4a54af5789",
+    "Name": "\u0027Rettet die Knolle\u0027: Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "9d8aa4b2-f3ad-39cd-4924-5e171a7af9ee",
+    "Name": "Hausgemachte Pasta mit Frankfurter Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "aeef2adb-0b2d-c004-3cc5-40d223bbaaf5",
+    "Name": "\u0027Rettet die Knolle\u0027: mensaVital Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "a83bdd2d-170d-e73b-5303-0739bb67fd70",
+    "Name": "\u0027Rettet die Knolle\u0027: Hausgemachte Frikadelle mit Kartoffel-S\u00FC\u00DFkartoffelp\u00FCree",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "74ab6478-68d5-3c2e-7ea1-b2ac5a1179d8",
+    "Name": "\u0027Rettet die Knolle\u0027: K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "cc1384ac-cb4e-75c8-707b-a7066def2e17",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Mangold Auflauf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "5e582286-42e1-c0fe-c978-8cf9f5d23744",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "8c6942de-e59c-6bbc-efb5-b9db07f60a11",
+    "Name": "\u0027Rettet die Knolle\u0027: Schupfnudeln mit Sauerkraut und R\u00E4uchertofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "ec9ad029-5d0b-6391-40d8-22e70de586a2",
+    "Name": "\u0027Rettet die Knolle\u0027: Odenw\u00E4lder Kartoffeleintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "f37a8a16-81c7-8843-bda1-d1dbde380a9e",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Gem\u00FCsebratling mit Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285491524,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "63621b12-e94d-7f66-65ad-b39232742536",
+    "Name": "\u0027Rettet die Knolle\u0027: Odenw\u00E4lder Kartoffeleintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ba6c585f-de3b-2681-99c8-021d3c2c3f40",
+    "Name": "\u0027Rettet die Knolle\u0027: Gnocchi mit Basilikum und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "8373da89-229b-4148-14c5-f54e9637c083",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Zucchini Puffer dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "7123deba-3bf5-6bc4-948a-3ab7b831fa07",
+    "Name": "\u0027Rettet die Knolle\u0027: Gebratener Seelachs mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778312,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "0d38df78-b5b6-40cb-2db5-1a72ea7b413c",
+    "Name": "\u0027Rettet die Knolle\u0027: Schupfnudeln mit frischen Champignons und Kr\u00E4utern",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ffac6814-f316-7d03-1a94-fd5c716a4833",
+    "Name": "Hausgemachte Pasta mit Frankfurter Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "6a0f24f3-1c07-f2ab-f584-806d4f09f5c7",
+    "Name": "\u0027Rettet die Knolle\u0027: mensaVital Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "816df666-8fef-09bb-7f87-7d641be437d2",
+    "Name": "Hausgemachte Pasta mit einer Gorgonzolasauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777281,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "1d06ebef-07c2-af48-f6a5-c74ded5e1058",
+    "Name": "\u0027Rettet die Knolle\u0027: Hausgemachte Frikadelle mit Kartoffel-S\u00FC\u00DFkartoffelp\u00FCree",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.90
+  },
+  {
+    "Hash": "fc9736b5-7c83-0980-6a31-be16228d32a3",
+    "Name": "\u0027Rettet die Knolle\u0027: Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "41892319-67fe-0711-be3c-52e286b0bfd0",
+    "Name": "\u0027Rettet die Knolle\u0027: Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "3c96a991-a849-f033-77cf-e48751593255",
+    "Name": "\u0027Rettet die Knolle\u0027: K\u00FCrbis-Kartoffel Ragout",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "b1c596f6-2799-108d-619b-f0cd4d294c8d",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Mangold Auflauf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "341c7dbe-e717-4799-9162-dd43ace532c9",
+    "Name": "\u0027Rettet die Knolle\u0027: Paniertes Schnitzel dazu B\u00E9chamelkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.90
+  },
+  {
+    "Hash": "2a400067-2bb8-768b-d0e9-b16cfad93075",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "fc0003c2-c706-ce49-7c08-1b7da81aed1f",
+    "Name": "\u0027Rettet die Knolle\u0027: Schupfnudeln mit Sauerkraut und R\u00E4uchertofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "4ce5ab36-580b-6102-d260-84b5ef926c2d",
+    "Name": "\u0027Rettet die Knolle\u0027: Odenw\u00E4lder Kartoffeleintopf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6e1a3609-2858-6c88-a8b8-a49e58fcb431",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Gem\u00FCsebratling mit Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285491524,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "67a0a1d9-382b-e6de-ef02-780c7f6948a1",
+    "Name": "\u0027Rettet die Knolle\u0027: Odenw\u00E4lder Kartoffeleintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "e84e928a-a551-124a-4aff-707ba95376c7",
+    "Name": "\u0027Rettet die Knolle\u0027: Gnocchi mit Basilikum und Kirschtomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "cef23386-0254-822d-8c7b-f5c500fded48",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Zucchini Puffer dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "b6c76bec-39b5-6b51-db8c-0ab063229402",
+    "Name": "\u0027Rettet die Knolle\u0027: Gebratener Seelachs mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16778312,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "982d6f83-bdbe-2104-4da4-119c51220a89",
+    "Name": "Dessert Panna Cotta Holunder | Erdbeere | Sahne",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "12fcb76e-4114-fbea-d737-cff89ac9a695",
+    "Name": "\u0027Rettet die Knolle\u0027: Salzkartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "feb50b5b-d1f1-1cf3-22f2-9de430a67721",
+    "Name": "\u0027Rettet die Knolle\u0027: Pommes Frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "50c34c8b-ad08-45dc-5e96-52ae1b8a8ae9",
+    "Name": "\u0027Rettet die Knolle\u0027: Kartoffel-Mangold Auflauf )",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 3.20
   }
 ]
