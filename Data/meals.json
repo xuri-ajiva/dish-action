@@ -56734,5 +56734,41 @@
     "AllergensAndAdditives": 68,
     "Location": "Mensa",
     "Price": 3.20
+  },
+  {
+    "Hash": "3317ea01-6931-59d0-9d8f-b5b77c8c6565",
+    "Name": "\u0027Rettet die Knolle\u0027: Paniertes Schnitzel dazu B\u00E9chamelkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "9699e460-5b0f-1673-70c0-787fc76dc1a8",
+    "Name": "Kohlrabicreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "07254a74-7394-d354-a74c-c7583f4a43a4",
+    "Name": "Paniertes Schnitzel mit Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "1f24b98b-9b5c-7e78-d3fd-a4200620a2a1",
+    "Name": "Ebly",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 1.20
   }
 ]
