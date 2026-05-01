@@ -56770,5 +56770,68 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "852f65ce-a293-ca6b-72f7-013761188e0d",
+    "Name": "K\u00FCrbis-Kartoffelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "8e5e920d-9120-7fac-071f-62ff74ceaa25",
+    "Name": "S\u00FC\u00DFkartoffelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "520439e8-9c4b-b9e0-02dd-fbb84f21429a",
+    "Name": "Gem\u00FCseschnitte mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331904,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "3acce619-c9fc-961c-6268-f3779594a105",
+    "Name": "Paprika-Zucchini Gem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d790c447-5c7a-a39b-4647-607d982f179a",
+    "Name": "Germkn\u00F6del mit Bratapfelf\u00FCllung dazu Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "5c18955a-93ae-27a4-3bbe-450a97188129",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "7e1aa6d3-683f-9fe2-5ee4-04e819d4a516",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung mit Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 3.20
   }
 ]
