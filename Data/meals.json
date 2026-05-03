@@ -56833,5 +56833,257 @@
     "AllergensAndAdditives": 16777536,
     "Location": "Mensa",
     "Price": 3.20
+  },
+  {
+    "Hash": "b68af6e8-82e1-945f-a60c-7a6238ffac8a",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1569,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "99fb5cb0-2f4b-4ead-acb2-79ef40e44f08",
+    "Name": "Gem\u00FCseschnitte mit Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331968,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "bc7055e0-740c-dc7e-119e-2925280477d9",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "71741bf1-31f0-aaef-8b0d-dcaa3a1b2650",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "5d4688db-2f55-e87b-59f5-25ff7fbc543a",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793604,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "199023ea-c33c-500e-53fa-cc8f58f50836",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "3460b60b-26e6-4289-9680-96c5c2d5cba8",
+    "Name": "Hausgemachte K\u00E4sekn\u00F6del mit Salbeibutter  dazu Gurkensalat N 2014",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845380,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "9b34c0b7-32b4-c442-7beb-42c5c7a20e8a",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "03616481-edd5-cf31-a1c9-789150d04800",
+    "Name": "\u0027\u00C4ppler Burger\u0027 Bun, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se dazu Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Mensa",
+    "Price": 6.70
+  },
+  {
+    "Hash": "6d017692-cf42-81fb-6389-5e4298b108c9",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1569,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "4111de68-d73b-8863-1e09-fc27beb00d88",
+    "Name": "Gem\u00FCseschnitte mit Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 50331968,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "915ea0d0-d281-481e-27f9-078c93c04c68",
+    "Name": "Chia-Pudding mit Heidelbeeren im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "486db382-f26f-e303-ec1a-9ea47ca8c385",
+    "Name": "Kirschenmichel dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1224736836,
+    "Location": "Bistro",
+    "Price": 4.10
+  },
+  {
+    "Hash": "4c053e16-6bf7-76e6-2c2a-25c14ba57b1b",
+    "Name": "Paprikapfanne mit Sonnenblumen-Hack dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "0b56a545-6730-486a-7109-52132939277d",
+    "Name": "Tortelloni mit Frischk\u00E4sef\u00FCllung mit Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "dcc50aa4-277e-1a03-fdcd-9fbf1aa01c0e",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793604,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "2d3f858e-bb63-06e9-898f-ebd24f911e4b",
+    "Name": "Germkn\u00F6del, gef\u00FCllt mir Pflaumenmus dazu Vanillesauce  und Mohn",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Bistro",
+    "Price": 3.20
+  },
+  {
+    "Hash": "d3dd2e77-1b41-aa2e-cf57-5a9fc9726124",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "f43ab03f-45a1-abbf-6c81-092e837e09d5",
+    "Name": "Hausgemachte K\u00E4sekn\u00F6del mit Salbeibutter  dazu Gurkensalat N 2014",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16845380,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "20aaaa55-e797-484c-398e-9b7ce36b4448",
+    "Name": "Currywurst aus Bratwurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140574976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "c45234c5-9329-fba4-0eb7-dbdb6e29d0b1",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Bistro",
+    "Price": 5.40
+  },
+  {
+    "Hash": "9b38a10c-760f-cf65-5c86-617066f25be3",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "22e54951-d90e-56fd-2057-f6160ee29703",
+    "Name": "\u0027\u00C4ppler Burger\u0027 Bun, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se dazu Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.70
+  },
+  {
+    "Hash": "eee5eb95-ae29-c9b3-e77a-f629305a4fd8",
+    "Name": "Schupfnudeln dazu Apfelmus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842752,
+    "Location": "Bistro",
+    "Price": 2.70
+  },
+  {
+    "Hash": "4273cf0b-4149-5a2d-3a5b-c4b2d59f32a8",
+    "Name": "Dessert Vegane Mousse au chocolat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "d055bc64-eb94-0162-2328-49ba9dab4fcb",
+    "Name": "Cheeseburger Rindfleisch | Tomate | Gurke | Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 8.00
+  },
+  {
+    "Hash": "7150fba8-b7f2-6933-84e4-29d98168f98f",
+    "Name": "Pochierte Eier Frankfurter Gr\u00FCne So\u00DFe | Bratkartoffeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 580,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "f8737440-3f81-8f97-5338-eb17d15f9078",
+    "Name": "Currywurst Schwein | Criss Cuts",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 157303040,
+    "Location": "Mensa",
+    "Price": 5.40
   }
 ]
