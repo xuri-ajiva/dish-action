@@ -57085,5 +57085,104 @@
     "AllergensAndAdditives": 157303040,
     "Location": "Mensa",
     "Price": 5.40
+  },
+  {
+    "Hash": "ee6db828-c595-494e-4066-0c282376191d",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "83c7cced-faf4-01f7-83a0-2b88b91cf0b8",
+    "Name": "Ratatouille \u0027provencale\u0027 dazu gebratene Polenta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "9f251f3d-1824-7467-1585-54784193725e",
+    "Name": "Rotbarsch gebraten Limetten-Knoblauch Dip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777804,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "1e6c4b20-354a-3132-ef92-bcb7b1865ca4",
+    "Name": "Paniertes Schnitzel mit einer Zitrone",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "520b3a1d-fbd2-6fc9-0933-c1631f2c64b6",
+    "Name": "Ratatouille \u0027provencale\u0027 dazu gebratene Polenta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "3bd0904f-29fc-7132-9ace-1bc3025ccdce",
+    "Name": "Rotbarsch gebraten Limetten-Knoblauch Dip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777804,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "4526bce2-7142-f1c0-57a0-81eddac787c8",
+    "Name": "Dessert No-Bake-Cake Biskuit | Frischk\u00E4se | Mango",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6fc3a6f0-f6ad-91d1-7417-1ce72f5d57c5",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "c8c656f6-027f-e789-7430-e4c9f8d689a2",
+    "Name": "Grie\u00DFbrei dazu Fruchtsauce, Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "afab44ed-ca6e-8128-9311-bc9580cd5c4f",
+    "Name": "Thai-K\u00FCrbiscreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "7f67373c-000b-0181-4927-4d04a1de00dc",
+    "Name": "Cheese Cake Creme mit Heidelbeer Kompott",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 1.30
   }
 ]
