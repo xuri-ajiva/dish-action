@@ -57184,5 +57184,23 @@
     "AllergensAndAdditives": 16777285,
     "Location": "Mensa",
     "Price": 1.30
+  },
+  {
+    "Hash": "5f453a54-7de4-9e53-d49a-18ee7ae833cc",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.40
+  },
+  {
+    "Hash": "78570019-5b27-2597-eca6-913f1104c0b4",
+    "Name": "Beerenquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
