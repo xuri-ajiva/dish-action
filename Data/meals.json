@@ -57202,5 +57202,293 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.90
+  },
+  {
+    "Hash": "701c6dfc-0dbf-40d6-0e0c-a822b3e791d8",
+    "Name": "Soja-Gyros mit Tsatsiki  dazu Krautsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67616,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "0a86288d-c9ec-27ea-9041-7afed071f714",
+    "Name": "Hausgemachte Pasta mit Spargel Tomaten und ger\u00F6steten Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744512,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "84e730bb-919f-cb62-8ddf-613a125007e7",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Bechamelsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "7cae1487-af87-5349-d97d-9ae2d10872f0",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "58c298c9-c7e6-bf39-3fa4-9b5f447fa541",
+    "Name": "Gebrannte Melanzani mit Hummus  und Brot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778240,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "d1a544e4-2afd-0f66-48b3-ee68461eada3",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "93f055b6-015b-5727-efbf-9c94f55ae9a4",
+    "Name": "Paniertes Schnitzel dazu Kartoffelsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16845573,
+    "Location": "Mensa",
+    "Price": 5.60
+  },
+  {
+    "Hash": "6e8fdafa-3cfe-e8fb-1191-8d3e063d5bad",
+    "Name": "Tofusteak Kimchi S\u00FC\u00DFe-scharf sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "6a5f4333-1804-9e15-6995-1b34322bf610",
+    "Name": "Kartoffel-Zucchini Auflauf mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "c3c1c0b3-aff1-6b1d-5727-a6fa8ec800b6",
+    "Name": "Thai Bowl mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "83337e38-f4b1-30a5-c3c2-33e5e8c9d937",
+    "Name": "Hausgemachter Kaiserschmarrn dazu Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "dfd299cc-f9c0-d421-0a86-d27e5497fd28",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "fcc0c2ca-747b-c27a-c964-f038a4fca2fe",
+    "Name": "Soja-Gyros mit Tsatsiki Krautsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67616,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "eab0d65f-0ae6-0f9f-9552-9cc2b6dfe2c2",
+    "Name": "Hausgemachte Pasta mit Spargel Tomaten und ger\u00F6steten Cashewkernen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744512,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "a6d0dd71-fa51-37f6-368f-a2541b77859d",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Bechamelsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "1ba040a3-50cb-5bc4-2a80-09ff5b090770",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "7df5a6a8-1b50-c4f3-6256-609d5820d5e6",
+    "Name": "Kokosmilchreis mit Sauerkirschen im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "2a1c038c-497a-18f4-187a-453bcdb0fd9e",
+    "Name": "Apfel-Zimt Quark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65600,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 0.90
+  },
+  {
+    "Hash": "f00f34cc-b4a9-c17d-eb83-647478177078",
+    "Name": "Vanille-Quark-Creme mit Orangen-Crunch im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "b3abb9e1-c6f2-2c85-de14-47434f0b0d81",
+    "Name": "Gebrannte Melanzani mit Hummus  und Brot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778240,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "662a37f0-8ca9-ec48-f49a-929849b79188",
+    "Name": "K\u00E4sesp\u00E4tzle nach Allg\u00E4uer Art",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "5e2d48f1-a39e-a2e9-5c9c-200b86833b74",
+    "Name": "Paniertes Schnitzel dazu Kartoffelsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16845573,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.60
+  },
+  {
+    "Hash": "f0e6dc1c-3dab-584c-f4a6-7111052f493d",
+    "Name": "Grie\u00DFbrei dazu Fruchtsauce, Zimt und Zucker",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "034663e3-8ef0-bd53-b683-c88961b99f21",
+    "Name": "Tofusteak Kimchi S\u00FC\u00DFe-scharf sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "65fe92e8-042a-f49d-c699-b60caf771298",
+    "Name": "Kartoffel-Zucchini Auflauf mit Petersiliensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "6fe4c0c6-7a6f-2052-9d49-1fe7eedbcfb5",
+    "Name": "Curry-Rindswurst mit Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f0299cc5-39eb-5b07-7f4e-3ac85e0b66dc",
+    "Name": "Dampfnudel dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Bistro",
+    "Price": 3.00
+  },
+  {
+    "Hash": "d2c09d3c-b11b-859f-0713-456ed9382c1f",
+    "Name": "Thai Bowl mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 48,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "0834b239-c7e1-10d2-28e8-94b74d9ee46f",
+    "Name": "Hausgemachter Kaiserschmarrn dazu Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "da06c26b-cb61-c117-3047-13476351c265",
+    "Name": "Gebackenes Schollenfilet mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21056076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "a8857ff3-3309-7259-6c8a-1131d1d583a9",
+    "Name": "Pasta Spargel | Cr\u00E8me fra\u00EEche | Hartk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "16360a24-476f-db02-85b0-109fb4208e6a",
+    "Name": "Seelachs Fenchel | Zucchini | Kartoffeln | Schmand | Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 8.40
   }
 ]
