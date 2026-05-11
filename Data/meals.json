@@ -57490,5 +57490,32 @@
     "AllergensAndAdditives": 16777288,
     "Location": "Mensa",
     "Price": 8.40
+  },
+  {
+    "Hash": "5b733fab-0fdc-fec8-51af-016b5e89af17",
+    "Name": "Paniertes Schnitzel dazu Kartoffelsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16845317,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.60
+  },
+  {
+    "Hash": "ede4ff38-9484-d2ec-f46f-5dbbdbe9eeab",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "a3de5eec-7542-4781-8468-4d370ebcd50b",
+    "Name": "Schokopudding im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 1.30
   }
 ]
