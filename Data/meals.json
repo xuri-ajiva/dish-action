@@ -57517,5 +57517,32 @@
     "AllergensAndAdditives": 32,
     "Location": "Mensa",
     "Price": 1.30
+  },
+  {
+    "Hash": "be8025bf-74f9-8c02-d94b-332bdb991e95",
+    "Name": "Hausgemachte Pasta mit Lachsstreifen in Gem\u00FCsesahnesauce",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777544,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "ba20d635-f62c-62a9-49e6-6041ad75b307",
+    "Name": "Tofusteak Kimchi S\u00FC\u00DFe-scharfe sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "c105ede6-6d5e-bd53-115a-66e5a8ea3387",
+    "Name": "Kartoffel-Paprikacremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
