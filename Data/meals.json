@@ -57544,5 +57544,23 @@
     "AllergensAndAdditives": 64,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "1a846689-2c10-8e9a-bd49-727e4be24ac9",
+    "Name": "Dampfnudel dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ad8db7f1-76ce-4d51-9b54-fbaa86d90c1f",
+    "Name": "Gebackenes Schollenfilet mit Kr\u00E4uterdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
