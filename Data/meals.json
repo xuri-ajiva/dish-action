@@ -57562,5 +57562,158 @@
     "AllergensAndAdditives": 16777288,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "4de31d5c-0da6-1cbd-567e-bb7f6519f8d4",
+    "Name": "Rote Beete Cous cous dazu gebackene rote Beete und ein Sojajoghurt-Minz Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "69ac988c-264a-4d9d-6a43-d3e598376562",
+    "Name": "Hausgemachte Pasta mit Bolognese von roten Linsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "f82bdd71-5471-c007-dfc9-711e8dd79ee6",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "854074db-0cbb-ace0-ad1e-37679dbf0be5",
+    "Name": "Hausgemachte Pasta  mit Spinat-Petersilien-Zitronen-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a344ff8d-c756-b4a1-a620-df147f7563bb",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "05d28633-796b-995d-a8f1-1a853e3b4fac",
+    "Name": "Dinkelreisrisotto mit gr\u00FCnem Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "bdc3fdbd-2789-e67b-e780-e71704e7795f",
+    "Name": "Pfannengem\u00FCse mit Paprika, Karotten und Lauch Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "ffd92f44-372b-2695-1581-d9b94238641e",
+    "Name": "Pulled Pork Burger mit Cole Slaw und Barbecuesauce dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155258725,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "ffb715c5-993b-7713-3439-00e50dbd12e0",
+    "Name": "Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "e63558af-d66f-8fd4-35db-aaaaab7f6b0d",
+    "Name": "Hausgemachte Pasta dazu eine Tomatensauce mit Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Bistro",
+    "Price": 2.00
+  },
+  {
+    "Hash": "17d7bcc5-4476-16f1-f72d-28eef7aff178",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "8a077e7e-46f2-e0a9-170b-f8df24fbd8d4",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Bistro",
+    "Price": 4.80
+  },
+  {
+    "Hash": "8cb9dd32-c2e4-1528-0a2f-ccaf9fce9137",
+    "Name": "Chili-Quinoa Pfanne mit Tomaten und Bohnen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "310d6cdb-b392-f762-7a60-7e40e519646c",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "bf2c2c8f-cc0a-8c65-f733-37b33ba38496",
+    "Name": "Kartoffel-Krautpfanne mit Veganem Dip Frankfurter Art",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "97f6b951-b4c6-d325-d7db-1b213f636fc3",
+    "Name": "Tortelloni mit K\u00E4sef\u00FCllung in Gem\u00FCse und Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "cc29ccca-d3cb-0d60-5303-f3e05ef77b11",
+    "Name": "Beilage Gurkensalat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 67584,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
