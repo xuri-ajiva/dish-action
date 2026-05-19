@@ -57715,5 +57715,86 @@
     "AllergensAndAdditives": 67584,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "cc84f79e-56b0-770b-8967-309a9098ff41",
+    "Name": "Hausgemachte Pasta  mit Spinat-Petersilien-Zitronen-Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "d2696d2a-33d0-0b7b-365c-dbc013cc859b",
+    "Name": "Barbecue Bowl mit Sojastreifen und Limettenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "206cf31b-3655-da34-8e12-b499be14d462",
+    "Name": "Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "33ec435f-affa-b11d-38b1-968735b4926b",
+    "Name": "Gebackener Seelachs mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "98fde1c0-3fcc-406b-3411-311db883e35e",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Bistro",
+    "Price": 4.70
+  },
+  {
+    "Hash": "1de7432e-f746-17ba-2e9a-c0b6d83a9593",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung mit Kr\u00E4uter Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "8fed1b6a-d05d-92ba-5654-8673f6fa1b17",
+    "Name": "Gebackener Seelachs Kartoffelsalat mit einer Zitronenecke",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16845320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "996a2975-1f03-06a8-37be-ec5b6b41471c",
+    "Name": "Dal Curry Linsen | Tomaten | Koriander | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "7969673a-4b97-b88a-0a7e-4b7f411a14ec",
+    "Name": "Kartoffel-Gem\u00FCse-Currysuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
