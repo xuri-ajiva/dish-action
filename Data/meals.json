@@ -57796,5 +57796,104 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "cc3eb01a-3317-c1ee-130b-dd115e47d79b",
+    "Name": "H\u00E4hnchenbruststeak mit Kokos-Currysauce, Zuckerschoten und Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 6.10
+  },
+  {
+    "Hash": "60ac6a00-c169-fb6e-72ab-3265c92c16a2",
+    "Name": "Pizza Kebap mit H\u00E4hnchen Kebap und K\u00E4se",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "1edb8446-771d-6fca-d6cf-ad5403cfd40c",
+    "Name": "Pizza Salami mit Champignons",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 184647744,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "3d5de97d-ff87-0218-c8a4-411c3bbcad29",
+    "Name": "WOK Asia Kokos Pfanne mit H\u00E4hnchenbruststreifen dazu Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "c6a0456c-b6c6-0b76-a656-71db377b00ef",
+    "Name": "Campus Kebap H\u00E4hnchen, Fladenbrot, Salat, Sauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16777796,
+    "Location": "Bistro - Bistro",
+    "Price": 5.90
+  },
+  {
+    "Hash": "621f9246-0b43-7849-fd0e-1b4464042287",
+    "Name": "Karotten-Kokoscreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "5cf68885-a6ac-0416-6ea2-31a5ce277337",
+    "Name": "H\u00E4hnchenbrustfilet paniert mit einer Zitrone",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "61deb1da-0882-cd65-6344-67a180d9c6bb",
+    "Name": "Schweizer Wurstsalat mit K\u00E4se, Zwiebeln und Gurken dazu Bratkartoffeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 4442692,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "f2d77bd2-d132-a267-177c-451028d3e752",
+    "Name": "Kartoffel-Krautpfanne mit Veganem Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268435456,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "15ef4051-bb87-2719-4124-1b2cd79a6a07",
+    "Name": "Pizza Kebap H\u00E4hnchen Kebap | K\u00E4se",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "8a09270c-3dc8-3848-c9d2-bdfbe022268b",
+    "Name": "Quarkspeise",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
