@@ -58309,5 +58309,23 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.30
+  },
+  {
+    "Hash": "ce919de4-fba4-2fb1-1287-b402794d472e",
+    "Name": "Pilzcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "b919aadb-5a67-a254-6de9-a8753204f868",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung mit Kr\u00E4uter Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.00
   }
 ]
