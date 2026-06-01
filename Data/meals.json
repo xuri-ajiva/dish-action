@@ -58714,5 +58714,14 @@
     "AllergensAndAdditives": 65665,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "07010844-c9f5-7dbe-594f-a9b90035c7f6",
+    "Name": "Knoblauchcreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
