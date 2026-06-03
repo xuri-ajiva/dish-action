@@ -58723,5 +58723,32 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "f40c7684-b7c5-6673-45c0-e9f024a1911e",
+    "Name": "Rosenkohl",
+    "Image": "bd19563e-299c-7e3f-1817-7bf6e482ad65",
+    "Category": 12,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "66bb900d-b94b-a7d7-920e-b525c98a2246",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Bistro",
+    "Price": 4.60
+  },
+  {
+    "Hash": "874e4fc1-c4f9-82da-d096-4d19c755d88c",
+    "Name": "Curry-Bratwurst dazu Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140574976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
   }
 ]
