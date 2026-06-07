@@ -58750,5 +58750,491 @@
     "AllergensAndAdditives": 140574976,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.30
+  },
+  {
+    "Hash": "cf59c66c-c093-9462-42bd-08bbca4d9e0a",
+    "Name": "Gem\u00FCsecouscous mit Tofu, Backpflaumen und Mangow\u00FCrfeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810016,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "b64db379-4d5d-0d76-3d0e-f266445eac64",
+    "Name": "Dampfnudel dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "a6ccd6f2-7382-e4b9-5c65-3a0336377101",
+    "Name": "Hausgemachte Pasta  mit Basilikum Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "615773a0-bd61-1ded-8f06-fd99323a42b3",
+    "Name": "Gyros vom Schwein mit Tsatsiki dazu Krautsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 67648,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "e0a90dfe-50da-709a-493e-2445aba6ac93",
+    "Name": "WOK W\u00FCrziger Pak Choi mit H\u00E4hnchen und Mienudeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "9650ab94-5b86-ca2c-250f-f766aabdf6ba",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 524320,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "27f8faeb-0a94-fa21-709a-e091d05bd893",
+    "Name": "Kichererbsen Polenta mit Zucchini und Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 18496,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "dea3a110-91f7-10c9-de9b-eb5d0dee7e31",
+    "Name": "Paniertes Schnitzel dazu Kartoffelsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16845317,
+    "Location": "Mensa",
+    "Price": 5.60
+  },
+  {
+    "Hash": "7ebb12fb-e0bf-e660-6187-7cf532f0b944",
+    "Name": "\u0027Imam Bayildi\u0027 gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "b0146ea4-4df6-561c-c9b9-0363b4d5ed2e",
+    "Name": "Rindersaftgulasch \u0027Ungarische Art\u0027 mit Nudeln",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 7.70
+  },
+  {
+    "Hash": "a41c7c59-6968-5861-8132-4235c5449225",
+    "Name": "Burger mit Haferflockenpatty, gebratenem Gem\u00FCse und Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285212672,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "ce06ec67-c9f0-eab1-c399-6460bbe3b383",
+    "Name": "Elotes- Mexican Steet food Maiskolben, Mayonnaise, Hirtenk\u00E4se, Koriander, Limette und Paprikapulver",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 580,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "7b6f46e1-7968-7b27-7619-4410952007d3",
+    "Name": "Hausgemachte Cevapcici dazu Tomatenreis und Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150994949,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "9506b0e4-c785-f2e3-4f84-f71f21d5f303",
+    "Name": "Poutine",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "e98e9d72-fcfe-f9d4-fa10-f467d56df14d",
+    "Name": "Gebackener Seelachs mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "eea7c14b-8a3e-c70c-a03a-349fa5fd9a56",
+    "Name": "Gem\u00FCsecouscous mit Tofu, Backpflaumen und Mangow\u00FCrfeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810016,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "543ead27-c526-c2ad-bf9f-83bdb510abfb",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "68f5e7ac-8633-6184-2b66-90805a5f413a",
+    "Name": "Hausgemachte Pasta  mit Basilikum Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "78dfb039-cf66-9c9e-9cad-9c7bc5e48adf",
+    "Name": "Gyros vom Schwein mit Tsatsiki dazu Krautsalat",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 67648,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "16d19c1c-b5fd-9d15-7f62-d3606314a655",
+    "Name": "Classic Cheeseburger dazu Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16795204,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.40
+  },
+  {
+    "Hash": "35fa7528-541a-3b9c-cc87-c086df6c1d30",
+    "Name": "Mohn-Schupfnudeln mit Zwetschgenr\u00F6ster und einer veganen Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Bistro",
+    "Price": 3.50
+  },
+  {
+    "Hash": "f9031b8e-ec2a-cb3f-b2c8-0470dee21635",
+    "Name": "WOK W\u00FCrziger Pak Choi mit H\u00E4hnchen und Mienudeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "c1a49ac6-6943-2c6a-cec3-d380e7645bd7",
+    "Name": "Tomaten-Chili-Knoblauch-Spaghetti mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 524320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "4dbe456a-78b2-02c9-e724-2a378f38d847",
+    "Name": "Kichererbsen Polenta mit Zucchini und Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 18496,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "8cb20df3-52a9-d9ee-e529-12490360875d",
+    "Name": "Dampfnudel dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Bistro",
+    "Price": 2.30
+  },
+  {
+    "Hash": "3d3c6c7a-3380-3b42-3ce8-b1f352c6429c",
+    "Name": "\u0027Imam Bayildi\u0027 gef\u00FCllte und geschmorte Aubergine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "c5b7a6a1-7188-effa-c4d5-ba90d46632c7",
+    "Name": "Rindersaftgulasch \u0027Ungarische Art\u0027 mit Nudeln",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 7.70
+  },
+  {
+    "Hash": "f6a13240-5b99-2cde-d97a-1b9580baea8a",
+    "Name": "Milchreis mit Fruchtsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Bistro",
+    "Price": 2.30
+  },
+  {
+    "Hash": "11c52c50-ec6e-0f11-b008-049a18c09982",
+    "Name": "Burger mit Haferflockenpatty, gebratenem Gem\u00FCse und Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285212672,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c2c9dbae-1314-54ae-a156-b8dc959ada35",
+    "Name": "Elotes- Mexican Steet food Maiskolben, Mayonnaise, Hirtenk\u00E4se, Koriander, Limette und Paprikapulver",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 580,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "ce3ceeb8-cfd9-40b8-5b7d-ada04638010d",
+    "Name": "Hausgemachte Cevapcici dazu Tomatenreis und Ajvar",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150994949,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "bb123cb4-6d0a-854c-2af8-d5c13f74193c",
+    "Name": "Poutine",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "a3330886-2aa9-0f0f-c754-4c81eec16c9b",
+    "Name": "Gebackener Seelachs mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "742075d1-8971-5941-bc8a-49509d7d0d56",
+    "Name": "Crunchy Chicken Burger Sesambr\u00F6tchen | Gurken | Mayonnaise | Cheddar | Pommes frites",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155207492,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "c6986773-8f95-6b6c-7d43-aede71ef5aa1",
+    "Name": "Southwest roasted Chicken Sandwich Paprika-Mayonnaise | Zwiebelringe",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16845381,
+    "Location": "Mensa",
+    "Price": 7.80
+  },
+  {
+    "Hash": "b1d31273-dbbc-709b-9d43-c042f4e18f41",
+    "Name": "H\u00E4hnchenkeule Linsen | Zucchini | Tomaten | Bratkartoffeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 100352,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "b44c09b6-2653-17e1-2266-9537677107e8",
+    "Name": "Fleischk\u00E4se mit Spiegelei dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195972,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "a857f246-458f-d3d9-940f-aaafa7586c83",
+    "Name": "Linsen-Mango-Curry mit Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "ccd229a9-d832-3384-be0b-8df8cc781013",
+    "Name": "Hausgemachte Pasta Basilikum-Minz-Orangen-Pesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 2164260993,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "9c9c6984-3d44-e7fe-167e-0c07ffa16713",
+    "Name": "Hausgemachte Kartoffellasagne mit Karotten und Lauch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "5023e607-131b-e59b-3959-1b77a2a58699",
+    "Name": "H\u00E4hnchenbrustfilet im Knuspermantel mit Estragonsauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16385,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "bd6402a9-6402-220d-557f-cdc694ec6b61",
+    "Name": "Fleischk\u00E4se mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195968,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "1866febd-4d4a-a3a5-1db9-e7cf751bc8a2",
+    "Name": "H\u00E4hnchenbrustfilet im Knuspermantel mit Zitrone",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 1,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "b27060a7-02b0-b71e-f0dd-81aad64571aa",
+    "Name": "Kichererbsen-Kokos-Korma mit Mandelreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536871040,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "e7940b6d-e86d-fa82-d4b6-2610e7f35564",
+    "Name": "Pastizio vegetarischer Nudelauflauf",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "f61c2438-e0e8-9c83-fb49-47c710686cc2",
+    "Name": "Gegrillter Schweinekammbraten Tsatsiki",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "e439b93e-0e62-ec9c-a2b8-239ba3f700d8",
+    "Name": "Hausgemachte Pasta Sauce Arabiata",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16891904,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "24c8ca13-4d59-87ce-a2ec-4c6930860e52",
+    "Name": "Soja-Gyros mit Tsatsiki  dazu Krautsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67616,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "3a06dfd1-a74e-9088-03a1-d4da150f04cf",
+    "Name": "Sp\u00E4tzle mit frischem Wei\u00DFkraut und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844804,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "d318bf12-c945-45d3-6808-98e01752bc12",
+    "Name": "Crunchy Chicken Laugenburger dazu Pommes frites",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155257604,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "9ba6ccdc-1cac-164c-b878-edc1b1500509",
+    "Name": "Wok Soja in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "c59af251-b48d-71eb-b2ff-42b64043a6af",
+    "Name": "Gigantes Plaki Bohnen mit Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "0bd5e1d9-88dc-732e-19d2-91c915535196",
+    "Name": "Griechische Bowl mit Oliven, Schafsk\u00E4se, Tsatsiki und Pizzabrot",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 151519296,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "1453dd95-883f-f2a3-ad04-1e15322bcf10",
+    "Name": "Forelle \u0027M\u00FCllerin Art\u0027",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 134218056,
+    "Location": "Mensa",
+    "Price": 5.10
   }
 ]
