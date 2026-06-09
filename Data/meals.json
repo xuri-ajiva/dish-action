@@ -59236,5 +59236,59 @@
     "AllergensAndAdditives": 134218056,
     "Location": "Mensa",
     "Price": 5.10
+  },
+  {
+    "Hash": "cc83cd61-aa07-f174-c933-aa2bfd0fd8ec",
+    "Name": "Hausgemachte Pasta mit einem B\u00E4rlauchpesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "3a2b7688-5e8d-fe5a-095a-7136ec51330d",
+    "Name": "Tomaten-Zucchinisuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f5fa243c-cba7-78e6-cbba-6fa671d60bb8",
+    "Name": "Classic Cheeseburger dazu Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16795204,
+    "Location": "Mensa",
+    "Price": 6.40
+  },
+  {
+    "Hash": "1a701ab7-0448-6890-43c6-9b1cfb202553",
+    "Name": "Flammkuchen Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285212704,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "1f7b8802-b28d-a102-b881-7218090973f1",
+    "Name": "Flammkuchen Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "c3a2d7ae-1aa8-9bf6-98a0-bd4ae9b4057a",
+    "Name": "Wok H\u00E4hnchen in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Mensa",
+    "Price": 3.90
   }
 ]
