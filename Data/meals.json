@@ -59290,5 +59290,50 @@
     "AllergensAndAdditives": 4311744560,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "75d39a2d-5f7f-41d5-4bd6-e3946b53f9b3",
+    "Name": "Polentacreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777344,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "3db63b63-8c40-7991-70f0-6772d81410e4",
+    "Name": "Elotes - Mexican Street food Maiskolben, Mayonnaise, Hirtenk\u00E4se, Koriander, Limette und Paprikapulver",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 580,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "38a6be4f-ffc9-cd75-d4fc-17dca97a40c4",
+    "Name": "Elotes - Mexican Street food Maiskolben, Mayonnaise, Hirtenk\u00E4se, Koriander, Limette und Paprikapulver",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 580,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "7f43f231-7961-1fbe-5c6d-1d5ce4c80ee4",
+    "Name": "Wok Soja in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "cc1deaef-90c1-e8a0-d0b0-f67730f6c19e",
+    "Name": "Wok H\u00E4hnchen in roter Chili-Erdnuss Sauce Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4311744560,
+    "Location": "Mensa",
+    "Price": 4.10
   }
 ]
