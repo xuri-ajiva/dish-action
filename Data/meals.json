@@ -59803,5 +59803,14 @@
     "AllergensAndAdditives": 1224736836,
     "Location": "Mensa",
     "Price": 4.10
+  },
+  {
+    "Hash": "5d1f6d33-df06-f560-7362-8b22344fddd4",
+    "Name": "Maiskolben mit Butter",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.50
   }
 ]
