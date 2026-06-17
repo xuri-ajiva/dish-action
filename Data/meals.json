@@ -59812,5 +59812,23 @@
     "AllergensAndAdditives": 64,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.50
+  },
+  {
+    "Hash": "1bb7c93a-badc-685c-ab5a-e39453c44ff7",
+    "Name": "Mexikanische Wurstpfanne mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212416,
+    "Location": "Bistro - Bistro",
+    "Price": 3.90
+  },
+  {
+    "Hash": "4303d335-a2cc-45a2-ca26-eef1d47666e7",
+    "Name": "Gegrillter Schweinekammbraten Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 280576,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
