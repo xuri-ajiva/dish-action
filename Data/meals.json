@@ -59830,5 +59830,23 @@
     "AllergensAndAdditives": 280576,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "aa9f8ee2-1913-a39e-63bd-a99335ed36bb",
+    "Name": "Mediterane Gem\u00FCsecreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "1a79b7bd-b0f6-9f26-9e55-fd147a3df697",
+    "Name": "Hausgemachte Pasta mit einem Petersilien-Nusspesto",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1090519040,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
