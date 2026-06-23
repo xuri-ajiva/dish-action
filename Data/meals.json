@@ -60154,5 +60154,59 @@
     "AllergensAndAdditives": 8200,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "7f21e8dc-8a7b-ddb2-4384-0e37245b4203",
+    "Name": "Dinkelreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "083967a4-a900-841b-5ebf-f8268413bbe2",
+    "Name": "Gem\u00FCsereis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "9f79a5ec-d008-8f76-9e7e-84e0a0f14cca",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Tsatsiki",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "f1fcc674-e9cd-76ff-0096-62b56c3f2e62",
+    "Name": "Hausgemachte Frikadelle mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "ad51f7b1-1355-cb02-74cb-788bd9c2093f",
+    "Name": "Mexikanische Wurstpfanne mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2212672,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "72c6a769-13f3-929c-7f4c-b1f5b0b5481c",
+    "Name": "Selleriesteak \u0027Holzf\u00E4ller Art\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 17107232,
+    "Location": "Mensa",
+    "Price": 3.00
   }
 ]
