@@ -60208,5 +60208,14 @@
     "AllergensAndAdditives": 17107232,
     "Location": "Mensa",
     "Price": 3.00
+  },
+  {
+    "Hash": "b44ea7f7-660a-b87e-fe8d-a9277b464351",
+    "Name": "Mediterena Gem\u00FCsesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
