@@ -60640,5 +60640,113 @@
     "AllergensAndAdditives": 4194337,
     "Location": "Mensa",
     "Price": 3.90
+  },
+  {
+    "Hash": "20f6cb64-97e1-1744-41b3-cdc60ccd30de",
+    "Name": "Hausgemachte Pasta  mit Lachs und Gem\u00FCsestreifen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777480,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "f621d8b5-da67-1233-f96d-179d68b4ce9f",
+    "Name": "Bowl mit Wildlachs Ratatouille, Linsen, Dinkel Reis Ahorn Sirup",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 33554952,
+    "Location": "Mensa",
+    "Price": 6.70
+  },
+  {
+    "Hash": "7623a140-ea6c-b5f3-bb77-d75dcddb9cf7",
+    "Name": "Hausgemachte Pasta  mit Lachs und Gem\u00FCsestreifen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777480,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "32db8dc7-34eb-96e6-6001-4f84a331c7ad",
+    "Name": "Vollkornsp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "363de8e8-f08d-b075-63cf-239cb6eda1a0",
+    "Name": "Brokkoli",
+    "Image": "bd19563e-299c-7e3f-1817-7bf6e482ad65",
+    "Category": 12,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.10
+  },
+  {
+    "Hash": "1a731fe2-659e-db6d-605e-b4c6e7cb15d6",
+    "Name": "Bowl mit Wildlachs Ratatouille, Linsen, Dinkel Reis Ahorn Sirup",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 33554952,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.70
+  },
+  {
+    "Hash": "e596d6c8-40cb-8618-b01f-e4b13933acc2",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17156161,
+    "Location": "Mensa",
+    "Price": 5.60
+  },
+  {
+    "Hash": "d7b12672-cc0c-43c8-8056-672d58c4c04b",
+    "Name": "Kichererbsen-Auberginen Pfanne Tomate | Paprika | Couscous",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "72f64b43-8651-6fcd-60af-446a198f798b",
+    "Name": "Currywurst Schwein | Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140525824,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "08ab3ebd-2b86-6080-1408-274d1a15ad5d",
+    "Name": "Ratatouille \u0027provencale\u0027 dazu gebratene Polenta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.10
+  },
+  {
+    "Hash": "ef4d72fa-63ba-d00d-99ce-05a29d07ce9b",
+    "Name": "Mac and Cheese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "67311e4c-47a5-41f8-08e8-b095d03b6577",
+    "Name": "Seelachsfilet gebacken mit Zitronenecke und Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21072460,
+    "Location": "Mensa",
+    "Price": 3.00
   }
 ]
