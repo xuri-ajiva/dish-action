@@ -60748,5 +60748,122 @@
     "AllergensAndAdditives": 21072460,
     "Location": "Mensa",
     "Price": 3.00
+  },
+  {
+    "Hash": "3b008693-0be1-99dd-fc06-7927ab77edb6",
+    "Name": "Hausgemachte Pasta  mit Lachs und Gem\u00FCsestreifen",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777544,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "42e5bf0a-b31a-16d5-bb8c-e9cedd201fcd",
+    "Name": "Pikante S\u00FC\u00DFkartoffelsuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "5cc5e4b8-ec76-62f8-b4f6-865d63e53bd3",
+    "Name": "Pizza Marinara",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "cb2e0be5-f523-68d4-eb72-a53bcbdfeacd",
+    "Name": "Pizza mit Champignons und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
+  },
+  {
+    "Hash": "1343eb71-b26c-8e22-87bf-5c253a8b6cf9",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "fda3c7e3-c909-af8b-2ee0-6df4160477c7",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "239d7ec9-676b-94c6-96c3-b7fc035aba57",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "0c29b064-0583-0507-f9b2-75c913681e96",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4445995076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "b741369a-623b-78e9-23b2-7b4c1234b0ef",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "0027d44f-5b62-b3cc-c64a-7c8ef68539e5",
+    "Name": "Pizza mit Champignons und Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.30
+  },
+  {
+    "Hash": "55856cff-ab40-9286-59d7-5a401bf5e0c0",
+    "Name": "Pizza Diavola",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 151617600,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "c7d59a5a-181d-1f08-4118-7db8173f392b",
+    "Name": "Vegane Pizza Margherita",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "c14b4bb6-49cf-4af4-1d9b-e375d82da7f1",
+    "Name": "Coq au vin",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4524352,
+    "Location": "Mensa",
+    "Price": 3.30
   }
 ]
