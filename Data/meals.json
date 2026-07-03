@@ -60865,5 +60865,68 @@
     "AllergensAndAdditives": 4524352,
     "Location": "Mensa",
     "Price": 3.30
+  },
+  {
+    "Hash": "59c043d6-dd47-fa8f-f086-68fcb4976926",
+    "Name": "Vegane Pizza Margherita",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "e4cfcf20-96a9-f896-d949-55d641358ccc",
+    "Name": "Rote Bulgur-Gem\u00FCsepfanne mit einer Joghurt-Minzsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "26a84ad2-f9b9-3dcd-a093-7f16865d3db4",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "b24feebd-d6ff-1e70-5ced-676a7b9688a5",
+    "Name": "Gebackener Seelachs mit einer Zitronenecke",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "11d0fee2-a170-9a60-5cf7-b5180df2fbb8",
+    "Name": "Vegane Pizza Margherita und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "d29974af-c6e0-1765-7493-d5ad26358720",
+    "Name": "Beilage Milchreis",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "46e91280-26a7-acbd-fdb7-b5c1558e7298",
+    "Name": "Classic Cheeseburger dazu Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16795204,
+    "Location": "Mensa",
+    "Price": 6.40
   }
 ]
