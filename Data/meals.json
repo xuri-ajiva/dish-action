@@ -61243,5 +61243,14 @@
     "AllergensAndAdditives": 151063372,
     "Location": "Mensa",
     "Price": 3.70
+  },
+  {
+    "Hash": "2722486d-9edb-f4fb-af02-fedb396a8324",
+    "Name": "Polentacremesuppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 96,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
