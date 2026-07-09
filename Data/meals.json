@@ -61252,5 +61252,32 @@
     "AllergensAndAdditives": 96,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "a83696af-c404-46fe-9c05-5082ba86fa5d",
+    "Name": "Chicken Tikka Massala mit Basmati Reis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 32832,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "fad7a9c7-8c41-f770-f4d6-81000a79ad47",
+    "Name": "Tofusteak Kimchi s\u00FC\u00DFe-scharfe Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "3a03a58b-c34a-f09d-cd70-a72f3ba51098",
+    "Name": "Chicken Tikka Massala mit Basmati Reis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 32832,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
   }
 ]
