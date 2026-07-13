@@ -61693,5 +61693,41 @@
     "AllergensAndAdditives": 16777804,
     "Location": "Mensa",
     "Price": 3.70
+  },
+  {
+    "Hash": "752498bb-7a81-66cb-cff2-5afbc268daf9",
+    "Name": "WM BBQ Hacksteak",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155189540,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "1a737f4b-dd2d-2070-6af9-5e2a76687c3d",
+    "Name": "WM Pulled Pork Burger mit Cole Slaw und Barbecuesauce dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155258725,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "cd402f6d-c7a0-5b2b-8274-b5281cc529ac",
+    "Name": "WM BBQ Hacksteak",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155189540,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "83897072-2f91-dd16-7637-fa16225b4bb3",
+    "Name": "WM Pulled Pork Burger mit Cole Slaw und Barbecuesauce dazu Pommes Frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 155258725,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.70
   }
 ]
