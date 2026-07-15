@@ -61729,5 +61729,41 @@
     "AllergensAndAdditives": 155258725,
     "Location": "Otto-Berndt-Halle",
     "Price": 5.70
+  },
+  {
+    "Hash": "6cfe6ce9-df9c-e87b-dad5-e4ff4dc7d2e2",
+    "Name": "Dinkelreisrisotto mit Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33818688,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "2f5fd6ca-744b-53b2-64fe-9aaed80c196f",
+    "Name": "Dinkelreisrisotto mit Spargel, Hartk\u00E4se und Fr\u00FChlingszwiebeln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 33818688,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "8eae3a56-5e4a-b76e-6297-8e073842f65d",
+    "Name": "Gebackenes Schollenfilet mit Kr\u00E4uterdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "e2bb9539-4457-89fc-d529-c999ca2dc427",
+    "Name": "Chia Pudding mit Himbeeren im Glas",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.30
   }
 ]
