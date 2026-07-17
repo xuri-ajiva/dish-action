@@ -61765,5 +61765,32 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.30
+  },
+  {
+    "Hash": "ff1cf64e-2b91-6d1b-40f5-f4810f2984da",
+    "Name": "Djuvec-Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 33554432,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "f6f7da22-4aa5-3b6c-4d9d-45d2b66b9a16",
+    "Name": "H\u00E4hnchenbrustfilet paniert mit einer Zitronenecke",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "ec222931-faac-2e68-12df-f770d7586d27",
+    "Name": "Seelachsfilet gebacken mit Kr\u00E4uterdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777288,
+    "Location": "Mensa",
+    "Price": 3.00
   }
 ]
