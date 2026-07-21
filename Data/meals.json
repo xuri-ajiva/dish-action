@@ -62152,5 +62152,14 @@
     "AllergensAndAdditives": 18899008,
     "Location": "Mensa",
     "Price": 4.10
+  },
+  {
+    "Hash": "b3f73bde-2b07-5bf2-9cdb-1328f15fba6e",
+    "Name": "Currywurst aus Schwein mit Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Mensa",
+    "Price": 4.30
   }
 ]
