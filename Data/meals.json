@@ -62161,5 +62161,77 @@
     "AllergensAndAdditives": 6389792,
     "Location": "Mensa",
     "Price": 4.30
+  },
+  {
+    "Hash": "4aebb4ab-08b9-de84-7e6d-a2e5ebc91cbe",
+    "Name": "Gebrannte Melanzani mit Hummus  und Brot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83887136,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "38c8d5a9-d908-2ab8-8dfe-a9aac20bb3be",
+    "Name": "Gegrillter Schweinebauch Kimchi s\u00FC\u00DF-scharfe Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 6.20
+  },
+  {
+    "Hash": "28bdbfdd-088e-5152-10f1-d0f7940d9ba5",
+    "Name": "Risotto mit Zucchini und Ricotta",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "5c5d434b-36d4-c718-883a-382390ac421c",
+    "Name": "Gegrillter Schweinebauch Kimchi s\u00FC\u00DF-scharfe Sauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.20
+  },
+  {
+    "Hash": "9ec978dd-7e53-1f16-0e8d-773352a7e75e",
+    "Name": "Bolognese Hausgemachte Pasta",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "9debd68e-5127-c05a-3ef7-de23c277b3c1",
+    "Name": "Germkn\u00F6del, gef\u00FCllt mit Pflaumenmus dazu Vanillesauce  und Mohn",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "6af52685-77e4-829d-f7f6-0064e1b7f8d8",
+    "Name": "Spicy Chicken Wings dazu Barbecuesauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155190048,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "3d533b9b-61d2-0d8b-33f5-218fc2f4db7b",
+    "Name": "Currywurst vom Schwein mit Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 23167008,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
