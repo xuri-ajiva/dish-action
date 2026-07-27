@@ -62467,5 +62467,14 @@
     "AllergensAndAdditives": 157303040,
     "Location": "Mensa",
     "Price": 4.90
+  },
+  {
+    "Hash": "d3fb64be-a6fa-1aef-9ed3-4ab233cce2cc",
+    "Name": "Currywurst aus Rindswurst mit Pommes",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 6389792,
+    "Location": "Mensa",
+    "Price": 4.90
   }
 ]
