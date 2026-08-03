@@ -62773,5 +62773,14 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 4.00
+  },
+  {
+    "Hash": "68be882d-67b5-dbb4-c083-75b6a3e2ee27",
+    "Name": "Gem\u00FCsecouscous mit Tofu, Backpflaumen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810016,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
   }
 ]
