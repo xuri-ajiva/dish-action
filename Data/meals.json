@@ -62782,5 +62782,14 @@
     "AllergensAndAdditives": 16810016,
     "Location": "Otto-Berndt-Halle",
     "Price": 3.50
+  },
+  {
+    "Hash": "4691e74a-a353-0043-0200-3f9cf512ffe0",
+    "Name": "Tomaten-Chili-Knoblauch-Nudel mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 524320,
+    "Location": "Mensa",
+    "Price": 2.70
   }
 ]
