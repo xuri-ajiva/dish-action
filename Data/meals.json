@@ -63376,5 +63376,14 @@
     "AllergensAndAdditives": 16777248,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "adf94955-5daa-9a00-3935-8091061fd11e",
+    "Name": "Tintenfischringe mit Knoblauchdip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
   }
 ]
