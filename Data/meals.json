@@ -63385,5 +63385,311 @@
     "AllergensAndAdditives": 18899008,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.10
+  },
+  {
+    "Hash": "360dfc6a-743c-da8b-841b-ad0d2d7c1507",
+    "Name": "Vegane Pizza Margherita",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "5e551041-2293-092a-8102-12ca8f4c84b9",
+    "Name": "Pizza mit Champignons und Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "38093bcd-129f-0ffa-a864-db395b087ebe",
+    "Name": "Pollo alla Cacciatora",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 854016,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "e70f82a5-04d1-95e9-c66c-1cafa8dc5de3",
+    "Name": "Fattoush, levantinischer Brotsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83935264,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "a4532ed0-1129-3b53-dff3-a9d1cb534fcc",
+    "Name": "Paniertes Schnitzel mit K\u00E4sesauce mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Mensa",
+    "Price": 5.50
+  },
+  {
+    "Hash": "df2e722c-d043-594a-bdc4-c94f813946ef",
+    "Name": "Mujaddara - Linsen-Reispfanne mit Sojajoghurt-Petersilien Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "1957fb29-c847-d3c1-acc7-50105a5e64f4",
+    "Name": "\u0027\u00C4ppler Burger\u0027 Bun, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se dazu Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "2cc09285-8d61-78fa-e0da-947ca18d768f",
+    "Name": "Moussaka mit Rinderhackfleisch Bechamelsauce",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "7f1ff332-72ed-c4e6-1787-56d93920fc05",
+    "Name": "Pasta Piementos de Patron Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844800,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "5fc97b20-a3cb-d394-33ba-4523f817028a",
+    "Name": "Bowl mit Wildlachs Ratatouille, Linsen, Dinkel Reis Ahorn Sirup",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 33554952,
+    "Location": "Mensa",
+    "Price": 6.90
+  },
+  {
+    "Hash": "47296f4b-95de-4da9-4970-a9b07f52c637",
+    "Name": "Vegane Pizza Margherita und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "8c7fd243-f424-5cc2-afe8-04ab1d1710d4",
+    "Name": "Pizza Verdure mit pflanzlichem K\u00E4se, Paprika, Aubergine und Zucchini und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.00
+  },
+  {
+    "Hash": "af08683f-733a-8b3b-6385-f424f22f7aa8",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "2343907d-d96d-d2a8-3ec4-3a052a259e74",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.10
+  },
+  {
+    "Hash": "c851b824-cd95-39e3-24d4-1da9b10e1a62",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "f9af604e-942a-cbd9-0237-3f4d593435ca",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4445995076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "8c39bcb4-4c24-2e56-0209-d36603e0e767",
+    "Name": "Pizza mit Champignons und Tomatensauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "97c525bc-69f4-0c86-35cd-f04316ab0e41",
+    "Name": "Pollo alla Cacciatora",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 854016,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "9e5d4c16-c72d-19ad-82a1-6e6715577cba",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 181280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "bf2949e7-9d73-7b7a-c914-26e3fa67dc2a",
+    "Name": "WOK Orange-Ingwer mit H\u00E4hnchen dazu Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 181280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "e8a56511-d60d-3a30-2a13-2cf5fac6b20b",
+    "Name": "Fattoush, levantinischer Brotsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83935264,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "e2cd9202-58ce-f45b-73f3-258a3a3a0050",
+    "Name": "Paniertes Schnitzel mit K\u00E4sesauce mit einer Zitronenecke",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 150995268,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.50
+  },
+  {
+    "Hash": "5b04a05e-1962-94f7-cd47-1e7130941ea2",
+    "Name": "Mujaddara - Linsen-Reispfanne mit Sojajoghurt-Petersilien Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "8e090dec-757b-56c4-4afd-0fc61d46b134",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "bedb6eee-d2b3-29a1-20bc-c689a4061ac9",
+    "Name": "\u0027\u00C4ppler Burger\u0027 Bun, Rindfleisch, \u00C4pfel, Preiselbeeren, K\u00E4se dazu Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16778820,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "6df38a9e-4744-9826-83c8-5194f6bee0a8",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
+  },
+  {
+    "Hash": "bbb31f5f-fc27-89b0-a627-d26afc741891",
+    "Name": "Moussaka mit Rinderhackfleisch Bechamelsauce",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.90
+  },
+  {
+    "Hash": "e3616f58-5f9a-fe10-e645-62a1c1f977b6",
+    "Name": "Pasta Piementos de Patron Hausgemachte Pasta",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16844800,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "d4bc6250-e16c-162d-39ae-5317903b9d2f",
+    "Name": "Bowl mit Wildlachs Ratatouille, Linsen, Dinkel Reis Ahorn Sirup",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 33554952,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.90
+  },
+  {
+    "Hash": "ebc6bd95-44cf-97af-a738-dea47b907a17",
+    "Name": "Panang Curry Bohnen | Paprika | Sojasauce | Kokosmilch | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "8cbd9ccc-76e9-a90d-863f-cd71a01ae05f",
+    "Name": "Chow Mein Noodles Tofu | Paprika | Erbsen | Karotten | Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "d63423ba-5fe2-a354-d1e5-d7d1a9eb1626",
+    "Name": "Putenbrust Tomate | Mozzarella | Pommes frites",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 7.10
+  },
+  {
+    "Hash": "3100935a-015b-896c-06be-14e8eb1d3c61",
+    "Name": "Mejadra-Linsen-Reisgericht Linsen | Mandeln | Basmatireis | Joghurtdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648192,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "faac093c-82c0-991b-3f14-48421fbf434d",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 7.50
   }
 ]
