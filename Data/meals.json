@@ -63691,5 +63691,50 @@
     "AllergensAndAdditives": 492932932,
     "Location": "Mensa",
     "Price": 7.50
+  },
+  {
+    "Hash": "fecc10c0-36e9-59b7-bb37-7d1c6a1eba8c",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "80773a6c-d864-3c0e-d0d3-5ffcbfcd9f77",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "2a5a0790-cb6d-5bde-a000-e26295decd9a",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "4a047f50-97a2-cffa-7270-4670d69eacce",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1569,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "fa3e14ac-03dd-9387-8b68-01cb4e686341",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.30
   }
 ]
