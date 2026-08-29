@@ -63736,5 +63736,176 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Otto-Berndt-Halle",
     "Price": 5.30
+  },
+  {
+    "Hash": "cf31dfa8-ff0b-c133-ba79-9352db36d39c",
+    "Name": "Soja-Gyros mit Tsatsiki Krautsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67616,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "7e591639-1039-1035-f4f0-368393254c5b",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Bechamelsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "7b57309a-b9da-dcb8-d32f-ca48e255072b",
+    "Name": "Zitronen-H\u00E4hnchenbrust mit Paprika-Walnuss Dip dazu scharfe R\u00F6stkartoffeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 2147582080,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "4aadb44e-f6bb-6150-3576-6c25a4032c9d",
+    "Name": "Veganes \u0027Jambalaya\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777504,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "729c34de-6dff-2514-2eb6-5718da9c614d",
+    "Name": "Tofusteak Kimchi s\u00FC\u00DFe-scharfe Sauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "3c5a4838-c7fc-da4c-156e-e157213a5456",
+    "Name": "Chicken Tikka Massala mit Basmati Reis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 32832,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "ee3de952-2ed4-5888-c3a5-69d375ba3138",
+    "Name": "Gegrillter Schweinekamm mit Honig-Senfsauce und Cole Slaw",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17107556,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "cb9f7b6a-b1d4-a3de-5039-33c417462bf5",
+    "Name": "WM Veganer Caesar Salat mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4513155872,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "994dc2f0-a43b-3f57-3465-44ccba47d851",
+    "Name": "Soja-Gyros mit Tsatsiki Krautsalat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 67616,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "ca4d817c-e482-8e9c-8015-d32a0945ba2d",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Bechamelsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17041472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "6405ec6d-1e2e-60de-c2ec-1f2fbf45f32a",
+    "Name": "Zitronen-H\u00E4hnchenbrust mit Paprika-Walnuss Dip dazu scharfe R\u00F6stkartoffeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 2147582080,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
+  },
+  {
+    "Hash": "5fa8d217-7188-c8a5-534e-adc130b51ff7",
+    "Name": "Veganes \u0027Jambalaya\u0027",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777504,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "754e7c2c-3485-096c-9d92-6c282c5a21b0",
+    "Name": "Chicken Tikka Massala mit Basmati Reis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 32832,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.00
+  },
+  {
+    "Hash": "dbaa5a90-2cdc-f010-087a-278b38306759",
+    "Name": "Gegrillter Schweinekamm mit Honig-Senfsauce und Cole Slaw",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17107556,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "1e0a176c-b90b-70fc-dbdc-3157fd800e53",
+    "Name": "WM Veganer Caesar Salat mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4513155872,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "d90fed4a-ecbe-ab41-6351-f8ba2166a676",
+    "Name": "Crunchy Chicken Burger Sesambr\u00F6tchen | Gurken | Mayonnaise | Cheddar | Pommes frites",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155207492,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "675a0e0d-9a35-a3e4-8c4d-fe463c51914f",
+    "Name": "Fried Rice Reis | ger\u00E4ucherter Tofu | Erdn\u00FCsse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16811056,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "15702243-dbc1-e841-e661-2a5ca806ee0d",
+    "Name": "Southwest roasted Chicken Sandwich Paprika-Mayonnaise | Zwiebelringe",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16845381,
+    "Location": "Mensa",
+    "Price": 7.30
+  },
+  {
+    "Hash": "929ff413-6c43-9913-82a5-484ec3f802da",
+    "Name": "\u0027Feiger Lui Burger\u0027 Rind | Feigen | Brie | Rucola",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 17041988,
+    "Location": "Mensa",
+    "Price": 7.40
   }
 ]
