@@ -63907,5 +63907,50 @@
     "AllergensAndAdditives": 17041988,
     "Location": "Mensa",
     "Price": 7.40
+  },
+  {
+    "Hash": "e8547b46-22e4-dc77-0bfb-152d74d7f18d",
+    "Name": "Pizza Verdure mit Paprika, Aubergine und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "185494a0-b487-9946-801b-9a2827ce7e58",
+    "Name": "Pizza Verdure mit pflanzlichem K\u00E4se, Paprika, Aubergine und Zucchini und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151011328,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "ea36a9cd-7ddb-2b34-5a24-0b192b0c1f46",
+    "Name": "Pizza Verdure mit Mozzarella, Paprika, Aubergine und Zucchini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "05720aab-6175-0bc7-7dd3-c3a1f36f2617",
+    "Name": "Pizza Mozzarella-Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 4445995076,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "72734e46-fa91-d9a0-a14f-f3590a087f6f",
+    "Name": "Pizza Kebap mit H\u00E4hnchen Kebap und K\u00E4se",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.00
   }
 ]
