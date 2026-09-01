@@ -63952,5 +63952,23 @@
     "AllergensAndAdditives": 150995524,
     "Location": "Otto-Berndt-Halle",
     "Price": 5.00
+  },
+  {
+    "Hash": "67f3d384-ebbf-d313-2277-e55876e1033e",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "d3b2c80f-8c4d-2781-9e25-c7cd4f22c438",
+    "Name": "Pizza Kebap mit H\u00E4hnchen Kebap und K\u00E4se",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Mensa",
+    "Price": 5.00
   }
 ]
