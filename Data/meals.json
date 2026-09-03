@@ -63970,5 +63970,50 @@
     "AllergensAndAdditives": 150995524,
     "Location": "Mensa",
     "Price": 5.00
+  },
+  {
+    "Hash": "10eae9c1-448a-4090-7991-b3988182d0d7",
+    "Name": "Rahm Wurzelgem\u00FCse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16673,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "d2d54e47-c7d3-592c-f5a4-4bbf7cf39bf0",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ca5b3c6a-1a67-d392-233b-93cd412d2340",
+    "Name": "Veganer Caesar Salat mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4513155872,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "2091f8b3-6166-3b16-743e-58f0bd78367f",
+    "Name": "Pizza Kebap H\u00E4hnchen Kebap | K\u00E4se",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "3c9a1c96-e9fc-cd88-3b7b-2f3e777a18a4",
+    "Name": "Scharfes Soja Pak Choi | Wasabi | Shii Take | Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16794144,
+    "Location": "Mensa",
+    "Price": 5.70
   }
 ]
