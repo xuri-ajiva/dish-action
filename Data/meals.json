@@ -64015,5 +64015,131 @@
     "AllergensAndAdditives": 16794144,
     "Location": "Mensa",
     "Price": 5.70
+  },
+  {
+    "Hash": "7d933e35-0bda-3d1a-7dc0-a4b6540088d7",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "0350fb73-a3e8-fc48-fb18-7e2c71d29413",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "370f03a2-4f18-3d0c-dedd-6055c1debaa8",
+    "Name": "Barbecue Bowl mit Sojastreifen und Limettenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "e46fc932-38fd-9e91-e6ec-ea347d35745e",
+    "Name": "Kritharaki-Hirtenk\u00E4se Pfanne mit Spinat",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16844864,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "c28ce105-826d-41e1-87a8-1e3bde6d0020",
+    "Name": "Hackbraten mit Champignonrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151259717,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "d6f1d0a8-9e03-f6d4-5b03-bd7d6bfe1a4d",
+    "Name": "Barbecue Bowl mit Sojastreifen und Limettenreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "2b094bb7-2524-d747-1781-f2e8f02ebb80",
+    "Name": "Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "a5640805-a953-6b6c-0996-33edfa6dd450",
+    "Name": "Chow Mein Noodles Tofu | Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "9fc94463-cb36-8f60-b043-fd7640ca791c",
+    "Name": "Hackfleisch-Gem\u00FCsepfanne Rindfleisch | Paprika | Aubergine | Tomaten | Couscous",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 5.60
+  },
+  {
+    "Hash": "7ae0fe3a-734d-7e7c-dd57-0155ab17539b",
+    "Name": "Ramen Mie Nudeln | Pak Choi | Karotten | Pilze | Sesam",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16958500,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "892c0e19-283c-5d52-ea15-017a2e022900",
+    "Name": "Gegrillte H\u00E4hnchenbrust Pommes frites | Kr\u00E4uterbutter",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 134218048,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "5d24c313-c650-b1b5-174b-2f12ee7b3d43",
+    "Name": "Wokpfanne Brokkoli | Paprika | Erdnuss | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "13af6e9b-8c84-e142-7be3-04477c87d529",
+    "Name": "Currywurst Rind | Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 140607744,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "9ce1026c-f2b7-38b0-1247-36e1dc34a527",
+    "Name": "Jerk Chicken gegrillter Kartoffelsalat",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16845600,
+    "Location": "Mensa",
+    "Price": 4.90
   }
 ]
