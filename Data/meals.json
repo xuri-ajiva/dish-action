@@ -64141,5 +64141,131 @@
     "AllergensAndAdditives": 16845600,
     "Location": "Mensa",
     "Price": 4.90
+  },
+  {
+    "Hash": "b2b018bd-35c9-dcbc-3c24-14162af97de0",
+    "Name": "Gebrannte Melanzani Aubergine mit Hummus  und Fladenbrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83887136,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "142ada18-ceb1-dbad-f1ab-e8a5c245314e",
+    "Name": "Risotto mit Zucchini und Ricotta",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 264256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "d50922fc-5dd2-3954-56e7-7a6767e42fd4",
+    "Name": "Ger\u00F6steter Blumenkohl mit Butter, Panko und Hartk\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842816,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "2e2fa40d-dde5-c4d7-9c1d-79cdea647f93",
+    "Name": "Rotbarsch gebraten Limetten-Knoblauch Dip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777804,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "37cf2b62-418e-bc48-b3f4-e05c8af63869",
+    "Name": "Gebrannte Melanzani Aubergine mit Hummus  und Fladenbrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83887136,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "02965c97-ef17-7f9d-3259-bd4689e38032",
+    "Name": "Ger\u00F6steter Blumenkohl mit Butter, Panko und Hartk\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842816,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "0340d634-d50c-b119-7d80-60d31e0b4605",
+    "Name": "Rotbarsch gebraten Limetten-Knoblauch Dip",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777804,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "bd4de8db-466b-a4b4-7b31-a31e61cf3007",
+    "Name": "Dessert Apfelschnee Sahne | Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 65600,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "9454939d-d3e9-53ad-5f19-f295336fe474",
+    "Name": "Crunchy Chicken Burger Sesambr\u00F6tchen | Gurken | Mayonnaise | Cheddar | Pommes frites",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155207492,
+    "Location": "Mensa",
+    "Price": 5.80
+  },
+  {
+    "Hash": "fca03037-411b-2e9e-ad77-acfe58e9b87b",
+    "Name": "Thai Curry Karotten | Bohnen | Champignons | Bambussprossen | Sojasauce | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "f10f2521-9298-077f-817a-df0f621bac62",
+    "Name": "Teriyaki Tempeh Asia cole slaw | Pommes",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778272,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "fc43ff52-dedf-b88e-8502-5a9edb243234",
+    "Name": "Tomateneintopf Bohnen | Karotten | Sellerie | Pizzabrot",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150995200,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "157acf05-461b-ecbb-0670-087bde1e70ff",
+    "Name": "Tabouleh mit ger\u00E4uchertem Tofu Bulgur | Petersilie | Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "d04ad465-9a97-4638-dfad-8005838a6c95",
+    "Name": "Chow Mein Noodles Paprika | Erbsen | Karotten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16957472,
+    "Location": "Mensa",
+    "Price": 3.10
   }
 ]
