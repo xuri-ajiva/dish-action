@@ -64267,5 +64267,23 @@
     "AllergensAndAdditives": 16957472,
     "Location": "Mensa",
     "Price": 3.10
+  },
+  {
+    "Hash": "8d9d155b-9d51-5af6-5b1e-e9d5922464c0",
+    "Name": "Paprika-Zucchini Gem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "8c7197ec-00f2-863d-2d4b-a8b7620684aa",
+    "Name": "Paniertes Schnitzel mit geschm\u00E4lzten Zwiebeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
   }
 ]
