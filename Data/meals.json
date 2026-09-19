@@ -64303,5 +64303,158 @@
     "AllergensAndAdditives": 32,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "5fc4dac9-b963-99df-e00c-ae036869f11b",
+    "Name": "Oreo-Cake-Quark-Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "83fc66d2-47b4-6422-4628-b7287837a2d0",
+    "Name": "Paniertes Schnitzel mit gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777796,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "cd524b98-53c0-51d4-f52a-d819c0d799c4",
+    "Name": "Classic Cheeseburger dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16795204,
+    "Location": "Mensa",
+    "Price": 7.40
+  },
+  {
+    "Hash": "80953e46-2b99-7bd4-4099-f16bbfc1b1e6",
+    "Name": "Seelachs gebraten mit Linsen-Reissalat",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 6.20
+  },
+  {
+    "Hash": "479e6776-5d3e-354b-afcd-6baaa05bf70a",
+    "Name": "Paniertes Schnitzel mit gr\u00FCner So\u00DFe",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777796,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.70
+  },
+  {
+    "Hash": "97be2d6b-abe0-7121-5623-407d9b994d8c",
+    "Name": "Classic Cheeseburger dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16795204,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 7.40
+  },
+  {
+    "Hash": "c6d7a9bb-c04f-a904-8411-3c786c0ad432",
+    "Name": "J\u00E4gergulasch mit frischen Champignons",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "406fd124-b6dd-11ca-8ae9-b1d42d28c22f",
+    "Name": "Seelachs gebraten mit Linsen-Reissalat",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.20
+  },
+  {
+    "Hash": "7997aea6-51d5-2d69-71e2-1a21613a90ca",
+    "Name": "Dessert Vegane Mousse au chocolat",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "b399c755-b799-dfde-057f-919585417dff",
+    "Name": "Cheeseburger Rindfleisch | Tomate | Gurke | Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Mensa",
+    "Price": 8.10
+  },
+  {
+    "Hash": "2aff35d9-02d6-120e-3df5-ed88610f4c1d",
+    "Name": "Chow Mein Noodles Tofu | Paprika | Erbsen | Karotten | Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16958496,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "0cc517b4-edc8-106b-896e-2b3591a6ceae",
+    "Name": "Currywurst Schwein | Wedges",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 157303040,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "7e6b1f21-3351-1c19-20a7-952cc67a85e4",
+    "Name": "Mejadra-Linsen-Reisgericht Linsen | Mandeln | Basmatireis | Joghurtdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 553648192,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "9ccdd73c-6924-411c-3eaf-fc81b9be888e",
+    "Name": "Pulled Pork Sandwich Coleslaw | South Carolina Mustard Sauce | Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 492932932,
+    "Location": "Mensa",
+    "Price": 7.80
+  },
+  {
+    "Hash": "fb8c5028-5324-a96d-7ea3-498e7401a1c1",
+    "Name": "Beilage Kartoffelsalat Kartoffeln | Lauch | Zwiebeln | Senf",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 68096,
+    "Location": "Mensa",
+    "Price": 1.90
+  },
+  {
+    "Hash": "6fc8948a-45ac-f995-2efb-94fd6163f5dc",
+    "Name": "Kichererbsen-Auberginen Pfanne Tomate | Paprika | Couscous",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "754b751b-c02d-7a70-fb8f-a005ba56945e",
+    "Name": "H\u00E4hnchenkeule Kartoffelsalat | Honig-Senf Sauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 68096,
+    "Location": "Mensa",
+    "Price": 5.40
   }
 ]
