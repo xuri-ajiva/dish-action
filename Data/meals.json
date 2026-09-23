@@ -64456,5 +64456,41 @@
     "AllergensAndAdditives": 68096,
     "Location": "Mensa",
     "Price": 5.40
+  },
+  {
+    "Hash": "ec10bd9f-abd4-fc3e-1b2a-3c1abaea01e7",
+    "Name": "Chili sin carne mit Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "7e45cad1-5005-7caa-635b-52c9c985c0db",
+    "Name": "Regionaltag Kartoffel-Kichererbsenpfanne mit Bio Kartoffeln, Kicherbsen, Mangold und Kr\u00E4uterquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "fba369fa-e94a-2970-1278-50c789a43313",
+    "Name": "Regionaltag Kartoffel-Kichererbsenpfanne mit Bio Kartoffeln, Kichererbsen, Mangold und Kr\u00E4uterquark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "7033ff16-b899-d872-ecf6-ecdb0c4d583c",
+    "Name": "Haselnusspudding",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1073741888,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.00
   }
 ]
