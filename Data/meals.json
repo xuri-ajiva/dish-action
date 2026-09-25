@@ -64492,5 +64492,14 @@
     "AllergensAndAdditives": 1073741888,
     "Location": "Otto-Berndt-Halle",
     "Price": 1.00
+  },
+  {
+    "Hash": "d5c09a6e-60ec-c9a4-d96a-f3082f71675b",
+    "Name": "Beilage Cole slaw Wei\u00DFkraut | saure Sahne | Karotten | Essig",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68164,
+    "Location": "Mensa",
+    "Price": 1.50
   }
 ]
