@@ -64501,5 +64501,122 @@
     "AllergensAndAdditives": 68164,
     "Location": "Mensa",
     "Price": 1.50
+  },
+  {
+    "Hash": "81be0dcf-a832-8b8f-af1d-8d2dcb5885c8",
+    "Name": "Hausgemachte Pasta  mit Basilikum Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "00a85b8a-f2d6-b630-f2fc-298683aa7f2f",
+    "Name": "Tomaten-Chili-Knoblauch-Nudel mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 524320,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "15ce96f9-da9e-d7c7-dd4c-ea49f3f7e04b",
+    "Name": "Ungarischer Gulaschtopf mit Kartoffeln, Karotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "f696805e-6d2c-8c70-4cd7-fecfeb4d9aaa",
+    "Name": "Vegane Poke Bowl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778288,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "d10e0fb8-e92e-0e72-8a4f-7ff171c8d6ee",
+    "Name": "Hausgemachte Pasta  mit Basilikum Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1090519104,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "94885add-666b-a6e6-9460-d82d1e9e5814",
+    "Name": "Tomaten-Chili-Knoblauch-Nudel mit Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 524320,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "91e66e18-b002-ae14-8d1c-a402acddf71c",
+    "Name": "Ungarischer Gulaschtopf mit Kartoffeln, Karotten und Paprika",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.70
+  },
+  {
+    "Hash": "7b8310b3-2527-7fb5-fee6-3adca42b9041",
+    "Name": "Vegane Poke Bowl",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16778288,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "1621b872-4fe3-6733-8b6e-c6417ca36d3a",
+    "Name": "Fried Rice Reis | ger\u00E4ucherter Tofu | Erdn\u00FCsse",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16811056,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "2711f846-e198-35ee-d5dd-8afe3d99d625",
+    "Name": "Briam Zucchini | Aubergine | Kartoffel | Hirtenk\u00E4se",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "746d49c7-b83f-f045-d897-fae8daecd12c",
+    "Name": "Woknudeln Paprika | Aubergine | Spinat | Koriander | Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "d039ede1-e90d-fac9-a3cc-3c40e8c16f67",
+    "Name": "S\u00FC\u00DFkartoffel-Kumpir Camembert | getrocknete Tomaten | Champignons | Rucola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 17156160,
+    "Location": "Mensa",
+    "Price": 5.40
+  },
+  {
+    "Hash": "59d18b96-a01c-ef9e-b202-0aa1f7f98a2f",
+    "Name": "Rote Beete Curry Kichererbsen | Kokos | Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.80
   }
 ]
