@@ -64618,5 +64618,14 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "e09670e9-550e-7777-d1f8-735bc1352b4c",
+    "Name": "Dessert Milchreis-Tiramisu Apfel | Milch | Sahne | Amarettini",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Mensa",
+    "Price": 2.00
   }
 ]
