@@ -65014,5 +65014,59 @@
     "AllergensAndAdditives": 16777216,
     "Location": "Mensa",
     "Price": 5.30
+  },
+  {
+    "Hash": "6ea94284-dfb9-ae91-4ee4-c39ca40f65a1",
+    "Name": "Pizza Margherita",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "2abe89c8-eed8-34f4-ee69-4f8314ca3334",
+    "Name": "Cordon bleu vom Schwein",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875588,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "4498e26b-8da0-338b-60ad-b81b1c0bc36d",
+    "Name": "Hatuns veganer Lahmacun mit Sonnenblumenhack, Paprika, Tomate und Gurke",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "ab7e5952-1563-6c2b-72fe-16af836c3703",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "fb929ba4-1215-2840-56b4-aed034cadd07",
+    "Name": "Wei\u00DFbiercreme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "2fb9cdee-d699-00aa-b37b-026369274fac",
+    "Name": "Pizza Marinara mit Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 2.10
   }
 ]
