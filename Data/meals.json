@@ -65077,5 +65077,293 @@
     "AllergensAndAdditives": 6389792,
     "Location": "Bistro - Bistro",
     "Price": 4.30
+  },
+  {
+    "Hash": "4b6e6947-0743-be30-285e-cd184444d959",
+    "Name": "Risotto mit Spinat und Gorgonzola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "dfa7e985-8f25-5d61-7121-affa9da1fb11",
+    "Name": "Crunchy Chik\u00B4n Burger mit Criss cuts",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155290372,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "4ba64707-08a3-de19-5d97-09c9443b0d8a",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "5c60df66-f375-e6b9-364a-8b76ea8d04be",
+    "Name": "K\u00FCrbis-Paprika-Rahmgem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 1.10
+  },
+  {
+    "Hash": "357d7bb1-fd69-e853-f2a6-a5fcacc9ba50",
+    "Name": "Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "ff73ddbf-1ba0-2fb5-fc51-fa02137e9c1c",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "c6a6ee7f-b98a-70dc-6641-e1e08e98623d",
+    "Name": "H\u00FCttenburger mit Rindfleisch, R\u00F6sti, Zwiebelmarmelade und K\u00E4se dazu Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16862789,
+    "Location": "Mensa",
+    "Price": 6.30
+  },
+  {
+    "Hash": "e4a328b7-9a93-b87d-cb0c-0847caa0441f",
+    "Name": "Burger mit Linsen-Gem\u00FCsebratling, Salsa und einer pflanzlichen Mayonnaise dazu Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151013920,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "d14e81ae-21c2-0026-f29b-7a04e440ecd9",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "e126ed51-0a6a-c6c7-30d1-33e1b6b53f8d",
+    "Name": "Crunchy Chik\u0027n cheese Burger mit Pommes frites",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 21022276,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "5d3bdbe1-58a7-ba35-ed71-7611cc3465aa",
+    "Name": "Gr\u00FCnkohl-Hanf Burger mit rote Beete Chutney dazu Criss cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16845824,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "b4b01399-350f-2452-80c8-5a30d620a349",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "54ec655d-b1d1-0866-d311-b9b88726f671",
+    "Name": "Gebackene Tintenfischringe dazu Paprika-Zucchini Gem\u00FCse und Tsatsiki",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899008,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "2eeb06d0-7219-7c71-9c31-e7911af64754",
+    "Name": "Risotto mit Spinat und Gorgonzola",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "55a25c31-3e24-94e8-0df3-7ddaba73e43f",
+    "Name": "Crunchy Chik\u00B4n Burger mit Criss cuts",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155290372,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "497005b4-793c-641e-6342-c31367ce8672",
+    "Name": "Hausgemachte Pasta mit einer Sauce Bologneser Art",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "5b27d11f-fbf0-d16d-203e-4b86ffd04a82",
+    "Name": "Bohnengem\u00FCse mit Paprika und Kartoffeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "83661870-d5fb-c582-6408-446a1010d8bb",
+    "Name": "Sahnelinsen auf Sp\u00E4tzle",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "e44f8af9-6556-a350-bd42-d58c1673aff9",
+    "Name": "H\u00FCttenburger mit Rindfleisch, R\u00F6sti, Zwiebelmarmelade und K\u00E4se dazu Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16862789,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.30
+  },
+  {
+    "Hash": "39e1b256-e7f1-51ed-ad31-b5b24cd32f42",
+    "Name": "Burger mit Linsen-Gem\u00FCsebratling, Salsa und einer pflanzlichen Mayonnaise dazu Kartoffelecken",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 151013920,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "eb4a874b-5b59-d3d1-5a3d-8acf1a623174",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.90
+  },
+  {
+    "Hash": "02982362-1d9e-20e7-d638-281e5421905d",
+    "Name": "Erbseneintopf mit einem Paar Wiener W\u00FCrsten",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "6c5fee8d-46ba-1eba-48cd-836a80e7e9ab",
+    "Name": "Chili sin carne mit Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "4cf2d03f-f59d-7845-f272-f8f6a8b2a65e",
+    "Name": "Crunchy Chik\u0027n cheese Burger mit Pommes frites",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 21022276,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "fd1c7b78-3e2d-4b66-4840-3a4fda226169",
+    "Name": "Gr\u00FCnkohl-Hanf Burger mit rote Beete Chutney dazu Criss cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16845824,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d4dc6a40-0791-3919-c55c-22ebbb223db2",
+    "Name": "Germkn\u00F6del mit Vanillesauce  und Mohnstreuseln",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "767907c4-aa59-26aa-de4e-c553c9897aac",
+    "Name": "Gebackene Tintenfischringe dazu Paprika-Zucchini Gem\u00FCse und Tsatsiki",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 18899008,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.00
+  },
+  {
+    "Hash": "e92642b8-6410-a56a-82d3-9f1a4bce4207",
+    "Name": "Crunchy Chik\u00B4n Burger mit Criss cuts",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155290372,
+    "Location": "Mensa",
+    "Price": 5.30
+  },
+  {
+    "Hash": "fa928259-f68b-b543-4b8a-539de53a850c",
+    "Name": "Mini Fr\u00FChlingsrollen mit Chilidip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4194337,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "e325c23d-248d-8dec-4ec4-0ddd0b09df53",
+    "Name": "Hausgemachte Lasagne \u0027Florentin\u0027 mit Spinat und Tomaten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "1372f4e2-599e-9df4-32fe-91b784f6ad37",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "2bbb32a8-cd0e-f98a-d09e-c033d7b35851",
+    "Name": "Fischst\u00E4bchen mit Zitrone",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 3.40
   }
 ]
