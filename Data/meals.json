@@ -65365,5 +65365,23 @@
     "AllergensAndAdditives": 16777224,
     "Location": "Mensa",
     "Price": 3.40
+  },
+  {
+    "Hash": "9cd95d5b-e309-d4bd-915b-01cfffcc6be8",
+    "Name": "Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Reis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Mensa",
+    "Price": 2.80
+  },
+  {
+    "Hash": "e494d08c-2105-e832-8b85-0b40ee367670",
+    "Name": "Mensa Vital Soja-Kokos-Curry mit roter Beete, Champignons und Bohnen dazu Vollkornreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 545,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
   }
 ]
