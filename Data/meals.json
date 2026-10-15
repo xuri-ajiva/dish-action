@@ -65383,5 +65383,41 @@
     "AllergensAndAdditives": 545,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.80
+  },
+  {
+    "Hash": "4815023c-5c8e-a498-3b7d-908911deee4f",
+    "Name": "Gem\u00FCsecreme vegan",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "dc4b39f7-2e71-d8d8-7d69-08f6472b186b",
+    "Name": "R\u00F6sti",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.20
+  },
+  {
+    "Hash": "a6f6294a-bb70-2867-322a-3cc92a90dd2b",
+    "Name": "Veganes Schwammerlragout mit einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84264992,
+    "Location": "Mensa",
+    "Price": 4.30
+  },
+  {
+    "Hash": "ca20d1be-8921-edd2-fd67-7f62b15e7452",
+    "Name": "Crunchy Chik\u00B4n Burger mit Kartoffelecken",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 155290372,
+    "Location": "Mensa",
+    "Price": 4.40
   }
 ]
