@@ -65734,5 +65734,59 @@
     "AllergensAndAdditives": 6389792,
     "Location": "Mensa",
     "Price": 3.80
+  },
+  {
+    "Hash": "09a2576f-55f5-28bc-0d2f-14e320729a50",
+    "Name": "Cake-Quark-Creme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 0.90
+  },
+  {
+    "Hash": "7fb519f5-c679-6fc1-8b92-1e205ac0c65a",
+    "Name": "S\u00FC\u00DFkartoffelpfanne mit Tomaten",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 536938496,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "53c828e0-50c4-8b61-ad1e-787531c82bc9",
+    "Name": "Kirschenmichel dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 1224737860,
+    "Location": "Bistro",
+    "Price": 4.10
+  },
+  {
+    "Hash": "21d86426-c123-b506-f736-39726222611e",
+    "Name": "Bagel Burger dazu Criss cuts",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150996581,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.60
+  },
+  {
+    "Hash": "ac4a4fa4-9732-d523-cc66-e4647f2f8286",
+    "Name": "Gr\u00FCnkohl-Hanf Burger mit rote Beete Chutney dazu Pommes frites",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16845824,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "b59a691a-28b1-359b-1c31-4e9be6e6fba6",
+    "Name": "Fr\u00FCchtequark",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 0.90
   }
 ]
