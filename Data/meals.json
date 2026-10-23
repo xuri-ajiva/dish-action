@@ -65815,5 +65815,50 @@
     "AllergensAndAdditives": 4292640,
     "Location": "Otto-Berndt-Halle",
     "Price": 4.50
+  },
+  {
+    "Hash": "ae8cafc1-5154-b4b5-28ec-3703f7b74dd5",
+    "Name": "Kokos-S\u00FC\u00DFkartoffel Suppe",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "5d0a123b-70bd-4ee0-18a6-0d7a808fdcfb",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777504,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "ab0db9f8-0f46-6556-6973-1b4622cad82a",
+    "Name": "Karth\u00E4user Kl\u00F6\u00DFe dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "49b51c69-e8d4-1305-091d-657ea1d68c0f",
+    "Name": "Hausgemachte Pasta mit Sonnenblumenbolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777504,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "b31d2494-407b-ec71-25a1-d73ecd8e5624",
+    "Name": "Gebackener Seelachs mit Remoulade",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 151063116,
+    "Location": "Mensa",
+    "Price": 2.80
   }
 ]
