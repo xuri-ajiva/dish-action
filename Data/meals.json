@@ -65860,5 +65860,311 @@
     "AllergensAndAdditives": 151063116,
     "Location": "Mensa",
     "Price": 2.80
+  },
+  {
+    "Hash": "7b2ab97a-4345-da13-9fcd-3a7e70ddeced",
+    "Name": "Mensa Vital Scharfes K\u00FCrbisgem\u00FCse mit Linsen und Rucola",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "59e50add-dc63-5092-33ae-b0c1c3758496",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis Soja-Bolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "c826b55f-a14a-7852-e3c7-99276d411834",
+    "Name": "H\u00E4hnchenbrustfilet mit einer scharfen Pflaumensauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 49152,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "912fbb5d-5d9d-8cc3-e5f1-3cbeef6ab12b",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis-Carbonara",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "66a7955d-2252-bb53-aca4-4c55b284cb79",
+    "Name": "K\u00FCrbis Creme mit K\u00FCrbischips",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "79638a8d-8928-d527-3f67-3d5db73a3e3c",
+    "Name": "WOK H\u00E4hnchenbrust Pad Thai mit Reisnudeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "90cedc2d-ab65-1d21-f5f6-90a847244ab5",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "6c7f2e0c-ff3d-2e77-50e9-c2198cec3de4",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218104864,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "2b8e4943-0aba-cae2-747c-f5e5eb5f9b64",
+    "Name": "Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "1fef278e-f761-43ab-7c9e-a24e8bc52eb7",
+    "Name": "Pfeffergeschnetzeltes aus Soja mit Paprika und Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "f89948d5-8da1-9df2-7710-cba47d39af6d",
+    "Name": "Hausgemachte Kartoffellasagne mit Karotten und Lauch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "c8a3cb10-77da-13cc-4155-e274ffbe194d",
+    "Name": "K\u00FCrbis-Gulasch mit Schupfnudeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 4.00
+  },
+  {
+    "Hash": "9b866946-4309-e466-0965-2df0931abc30",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "c551145a-f1ac-1921-8144-ce3587b5e7c5",
+    "Name": "Gebratener Rotbarsch mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1096,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "d9420714-3292-2e63-6fb6-1b2089684a43",
+    "Name": "Mensa Vital Scharfes K\u00FCrbisgem\u00FCse mit Linsen und Rucola",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "85c7eeff-b458-28a7-16ec-5309a7ffc547",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis Soja-Bolognese",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "d2f80193-75a0-1b4f-618b-b54f0535590e",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4uterdip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "5c7c71ca-c67d-eca5-ac9e-29007c832982",
+    "Name": "H\u00E4hnchenbrustfilet mit einer scharfen Pflaumensauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 49152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "33656c4e-fedf-5cd7-f313-314b145eddca",
+    "Name": "Hausgemachte Pasta mit K\u00FCrbis-Carbonara",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "164cdd5a-473f-f105-83a8-6681ed09fbb3",
+    "Name": "K\u00FCrbis Creme mit K\u00FCrbischips",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "69e8b789-aefa-2292-938c-9c1dde1e17a2",
+    "Name": "Schupfnudeln mit Zimt-Zucker und Apfelmus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842752,
+    "Location": "Bistro",
+    "Price": 2.70
+  },
+  {
+    "Hash": "5049c37e-13eb-0831-2138-b24e9b808501",
+    "Name": "WOK Tofu Pad Thai mit Reisnudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.80
+  },
+  {
+    "Hash": "1fd02e60-dab1-2cd6-4215-a061d8baec65",
+    "Name": "WOK H\u00E4hnchenbrust Pad Thai mit Reisnudeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16810032,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "da8f622c-4c97-7391-3737-7f16c48e0383",
+    "Name": "Kreolisches Chili mit schwarzen Bohnen und Kr\u00E4uterreis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "379499ae-3411-9e5a-acca-b617fa4d3c20",
+    "Name": "Cordon bleu vom Schwein mit Rahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "f156bf66-9173-30a7-0dda-9996db7b9830",
+    "Name": "Cheeseburger dazu Pommes Frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 20989508,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.40
+  },
+  {
+    "Hash": "035811bf-1746-6533-61be-dd1d9e7b53da",
+    "Name": "Germkn\u00F6del gef\u00FCllt mit Pflaumenmus dazu Vanillesauce  und Mohn",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Bistro",
+    "Price": 3.00
+  },
+  {
+    "Hash": "609e5847-c75e-a155-3749-f5350b9c94db",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 218104864,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6df1b4c1-5b63-dc62-def7-581b08910a2b",
+    "Name": "Kohlroulade mit Hackfleischf\u00FCllung und Paprikasauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16449,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "62b6e096-1e79-fa57-0ed8-21229adcbbff",
+    "Name": "Pfeffergeschnetzeltes aus Soja mit Paprika und Champignons",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "23e8b4d3-8386-5bbd-b39a-030eb474164f",
+    "Name": "Hausgemachte Kartoffellasagne mit Karotten und Lauch",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "1f5d8eda-e865-b51e-939d-f0e4e3eab53a",
+    "Name": "K\u00FCrbis-Gulasch mit Schupfnudeln",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.00
+  },
+  {
+    "Hash": "0afd70fc-5c78-5153-f36d-b72af1e9746c",
+    "Name": "Linsenpfanne mit Tomaten, Paprika und Zucchini",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 49152,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "ca40bddc-12a7-c35b-3c83-8b972efe47c3",
+    "Name": "Gebratener Rotbarsch mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1096,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
   }
 ]
