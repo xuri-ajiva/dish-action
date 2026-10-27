@@ -66166,5 +66166,59 @@
     "AllergensAndAdditives": 1096,
     "Location": "Otto-Berndt-Halle",
     "Price": 5.10
+  },
+  {
+    "Hash": "fb249512-194a-f7a6-d7fb-4e06db96eeea",
+    "Name": "Thai Kokoscrme",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "361a32fc-e74c-af50-6331-5d62607358a0",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886080,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "82cf826e-6d49-df0f-9c5b-35668ef7debf",
+    "Name": "Gebratener Rotbarsch mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1096,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "25459716-826d-6fd1-ace3-fa391eae4f7f",
+    "Name": "Thail\u00E4ndische K\u00FCrbissuppe mit Curry und Baguette",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 83886080,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "6e704711-13d5-39ce-54a1-77f419158c27",
+    "Name": "Gebratener Rotbarsch mit K\u00FCrbis-M\u00F6hren-Kartoffelp\u00FCree",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 1096,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "d352ea9d-f5ef-7800-043b-c3ccc943a6b3",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.00
   }
 ]
