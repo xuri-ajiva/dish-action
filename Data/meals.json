@@ -66220,5 +66220,59 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 3.00
+  },
+  {
+    "Hash": "6238a88b-4903-93d7-b2b7-59c14cf73d78",
+    "Name": "Gem\u00FCsecreme vegan",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 288,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "955ff6be-8118-8a68-81f6-37cd3cf6b12e",
+    "Name": "Kartoffelp\u00FCree",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "78f2fa41-55d3-3131-6b1b-bc080afe7ac3",
+    "Name": "K\u00FCrbissuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "f125e562-9636-396b-416f-a79e72d36f0f",
+    "Name": "Pide mit Sonnenblumenhack",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "d9a17cba-b193-a07f-44fa-97ad189c78c6",
+    "Name": "Pide mit Ratatouille",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995008,
+    "Location": "Mensa",
+    "Price": 2.90
+  },
+  {
+    "Hash": "a25de269-3726-fac2-5635-b1b573a5f519",
+    "Name": "Pide mit Rinderhack",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150995200,
+    "Location": "Mensa",
+    "Price": 4.60
   }
 ]
