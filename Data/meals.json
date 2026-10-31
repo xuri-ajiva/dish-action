@@ -66274,5 +66274,203 @@
     "AllergensAndAdditives": 150995200,
     "Location": "Mensa",
     "Price": 4.60
+  },
+  {
+    "Hash": "5d2262a4-58ea-9094-1d6c-dc4f46d5634b",
+    "Name": "Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 3.20
+  },
+  {
+    "Hash": "d887293d-99c5-8c30-bd5d-f7736b82b2d1",
+    "Name": "Wildbratwurst auf Sauerkraut  mit Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2378240,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "eac5cefa-adaf-4dcc-7865-0b62ebf980ce",
+    "Name": "Soja-Gulasch mit frischen Champignons und einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248608,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "087fed83-6d99-1572-8205-79da63f6d6d3",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "43c0bfbb-0468-76a9-8998-13c6bc3bf6b5",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058052,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "c61b6116-8988-1598-180d-fc75070afcbb",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 3.10
+  },
+  {
+    "Hash": "e1cc463f-2ec3-6073-cc56-4f5d1a13de86",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "6785991d-9c36-bb61-7d22-b5e53e8e32ef",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "d5ca2b35-f385-c544-a794-ef2b49a22846",
+    "Name": "Gelbe Linsen mit Kokos-Curry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "b6c4c4de-d05f-d76d-d8bb-088bd1c0d435",
+    "Name": "Ofenkartoffel mit einem Kr\u00E4uterdip und Currygem\u00FCse",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.20
+  },
+  {
+    "Hash": "3068abac-0254-d096-d22d-2fa3090c25ff",
+    "Name": "Wildbratwurst auf Sauerkraut  mit Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2378240,
+    "Location": "Bistro",
+    "Price": 4.70
+  },
+  {
+    "Hash": "b0f71cb2-2e3c-51cf-810d-37780c9ba72b",
+    "Name": "Wildbratwurst auf Sauerkraut  mit Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2378240,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "349cf487-922f-fc71-ef3a-9b5fad87f6e8",
+    "Name": "Hausgemachte Pasta mit Schinken-Sahne Sauce und Erbsen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 18972740,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "162f4010-bdcf-bdf8-a7ee-f6af6f00a7cd",
+    "Name": "Soja-Gulasch mit frischen Champignons und einem Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248608,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "e6a51d26-24e7-9ff8-f8e2-743209e0aaaf",
+    "Name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen auf Kr\u00E4uterreis dazu Koriandersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "990912cd-1736-2bd1-93ea-d237ceb4396e",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17058052,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "a182f975-1343-cb84-ed1b-f441d249143a",
+    "Name": "S\u00FC\u00DFkartoffelcurry mit Kichererbsen, Blattspinat und Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.10
+  },
+  {
+    "Hash": "28ae0e7b-1d9f-2a68-57e0-7d30f1cc8fed",
+    "Name": "Odenw\u00E4lder Kartoffeleintopf mit ein Paar Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "7b43899f-cb03-d1ba-d696-1daef68af2fa",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.95
+  },
+  {
+    "Hash": "eea43326-6f24-0ab1-0566-01a1b10291e7",
+    "Name": "Currywurst aus Rindswurst mit Pommes",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 6389760,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f46e4ccb-fe4a-827c-b721-99306e0e0d4d",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Jus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 151011908,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "db641c31-e8d1-ff99-9b46-5d01f201a12f",
+    "Name": "Gelbe Linsen mit Kokos-Curry",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
   }
 ]
