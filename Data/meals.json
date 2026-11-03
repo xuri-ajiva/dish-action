@@ -66472,5 +66472,131 @@
     "AllergensAndAdditives": 0,
     "Location": "Otto-Berndt-Halle",
     "Price": 2.30
+  },
+  {
+    "Hash": "aa31240e-99c8-4619-1638-6563c86bab17",
+    "Name": "Tomatencreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "afdf3b6d-3e20-c395-62d8-08d3fa3efb19",
+    "Name": "Soja-Gulasch mit frischen Champignons und Wedges",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777248,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "9f6573ba-8ee4-27c0-0553-0e063d7ad50e",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17057796,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "20802e48-4597-8a98-9e3a-6ae99f1e7a0c",
+    "Name": "Hatuns Lahmacun mit Rinderhack, Paprika, Tomate und Gurke",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 4.95
+  },
+  {
+    "Hash": "7e8c49eb-2ca6-667f-4f5a-769888c8bb36",
+    "Name": "Linsencreme",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "1e5ce9b7-d82d-0734-d11b-ccf9c4562c4b",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1056,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "55c4a79b-552c-35eb-d7b2-71cfff1f4141",
+    "Name": "WOK Orange-Ingwer mit H\u00E4hnchen dazu Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 1056,
+    "Location": "Mensa",
+    "Price": 4.10
+  },
+  {
+    "Hash": "a0212fe7-4925-0b01-3503-2d0ff353f863",
+    "Name": "Cheese Cake Creme mit Heidelbeer Kompott",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777285,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "cd9f995f-3fdc-6255-7a9c-bab0dacd3554",
+    "Name": "Paniertes Schnitzel mit Zwiebelsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17057796,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "18575233-cb6d-55da-ef69-05396ff636cd",
+    "Name": "WOK Orange-Ingwer mit Tofu dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1056,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "6b6c16d8-5a07-ea6e-2975-17d66296f2d1",
+    "Name": "WOK Orange-Ingwer mit H\u00E4hnchen dazu Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 1056,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.10
+  },
+  {
+    "Hash": "8d5aecf5-f110-733a-e635-044d9196ac26",
+    "Name": "Pizza mit Champignons und Tomatensauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 150994944,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "020da020-90db-5692-0d3e-467b726210db",
+    "Name": "Pizza Diavola",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 151617600,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "56f9022c-b634-b016-3f08-f4cca610607c",
+    "Name": "Wok Orange-Ingwer mit Tofu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 1056,
+    "Location": "Mensa",
+    "Price": 3.50
   }
 ]
