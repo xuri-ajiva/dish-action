@@ -66643,5 +66643,221 @@
     "AllergensAndAdditives": 256,
     "Location": "Mensa",
     "Price": 1.20
+  },
+  {
+    "Hash": "ccb065cb-e215-5077-6bd4-1288c0b247e8",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995264,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "92ed68dd-56fb-5583-1f09-569cb3ea702c",
+    "Name": "H\u00E4hnchenbruststeak mit Kokos-Currysauce, Zuckerschoten und Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 6.00
+  },
+  {
+    "Hash": "668ee7d7-5ec9-fb11-81c4-620752d2df3b",
+    "Name": "WOK Scharfer Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16794144,
+    "Location": "Mensa",
+    "Price": 3.70
+  },
+  {
+    "Hash": "fae7cd08-fda7-68d0-4c5f-2eede50b77b6",
+    "Name": "WOK Scharfes H\u00E4hnchen mit Mienudeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16794144,
+    "Location": "Mensa",
+    "Price": 4.20
+  },
+  {
+    "Hash": "37d74440-3b35-a46a-96f3-29fb754b956c",
+    "Name": "Kichererbsencurry mit Quinoa und veganen Filetstreifen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "96e0298a-2af1-997d-35ac-a3f43298c099",
+    "Name": "Kartoffel-Spinat-Auflauf mit einer leichten Knoblauchsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "0c16435f-f3c8-17d5-99b9-ee1646b50cb9",
+    "Name": "Martinsteller vegan Bohnenbratling , dazu glasierte Maronen, Rosenkohl, Kroketten und Bratenjus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285493792,
+    "Location": "Mensa",
+    "Price": 3.00
+  },
+  {
+    "Hash": "22395f6d-8681-0464-49c6-7ba7d08ad4ff",
+    "Name": "Martinsessen: Knusprig gegrillte H\u00E4hnchenkeule mit Bratenjus , dazu glasierte Maronen, Rosenkohl  und Kroketten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17057856,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "044c291f-e342-5b5c-9500-a494dc6cf281",
+    "Name": "Herzhafte K\u00E4sekartoffeln mit Lauch und Quark Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "c261417b-e2ad-0eec-296d-a6593002177e",
+    "Name": "J\u00E4gergulasch mit frischen Champignons und einem Kartoffelklo\u00DF",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 84248576,
+    "Location": "Mensa",
+    "Price": 5.10
+  },
+  {
+    "Hash": "89971f65-ece7-002a-72bb-2c866215764b",
+    "Name": "Gnocchi mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "2d49eb2a-1731-2978-591c-4f6745175463",
+    "Name": "Hausgemachte Pasta mit Champignonrahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995264,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "08e9acb5-ff03-7b53-6cbe-518b8313b815",
+    "Name": "H\u00E4hnchenbruststeak mit Kokos-Currysauce, Zuckerschoten und Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.00
+  },
+  {
+    "Hash": "ffe104b2-7353-05dc-47cb-f72b6cda6f27",
+    "Name": "WOK Scharfer Tofu mit Mienudeln",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16794144,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.70
+  },
+  {
+    "Hash": "54f516e8-8b94-7515-1e11-1e899622ab65",
+    "Name": "WOK Scharfes H\u00E4hnchen mit Mienudeln",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16794144,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "c2ad4bd4-a08d-f97b-69d9-b74152799316",
+    "Name": "Kichererbsencurry mit Quinoa und veganen Filetstreifen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 65568,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "ce118457-a76c-39c1-518b-8ebda976b08e",
+    "Name": "Kartoffel-Spinat-Auflauf mit einer leichten Knoblauchsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 68,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "5b165eda-56b9-7349-59f4-d72da359e4aa",
+    "Name": "Martinsteller vegan Bohnenbratling , dazu glasierte Maronen, Rosenkohl, Kroketten und Bratenjus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285493792,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.00
+  },
+  {
+    "Hash": "1f37a294-ccef-c24c-2e71-4e3c5e4ed154",
+    "Name": "Martinsessen: Knusprig gegrillte H\u00E4hnchenkeule mit Bratenjus , dazu glasierte Maronen, Rosenkohl  und Kroketten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17057856,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "ae9ae9ed-a322-f5e3-590c-86c8468feb67",
+    "Name": "Linsenbratling mit K\u00FCrbismus",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "b741fb16-c411-ab0f-0b8d-3dccf61b9636",
+    "Name": "Herzhafte K\u00E4sekartoffeln mit Lauch und Quark Dip",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "01fda81c-1862-4c86-37e4-ff346923f253",
+    "Name": "J\u00E4gergulasch mit frischen Champignons und einem Kartoffelklo\u00DF",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 84248576,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
+  },
+  {
+    "Hash": "9b54d637-b3bd-ba83-1838-89a9cfc25bd7",
+    "Name": "Gnocchi mit Champignons",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "ab278c58-82a4-33ca-1bf6-6785ba58e9f0",
+    "Name": "Drei Kartoffeltaschen mit Frischk\u00E4sef\u00FCllung und Kr\u00E4utersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 3.30
   }
 ]
