@@ -66859,5 +66859,14 @@
     "AllergensAndAdditives": 16777280,
     "Location": "Mensa",
     "Price": 3.30
+  },
+  {
+    "Hash": "90db1f46-bf6b-d04a-ed02-2d9fb9d30979",
+    "Name": "Linsencurrysuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
   }
 ]
