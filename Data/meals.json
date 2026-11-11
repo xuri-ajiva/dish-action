@@ -66868,5 +66868,59 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 0.70
+  },
+  {
+    "Hash": "7fe262a8-abb0-6714-ce58-cfb59fd5b87a",
+    "Name": "Martinsteller: Knusprig gegrillte H\u00E4hnchenkeule mit Bratenjus , dazu glasierte Maronen, Rosenkohl  und Kroketten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17057856,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "c8f1592c-b721-78ed-6563-310b3bca2f97",
+    "Name": "Martinsteller: Knusprig gegrillte H\u00E4hnchenkeule mit Bratenjus , dazu glasierte Maronen, Rosenkohl  und Kroketten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17057856,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.50
+  },
+  {
+    "Hash": "2caecb02-22ad-a9d6-7544-f8181e9a21af",
+    "Name": "J\u00E4gergulasch mit frischen Champignons und einem Kartoffelklo\u00DF",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 84248640,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
+  },
+  {
+    "Hash": "8a17e4b2-4d7d-fa20-4744-9a772b91c757",
+    "Name": "Martinsteller Knusprig gegrillte H\u00E4hnchenkeule mit Bratenjus , dazu glasierte Maronen, Rosenkohl  und Kroketten",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17057856,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "404375ff-36ea-ef57-d4e0-c7450b77dd50",
+    "Name": "Hausgemachte Handk\u00E4sfrikadelle mit Pfefferrahmsauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 134302276,
+    "Location": "Mensa",
+    "Price": 4.50
+  },
+  {
+    "Hash": "18fa90ea-6310-d771-b537-df9abf6d11ee",
+    "Name": "Apfeltiramisu im Glas",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16842820,
+    "Location": "Mensa",
+    "Price": 1.30
   }
 ]
