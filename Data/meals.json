@@ -66949,5 +66949,275 @@
     "AllergensAndAdditives": 16777472,
     "Location": "Mensa",
     "Price": 4.20
+  },
+  {
+    "Hash": "28b626b4-f9c6-cd87-9f18-d417bab01431",
+    "Name": "Pasta mit Lauch- Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995264,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "2de8e2e5-654d-54bf-f599-901be5a11782",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu ein Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2443776,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "a5f5de59-7a9d-551d-c427-3b809d05e5be",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4294967344,
+    "Location": "Mensa",
+    "Price": 3.30
+  },
+  {
+    "Hash": "4acf2bff-9ea5-4106-7c4f-5b6be242adc8",
+    "Name": "WOK H\u00E4hnchen in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4294967344,
+    "Location": "Mensa",
+    "Price": 3.80
+  },
+  {
+    "Hash": "19febe07-8a39-eed8-8782-62b1be4f14ef",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793604,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "60a7d420-2027-a9cf-ed9d-c068c44e118e",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "d65fc52f-9830-22ca-89e7-d79be4a64eee",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810080,
+    "Location": "Mensa",
+    "Price": 3.50
+  },
+  {
+    "Hash": "038e4e1f-5ed3-63e6-513f-bf49f8004a6a",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten, Lauch und Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "78067728-dbf5-ebca-4b3c-a23ba9f8b636",
+    "Name": "Semmeltaler mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "f83a861a-4fb9-2d84-b51e-b855858e9750",
+    "Name": "Kichererbsengem\u00FCse mit Putenstreifen und Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 327680,
+    "Location": "Mensa",
+    "Price": 4.80
+  },
+  {
+    "Hash": "6d88d5b3-82a1-74af-6cf1-b2d6061f0cfc",
+    "Name": "Rote Beete Cous cous dazu gebackene rote Beete und ein Sojajoghurt-Minz Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Mensa",
+    "Price": 2.30
+  },
+  {
+    "Hash": "076c972d-bb46-d882-20a2-9599b236ea8d",
+    "Name": "Germkn\u00F6del mit Bratapfelf\u00FCllung dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 2.20
+  },
+  {
+    "Hash": "68857024-3f93-f122-c700-4fc41be32900",
+    "Name": "Fisch und Chips mit einem s\u00FC\u00DF-sauren Dip und Pommes frites",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21004812,
+    "Location": "Mensa",
+    "Price": 5.90
+  },
+  {
+    "Hash": "69d042b0-8aa6-ceef-f635-7c8b0d087d4a",
+    "Name": "Germkn\u00F6del mit Bratapfelf\u00FCllung dazu vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16875520,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "a2085dcb-9904-f0ff-e914-96ef9cccabb2",
+    "Name": "Pasta mit Lauch- Sahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 150995264,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "dc266a31-0061-837d-1913-eb8ee228ce90",
+    "Name": "Rostbratw\u00FCrstchen \u0027N\u00FCrnberger Art\u0027 auf Sauerkraut , dazu eine Bratenjus",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2443776,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "671b78d7-776c-4b35-fbc6-25bb788c5899",
+    "Name": "WOK Tofu in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 4294967344,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.30
+  },
+  {
+    "Hash": "7d5271d3-3185-6bb8-0760-ef96bcd84ffb",
+    "Name": "WOK H\u00E4hnchen in roter Chili-Erdnuss Sauce dazu Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 4294967344,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.80
+  },
+  {
+    "Hash": "62a9525d-adc9-8b05-3739-d14a04658d6c",
+    "Name": "Paniertes Schnitzel mit J\u00E4gersauce",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16793604,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "3a25affe-d0c7-75df-90d5-489070c38580",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten und Lauch",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 256,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.00
+  },
+  {
+    "Hash": "b0197b87-70bf-4106-f9b6-8643b6041876",
+    "Name": "Enchiladas mit Soja-Chili und K\u00E4se dazu Sour Cream",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16810080,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.50
+  },
+  {
+    "Hash": "bb27f65b-437c-0f32-7077-7546d9bfbf74",
+    "Name": "Gem\u00FCseeintopf mit Kartoffeln, Karotten, Lauch und Wiener W\u00FCrstchen",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2195712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.40
+  },
+  {
+    "Hash": "de3d8227-6607-4e39-f8b7-d6a593ad2bfa",
+    "Name": "Semmeltaler mit Waldpilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "cf25361a-6d6b-9148-c5f5-5b990e40c825",
+    "Name": "Kichererbsengem\u00FCse mit Putenstreifen und Basmatireis",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 327680,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.80
+  },
+  {
+    "Hash": "b59c7b0f-7e65-3384-c1b1-d844c100e80a",
+    "Name": "Rote Beete Cous cous dazu gebackene rote Beete und ein Sojajoghurt-Minz Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16842784,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.30
+  },
+  {
+    "Hash": "a2973f8e-2a93-1b19-5340-ff8cf447448e",
+    "Name": "Germkn\u00F6del mit Bratapfelf\u00FCllung dazu Vanillesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.20
+  },
+  {
+    "Hash": "6c47f903-fa02-5c40-fa9f-18c4d776a9bc",
+    "Name": "Fisch und Chips mit einem s\u00FC\u00DF-sauren Dip und Pommes frites",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 21004812,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.90
+  },
+  {
+    "Hash": "59eb91ea-1916-5f61-d7bb-c64b7b96538d",
+    "Name": "Germkn\u00F6del mit Bratapfelf\u00FCllung dazu vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16875552,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "a5cbe194-172e-f9ba-27df-aa82394991b2",
+    "Name": "Sahnesauce \u0027Els\u00E4sser Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17139776,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "dcbdef16-9ed5-f53a-106e-18cd9c4a5d5d",
+    "Name": "Germkn\u00F6del mit Bratapfelf\u00FCllung dazu vegane Vanillesauce",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16875552,
+    "Location": "Mensa",
+    "Price": 2.60
   }
 ]
