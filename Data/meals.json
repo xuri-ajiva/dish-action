@@ -67219,5 +67219,41 @@
     "AllergensAndAdditives": 16875552,
     "Location": "Mensa",
     "Price": 2.60
+  },
+  {
+    "Hash": "891dc85d-fa00-71f3-f69b-acc3d0f7e03a",
+    "Name": "Linsensuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777216,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "6e5b2cad-6408-7efb-7987-62585b241f9b",
+    "Name": "Ein Kartoffelkn\u00F6del",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 84248576,
+    "Location": "Mensa",
+    "Price": 1.20
+  },
+  {
+    "Hash": "596505f4-c62e-debd-ba83-b7a5f8b659c2",
+    "Name": "J\u00E4gergulasch mit frischen Champignons Kartoffelkn\u00F6del",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 84248576,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.10
+  },
+  {
+    "Hash": "11c2120d-84e0-b158-6712-06552d2c54dd",
+    "Name": "Maiskolben",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 2.20
   }
 ]
