@@ -67255,5 +67255,59 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 2.20
+  },
+  {
+    "Hash": "a7967f32-e85f-f6b8-faa0-b2fed791ac63",
+    "Name": "Klare Br\u00FChe mit Maultaschen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777540,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "c42b9ec0-1889-c9c6-c485-f798a305f85f",
+    "Name": "Semmeltaler mit Pilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Mensa",
+    "Price": 4.70
+  },
+  {
+    "Hash": "0d71a2c9-62a7-1211-785b-71f5d4c545b4",
+    "Name": "Kartoffelsuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "d6f11a0f-eca2-d9b2-937c-aae633f1c773",
+    "Name": "Semmeltaler mit Pilzragout in Rahmsauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777284,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.70
+  },
+  {
+    "Hash": "a78d907b-ebab-689d-c9bf-b1d1acbeb1a1",
+    "Name": "Hausgemachte Pasta mit Sahnesauce \u0027Els\u00E4sser Art\u0027",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 17139776,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "fa1445bf-d814-eb7a-6c6f-dd928de9071a",
+    "Name": "Schwarzwurzeln mit Margarine",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16384,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
