@@ -67309,5 +67309,329 @@
     "AllergensAndAdditives": 16384,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "b0558958-0906-1b0f-8d55-4b812e32f93a",
+    "Name": "Cabbage Skillet Wei\u00DFkohl-Kartoffelpfanne mit Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 3.60
+  },
+  {
+    "Hash": "e5e690dc-6773-efbc-6076-8bd663d3f0ae",
+    "Name": "Mac and Cheese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 2.40
+  },
+  {
+    "Hash": "53170199-32a3-9e79-4c0d-1a34602ed673",
+    "Name": "Putenoberkeule dazu Preiselbeersauce  und Kartoffel-S\u00FC\u00DFkartoffelp\u00FCree",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16448,
+    "Location": "Mensa",
+    "Price": 6.70
+  },
+  {
+    "Hash": "eb5e0a00-0c8c-435a-ba3c-01f81180e9fd",
+    "Name": "Panna Cotta mit Erdbeersauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870912,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "3f403f04-53ca-ea21-1fad-921edc3232bb",
+    "Name": "Linsen-Graupen-rote Bete Ragout mit Kartoffelp\u00FCree",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 134217760,
+    "Location": "Mensa",
+    "Price": 2.70
+  },
+  {
+    "Hash": "31d936f3-f044-0cfb-57b4-92b210504216",
+    "Name": "Butternuss K\u00FCrbisrisotto mit frischen Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Mensa",
+    "Price": 2.60
+  },
+  {
+    "Hash": "48b35bc2-5a96-a339-e2a9-1f291876fec1",
+    "Name": "Kassler mit Ahornsirup glaciert , dazu Bratenjus  und Rotkraut",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2476544,
+    "Location": "Mensa",
+    "Price": 4.90
+  },
+  {
+    "Hash": "5765becb-f480-f944-f7a6-6be493de44de",
+    "Name": "\u0027Thanksgiving Burger\u0027 Brioche Bun, S\u00FC\u00DFkartoffel mash, veganes Pattay, \u00C4pfel, Preiselbeeren, Criss cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213220,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "426a0828-fbf9-43fe-39b9-9cfd8466e981",
+    "Name": "Gnocchi mit Austernpilzen, Erbsen und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 6.50
+  },
+  {
+    "Hash": "83a3d121-438a-7e55-0483-7c15f061693d",
+    "Name": "Corn Chowder Maiseintopf mit Kartoffeln und Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875840,
+    "Location": "Mensa",
+    "Price": 4.60
+  },
+  {
+    "Hash": "7d34aa17-3ed5-8d6e-47cc-ac97b0356fd3",
+    "Name": "Braised Cabbage geschmorter Wei\u00DFkohl mit S\u00FC\u00DFkartoffelw\u00FCrfel  und vegane Salbei Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268503552,
+    "Location": "Mensa",
+    "Price": 4.40
+  },
+  {
+    "Hash": "80ba6003-6800-2440-7d81-00b1b7382d22",
+    "Name": "K\u00FCrbispfanne mit Waln\u00FCssen, Hirtenk\u00E4se und Ahornsirup",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 2147483712,
+    "Location": "Mensa",
+    "Price": 5.70
+  },
+  {
+    "Hash": "74baef12-fe01-5262-abce-8ea63e68118d",
+    "Name": "\u0027Thanksgiving Burger\u0027 Brioche Bun, S\u00FC\u00DFkartoffel mash, Rindfleisch, \u00C4pfel, Preiselbeeren, Cheddar Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16794180,
+    "Location": "Mensa",
+    "Price": 6.90
+  },
+  {
+    "Hash": "7784fdd1-8127-2cb7-6305-23929ea4d136",
+    "Name": "Bulgur-Gem\u00FCsepfanne mit N\u00FCssen und Soja-Kr\u00E4uter-Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 6459293984,
+    "Location": "Mensa",
+    "Price": 2.50
+  },
+  {
+    "Hash": "5ca76754-db01-ced6-231c-292b2a4e615e",
+    "Name": "Vier Kartoffelpuffer mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285278468,
+    "Location": "Mensa",
+    "Price": 3.90
+  },
+  {
+    "Hash": "7f408f22-80c4-25bf-57e5-e7d0df877781",
+    "Name": "Rotbarsch gebraten S\u00FC\u00DFkartoffel-K\u00FCrbisgem\u00FCse",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Mensa",
+    "Price": 5.20
+  },
+  {
+    "Hash": "b6c8d656-75ea-7a45-9882-5cab1d2200b5",
+    "Name": "Cabbage Skillet Wei\u00DFkohl-Kartoffelpfanne mit Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "b067799d-e9c0-4a41-8e2f-8f31e3a133df",
+    "Name": "Mac and Cheese",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.40
+  },
+  {
+    "Hash": "f494cf5b-348a-f454-f857-e387b7b28994",
+    "Name": "Putenoberkeule mit Preiselbeersauce  und Kartoffel-S\u00FC\u00DFkartoffelp\u00FCree",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 16448,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.70
+  },
+  {
+    "Hash": "446cfb54-3599-5974-ec01-d7ebb7a1d612",
+    "Name": "Hausgemachte Pasta mit Sauce Bolognese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "0e333633-8ea6-0ebc-5c03-78560072c56e",
+    "Name": "Mandarinen-Schmand-Dessert mit Minze im Glas s\u00FC\u00DFes Minz Pesto",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 536870976,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 1.30
+  },
+  {
+    "Hash": "c184ffe8-d01f-f9ef-f032-a56867fa5794",
+    "Name": "Linsen-Graupen-rote Bete Ragout mit Kartoffelp\u00FCree",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 134217760,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.70
+  },
+  {
+    "Hash": "b2b85497-28a2-1ad5-8bcc-16e2cc522ccd",
+    "Name": "Butternuss K\u00FCrbisrisotto mit frischen Schlotten",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 64,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.60
+  },
+  {
+    "Hash": "a5864cd6-a87e-ccf5-00fc-d098fed42c8b",
+    "Name": "Putengeschnetzeltes \u0027Z\u00FCricher Art\u0027 Semmeltaller",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17041476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.60
+  },
+  {
+    "Hash": "f7d27be7-47f2-dcc5-9357-b34ff6b78fc3",
+    "Name": "Kassler mit Ahornsirup glaciert , dazu Bratenjus  und Rotkraut",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 2476544,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.90
+  },
+  {
+    "Hash": "f84ed550-0c8a-ff5a-5828-400cf2d1970b",
+    "Name": "Hausgemachte Pasta mit Sauce Bolgnese",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16777472,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.20
+  },
+  {
+    "Hash": "127380ab-2ff1-ff39-545a-8d1ce8e18e9a",
+    "Name": "\u0027Thanksgiving Burger\u0027 Brioche Bun, S\u00FC\u00DFkartoffel mash, veganes Pattay, \u00C4pfel, Preiselbeeren, Criss cuts",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285213220,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "a4b135a3-35be-85c0-8d14-e65239f50904",
+    "Name": "Gnocchi mit Austernpilzen, Erbsen und Paprika",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.50
+  },
+  {
+    "Hash": "cc7aad51-c906-5979-3d8d-80f4f52ac6a6",
+    "Name": "Corn Chowder Maiseintopf mit Kartoffeln und Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875840,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.60
+  },
+  {
+    "Hash": "d04e1445-cb01-9c89-4c06-3bbbaa3077a8",
+    "Name": "Braised Cabbage geschmorter Wei\u00DFkohl mit S\u00FC\u00DFkartoffelw\u00FCrfel  und vegane Salbei Sour Cream",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 268503552,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 4.40
+  },
+  {
+    "Hash": "2c894470-8caa-833f-a424-f9cd787f35f0",
+    "Name": "K\u00FCrbispfanne mit Waln\u00FCssen, Hirtenk\u00E4se und Ahornsirup",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 2147483712,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.70
+  },
+  {
+    "Hash": "a8054248-e131-26b0-5b8f-ef27409079e2",
+    "Name": "\u0027Thanksgiving Burger\u0027 Brioche Bun, S\u00FC\u00DFkartoffel mash, Rindfleisch, \u00C4pfel, Preiselbeeren, Cheddar Pommes frites",
+    "Image": "cd91209f-5aa9-9568-a082-ba3f6ff0ef28",
+    "Category": 6,
+    "AllergensAndAdditives": 16794180,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.90
+  },
+  {
+    "Hash": "8264e94f-9a14-3a17-05ff-ab40aa25ff61",
+    "Name": "Bulgur-Gem\u00FCsepfanne mit N\u00FCssen und Soja-Kr\u00E4uter-Dip",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 6459293984,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 2.50
+  },
+  {
+    "Hash": "0aadf12e-c445-7e8b-3f7d-0c6e75f2776d",
+    "Name": "Vier Kartoffelpuffer mit Apfelmus",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 285278468,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.90
+  },
+  {
+    "Hash": "58ac31be-e8cc-4a2d-6f13-9cb8df0b659c",
+    "Name": "Rotbarsch gebraten S\u00FC\u00DFkartoffel-K\u00FCrbisgem\u00FCse",
+    "Image": "7907cf17-69dc-4cae-d093-06bf0502a117",
+    "Category": 10,
+    "AllergensAndAdditives": 16777224,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.20
+  },
+  {
+    "Hash": "28b88f62-af41-8695-b96e-b71bf1982138",
+    "Name": "Curry-Bratwurst dazu Pommes frites",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 140574976,
+    "Location": "Mensa",
+    "Price": 4.30
   }
 ]
