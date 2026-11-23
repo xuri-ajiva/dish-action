@@ -67633,5 +67633,32 @@
     "AllergensAndAdditives": 140574976,
     "Location": "Mensa",
     "Price": 4.30
+  },
+  {
+    "Hash": "03a010db-8c8d-705a-adb0-ee65fa2e8e65",
+    "Name": "Cabbage Skillet Wei\u00DFkohl-Kartoffelpfanne mit Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 3.60
+  },
+  {
+    "Hash": "ece9eacf-449c-ebdb-c8cc-079fa50bade9",
+    "Name": "Putengeschnetzeltes \u0027Z\u00FCricher Art\u0027 mit Semmeltaller",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17041476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 6.60
+  },
+  {
+    "Hash": "4ee29a79-722f-120c-9673-7dbbd9e2dd8d",
+    "Name": "Cabbage Skillet Wei\u00DFkohl-Kartoffelpfanne mit Kichererbsen",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 32,
+    "Location": "Mensa",
+    "Price": 3.60
   }
 ]
