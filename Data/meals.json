@@ -67660,5 +67660,50 @@
     "AllergensAndAdditives": 32,
     "Location": "Mensa",
     "Price": 3.60
+  },
+  {
+    "Hash": "b5974725-1abf-b595-1a08-db978e1781c3",
+    "Name": "Kartoffelsuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 16777280,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "52f5d72c-e1ae-ad16-2122-90f9845746b8",
+    "Name": "Vegane Schokomousse mit Sauerkirschen",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.30
+  },
+  {
+    "Hash": "93e54c82-7d81-b191-630e-1fbdfdf0fc42",
+    "Name": "S\u00FC\u00DFkartoffelsuppe",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 320,
+    "Location": "Mensa",
+    "Price": 0.70
+  },
+  {
+    "Hash": "526b5ebb-faf5-dff1-5d76-cf64e8f2bc3d",
+    "Name": "Putengeschnetzeltes \u0027Z\u00FCricher Art\u0027 Sp\u00E4tzle",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 17041476,
+    "Location": "Otto-Berndt-Halle",
+    "Price": 5.80
+  },
+  {
+    "Hash": "caedf57f-38bd-224a-434a-b175e59bee96",
+    "Name": "gebratenes Wei\u00DFkraut",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 0,
+    "Location": "Mensa",
+    "Price": 1.10
   }
 ]
