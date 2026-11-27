@@ -67705,5 +67705,41 @@
     "AllergensAndAdditives": 0,
     "Location": "Mensa",
     "Price": 1.10
+  },
+  {
+    "Hash": "ec757799-fa7a-24bd-81da-d625c5311597",
+    "Name": "Pizza kebap und Tomatensauce Kebap Sauce",
+    "Image": "042475e6-cb5d-71a7-ea68-87cfdcc92c92",
+    "Category": 4,
+    "AllergensAndAdditives": 150995524,
+    "Location": "Mensa",
+    "Price": 5.00
+  },
+  {
+    "Hash": "6c56bf58-4738-ae98-7e07-ca2446ccdeb1",
+    "Name": "in Gem\u00FCsesahnesauce",
+    "Image": "73e64dda-10ee-95df-98c5-ba6662708da8",
+    "Category": 3,
+    "AllergensAndAdditives": 16777536,
+    "Location": "Mensa",
+    "Price": 2.00
+  },
+  {
+    "Hash": "27347b9c-a9eb-85f5-2db5-13adf5154610",
+    "Name": "Flammkuchen Tofu",
+    "Image": "4d37a974-aa03-c7ee-3d14-672413465dc1",
+    "Category": 2,
+    "AllergensAndAdditives": 285212704,
+    "Location": "Mensa",
+    "Price": 3.40
+  },
+  {
+    "Hash": "1ea3714e-60c0-32bc-73fb-78c16c47c402",
+    "Name": "Flammkuchen Speck",
+    "Image": "a0832771-f6c8-976e-02ee-7b94487f4b1b",
+    "Category": 5,
+    "AllergensAndAdditives": 16875584,
+    "Location": "Mensa",
+    "Price": 4.30
   }
 ]
